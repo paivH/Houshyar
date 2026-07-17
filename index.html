@@ -1,0 +1,1424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#0b0e14">
+<title>Houshyar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@200;300;400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-a: #0b0e14;
+    --bg-b: #0b0e14;
+    --glow: rgba(232, 184, 114, 0);
+    --ink: #e6e1d8;
+    --ink-dim: #8b93a7;
+    --ink-faint: #545b6b;
+    --amber: #e8b872;
+    --line: rgba(139, 147, 167, 0.16);
+    --card: rgba(139, 147, 167, 0.07);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    height: 100%;
+    overflow: hidden;
+    font-family: 'Inter', system-ui, sans-serif;
+    color: var(--ink);
+    background: var(--bg-a);
+    -webkit-font-smoothing: antialiased;
+    user-select: none;
+    -webkit-user-select: none;
+    cursor: default;
+  }
+
+  #sky {
+    position: fixed;
+    inset: 0;
+    background: linear-gradient(180deg, var(--bg-a) 0%, var(--bg-b) 100%);
+    transition: background 60s linear;
+    z-index: -2;
+  }
+
+  #glow {
+    position: fixed;
+    left: 50%;
+    bottom: -40vh;
+    width: 130vw;
+    height: 80vh;
+    transform: translateX(-50%);
+    background: radial-gradient(ellipse at center, var(--glow) 0%, transparent 65%);
+    transition: opacity 60s linear;
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  #app {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 3vmin 4vmin;
+    gap: 2vmin;
+    transition: opacity 1.2s ease;
+  }
+
+  /* ---------- header: clock ---------- */
+  header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 3vmin;
+    flex-wrap: wrap;
+  }
+
+  #clock {
+    font-family: 'Inter Tight', 'Inter', sans-serif;
+    font-weight: 200;
+    font-size: clamp(64px, 17vmin, 190px);
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  #clock .sec {
+    font-size: 0.28em;
+    font-weight: 300;
+    color: var(--ink-faint);
+    letter-spacing: 0;
+  }
+
+  #dateblock {
+    text-align: right;
+    padding-top: 1.6vmin;
+    flex: 1 1 12ch;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  #date, #nameday { overflow-wrap: break-word; }
+
+  #date {
+    font-size: clamp(15px, 2.8vmin, 26px);
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+
+  #nameday {
+    margin-top: 0.8vmin;
+    font-size: clamp(12px, 2.1vmin, 19px);
+    color: var(--ink-dim);
+  }
+
+  #nameday .red {
+    color: var(--amber);
+    font-weight: 600;
+  }
+
+  /* ---------- weather ---------- */
+  #weather {
+    display: flex;
+    align-items: center;
+    gap: 4vmin;
+    flex-wrap: wrap;
+  }
+
+  #wx-now {
+    display: flex;
+    align-items: baseline;
+    gap: 1.5vmin;
+  }
+
+  #wx-temp {
+    font-family: 'Inter Tight', sans-serif;
+    font-weight: 300;
+    font-size: clamp(42px, 9vmin, 92px);
+    letter-spacing: -0.02em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  #wx-desc {
+    font-size: clamp(13px, 2.3vmin, 21px);
+    color: var(--ink-dim);
+    max-width: 24vmin;
+    line-height: 1.3;
+  }
+
+  #wx-meta {
+    display: flex;
+    gap: 3.5vmin;
+    font-size: clamp(12px, 2vmin, 18px);
+    color: var(--ink-dim);
+    font-variant-numeric: tabular-nums;
+  }
+
+  #wx-meta b {
+    display: block;
+    color: var(--ink);
+    font-weight: 500;
+    font-size: 1.25em;
+    margin-top: 0.3vmin;
+  }
+
+  #wx-hours {
+    display: flex;
+    gap: 0;
+    margin-left: auto;
+    border-left: 1px solid var(--line);
+    padding-left: 2vmin;
+  }
+
+  .hour {
+    text-align: center;
+    padding: 0 1.6vmin;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .hour .h { font-size: clamp(10px, 1.7vmin, 15px); color: var(--ink-faint); }
+  .hour .i { font-size: clamp(16px, 3vmin, 28px); margin: 0.5vmin 0; }
+  .hour .t { font-size: clamp(12px, 2vmin, 18px); font-weight: 500; }
+
+  /* ---------- middle: trains + f1 ---------- */
+  #row2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(30vw, 260px), 1fr));
+    gap: 2vmin;
+    align-items: start;
+    flex-shrink: 0;
+  }
+
+  /* expand buttons + maximized overlay */
+  .panel h2 { position: relative; }
+
+  .expand {
+    position: absolute;
+    right: 0;
+    top: -0.3em;
+    font: inherit;
+    font-size: 1.4em;
+    line-height: 1;
+    background: none;
+    border: none;
+    color: var(--ink-faint);
+    cursor: pointer;
+    padding: 0 0.2em;
+  }
+  .expand:hover, .expand:active { color: var(--amber); }
+
+  body.maximized #app { display: none; }
+
+  #max-host {
+    position: fixed;
+    inset: 0;
+    z-index: 30;
+    background: var(--bg-a);
+    padding: 4vmin 5vmin;
+    display: none;
+    flex-direction: column;
+    gap: 2vmin;
+  }
+  body.maximized #max-host { display: flex; }
+
+  #max-host .max-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #max-title {
+    font-size: clamp(14px, 2.4vmin, 20px);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--amber);
+  }
+
+  #max-close {
+    font: inherit;
+    font-size: clamp(14px, 2.3vmin, 19px);
+    color: var(--ink);
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0.8vmin 2.4vmin;
+    cursor: pointer;
+  }
+
+  #max-body {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    columns: 2;
+    column-gap: 5vmin;
+  }
+  #max-body .news-col { break-inside: avoid; margin-bottom: 2.5vmin; display: block; }
+  #max-body .headline, #max-body .deal { margin-bottom: 1.4vmin; }
+
+  @media (max-width: 800px) { #max-body { columns: 1; } }
+
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 2.2vmin 2.6vmin;
+  }
+
+  .panel h2 {
+    font-size: clamp(10px, 1.7vmin, 14px);
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: 1.4vmin;
+  }
+
+  #trains { flex: 2 1 300px; }
+
+  #train-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1vmin;
+  }
+
+  .dep {
+    display: flex;
+    align-items: baseline;
+    gap: 2vmin;
+    font-size: clamp(14px, 2.4vmin, 22px);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .dep .when {
+    font-weight: 600;
+    min-width: 5.5ch;
+    color: var(--amber);
+  }
+
+  .dep .when.later { color: var(--ink); }
+  .dep .dest { color: var(--ink-dim); flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .dep .line-badge {
+    font-size: 0.72em;
+    font-weight: 600;
+    color: var(--ink-faint);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 0.1em 0.5em;
+  }
+
+  #f1 { flex: 1 1 220px; }
+
+  /* seasonal food */
+  #food { flex: 1 1 240px; display: flex; flex-direction: column; }
+
+  #food-ingredient {
+    font-family: 'Inter Tight', sans-serif;
+    font-weight: 300;
+    font-size: clamp(20px, 4vmin, 36px);
+    letter-spacing: -0.01em;
+    color: #9cc48d;
+    text-transform: capitalize;
+  }
+
+  #food-idea {
+    font-size: clamp(13px, 2.3vmin, 20px);
+    line-height: 1.4;
+    margin-top: 0.8vmin;
+    color: var(--ink);
+  }
+
+  #food-season {
+    font-size: clamp(11px, 1.8vmin, 15px);
+    color: var(--ink-faint);
+    margin-top: auto;
+    padding-top: 1.2vmin;
+  }
+
+  /* deals */
+  #deals { display: flex; flex-direction: column; }
+
+  #deals-list { display: flex; flex-direction: column; gap: 1vmin; }
+
+  .deal {
+    display: flex;
+    align-items: baseline;
+    gap: 1.6vmin;
+    font-size: clamp(13px, 2.2vmin, 19px);
+  }
+
+  .deal .store {
+    font-size: 0.68em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 0.1em 0.5em;
+    min-width: 5ch;
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  .deal .what { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--ink); }
+  .deal .price { color: var(--amber); font-weight: 600; font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+  .deal.has-link { cursor: pointer; -webkit-tap-highlight-color: transparent; }
+  .deal.has-link:active .what { color: var(--amber); }
+  .deal.has-link .what::after { content: ' ↗'; color: var(--ink-faint); font-size: 0.8em; }
+
+  #deals-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
+
+  /* oil */
+  #oil { display: flex; flex-direction: column; }
+  #oil-list { display: flex; flex-direction: column; gap: 1.2vmin; }
+  .oil-row { display: flex; align-items: baseline; gap: 1.5vmin; font-size: clamp(14px, 2.5vmin, 22px); }
+  .oil-name { flex: 1; color: var(--ink); }
+  .oil-price { font-weight: 600; font-variant-numeric: tabular-nums; color: var(--ink); }
+  .oil-chg { min-width: 6ch; text-align: right; font-size: 0.82em; font-variant-numeric: tabular-nums; }
+  .oil-chg.up { color: #79a86b; }
+  .oil-chg.down { color: #c76b6b; }
+  #oil-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
+
+  /* prayer */
+  #prayer { display: flex; flex-direction: column; }
+  #prayer-list { display: flex; flex-direction: column; gap: 0.9vmin; }
+  .prayer-row { display: flex; justify-content: space-between; font-size: clamp(13px, 2.3vmin, 20px); font-variant-numeric: tabular-nums; }
+  .prayer-row .p-name { color: var(--ink-dim); }
+  .prayer-row.next { color: var(--amber); font-weight: 600; }
+  .prayer-row.next .p-name { color: var(--amber); }
+  .prayer-row.past { opacity: 0.4; }
+  #prayer-next { font-size: clamp(11px, 1.9vmin, 16px); color: var(--amber); margin-top: auto; padding-top: 1.2vmin; opacity: 0.85; }
+
+  /* on this day */
+  #onthisday { display: flex; flex-direction: column; }
+  #otd-body { display: flex; flex-direction: column; gap: 1.3vmin; }
+  .otd-item { display: flex; gap: 1.6vmin; font-size: clamp(12px, 2.1vmin, 18px); line-height: 1.35; }
+  .otd-year { color: var(--amber); font-weight: 600; font-variant-numeric: tabular-nums; flex-shrink: 0; }
+  .otd-text { color: var(--ink-dim); }
+
+  /* screensaver */
+  #saver {
+    position: fixed; inset: 0; z-index: 50;
+    display: none;
+    align-items: center; justify-content: center;
+    background: #05070c;
+    text-align: center;
+    padding: 8vmin;
+  }
+  body.saver-on #saver { display: flex; animation: saverFade 1.5s ease; }
+  @keyframes saverFade { from { opacity: 0; } to { opacity: 1; } }
+  #saver-inner { display: flex; flex-direction: column; gap: 2vmin; }
+  #saver-welcome {
+    font-family: 'Inter Tight', sans-serif; font-weight: 200;
+    font-size: clamp(34px, 8vmin, 92px); letter-spacing: -0.02em; color: var(--ink);
+  }
+  #saver-sub { font-size: clamp(14px, 2.6vmin, 22px); color: var(--ink-faint); letter-spacing: 0.04em; }
+  #saver-clock {
+    margin-top: 3vmin; font-family: 'Inter Tight', sans-serif; font-weight: 200;
+    font-size: clamp(48px, 14vmin, 150px); color: var(--amber); opacity: 0.85;
+    font-variant-numeric: tabular-nums; letter-spacing: -0.03em;
+  }
+
+  /* Manchester United */
+  #united { display: flex; flex-direction: column; gap: 1vmin; }
+  .mu-next { font-size: clamp(14px, 2.4vmin, 21px); font-weight: 600; }
+  .mu-next.matchday { color: var(--amber); }
+  .mu-sub { font-size: clamp(11px, 1.9vmin, 16px); color: var(--ink-dim); }
+  .mu-last { font-size: clamp(12px, 2vmin, 17px); color: var(--ink-dim); }
+  .mu-last b { color: var(--ink); font-variant-numeric: tabular-nums; }
+  #mu-news { display: flex; flex-direction: column; gap: 1vmin; margin-top: auto; padding-top: 1vmin; }
+  #mu-news .headline { font-size: clamp(12px, 2.1vmin, 18px); }
+
+  /* feedback */
+  #fb-open {
+    font: inherit;
+    font-size: inherit;
+    color: var(--ink-faint);
+    background: none;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.2em 0.8em;
+    cursor: pointer;
+    letter-spacing: 0.06em;
+  }
+  #fb-open:active { color: var(--amber); }
+
+  #fb-modal {
+    position: fixed; inset: 0; z-index: 40;
+    display: none; align-items: center; justify-content: center;
+    background: rgba(4, 6, 10, 0.72);
+    backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px);
+    padding: 4vmin;
+  }
+  #fb-modal.open { display: flex; }
+  #fb-card {
+    background: #141824; border: 1px solid var(--line); border-radius: 18px;
+    padding: 4vmin; width: min(560px, 92vw);
+    display: flex; flex-direction: column; gap: 2vmin;
+  }
+  #fb-card h4 {
+    font-size: clamp(13px, 2.2vmin, 18px); font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--amber);
+  }
+  #fb-text {
+    font: inherit; font-size: clamp(14px, 2.4vmin, 19px);
+    color: var(--ink); background: var(--card);
+    border: 1px solid var(--line); border-radius: 12px;
+    padding: 2vmin; min-height: 22vmin; resize: vertical;
+  }
+  #fb-actions { display: flex; gap: 2vmin; align-items: center; }
+  #fb-send, #fb-cancel {
+    font: inherit; font-size: clamp(13px, 2.2vmin, 18px); font-weight: 500;
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 1.2vmin 2.6vmin; cursor: pointer; color: var(--ink);
+  }
+  #fb-send { color: var(--amber); border-color: rgba(232, 184, 114, 0.4); }
+  #fb-status { font-size: clamp(11px, 1.9vmin, 15px); color: var(--ink-dim); }
+
+  /* headline timestamps + breaking */
+  .headline .when {
+    margin-left: auto;
+    flex-shrink: 0;
+    font-size: 0.62em;
+    color: var(--ink-faint);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .headline.breaking .src { color: var(--amber); border-color: rgba(232, 184, 114, 0.5); }
+  .headline.breaking .txt { color: var(--amber); font-weight: 600; }
+
+  /* f1 weekend sessions */
+  .f1-session {
+    display: flex;
+    justify-content: space-between;
+    gap: 2vmin;
+    font-size: clamp(12px, 2.1vmin, 18px);
+    color: var(--ink-dim);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.5;
+  }
+
+  .f1-session.past { opacity: 0.35; }
+  .f1-session.next { color: var(--ink); }
+  .f1-session.next .st { color: var(--amber); font-weight: 600; }
+
+  #f1 a.pitwall {
+    display: inline-block;
+    margin-top: 1.4vmin;
+    font-size: clamp(11px, 1.9vmin, 15px);
+    color: var(--amber);
+    text-decoration: none;
+    opacity: 0.9;
+  }
+
+  /* SL deviations */
+  .deviation {
+    display: flex;
+    gap: 1.2vmin;
+    margin-top: 1.4vmin;
+    font-size: clamp(12px, 2vmin, 17px);
+    color: var(--amber);
+    line-height: 1.35;
+  }
+
+  .deviation::before { content: '⚠'; flex-shrink: 0; }
+
+  #f1-body {
+    font-size: clamp(14px, 2.4vmin, 22px);
+    line-height: 1.45;
+  }
+
+  #f1-body .race { font-weight: 600; }
+  #f1-body .count { color: var(--amber); font-weight: 600; font-variant-numeric: tabular-nums; }
+  #f1-body .sub { color: var(--ink-dim); font-size: 0.82em; margin-top: 0.6vmin; }
+
+  /* ---------- news ---------- */
+  #news {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  #news-sections {
+    flex: 1;
+    min-height: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(46vw, 420px), 1fr));
+    gap: 1.5vmin 4.5vmin;
+    overflow: hidden;
+    align-content: space-between;
+  }
+
+  .news-col {
+    min-width: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5vmin;
+  }
+
+  .news-col h3 {
+    font-size: clamp(10px, 1.6vmin, 13px);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--amber);
+    opacity: 0.75;
+  }
+
+  .headline {
+    display: flex;
+    align-items: baseline;
+    gap: 1.8vmin;
+    font-size: clamp(14px, 2.5vmin, 23px);
+    line-height: 1.35;
+    cursor: pointer;
+  }
+
+  .headline:active .txt { color: var(--amber); }
+
+  .headline .src {
+    font-size: 0.62em;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    min-width: 4.5ch;
+    text-transform: uppercase;
+  }
+
+  .headline .txt {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .headline { cursor: pointer; -webkit-tap-highlight-color: transparent; }
+  .headline:active .txt { color: var(--amber); }
+
+  /* ---------- article popup ---------- */
+  #modal {
+    position: fixed;
+    inset: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(4, 6, 10, 0.72);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    z-index: 20;
+    padding: 4vmin;
+  }
+
+  #modal.open { display: flex; }
+
+  #modal-card {
+    background: #141824;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 4vmin 4.5vmin;
+    max-width: min(680px, 92vw);
+    max-height: 78vh;
+    overflow-y: auto;
+    box-shadow: 0 24px 80px rgba(0, 0, 0, 0.55);
+  }
+
+  #m-src {
+    font-size: clamp(10px, 1.7vmin, 14px);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 1.6vmin;
+  }
+
+  #m-title {
+    font-size: clamp(18px, 3.4vmin, 30px);
+    font-weight: 600;
+    line-height: 1.25;
+    margin-bottom: 2vmin;
+  }
+
+  #m-desc {
+    font-size: clamp(14px, 2.4vmin, 20px);
+    line-height: 1.55;
+    color: var(--ink-dim);
+  }
+
+  #modal-actions {
+    display: flex;
+    gap: 2.5vmin;
+    margin-top: 3vmin;
+    align-items: center;
+  }
+
+  #m-link, #m-close {
+    font: inherit;
+    font-size: clamp(13px, 2.1vmin, 17px);
+    font-weight: 500;
+    color: var(--ink);
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 1.2vmin 2.4vmin;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #m-link { color: var(--amber); }
+
+  /* ---------- footer status ---------- */
+  footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: clamp(9px, 1.5vmin, 12px);
+    color: var(--ink-faint);
+    letter-spacing: 0.06em;
+  }
+
+  /* ---------- night mode ---------- */
+  body.night #app > *:not(header) { opacity: 0; pointer-events: none; }
+  body.night #dateblock { opacity: 0.35; }
+  body.night #clock { color: #6a7080; }
+  body.night { background: #000; }
+  body.night #sky, body.night #glow { opacity: 0; }
+
+  #app > *:not(header), #dateblock, #clock, #sky, #glow {
+    transition: opacity 1.5s ease, color 1.5s ease;
+  }
+
+  .hidden { display: none !important; }
+
+  @media (max-width: 700px) {
+    #wx-hours { border-left: none; padding-left: 0; margin-left: 0; }
+    #dateblock { text-align: left; }
+  }
+
+  /* phone: let the page scroll and stack everything in one column */
+  @media (max-width: 560px) {
+    html, body { overflow-y: auto; height: auto; }
+    #app {
+      height: auto;
+      min-height: 100%;
+      padding: 5vw 5vw calc(5vw + env(safe-area-inset-bottom));
+      gap: 4vw;
+    }
+    header { flex-direction: row; align-items: flex-start; }
+    #clock { font-size: 22vw; }
+    #dateblock { flex: 0 0 auto; }
+    #date { font-size: 4.2vw; }
+    #nameday { font-size: 3.4vw; }
+
+    #weather { gap: 4vw; }
+    #wx-temp { font-size: 15vw; }
+    #wx-desc { font-size: 3.8vw; max-width: 46vw; }
+    #wx-meta { gap: 5vw; font-size: 3.4vw; flex-wrap: wrap; }
+    #wx-hours { width: 100%; justify-content: space-between; margin-top: 2vw; }
+
+    /* single column, natural height, scrollable */
+    #row2 { grid-template-columns: 1fr; gap: 4vw; }
+    #news { overflow: visible; }
+    #news-sections { grid-template-columns: 1fr; overflow: visible; gap: 4vw; }
+    .news-col { overflow: visible; }
+    .headline .txt { white-space: normal; }        /* wrap long headlines on phone */
+
+    h2, .news-col h3 { font-size: 3.4vw; }
+    .oil-row, .prayer-row, .otd-item, .headline { font-size: 4vw; }
+
+    /* expand buttons are redundant when the page scrolls */
+    .expand { display: none; }
+    footer { flex-direction: column; gap: 1vw; align-items: flex-start; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+</style>
+</head>
+<body>
+<div id="sky"></div>
+<div id="glow"></div>
+
+<div id="app">
+  <header>
+    <div id="clock">--:--</div>
+    <div id="dateblock">
+      <div id="date"></div>
+      <div id="nameday"></div>
+    </div>
+  </header>
+
+  <div id="weather">
+    <div id="wx-now">
+      <div id="wx-temp">--°</div>
+      <div id="wx-desc"></div>
+    </div>
+    <div id="wx-meta">
+      <div>High / Low<b id="wx-hilo">-- / --</b></div>
+      <div>Rain today<b id="wx-rain">--</b></div>
+      <div>Sunrise<b id="wx-sunrise">--:--</b></div>
+      <div>Sunset<b id="wx-sunset">--:--</b></div>
+    </div>
+    <div id="wx-hours"></div>
+  </div>
+
+  <div id="row2">
+    <div class="panel" id="oil">
+      <h2>Oil · بازاڕی نەوت</h2>
+      <div id="oil-list"><div class="oil-row"><span class="oil-name">Loading …</span></div></div>
+      <div id="oil-note"></div>
+    </div>
+    <div class="panel" id="prayer">
+      <h2>Prayer times · کاتی نوێژ</h2>
+      <div id="prayer-list">Loading …</div>
+      <div id="prayer-next"></div>
+    </div>
+    <div class="panel" id="onthisday">
+      <h2>On this day · لەم ڕۆژەدا</h2>
+      <div id="otd-body">Loading …</div>
+    </div>
+  </div>
+
+  <div class="panel" id="news">
+    <h2 class="news-head">News · هەواڵ<button class="expand" data-panel="news" title="Show more">⤢</button></h2>
+    <div id="news-sections"><div class="headline"><span class="txt">Loading headlines …</span></div></div>
+  </div>
+
+  <footer>
+    <span id="status">HOUSHYAR</span>
+    <span><button id="fb-open" type="button">💬 Feedback</button> <span id="updated"></span></span>
+  </footer>
+</div>
+
+<div id="saver">
+  <div id="saver-inner">
+    <div id="saver-welcome">Welcome back, Houshyar</div>
+    <div id="saver-sub">بەخێربێیتەوە · Tap anywhere to continue</div>
+    <div id="saver-clock"></div>
+  </div>
+</div>
+
+<div id="fb-modal">
+  <div id="fb-card">
+    <h4>Feedback to Paiv</h4>
+    <textarea id="fb-text" placeholder="Write feedback, an idea, or a bug report …"></textarea>
+    <div id="fb-actions">
+      <button id="fb-send" type="button">Send</button>
+      <button id="fb-cancel" type="button">Cancel</button>
+      <span id="fb-status"></span>
+    </div>
+  </div>
+</div>
+
+<div id="max-host">
+  <div class="max-bar">
+    <div id="max-title"></div>
+    <button id="max-close" type="button">Stäng ✕</button>
+  </div>
+  <div id="max-body"></div>
+</div>
+
+<div id="modal">
+  <div id="modal-card">
+    <div id="m-src"></div>
+    <div id="m-title"></div>
+    <div id="m-desc"></div>
+    <div id="modal-actions">
+      <a id="m-link" href="#" target="_blank" rel="noopener">Öppna artikel ↗</a>
+      <button id="m-close" type="button">Stäng</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ============================================================
+   HOUSHYAR — Kurdish + US news dashboard for Hawler
+   Single file. No keys. No backend. GitHub Pages friendly.
+   ============================================================ */
+
+const CONFIG = {
+  // Hawler (Erbil), Kurdistan Region, Iraq
+  lat: 36.1901,
+  lon: 44.0091,
+  cityName: 'Hawler',
+  // Night mode: clock-only, screen almost black
+  nightStart: 23,   // 23:00
+  nightEnd: 6,      // 06:00
+  // RSS feeds (name shown, section groups them into columns)
+  feeds: [
+    { name: 'Rudaw', section: 'کوردستان · Kurdistan', url: 'https://www.rudaw.net/rss/rudaw?language=english' },
+    { name: 'K24', section: 'کوردستان · Kurdistan', url: 'https://www.kurdistan24.net/en/rss' },
+    { name: 'BBC', section: 'ئەمریکا · US & World', url: 'https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml' },
+    { name: 'NPR', section: 'ئەمریکا · US & World', url: 'https://feeds.npr.org/1004/rss.xml' },
+  ],
+  maxPerSection: 6,
+  // greeting name for the screensaver
+  personName: 'Houshyar',
+  corsProxy: 'https://api.allorigins.win/raw?url=',
+  // refresh intervals (ms)
+  weatherEvery: 15 * 60 * 1000,
+  newsEvery: 10 * 60 * 1000,
+  oilEvery: 30 * 60 * 1000,
+  prayerEvery: 60 * 60 * 1000,
+};
+
+const $ = (id) => document.getElementById(id);
+const pad = (n) => String(n).padStart(2, '0');
+
+/* ---------- clock, date, night mode ---------- */
+
+let sunTimes = null; // { sunrise: Date, sunset: Date }
+
+function tickClock() {
+  const now = new Date();
+  $('clock').innerHTML = `${pad(now.getHours())}:${pad(now.getMinutes())}<span class="sec"> ${pad(now.getSeconds())}</span>`;
+  $('date').textContent = now.toLocaleDateString('en-GB', {
+    weekday: 'long', day: 'numeric', month: 'long',
+  });
+  $('nameday').textContent = 'Hawler · هەولێر';
+  applyNightMode(now);
+  paintSky(now);
+}
+
+function isNight(now) {
+  const h = now.getHours();
+  const { nightStart, nightEnd } = CONFIG;
+  return nightStart > nightEnd
+    ? (h >= nightStart || h < nightEnd)
+    : (h >= nightStart && h < nightEnd);
+}
+
+let nightOverrideUntil = 0;
+
+function applyNightMode(now) {
+  const night = isNight(now) && Date.now() > nightOverrideUntil;
+  document.body.classList.toggle('night', night);
+}
+
+/* ---------- screensaver ---------- */
+
+let idleTimer = null;
+const IDLE_MS = 90 * 1000; // show screensaver after 90 s of no interaction
+
+function showSaver() {
+  document.body.classList.add('saver-on');
+}
+function hideSaver() {
+  document.body.classList.remove('saver-on');
+  resetIdle();
+}
+function resetIdle() {
+  clearTimeout(idleTimer);
+  idleTimer = setTimeout(showSaver, IDLE_MS);
+}
+function tickSaverClock() {
+  const now = new Date();
+  $('saver-clock').textContent = `${pad(now.getHours())}:${pad(now.getMinutes())}`;
+}
+setInterval(tickSaverClock, 1000);
+tickSaverClock();
+
+// any interaction: wake the full dashboard (and night display) and reset idle
+document.addEventListener('pointerdown', () => {
+  if (document.body.classList.contains('saver-on')) { hideSaver(); return; }
+  nightOverrideUntil = Date.now() + 60 * 1000;
+  applyNightMode(new Date());
+  resetIdle();
+});
+resetIdle();
+
+/* ---------- sky: background follows the real sun ---------- */
+
+function paintSky(now) {
+  // Phase: minutes relative to sunrise/sunset, if known
+  let top = '#0b0e14', bottom = '#0b0e14', glow = 'rgba(232,184,114,0)';
+  if (sunTimes) {
+    const t = now.getTime();
+    const rise = sunTimes.sunrise.getTime();
+    const set = sunTimes.sunset.getTime();
+    const H = 60 * 60 * 1000;
+
+    if (t > rise - H && t < rise + H) {
+      // dawn: warm glow rises
+      const p = (t - (rise - H)) / (2 * H); // 0..1
+      glow = `rgba(232, 168, 110, ${(0.22 * Math.sin(p * Math.PI)).toFixed(3)})`;
+      top = '#10131c';
+      bottom = mix('#0b0e14', '#2a2030', Math.sin(p * Math.PI));
+    } else if (t >= rise + H && t < set - H) {
+      // day: cool, slightly lifted
+      top = '#12161f';
+      bottom = '#171c27';
+    } else if (t >= set - H && t < set + H) {
+      // dusk
+      const p = (t - (set - H)) / (2 * H);
+      glow = `rgba(214, 140, 100, ${(0.16 * Math.sin(p * Math.PI)).toFixed(3)})`;
+      top = '#0e111a';
+      bottom = mix('#0b0e14', '#241d29', Math.sin(p * Math.PI));
+    }
+  }
+  const root = document.documentElement.style;
+  root.setProperty('--bg-a', top);
+  root.setProperty('--bg-b', bottom);
+  root.setProperty('--glow', glow);
+}
+
+function mix(a, b, p) {
+  const A = a.match(/\w\w/g).map((x) => parseInt(x, 16));
+  const B = b.match(/\w\w/g).map((x) => parseInt(x, 16));
+  return '#' + A.map((v, i) => pad(Math.round(v + (B[i] - v) * p).toString(16))).join('');
+}
+
+/* ---------- weather: Open-Meteo (no key) ---------- */
+
+const WMO = {
+  0: ['☀️', 'Clear'], 1: ['🌤️', 'Mostly clear'], 2: ['⛅', 'Partly cloudy'], 3: ['☁️', 'Overcast'],
+  45: ['🌫️', 'Fog'], 48: ['🌫️', 'Rime fog'],
+  51: ['🌦️', 'Light drizzle'], 53: ['🌦️', 'Drizzle'], 55: ['🌧️', 'Heavy drizzle'],
+  61: ['🌦️', 'Light rain'], 63: ['🌧️', 'Rain'], 65: ['🌧️', 'Heavy rain'],
+  66: ['🌧️', 'Freezing rain'], 67: ['🌧️', 'Freezing rain'],
+  71: ['🌨️', 'Light snow'], 73: ['🌨️', 'Snow'], 75: ['❄️', 'Heavy snow'], 77: ['❄️', 'Snow grains'],
+  80: ['🌦️', 'Showers'], 81: ['🌧️', 'Showers'], 82: ['⛈️', 'Heavy showers'],
+  85: ['🌨️', 'Snow showers'], 86: ['🌨️', 'Snow showers'],
+  95: ['⛈️', 'Thunderstorm'], 96: ['⛈️', 'Thunderstorm, hail'], 99: ['⛈️', 'Thunderstorm, hail'],
+};
+const wmo = (c, when) => {
+  const [icon, desc] = WMO[c] || ['🌡️', ''];
+  if (isDarkAt(when) && c <= 2) {
+    return [c === 2 ? '☁️' : '🌙', c === 0 ? 'Klart' : desc];
+  }
+  return [icon, desc];
+};
+
+// true if the sky is dark at time t (uses today's sunrise/sunset, shifted for tomorrow's small hours)
+function isDarkAt(t) {
+  if (!sunTimes || !t) return false;
+  const ms = t instanceof Date ? t.getTime() : new Date(t).getTime();
+  const day = 24 * 60 * 60 * 1000;
+  for (const shift of [0, day]) {
+    if (ms >= sunTimes.sunrise.getTime() + shift && ms <= sunTimes.sunset.getTime() + shift) return false;
+  }
+  return true;
+}
+
+async function loadWeather() {
+  try {
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${CONFIG.lat}&longitude=${CONFIG.lon}`
+      + `&current=temperature_2m,apparent_temperature,weather_code`
+      + `&hourly=temperature_2m,weather_code,precipitation_probability`
+      + `&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,sunrise,sunset`
+      + `&timezone=Europe%2FStockholm&forecast_days=2`;
+    const r = await fetch(url);
+    const d = await r.json();
+
+    sunTimes = {
+      sunrise: new Date(d.daily.sunrise[0]),
+      sunset: new Date(d.daily.sunset[0]),
+    };
+
+    const [icon, desc] = wmo(d.current.weather_code, new Date());
+    $('wx-temp').textContent = `${Math.round(d.current.temperature_2m)}°`;
+    $('wx-desc').textContent = `${icon} ${desc} · feels like ${Math.round(d.current.apparent_temperature)}°`;
+    $('wx-hilo').textContent = `${Math.round(d.daily.temperature_2m_max[0])}° / ${Math.round(d.daily.temperature_2m_min[0])}°`;
+    $('wx-rain').textContent = `${d.daily.precipitation_probability_max[0] ?? 0}%`;
+
+    $('wx-sunrise').textContent = d.daily.sunrise[0].slice(11, 16);
+    $('wx-sunset').textContent = d.daily.sunset[0].slice(11, 16);
+
+    // next 5 hours (crosses midnight thanks to forecast_days=2)
+    const nowT = Date.now();
+    const idx = d.hourly.time.findIndex((t) => new Date(t).getTime() > nowT);
+    const start = idx === -1 ? 0 : idx;
+    const hoursEl = $('wx-hours');
+    hoursEl.innerHTML = '';
+    for (let i = start; i < Math.min(start + 5, d.hourly.time.length); i++) {
+      const [hi] = wmo(d.hourly.weather_code[i], d.hourly.time[i]);
+      const el = document.createElement('div');
+      el.className = 'hour';
+      el.innerHTML = `<div class="h">${d.hourly.time[i].slice(11, 16)}</div>`
+        + `<div class="i">${hi}</div>`
+        + `<div class="t">${Math.round(d.hourly.temperature_2m[i])}°</div>`;
+      hoursEl.appendChild(el);
+    }
+    stamp();
+  } catch (e) {
+    $('wx-desc').textContent = 'Weather unavailable';
+  }
+}
+
+/* ---------- news via RSS ---------- */
+
+async function fetchFeed(feed) {
+  // 1) rss2json — returns parsed JSON, most reliable
+  try {
+    const r = await fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feed.url));
+    const d = await r.json();
+    if (d.items && d.items.length) {
+      return d.items.slice(0, 4).map((i) => ({
+        src: feed.name, section: feed.section, title: i.title, date: new Date(i.pubDate),
+        desc: stripHtml(i.description || '').slice(0, 500), link: i.link || '',
+      }));
+    }
+  } catch (e) { /* try next */ }
+  // 2) raw XML through CORS proxies
+  const proxies = [
+    'https://api.allorigins.win/raw?url=',
+    'https://corsproxy.io/?url=',
+  ];
+  for (const p of proxies) {
+    try {
+      const r = await fetch(p + encodeURIComponent(feed.url));
+      const text = await r.text();
+      const xml = new DOMParser().parseFromString(text, 'text/xml');
+      const nodes = [...xml.querySelectorAll('item')].slice(0, 4);
+      if (nodes.length) {
+        return nodes.map((n) => ({
+          src: feed.name,
+          section: feed.section,
+          title: n.querySelector('title')?.textContent?.trim() || '',
+          date: new Date(n.querySelector('pubDate')?.textContent || 0),
+          desc: stripHtml(n.querySelector('description')?.textContent || '').slice(0, 500),
+          link: n.querySelector('link')?.textContent?.trim() || '',
+        }));
+      }
+    } catch (e) { /* try next proxy */ }
+  }
+  return [];
+}
+
+// inert HTML-to-text: DOMParser never executes scripts or loads resources
+function stripHtml(s) {
+  return new DOMParser().parseFromString(s || '', 'text/html').body.textContent.replace(/\s+/g, ' ').trim();
+}
+
+let newsRetryTimer = null;
+
+// words that mark a headline as breaking/high-priority
+const BREAKING = /skjut|skott|mord|döda[dt]|dödsfall|attack|explosion|terror|evakuer|rån|gisslan|larm om|akut|kris|shooting|shot|killed|explosion|attack|hostage|breaking/i;
+
+const NEWS_MAX_AGE = 12 * 3600e3; // headlines rotate out after 12 h
+
+const isBreaking = (it) => BREAKING.test(it.title) && (Date.now() - it.date) < NEWS_MAX_AGE;
+
+function relTime(d) {
+  const min = Math.max(0, Math.round((Date.now() - d) / 60000));
+  if (min < 60) return `${min} min`;
+  return `${Math.round(min / 60)} tim`;
+}
+
+function selectHeadlines(items, max) {
+  const now = Date.now();
+  // 1) strict freshness window
+  let pool = items.filter((i) => now - i.date < NEWS_MAX_AGE);
+  // top up with the newest older items if a slow news cycle empties the pool
+  if (pool.length < 2) {
+    const older = items.filter((i) => !pool.includes(i)).sort((a, b) => b.date - a.date);
+    pool = pool.concat(older.slice(0, 2 - pool.length));
+  }
+  // 2) breaking first, then interleave sources newest-first
+  const breaking = pool.filter(isBreaking).sort((a, b) => b.date - a.date);
+  const rest = pool.filter((i) => !breaking.includes(i)).sort((a, b) => b.date - a.date);
+  const bySrc = {};
+  rest.forEach((i) => (bySrc[i.src] ||= []).push(i));
+  const order = Object.values(bySrc);
+  const mixed = [...breaking];
+  for (let i = 0; mixed.length < max; i++) {
+    let added = false;
+    for (const arr of order) {
+      if (arr[i] && !mixed.includes(arr[i])) { mixed.push(arr[i]); added = true; }
+      if (mixed.length >= max) break;
+    }
+    if (!added) break;
+  }
+  return mixed.slice(0, max);
+}
+
+let lastNewsItems = [];
+
+function buildHeadlineEl(it) {
+  const el = document.createElement('div');
+  el.className = 'headline' + (isBreaking(it) ? ' breaking' : '');
+  el.innerHTML = `<span class="src">${it.src}</span><span class="txt"></span><span class="when">${relTime(it.date)}</span>`;
+  el.querySelector('.txt').textContent = it.title;
+  el.addEventListener('click', (e) => { e.stopPropagation(); openArticle(it); });
+  return el;
+}
+
+function renderNewsInto(container, perSection) {
+  const sectionOrder = [...new Set(CONFIG.feeds.map((f) => f.section))];
+  const bySection = {};
+  lastNewsItems.forEach((i) => (bySection[i.section] ||= []).push(i));
+  container.innerHTML = '';
+  for (const name of sectionOrder) {
+    if (!bySection[name]) continue;
+    const col = document.createElement('div');
+    col.className = 'news-col';
+    col.innerHTML = `<h3>${name}</h3>`;
+    for (const it of selectHeadlines(bySection[name], perSection)) col.appendChild(buildHeadlineEl(it));
+    container.appendChild(col);
+  }
+}
+
+async function loadNews() {
+  let items = [];
+
+  // 0) same-origin news.json, written by the GitHub Action — no CORS, works everywhere
+  try {
+    const r = await fetch('news.json?t=' + Date.now());
+    if (r.ok) {
+      const d = await r.json();
+      items = (d.items || []).map((i) => ({
+        src: i.src, section: i.section || 'Nyheter', title: i.title, date: new Date(i.date),
+        desc: i.desc || '', link: i.link || '',
+      }));
+    }
+  } catch (e) { /* fall through to live fetch */ }
+
+  // 1) live RSS via proxies (fallback if news.json missing or empty)
+  if (!items.length) {
+    const perFeed = await Promise.all(CONFIG.feeds.map(fetchFeed));
+    items = perFeed.flat();
+  }
+  if (!items.length) {
+    $('news-sections').innerHTML = '<div class="headline"><span class="txt">Nyheter otillgängliga · försöker igen strax</span></div>';
+    clearTimeout(newsRetryTimer);
+    newsRetryTimer = setTimeout(loadNews, 90 * 1000);
+    return;
+  }
+
+  lastNewsItems = items;
+  renderNewsInto($('news-sections'), CONFIG.maxPerSection);
+  if (maxPanel === 'news') openMax('news'); // refresh if currently maximized
+  stamp();
+}
+
+
+/* ---------- oil prices (Brent + WTI, via stooq CSV, no key) ---------- */
+
+async function loadOil() {
+  // stooq serves free delayed quotes as CSV; cb=brent (Brent), cl.f=WTI front month
+  const symbols = [
+    { code: 'cb.f', label: 'Brent' },
+    { code: 'cl.f', label: 'WTI' },
+  ];
+  const list = $('oil-list');
+  try {
+    const rows = await Promise.all(symbols.map(async (s) => {
+      const url = `https://stooq.com/q/l/?s=${s.code}&f=sd2t2ohlcv&h&e=csv`;
+      let text;
+      try {
+        const r = await fetch(url);
+        text = await r.text();
+        if (!/\d/.test(text)) throw new Error('empty');
+      } catch (e) {
+        const r = await fetch(CONFIG.corsProxy + encodeURIComponent(url));
+        text = await r.text();
+      }
+      // CSV: Symbol,Date,Time,Open,High,Low,Close,Volume
+      const line = text.trim().split('\n').pop().split(',');
+      const close = parseFloat(line[6]);
+      const open = parseFloat(line[3]);
+      const chg = (close && open) ? ((close - open) / open) * 100 : null;
+      return { label: s.label, price: close, chg };
+    }));
+    list.innerHTML = '';
+    let any = false;
+    for (const row of rows) {
+      if (!row.price || isNaN(row.price)) continue;
+      any = true;
+      const up = row.chg >= 0;
+      const el = document.createElement('div');
+      el.className = 'oil-row';
+      el.innerHTML = `<span class="oil-name">${row.label}</span>`
+        + `<span class="oil-price">$${row.price.toFixed(2)}</span>`
+        + `<span class="oil-chg ${up ? 'up' : 'down'}">${row.chg == null ? '' : (up ? '▲' : '▼') + ' ' + Math.abs(row.chg).toFixed(1) + '%'}</span>`;
+      list.appendChild(el);
+    }
+    if (!any) throw new Error('no rows');
+    $('oil-note').textContent = 'per barrel · delayed';
+    stamp();
+  } catch (e) {
+    list.innerHTML = '<div class="oil-row"><span class="oil-name">Oil prices unavailable</span></div>';
+  }
+}
+
+/* ---------- prayer times (Aladhan, no key) ---------- */
+
+const PRAYERS = [['Fajr', 'بەیانی'], ['Dhuhr', 'نیوەڕۆ'], ['Asr', 'عەسر'], ['Maghrib', 'مەغریب'], ['Isha', 'عیشا']];
+
+async function loadPrayer() {
+  try {
+    const r = await fetch(`https://api.aladhan.com/v1/timings?latitude=${CONFIG.lat}&longitude=${CONFIG.lon}&method=3`);
+    const d = await r.json();
+    const t = d.data.timings;
+    const now = new Date();
+    const nowMin = now.getHours() * 60 + now.getMinutes();
+    const toMin = (hhmm) => { const [h, m] = hhmm.split(':').map(Number); return h * 60 + m; };
+
+    let nextIdx = -1;
+    for (let i = 0; i < PRAYERS.length; i++) {
+      if (toMin(t[PRAYERS[i][0]]) > nowMin) { nextIdx = i; break; }
+    }
+
+    const list = $('prayer-list');
+    list.innerHTML = '';
+    PRAYERS.forEach(([en, ku], i) => {
+      const el = document.createElement('div');
+      el.className = 'prayer-row' + (i === nextIdx ? ' next' : '') + (toMin(t[en]) <= nowMin && i !== nextIdx ? ' past' : '');
+      el.innerHTML = `<span class="p-name">${en} · ${ku}</span><span class="p-time">${t[en]}</span>`;
+      list.appendChild(el);
+    });
+
+    if (nextIdx !== -1) {
+      const mins = toMin(t[PRAYERS[nextIdx][0]]) - nowMin;
+      const h = Math.floor(mins / 60), m = mins % 60;
+      $('prayer-next').textContent = `Next: ${PRAYERS[nextIdx][0]} in ${h ? h + 'h ' : ''}${m}m`;
+    } else {
+      $('prayer-next').textContent = 'All prayers done for today';
+    }
+    stamp();
+  } catch (e) {
+    $('prayer-list').textContent = 'Prayer times unavailable';
+  }
+}
+
+/* ---------- on this day (Wikipedia, no key) ---------- */
+
+async function loadOnThisDay() {
+  try {
+    const now = new Date();
+    const url = `https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/events/${pad(now.getMonth() + 1)}/${pad(now.getDate())}`;
+    const r = await fetch(url);
+    const d = await r.json();
+    const events = (d.events || []).sort((a, b) => b.year - a.year).slice(0, 3);
+    const box = $('otd-body');
+    box.innerHTML = '';
+    for (const ev of events) {
+      const el = document.createElement('div');
+      el.className = 'otd-item';
+      el.innerHTML = `<span class="otd-year">${ev.year}</span><span class="otd-text"></span>`;
+      el.querySelector('.otd-text').textContent = ev.text;
+      box.appendChild(el);
+    }
+    if (!events.length) $('otd-body').textContent = 'No events found';
+  } catch (e) {
+    $('otd-body').textContent = 'Unavailable';
+  }
+}
+
+/* ---------- article popup ---------- */
+
+let modalTimer = null;
+
+function openArticle(it) {
+  $('m-src').textContent = `${it.src} · ${it.date.toLocaleString('en-GB', { hour: '2-digit', minute: '2-digit', day: 'numeric', month: 'short' })}`;
+  $('m-title').textContent = it.title;
+  $('m-desc').textContent = it.desc || 'Ingen sammanfattning i flödet — öppna artikeln för mer.';
+  const a = $('m-link');
+  if (it.link) { a.href = it.link; a.classList.remove('hidden'); }
+  else { a.classList.add('hidden'); }
+  $('modal').classList.add('open');
+  clearTimeout(modalTimer);
+  modalTimer = setTimeout(closeModal, 90 * 1000); // kiosk: never stay stuck open
+}
+
+function closeModal() {
+  $('modal').classList.remove('open');
+  clearTimeout(modalTimer);
+}
+
+$('m-close').addEventListener('click', closeModal);
+$('modal').addEventListener('click', (e) => { if (e.target.id === 'modal') closeModal(); });
+
+/* ---------- feedback (formsubmit.co, no backend) ---------- */
+
+$('fb-open').addEventListener('click', () => { $('fb-modal').classList.add('open'); $('fb-status').textContent = ''; });
+$('fb-cancel').addEventListener('click', () => $('fb-modal').classList.remove('open'));
+$('fb-modal').addEventListener('click', (e) => { if (e.target.id === 'fb-modal') $('fb-modal').classList.remove('open'); });
+$('fb-send').addEventListener('click', async () => {
+  const msg = $('fb-text').value.trim();
+  if (!msg) { $('fb-status').textContent = 'Skriv något först 🙂'; return; }
+  $('fb-status').textContent = 'Skickar …';
+  try {
+    const r = await fetch('https://formsubmit.co/ajax/paiv@paiv.co.uk', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify({ message: msg, _subject: 'Houshyar dashboard feedback', _captcha: 'false' }),
+    });
+    if (!r.ok) throw new Error(r.status);
+    $('fb-text').value = '';
+    $('fb-status').textContent = 'Skickat! ✅';
+    setTimeout(() => $('fb-modal').classList.remove('open'), 1500);
+  } catch (e) {
+    $('fb-status').textContent = 'Kunde inte skicka — försök igen';
+  }
+});
+
+function stamp() {
+  $('updated').textContent = 'updated ' + new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+}
+
+// keep screen awake where supported (Fully Kiosk handles this too)
+async function keepAwake() {
+  try { await navigator.wakeLock.request('screen'); } catch (e) { /* fine */ }
+}
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') keepAwake();
+});
+
+/* ---------- maximize panels ---------- */
+
+let maxPanel = null;
+let maxTimer = null;
+
+function openMax(which) {
+  maxPanel = which;
+  document.body.classList.add('maximized');
+  const body = $('max-body');
+  if (which === 'news') {
+    $('max-title').textContent = 'News · هەواڵ';
+    body.style.columns = '';
+    renderNewsInto(body, 12);
+  }
+  // auto-close after 2 min so a wall display never gets stuck maximized
+  clearTimeout(maxTimer);
+  maxTimer = setTimeout(closeMax, 120 * 1000);
+}
+
+function closeMax() {
+  maxPanel = null;
+  document.body.classList.remove('maximized');
+  clearTimeout(maxTimer);
+}
+
+document.querySelectorAll('.expand').forEach((btn) => {
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    openMax(btn.dataset.panel);
+  });
+});
+$('max-close').addEventListener('click', closeMax);
+
+/* ---------- boot ---------- */
+
+tickClock();
+setInterval(tickClock, 1000);
+loadWeather();
+loadNews();
+loadOil();
+loadPrayer();
+loadOnThisDay();
+keepAwake();
+
+setInterval(loadWeather, CONFIG.weatherEvery);
+setInterval(loadNews, CONFIG.newsEvery);
+setInterval(loadOil, CONFIG.oilEvery);
+setInterval(loadPrayer, CONFIG.prayerEvery);
+setInterval(loadOnThisDay, 6 * 60 * 60 * 1000);
+</script>
+</body>
+</html>
