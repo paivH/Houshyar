@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T20:52:27.050Z",
+ "updated": "2026-07-18T21:53:41.172Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Al-Zaidi concludes Washington visit, backs stronger partnership",
+   "desc": "Shafaq News- Baghdad Iraqi Prime Minister Ali Al-Zaidi announced the conclusion of his Washington visit on Saturday, reaffirming his government&rsquo;s commitment to advancing the strategic economic partnership with the United States through the agreements reached during the trip. Al-Zaidi said the deals, memorandums of understanding, and cooperation agreements reached during the visit would help ",
+   "link": "https://shafaq.com/en/Iraq/Al-Zaidi-concludes-Washington-visit-backs-stronger-partnership",
+   "date": "2026-07-18T21:35:51.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqis doubt anti-corruption campaign will reach senior officials",
+   "desc": "Shafaq News- Baghdad Iraqis interviewed by Shafaq News said the government's anti-corruption campaign, known as the Dawn Crackdown (Sawlat al-Fajr), will be judged by whether prosecutions reach senior political figures rather than by the number of detentions announced. Security forces detained at least 47 suspects in the first 24 hours after the operation began on June 28, according to government ",
+   "link": "https://shafaq.com/en/society/Iraqis-doubt-anti-corruption-campaign-will-reach-senior-officials",
+   "date": "2026-07-18T21:06:01.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "North Oil Company says Kirkuk pipeline ready for pumping",
    "desc": "Shafaq News- Kirkuk Iraq's state-run North Oil Company has completed the technical and engineering work needed to begin receiving and pumping crude in Kirkuk through the strategic pipeline running to the Turkish port of Ceyhan, the company said on Saturday. The first step is filling the 40-inch line to carry crude to the IT1A pumping station, after which oil will be pumped through the 46-inch line",
    "link": "https://shafaq.com/en/Economy/North-Oil-Company-says-Kirkuk-pipeline-ready-for-pumping",
@@ -106,28 +122,12 @@
    "date": "2026-07-18T19:26:23.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Israeli strikes kill ten Palestinians in Gaza City",
-   "desc": "Shafaq News- Gaza (Updated at 23:45) Israeli attacks left ten Palestinians dead, including three children, in Gaza City on Saturday, according to hospital sources in the area. The sources, cited by Al Jazeera, reported that five were killed in a strike on a home in the western Al-Nasr neighborhood, while another attack in southern Al-Zeitoun killed three and wounded others. The Israeli military la",
-   "link": "https://shafaq.com/en/Middle-East/Israeli-strikes-kill-nine-Palestinians-in-Gaza-City",
-   "date": "2026-07-18T19:10:05.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Rwanga water project serves 4K Khanaqin families",
-   "desc": "Shafaq News- Diyala Nearly 4,000 families in Khanaqin gained regular access to drinking water after Rwanga Foundation completed the renovation of supply systems in the Imam Abbas and Bakhtiari neighborhoods, the organization announced. The project included a full overhaul of the network and the installation of technical equipment intended to improve service efficiency and maintain long-term supply",
-   "link": "https://shafaq.com/en/Kurdistan/Rwanga-water-project-serves-4K-Khanaqin-families",
-   "date": "2026-07-18T18:45:09.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Two US troops killed and one missing after Iranian attack in Jordan",
    "desc": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
    "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-18T20:33:06.000Z"
+   "date": "2026-07-18T21:12:28.000Z"
   },
   {
    "src": "BBC",
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "KRG's Gomaspan Dam Strengthens Water Security with 97 Million Cubic Meter Capacity",
-   "desc": "KRG's Gomaspan Dam Strengthens Water Security with 97 Million Cubic Meter Capacity &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUERFQzRwcEIxSkZzUE92X1ptdXJWSldCT29YY1ZDdGFCT1dFTjl3bHJ2dTM5ZnAtdUl4N2tSOGxaZ1FDOGFIVFVHUC1xZU84T0djdjlCYk9EcXpDcG96VUdFYkJfNFJNdGFSVXhtNVRKUHNUMGgtV2xUNThuM0VYV19DYWV2NHpkYnZRSDFVc3FjNEdkWHhKZjEtRENUWnN2dUhDeEQtd1VkcGk4Wm5fX3B3VTFwc1Fxa21zSnFZZEhBTGs?oc=5",
-   "date": "2026-07-10T18:20:30.000Z"
+   "title": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil",
+   "desc": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYldTck1zRWhNTEsxTFBxM3lrWHluMy14dlZId3NpQThkam9ScVpsY0tlV0FNX3Q3M1prdmVMd3U5bE5DLW1YYkwwYzh4b2xybkVJREw1cklHV1kyc3NEOXlWc2pnc0hxLVBySG90NkYteTJvUzZQTlNfcmFiN1JDR0M0U0hYRWpJY21jYUFMbW5vNjRWX1NqS29vdDdUeU9HcE5hNmk4QWsyZTZJZ1BkRmFqLU5IVFo0RzFhQ3NPWVNOdURYYTdrR2hncw?oc=5",
+   "date": "2026-07-09T18:58:00.000Z"
   }
  ]
 }
