@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T21:53:41.172Z",
+ "updated": "2026-07-18T22:52:43.061Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "US Launches Fresh Strikes Against Iran at 6 p.m. Friday, Retaliating for Jordan Deaths and Hormuz attacks",
+   "desc": "CENTCOM begins its seventh consecutive night of operations against Iranian targets, with the dual mandate of degrading maritime attack capabilities and punishing IRGC forces responsible for kil",
+   "link": "https://www.kurdistan24.net/en/story/926662/us-launches-fresh-strikes-against-iran-at-6-pm-friday-retaliating-for-jordan-deaths-and-hormuz-attacks",
+   "date": "2026-07-18T22:25:18.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "U.S. State Department Issues Worldwide Security Alert Amid Rising Middle East Tensions",
    "desc": "Americans urged to exercise increased caution as Washington warns of potential escalation, travel disruptions, and threats to U.S. interests abroad",
    "link": "https://www.kurdistan24.net/en/story/926657/us-state-department-issues-worldwide-security-alert-amid-rising-middle-east-tensions",
@@ -74,12 +82,20 @@
    "date": "2026-07-18T17:43:30.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Mojtaba Khamenei Accuses U.S. of Breaking Agreements, Urges Iranians to Preserve National Unity",
-   "desc": "Iranian leader says Washington's actions prove its commitments cannot be trusted and calls on citizens to support the country's leadership",
-   "link": "https://www.kurdistan24.net/en/story/926632/mojtaba-khamenei-accuses-us-of-breaking-agreements-urges-iranians-to-preserve-national-unity",
-   "date": "2026-07-18T17:05:53.000Z"
+   "title": "Fresh drone attack targets US Consulate in Erbil",
+   "desc": "Shafaq News- Erbil Air defense systems intercepted drones approaching the US Consulate in Erbil before they reached their intended targets, sources told Shafaq News on Sunday. No reports of casualties or material damage were available. Authorities have not yet disclosed the number of drones involved or identified those responsible for launching the attack. No group has claimed responsibility. Repe",
+   "link": "https://shafaq.com/en/Kurdistan/Air-defenses-foil-drone-attack-in-Erbil",
+   "date": "2026-07-18T22:10:46.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Safe play spaces disappear for Baghdad children",
+   "desc": "Shafaq News- Baghdad Finding a safe, free place for children to play in Baghdad has become increasingly difficult after the city lost much of its green space and public recreational areas while many families can no longer afford private alternatives. Wasan Radi, a mother, told Shafaq News on Saturday that she no longer allows her children to play in the street because of traffic risks, while munic",
+   "link": "https://shafaq.com/en/society/Safe-play-spaces-disappear-for-Baghdad-children",
+   "date": "2026-07-18T22:00:59.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Kirkuk Iraq's state-run North Oil Company has completed the technical and engineering work needed to begin receiving and pumping crude in Kirkuk through the strategic pipeline running to the Turkish port of Ceyhan, the company said on Saturday. The first step is filling the 40-inch line to carry crude to the IT1A pumping station, after which oil will be pumped through the 46-inch line",
    "link": "https://shafaq.com/en/Economy/North-Oil-Company-says-Kirkuk-pipeline-ready-for-pumping",
    "date": "2026-07-18T20:40:40.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "PUK's Talabani condemns Iran attacks on Erbil, Al-Sulaymaniyah",
-   "desc": "Shafaq News- Al-Sulaymaniyah Patriotic Union of Kurdistan (PUK) President Bafel Talabani condemned Iran's overnight strike on sites in Erbil and Al-Sulaymaniyah on Saturday. The Kurdistan Region&rsquo;s emergency agencies and defense forces have mobilized all their capabilities to ensure security, Talabani noted, adding, &ldquo;An attack on one is an attack on all.&rdquo; He also urged residents t",
-   "link": "https://shafaq.com/en/Kurdistan/PUK-s-Talabani-condemns-Iran-attacks-on-Erbil-Al-Sulaymaniyah",
-   "date": "2026-07-18T20:11:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US and Israel prepare for wider Iran war",
-   "desc": "Shafaq News- Middle East Israel&rsquo;s military has presented political leaders with a plan for renewed strikes on Iran while the United States expands its aerial refueling fleet in the Middle East, Israeli media reported on Saturday. Citing Israeli officials, Israeli media stated that Washington was preparing to raise the deployment to about 100 tanker aircraft, while Axios reported that dozens ",
-   "link": "https://shafaq.com/en/Middle-East/US-and-Israel-prepare-for-wider-Iran-war",
-   "date": "2026-07-18T19:26:23.000Z"
   },
   {
    "src": "BBC",
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil",
-   "desc": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYldTck1zRWhNTEsxTFBxM3lrWHluMy14dlZId3NpQThkam9ScVpsY0tlV0FNX3Q3M1prdmVMd3U5bE5DLW1YYkwwYzh4b2xybkVJREw1cklHV1kyc3NEOXlWc2pnc0hxLVBySG90NkYteTJvUzZQTlNfcmFiN1JDR0M0U0hYRWpJY21jYUFMbW5vNjRWX1NqS29vdDdUeU9HcE5hNmk4QWsyZTZJZ1BkRmFqLU5IVFo0RzFhQ3NPWVNOdURYYTdrR2hncw?oc=5",
-   "date": "2026-07-09T18:58:00.000Z"
+   "title": "KRG's Gomaspan Dam Strengthens Water Security with 97 Million Cubic Meter Capacity",
+   "desc": "KRG's Gomaspan Dam Strengthens Water Security with 97 Million Cubic Meter Capacity &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUERFQzRwcEIxSkZzUE92X1ptdXJWSldCT29YY1ZDdGFCT1dFTjl3bHJ2dTM5ZnAtdUl4N2tSOGxaZ1FDOGFIVFVHUC1xZU84T0djdjlCYk9EcXpDcG96VUdFYkJfNFJNdGFSVXhtNVRKUHNUMGgtV2xUNThuM0VYV19DYWV2NHpkYnZRSDFVc3FjNEdkWHhKZjEtRENUWnN2dUhDeEQtd1VkcGk4Wm5fX3B3VTFwc1Fxa21zSnFZZEhBTGs?oc=5",
+   "date": "2026-07-10T18:20:30.000Z"
   }
  ]
 }
