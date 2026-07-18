@@ -26,11 +26,15 @@ jobs:
       - name: Fetch feeds
         run: node scripts/fetch-news.mjs
 
+      - name: Fetch markets
+        run: node scripts/markets.mjs
+        continue-on-error: true
+
       - name: Commit if changed
         run: |
           git config user.name "houshyar-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json
+          git add news.json markets.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "news: update headlines"
           # retry push with rebase in case another workflow pushed first

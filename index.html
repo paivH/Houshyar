@@ -372,6 +372,17 @@
 
   #deals-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
 
+  /* oil */
+  #oil { display: flex; flex-direction: column; }
+  #oil-list { display: flex; flex-direction: column; gap: 1.2vmin; }
+  .oil-row { display: flex; align-items: baseline; gap: 1.5vmin; font-size: clamp(14px, 2.5vmin, 22px); }
+  .oil-name { flex: 1; color: var(--ink-dim); }
+  .oil-price { font-weight: 600; font-variant-numeric: tabular-nums; color: var(--ink); }
+  .oil-chg { min-width: 6ch; text-align: right; font-size: 0.82em; font-variant-numeric: tabular-nums; }
+  .oil-chg.up { color: #79a86b; }
+  .oil-chg.down { color: #c76b6b; }
+  #oil-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
+
   /* exchange rates */
   #fx { display: flex; flex-direction: column; }
   #fx-list { display: flex; flex-direction: column; gap: 1.1vmin; }
@@ -727,7 +738,7 @@
     .headline .txt { white-space: normal; }        /* wrap long headlines on phone */
 
     h2, .news-col h3 { font-size: 3.4vw; }
-    .fx-row, .air-meta, .headline { font-size: 4vw; }
+    .oil-row, .fx-row, .air-meta, .headline { font-size: 4vw; }
 
     /* expand buttons are redundant when the page scrolls */
     .expand { display: none; }
@@ -767,6 +778,11 @@
   </div>
 
   <div id="row2">
+    <div class="panel" id="oil">
+      <h2>Oil · بازاڕی نەوت</h2>
+      <div id="oil-list">Loading …</div>
+      <div id="oil-note"></div>
+    </div>
     <div class="panel" id="fx">
       <h2>Exchange rates · ڕێژەی دراو</h2>
       <div id="fx-list">Loading …</div>
@@ -1190,6 +1206,34 @@ async function loadNews() {
 }
 
 
+/* ---------- oil prices (markets.json, written server-side by the Action) ---------- */
+
+async function loadOil() {
+  try {
+    const r = await fetch('markets.json?t=' + Date.now());
+    if (!r.ok) throw new Error('no markets.json');
+    const d = await r.json();
+    const quotes = d.quotes || [];
+    if (!quotes.length) throw new Error('empty');
+    const list = $('oil-list');
+    list.innerHTML = '';
+    for (const q of quotes) {
+      const up = q.chg >= 0;
+      const el = document.createElement('div');
+      el.className = 'oil-row';
+      el.innerHTML = `<span class="oil-name">${q.label}</span>`
+        + `<span class="oil-price">$${Number(q.price).toFixed(2)}</span>`
+        + `<span class="oil-chg ${up ? 'up' : 'down'}">${q.chg == null ? '' : (up ? '▲' : '▼') + ' ' + Math.abs(q.chg).toFixed(1) + '%'}</span>`;
+      list.appendChild(el);
+    }
+    const ageH = d.updated ? (Date.now() - new Date(d.updated)) / 3600e3 : 0;
+    $('oil-note').textContent = ageH > 24 ? 'per barrel · may be stale' : 'per barrel · delayed';
+    stamp();
+  } catch (e) {
+    $('oil-list').textContent = 'Waiting for markets.json …';
+  }
+}
+
 /* ---------- exchange rates (open.er-api.com, no key) ---------- */
 
 async function loadFx() {
@@ -1352,12 +1396,14 @@ tickClock();
 setInterval(tickClock, 1000);
 loadWeather();
 loadNews();
+loadOil();
 loadFx();
 loadAir();
 keepAwake();
 
 setInterval(loadWeather, CONFIG.weatherEvery);
 setInterval(loadNews, CONFIG.newsEvery);
+setInterval(loadOil, 30 * 60 * 1000);
 setInterval(loadFx, 60 * 60 * 1000);
 setInterval(loadAir, 30 * 60 * 1000);
 </script>
