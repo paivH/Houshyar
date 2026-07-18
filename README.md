@@ -3,7 +3,7 @@
 A single-file bedside/wall news dashboard, tailored for Houshyar in Hawler (Erbil), Kurdistan Region.
 No API keys for the dashboard itself, no backend, no build step.
 
-**Shows:** big clock + Hawler date · Erbil weather (Open-Meteo) with 5-hour strip, sunrise/sunset, night-aware icons · Kurdish news (Rudaw, Kurdistan24, Shafaq) and US & World news (BBC US, BBC Middle East, NPR) in two columns, tappable with article popup, breaking-story priority, 12h rotation, maximize view · oil prices (Brent + WTI, fetched server-side) · exchange rates (USD/EUR/GBP → IQD, plus USD→SEK) · Erbil air quality with PM2.5/PM10/dust · feedback button that emails paiv@paiv.co.uk.
+**Shows:** big clock + Hawler date · Erbil weather (Open-Meteo) with 5-hour strip, sunrise/sunset, night-aware icons · Kurdish news (Rudaw, Kurdistan24, Shafaq) US & World news (BBC US, BBC Middle East, NPR), and a Work & Erbil column (his university LFU, Erbil development, Kurdistan tourism/hospitality) in three columns, tappable with article popup, breaking-story priority, 12h rotation, maximize view · oil prices (Brent + WTI, fetched server-side) · exchange rates (USD/EUR/GBP → IQD, plus USD→SEK) · Erbil air quality with PM2.5/PM10/dust · feedback button that emails paiv@paiv.co.uk.
 
 **Screensaver:** after 90 s idle it shows "Welcome back, Houshyar" (بەخێربێیتەوە) with a large clock; tap anywhere to return to the dashboard.
 

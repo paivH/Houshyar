@@ -5,12 +5,10 @@
 import { writeFileSync } from 'node:fs';
 
 const FEEDS = [
-  // Kurdish / Kurdistan Region outlets. Several candidate URLs each; first that works wins.
-  // Google News source-syndication is the last resort — it always works.
+  // --- Kurdistan / regional news ---
   { name: 'Rudaw', section: 'Kurdistan · کوردستان', urls: [
     'https://www.rudaw.net/rss.aspx?language=english',
     'https://www.rudaw.net/english/rss.aspx',
-    'https://www.rudaw.net/rss/english.xml',
     'https://news.google.com/rss/search?q=when:2d+site:rudaw.net&hl=en-US&gl=US&ceid=US:en',
   ] },
   { name: 'K24', section: 'Kurdistan · کوردستان', urls: [
@@ -19,9 +17,8 @@ const FEEDS = [
   { name: 'Shafaq', section: 'Kurdistan · کوردستان', urls: [
     'https://shafaq.com/rss/en',
   ] },
-  { name: 'Kurdistan', section: 'Kurdistan · کوردستان', urls: [
-    'https://news.google.com/rss/search?q=Kurdistan+Region+Erbil+when:2d&hl=en-US&gl=US&ceid=US:en',
-  ] },
+
+  // --- US & World ---
   { name: 'BBC', section: 'US & World · جیهان', urls: [
     'https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml',
   ] },
@@ -30,6 +27,20 @@ const FEEDS = [
   ] },
   { name: 'BBC ME', section: 'US & World · جیهان', urls: [
     'https://feeds.bbci.co.uk/news/world/middle_east/rss.xml',
+  ] },
+
+  // --- His field: hospitality, tourism, Erbil development, and his university ---
+  // LFU runs WordPress, so /feed/ and category feeds should exist.
+  { name: 'LFU', section: 'Work & Erbil · کار', urls: [
+    'https://lfu.edu.krd/category/college-of-administration-and-economics/feed/',
+    'https://lfu.edu.krd/feed/',
+    'https://news.google.com/rss/search?q=when:14d+site:lfu.edu.krd&hl=en-US&gl=US&ceid=US:en',
+  ] },
+  { name: 'Erbil', section: 'Work & Erbil · کار', urls: [
+    'https://news.google.com/rss/search?q=Erbil+(development+OR+investment+OR+construction+OR+project)+when:7d&hl=en-US&gl=US&ceid=US:en',
+  ] },
+  { name: 'Tourism', section: 'Work & Erbil · کار', urls: [
+    'https://news.google.com/rss/search?q=(Kurdistan+OR+Erbil)+(tourism+OR+hotel+OR+hospitality)+when:14d&hl=en-US&gl=US&ceid=US:en',
   ] },
 ];
 
