@@ -383,22 +383,32 @@
   .oil-chg.down { color: #c76b6b; }
   #oil-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
 
-  /* prayer */
-  #prayer { display: flex; flex-direction: column; }
-  #prayer-list { display: flex; flex-direction: column; gap: 0.9vmin; }
-  .prayer-row { display: flex; justify-content: space-between; font-size: clamp(13px, 2.3vmin, 20px); font-variant-numeric: tabular-nums; }
-  .prayer-row .p-name { color: var(--ink-dim); }
-  .prayer-row.next { color: var(--amber); font-weight: 600; }
-  .prayer-row.next .p-name { color: var(--amber); }
-  .prayer-row.past { opacity: 0.4; }
-  #prayer-next { font-size: clamp(11px, 1.9vmin, 16px); color: var(--amber); margin-top: auto; padding-top: 1.2vmin; opacity: 0.85; }
+  /* exchange rates */
+  #fx { display: flex; flex-direction: column; }
+  #fx-list { display: flex; flex-direction: column; gap: 1.1vmin; }
+  .fx-row { display: flex; justify-content: space-between; align-items: baseline; font-size: clamp(13px, 2.3vmin, 20px); font-variant-numeric: tabular-nums; }
+  .fx-name { color: var(--ink-dim); }
+  .fx-val { color: var(--ink); font-weight: 600; }
+  #fx-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
 
-  /* on this day */
-  #onthisday { display: flex; flex-direction: column; }
-  #otd-body { display: flex; flex-direction: column; gap: 1.3vmin; }
-  .otd-item { display: flex; gap: 1.6vmin; font-size: clamp(12px, 2.1vmin, 18px); line-height: 1.35; }
-  .otd-year { color: var(--amber); font-weight: 600; font-variant-numeric: tabular-nums; flex-shrink: 0; }
-  .otd-text { color: var(--ink-dim); }
+  /* air quality */
+  #air { display: flex; flex-direction: column; }
+  .air-main {
+    display: flex; align-items: baseline; gap: 1.6vmin;
+    font-family: 'Inter Tight', sans-serif; font-weight: 300;
+    font-size: clamp(28px, 6vmin, 56px); font-variant-numeric: tabular-nums;
+  }
+  .air-label { font-size: 0.42em; font-weight: 500; letter-spacing: 0.02em; }
+  .air-main.good { color: #79a86b; }
+  .air-main.fair { color: #a8b06b; }
+  .air-main.moderate { color: var(--amber); }
+  .air-main.poor { color: #d08a5a; }
+  .air-main.verypoor { color: #c76b6b; }
+  .air-meta {
+    display: flex; gap: 3vmin; margin-top: auto; padding-top: 1.4vmin;
+    font-size: clamp(11px, 1.9vmin, 16px); color: var(--ink-dim); font-variant-numeric: tabular-nums;
+  }
+  .air-meta b { color: var(--ink); font-weight: 500; }
 
   /* screensaver */
   #saver {
@@ -728,7 +738,7 @@
     .headline .txt { white-space: normal; }        /* wrap long headlines on phone */
 
     h2, .news-col h3 { font-size: 3.4vw; }
-    .oil-row, .prayer-row, .otd-item, .headline { font-size: 4vw; }
+    .oil-row, .fx-row, .air-meta, .headline { font-size: 4vw; }
 
     /* expand buttons are redundant when the page scrolls */
     .expand { display: none; }
@@ -773,14 +783,14 @@
       <div id="oil-list"><div class="oil-row"><span class="oil-name">Loading …</span></div></div>
       <div id="oil-note"></div>
     </div>
-    <div class="panel" id="prayer">
-      <h2>Prayer times · کاتی نوێژ</h2>
-      <div id="prayer-list">Loading …</div>
-      <div id="prayer-next"></div>
+    <div class="panel" id="fx">
+      <h2>Exchange rates · ڕێژەی دراو</h2>
+      <div id="fx-list">Loading …</div>
+      <div id="fx-note"></div>
     </div>
-    <div class="panel" id="onthisday">
-      <h2>On this day · لەم ڕۆژەدا</h2>
-      <div id="otd-body">Loading …</div>
+    <div class="panel" id="air">
+      <h2>Air quality · کوالیتی هەوا</h2>
+      <div id="air-body">Loading …</div>
     </div>
   </div>
 
@@ -864,7 +874,7 @@ const CONFIG = {
   weatherEvery: 15 * 60 * 1000,
   newsEvery: 10 * 60 * 1000,
   oilEvery: 30 * 60 * 1000,
-  prayerEvery: 60 * 60 * 1000,
+  fxEvery: 60 * 60 * 1000,
 };
 
 const $ = (id) => document.getElementById(id);
@@ -989,7 +999,7 @@ const WMO = {
 const wmo = (c, when) => {
   const [icon, desc] = WMO[c] || ['🌡️', ''];
   if (isDarkAt(when) && c <= 2) {
-    return [c === 2 ? '☁️' : '🌙', c === 0 ? 'Klart' : desc];
+    return [c === 2 ? '☁️' : '🌙', c === 0 ? 'Clear' : desc];
   }
   return [icon, desc];
 };
@@ -1197,10 +1207,27 @@ async function loadNews() {
 }
 
 
-/* ---------- oil prices (Brent + WTI, via stooq CSV, no key) ---------- */
+/* ---------- oil prices (stooq CSV via proxy chain, no key) ---------- */
+
+async function fetchCsv(url) {
+  // try direct, then two CORS proxies — stooq usually needs a proxy in-browser
+  const attempts = [
+    url,
+    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
+    'https://corsproxy.io/?url=' + encodeURIComponent(url),
+  ];
+  for (const u of attempts) {
+    try {
+      const r = await fetch(u);
+      if (!r.ok) continue;
+      const t = await r.text();
+      if (/\d/.test(t) && t.includes(',')) return t;
+    } catch (e) { /* next */ }
+  }
+  throw new Error('all sources failed');
+}
 
 async function loadOil() {
-  // stooq serves free delayed quotes as CSV; cb=brent (Brent), cl.f=WTI front month
   const symbols = [
     { code: 'cb.f', label: 'Brent' },
     { code: 'cl.f', label: 'WTI' },
@@ -1208,105 +1235,99 @@ async function loadOil() {
   const list = $('oil-list');
   try {
     const rows = await Promise.all(symbols.map(async (s) => {
-      const url = `https://stooq.com/q/l/?s=${s.code}&f=sd2t2ohlcv&h&e=csv`;
-      let text;
       try {
-        const r = await fetch(url);
-        text = await r.text();
-        if (!/\d/.test(text)) throw new Error('empty');
-      } catch (e) {
-        const r = await fetch(CONFIG.corsProxy + encodeURIComponent(url));
-        text = await r.text();
-      }
-      // CSV: Symbol,Date,Time,Open,High,Low,Close,Volume
-      const line = text.trim().split('\n').pop().split(',');
-      const close = parseFloat(line[6]);
-      const open = parseFloat(line[3]);
-      const chg = (close && open) ? ((close - open) / open) * 100 : null;
-      return { label: s.label, price: close, chg };
+        const text = await fetchCsv(`https://stooq.com/q/l/?s=${s.code}&f=sd2t2ohlcv&h&e=csv`);
+        const lines = text.trim().split('\n');
+        const cols = lines[lines.length - 1].split(',');
+        const open = parseFloat(cols[3]);
+        const close = parseFloat(cols[6]);
+        const chg = (close && open) ? ((close - open) / open) * 100 : null;
+        return { label: s.label, price: close, chg };
+      } catch (e) { return { label: s.label, price: null, chg: null }; }
     }));
     list.innerHTML = '';
     let any = false;
     for (const row of rows) {
-      if (!row.price || isNaN(row.price)) continue;
-      any = true;
-      const up = row.chg >= 0;
       const el = document.createElement('div');
       el.className = 'oil-row';
-      el.innerHTML = `<span class="oil-name">${row.label}</span>`
-        + `<span class="oil-price">$${row.price.toFixed(2)}</span>`
-        + `<span class="oil-chg ${up ? 'up' : 'down'}">${row.chg == null ? '' : (up ? '▲' : '▼') + ' ' + Math.abs(row.chg).toFixed(1) + '%'}</span>`;
+      if (row.price && !isNaN(row.price)) {
+        any = true;
+        const up = row.chg >= 0;
+        el.innerHTML = `<span class="oil-name">${row.label}</span>`
+          + `<span class="oil-price">$${row.price.toFixed(2)}</span>`
+          + `<span class="oil-chg ${up ? 'up' : 'down'}">${row.chg == null ? '' : (up ? '▲' : '▼') + ' ' + Math.abs(row.chg).toFixed(1) + '%'}</span>`;
+      } else {
+        el.innerHTML = `<span class="oil-name">${row.label}</span><span class="oil-price">—</span><span class="oil-chg"></span>`;
+      }
       list.appendChild(el);
     }
-    if (!any) throw new Error('no rows');
-    $('oil-note').textContent = 'per barrel · delayed';
-    stamp();
+    $('oil-note').textContent = any ? 'per barrel · delayed' : 'source unavailable';
+    if (any) stamp();
   } catch (e) {
     list.innerHTML = '<div class="oil-row"><span class="oil-name">Oil prices unavailable</span></div>';
   }
 }
 
-/* ---------- prayer times (Aladhan, no key) ---------- */
+/* ---------- exchange rates (open.er-api.com, no key) ---------- */
 
-const PRAYERS = [['Fajr', 'بەیانی'], ['Dhuhr', 'نیوەڕۆ'], ['Asr', 'عەسر'], ['Maghrib', 'مەغریب'], ['Isha', 'عیشا']];
-
-async function loadPrayer() {
+async function loadFx() {
   try {
-    const r = await fetch(`https://api.aladhan.com/v1/timings?latitude=${CONFIG.lat}&longitude=${CONFIG.lon}&method=3`);
+    const r = await fetch('https://open.er-api.com/v6/latest/USD');
     const d = await r.json();
-    const t = d.data.timings;
-    const now = new Date();
-    const nowMin = now.getHours() * 60 + now.getMinutes();
-    const toMin = (hhmm) => { const [h, m] = hhmm.split(':').map(Number); return h * 60 + m; };
-
-    let nextIdx = -1;
-    for (let i = 0; i < PRAYERS.length; i++) {
-      if (toMin(t[PRAYERS[i][0]]) > nowMin) { nextIdx = i; break; }
-    }
-
-    const list = $('prayer-list');
+    if (!d.rates) throw new Error('no rates');
+    const rows = [
+      { label: 'USD → IQD', value: d.rates.IQD, dp: 0 },
+      { label: 'EUR → IQD', value: d.rates.IQD / d.rates.EUR, dp: 0 },
+      { label: 'GBP → IQD', value: d.rates.IQD / d.rates.GBP, dp: 0 },
+      { label: 'USD → SEK', value: d.rates.SEK, dp: 2 },
+    ];
+    const list = $('fx-list');
     list.innerHTML = '';
-    PRAYERS.forEach(([en, ku], i) => {
+    for (const row of rows) {
+      if (!row.value || !isFinite(row.value)) continue;
       const el = document.createElement('div');
-      el.className = 'prayer-row' + (i === nextIdx ? ' next' : '') + (toMin(t[en]) <= nowMin && i !== nextIdx ? ' past' : '');
-      el.innerHTML = `<span class="p-name">${en} · ${ku}</span><span class="p-time">${t[en]}</span>`;
+      el.className = 'fx-row';
+      el.innerHTML = `<span class="fx-name">${row.label}</span>`
+        + `<span class="fx-val">${row.value.toLocaleString('en-GB', { minimumFractionDigits: row.dp, maximumFractionDigits: row.dp })}</span>`;
       list.appendChild(el);
-    });
-
-    if (nextIdx !== -1) {
-      const mins = toMin(t[PRAYERS[nextIdx][0]]) - nowMin;
-      const h = Math.floor(mins / 60), m = mins % 60;
-      $('prayer-next').textContent = `Next: ${PRAYERS[nextIdx][0]} in ${h ? h + 'h ' : ''}${m}m`;
-    } else {
-      $('prayer-next').textContent = 'All prayers done for today';
     }
+    $('fx-note').textContent = d.time_last_update_utc ? 'updated ' + d.time_last_update_utc.slice(5, 16) : '';
     stamp();
   } catch (e) {
-    $('prayer-list').textContent = 'Prayer times unavailable';
+    $('fx-list').textContent = 'Exchange rates unavailable';
   }
 }
 
-/* ---------- on this day (Wikipedia, no key) ---------- */
+/* ---------- air quality (Open-Meteo, no key) ---------- */
 
-async function loadOnThisDay() {
+function aqiLabel(v) {
+  if (v == null) return ['—', ''];
+  if (v <= 20) return ['Good', 'good'];
+  if (v <= 40) return ['Fair', 'fair'];
+  if (v <= 60) return ['Moderate', 'moderate'];
+  if (v <= 80) return ['Poor', 'poor'];
+  if (v <= 100) return ['Very poor', 'verypoor'];
+  return ['Extremely poor', 'verypoor'];
+}
+
+async function loadAir() {
   try {
-    const now = new Date();
-    const url = `https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/events/${pad(now.getMonth() + 1)}/${pad(now.getDate())}`;
+    const url = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${CONFIG.lat}&longitude=${CONFIG.lon}`
+      + `&current=european_aqi,pm10,pm2_5,dust&timezone=auto`;
     const r = await fetch(url);
     const d = await r.json();
-    const events = (d.events || []).sort((a, b) => b.year - a.year).slice(0, 3);
-    const box = $('otd-body');
-    box.innerHTML = '';
-    for (const ev of events) {
-      const el = document.createElement('div');
-      el.className = 'otd-item';
-      el.innerHTML = `<span class="otd-year">${ev.year}</span><span class="otd-text"></span>`;
-      el.querySelector('.otd-text').textContent = ev.text;
-      box.appendChild(el);
-    }
-    if (!events.length) $('otd-body').textContent = 'No events found';
+    const c = d.current || {};
+    const [label, cls] = aqiLabel(c.european_aqi);
+    $('air-body').innerHTML = `<div class="air-main ${cls}">${c.european_aqi != null ? Math.round(c.european_aqi) : '—'}`
+      + `<span class="air-label">${label}</span></div>`
+      + `<div class="air-meta">`
+      + `<span>PM2.5 <b>${c.pm2_5 != null ? Math.round(c.pm2_5) : '—'}</b></span>`
+      + `<span>PM10 <b>${c.pm10 != null ? Math.round(c.pm10) : '—'}</b></span>`
+      + `<span>Dust <b>${c.dust != null ? Math.round(c.dust) : '—'}</b></span>`
+      + `</div>`;
+    stamp();
   } catch (e) {
-    $('otd-body').textContent = 'Unavailable';
+    $('air-body').textContent = 'Air quality unavailable';
   }
 }
 
@@ -1410,15 +1431,15 @@ setInterval(tickClock, 1000);
 loadWeather();
 loadNews();
 loadOil();
-loadPrayer();
-loadOnThisDay();
+loadFx();
+loadAir();
 keepAwake();
 
 setInterval(loadWeather, CONFIG.weatherEvery);
 setInterval(loadNews, CONFIG.newsEvery);
 setInterval(loadOil, CONFIG.oilEvery);
-setInterval(loadPrayer, CONFIG.prayerEvery);
-setInterval(loadOnThisDay, 6 * 60 * 60 * 1000);
+setInterval(loadFx, 60 * 60 * 1000);
+setInterval(loadAir, 30 * 60 * 1000);
 </script>
 </body>
 </html>
