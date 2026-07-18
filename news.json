@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T05:29:04.829Z",
+ "updated": "2026-07-18T07:15:28.483Z",
  "items": [
   {
    "src": "BBC",
@@ -44,6 +44,14 @@
   {
    "src": "NPR",
    "section": "ئەمریکا · US & World",
+   "title": "U.S. and Iran escalate strikes across Mideast",
+   "date": "2026-07-18T06:01:20.000Z",
+   "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+   "desc": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified."
+  },
+  {
+   "src": "NPR",
+   "section": "ئەمریکا · US & World",
    "title": "China signals possible return of U.S. trade privileges for Hong Kong",
    "date": "2026-07-17T19:16:16.000Z",
    "link": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
@@ -72,14 +80,6 @@
    "date": "2026-07-17T11:13:58.000Z",
    "link": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
    "desc": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war."
-  },
-  {
-   "src": "NPR",
-   "section": "ئەمریکا · US & World",
-   "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-   "date": "2026-07-17T07:17:04.000Z",
-   "link": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
-   "desc": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies."
   }
  ]
 }
