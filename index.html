@@ -1108,7 +1108,7 @@ function stripHtml(s) {
 let newsRetryTimer = null;
 
 // words that mark a headline as breaking/high-priority
-const BREAKING = /skjut|skott|mord|döda[dt]|dödsfall|attack|explosion|terror|evakuer|rån|gisslan|larm om|akut|kris|shooting|shot|killed|explosion|attack|hostage|breaking/i;
+const BREAKING = /breaking|urgent|killed|dead|attack|explosion|strike|bombing|shooting|earthquake|emergency|evacuat|hostage|coup|resign/i;
 
 const NEWS_MAX_AGE = 12 * 3600e3; // headlines rotate out after 12 h
 
@@ -1182,7 +1182,7 @@ async function loadNews() {
     if (r.ok) {
       const d = await r.json();
       items = (d.items || []).map((i) => ({
-        src: i.src, section: i.section || 'Nyheter', title: i.title, date: new Date(i.date),
+        src: i.src, section: i.section || 'News', title: i.title, date: new Date(i.date),
         desc: i.desc || '', link: i.link || '',
       }));
     }
@@ -1194,7 +1194,7 @@ async function loadNews() {
     items = perFeed.flat();
   }
   if (!items.length) {
-    $('news-sections').innerHTML = '<div class="headline"><span class="txt">Nyheter otillgängliga · försöker igen strax</span></div>';
+    $('news-sections').innerHTML = '<div class="headline"><span class="txt">News unavailable · retrying shortly</span></div>';
     clearTimeout(newsRetryTimer);
     newsRetryTimer = setTimeout(loadNews, 90 * 1000);
     return;
@@ -1205,6 +1205,94 @@ async function loadNews() {
   if (maxPanel === 'news') openMax('news'); // refresh if currently maximized
   stamp();
 }
+
+
+/* ---------- oil prices (Yahoo Finance primary, stooq backup, no key) ---------- */
+
+const PROXIES = [
+  (u) => u,
+  (u) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
+  (u) => 'https://corsproxy.io/?url=' + encodeURIComponent(u),
+];
+
+async function tryFetchText(url) {
+  for (const wrap of PROXIES) {
+    try {
+      const r = await fetch(wrap(url));
+      if (!r.ok) continue;
+      const t = await r.text();
+      if (t && t.length > 10) return t;
+    } catch (e) { /* next proxy */ }
+  }
+  return null;
+}
+
+// Yahoo Finance quote endpoint: BZ=F (Brent), CL=F (WTI)
+async function yahooQuote(symbol) {
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=1d&range=5d`;
+  const text = await tryFetchText(url);
+  if (!text) return null;
+  try {
+    const d = JSON.parse(text);
+    const res = d.chart && d.chart.result && d.chart.result[0];
+    if (!res) return null;
+    const meta = res.meta || {};
+    const price = meta.regularMarketPrice;
+    const prev = meta.chartPreviousClose ?? meta.previousClose;
+    if (!price) return null;
+    const chg = prev ? ((price - prev) / prev) * 100 : null;
+    return { price, chg };
+  } catch (e) { return null; }
+}
+
+async function stooqQuote(code) {
+  const text = await tryFetchText(`https://stooq.com/q/l/?s=${code}&f=sd2t2ohlcv&h&e=csv`);
+  if (!text || !text.includes(',')) return null;
+  const lines = text.trim().split('\n');
+  const cols = lines[lines.length - 1].split(',');
+  const open = parseFloat(cols[3]);
+  const close = parseFloat(cols[6]);
+  if (!close || isNaN(close)) return null;
+  return { price: close, chg: (close && open) ? ((close - open) / open) * 100 : null };
+}
+
+async function loadOil() {
+  const symbols = [
+    { label: 'Brent', yahoo: 'BZ=F', stooq: 'cb.f' },
+    { label: 'WTI', yahoo: 'CL=F', stooq: 'cl.f' },
+  ];
+  const list = $('oil-list');
+  try {
+    const rows = await Promise.all(symbols.map(async (s) => {
+      let q = await yahooQuote(s.yahoo);
+      if (!q) q = await stooqQuote(s.stooq);
+      return { label: s.label, ...(q || { price: null, chg: null }) };
+    }));
+    list.innerHTML = '';
+    let any = false;
+    for (const row of rows) {
+      const el = document.createElement('div');
+      el.className = 'oil-row';
+      if (row.price) {
+        any = true;
+        const up = row.chg >= 0;
+        el.innerHTML = `<span class="oil-name">${row.label}</span>`
+          + `<span class="oil-price">$${row.price.toFixed(2)}</span>`
+          + `<span class="oil-chg ${up ? 'up' : 'down'}">${row.chg == null ? '' : (up ? '▲' : '▼') + ' ' + Math.abs(row.chg).toFixed(1) + '%'}</span>`;
+      } else {
+        el.innerHTML = `<span class="oil-name">${row.label}</span><span class="oil-price">—</span><span class="oil-chg"></span>`;
+      }
+      list.appendChild(el);
+    }
+    $('oil-note').textContent = any ? 'per barrel · delayed' : 'source unavailable';
+    if (any) stamp();
+  } catch (e) {
+    list.innerHTML = '<div class="oil-row"><span class="oil-name">Oil prices unavailable</span></div>';
+  }
+}
+
+/* ---------- news via RSS ---------- */
+
 
 
 /* ---------- oil prices (stooq CSV via proxy chain, no key) ---------- */
