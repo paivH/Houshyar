@@ -372,17 +372,6 @@
 
   #deals-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
 
-  /* oil */
-  #oil { display: flex; flex-direction: column; }
-  #oil-list { display: flex; flex-direction: column; gap: 1.2vmin; }
-  .oil-row { display: flex; align-items: baseline; gap: 1.5vmin; font-size: clamp(14px, 2.5vmin, 22px); }
-  .oil-name { flex: 1; color: var(--ink); }
-  .oil-price { font-weight: 600; font-variant-numeric: tabular-nums; color: var(--ink); }
-  .oil-chg { min-width: 6ch; text-align: right; font-size: 0.82em; font-variant-numeric: tabular-nums; }
-  .oil-chg.up { color: #79a86b; }
-  .oil-chg.down { color: #c76b6b; }
-  #oil-note { font-size: clamp(10px, 1.6vmin, 13px); color: var(--ink-faint); margin-top: auto; padding-top: 1vmin; }
-
   /* exchange rates */
   #fx { display: flex; flex-direction: column; }
   #fx-list { display: flex; flex-direction: column; gap: 1.1vmin; }
@@ -738,7 +727,7 @@
     .headline .txt { white-space: normal; }        /* wrap long headlines on phone */
 
     h2, .news-col h3 { font-size: 3.4vw; }
-    .oil-row, .fx-row, .air-meta, .headline { font-size: 4vw; }
+    .fx-row, .air-meta, .headline { font-size: 4vw; }
 
     /* expand buttons are redundant when the page scrolls */
     .expand { display: none; }
@@ -778,11 +767,6 @@
   </div>
 
   <div id="row2">
-    <div class="panel" id="oil">
-      <h2>Oil · بازاڕی نەوت</h2>
-      <div id="oil-list"><div class="oil-row"><span class="oil-name">Loading …</span></div></div>
-      <div id="oil-note"></div>
-    </div>
     <div class="panel" id="fx">
       <h2>Exchange rates · ڕێژەی دراو</h2>
       <div id="fx-list">Loading …</div>
@@ -873,7 +857,6 @@ const CONFIG = {
   // refresh intervals (ms)
   weatherEvery: 15 * 60 * 1000,
   newsEvery: 10 * 60 * 1000,
-  oilEvery: 30 * 60 * 1000,
   fxEvery: 60 * 60 * 1000,
 };
 
@@ -1207,155 +1190,6 @@ async function loadNews() {
 }
 
 
-/* ---------- oil prices (Yahoo Finance primary, stooq backup, no key) ---------- */
-
-const PROXIES = [
-  (u) => u,
-  (u) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
-  (u) => 'https://corsproxy.io/?url=' + encodeURIComponent(u),
-];
-
-async function tryFetchText(url) {
-  for (const wrap of PROXIES) {
-    try {
-      const r = await fetch(wrap(url));
-      if (!r.ok) continue;
-      const t = await r.text();
-      if (t && t.length > 10) return t;
-    } catch (e) { /* next proxy */ }
-  }
-  return null;
-}
-
-// Yahoo Finance quote endpoint: BZ=F (Brent), CL=F (WTI)
-async function yahooQuote(symbol) {
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=1d&range=5d`;
-  const text = await tryFetchText(url);
-  if (!text) return null;
-  try {
-    const d = JSON.parse(text);
-    const res = d.chart && d.chart.result && d.chart.result[0];
-    if (!res) return null;
-    const meta = res.meta || {};
-    const price = meta.regularMarketPrice;
-    const prev = meta.chartPreviousClose ?? meta.previousClose;
-    if (!price) return null;
-    const chg = prev ? ((price - prev) / prev) * 100 : null;
-    return { price, chg };
-  } catch (e) { return null; }
-}
-
-async function stooqQuote(code) {
-  const text = await tryFetchText(`https://stooq.com/q/l/?s=${code}&f=sd2t2ohlcv&h&e=csv`);
-  if (!text || !text.includes(',')) return null;
-  const lines = text.trim().split('\n');
-  const cols = lines[lines.length - 1].split(',');
-  const open = parseFloat(cols[3]);
-  const close = parseFloat(cols[6]);
-  if (!close || isNaN(close)) return null;
-  return { price: close, chg: (close && open) ? ((close - open) / open) * 100 : null };
-}
-
-async function loadOil() {
-  const symbols = [
-    { label: 'Brent', yahoo: 'BZ=F', stooq: 'cb.f' },
-    { label: 'WTI', yahoo: 'CL=F', stooq: 'cl.f' },
-  ];
-  const list = $('oil-list');
-  try {
-    const rows = await Promise.all(symbols.map(async (s) => {
-      let q = await yahooQuote(s.yahoo);
-      if (!q) q = await stooqQuote(s.stooq);
-      return { label: s.label, ...(q || { price: null, chg: null }) };
-    }));
-    list.innerHTML = '';
-    let any = false;
-    for (const row of rows) {
-      const el = document.createElement('div');
-      el.className = 'oil-row';
-      if (row.price) {
-        any = true;
-        const up = row.chg >= 0;
-        el.innerHTML = `<span class="oil-name">${row.label}</span>`
-          + `<span class="oil-price">$${row.price.toFixed(2)}</span>`
-          + `<span class="oil-chg ${up ? 'up' : 'down'}">${row.chg == null ? '' : (up ? '▲' : '▼') + ' ' + Math.abs(row.chg).toFixed(1) + '%'}</span>`;
-      } else {
-        el.innerHTML = `<span class="oil-name">${row.label}</span><span class="oil-price">—</span><span class="oil-chg"></span>`;
-      }
-      list.appendChild(el);
-    }
-    $('oil-note').textContent = any ? 'per barrel · delayed' : 'source unavailable';
-    if (any) stamp();
-  } catch (e) {
-    list.innerHTML = '<div class="oil-row"><span class="oil-name">Oil prices unavailable</span></div>';
-  }
-}
-
-/* ---------- news via RSS ---------- */
-
-
-
-/* ---------- oil prices (stooq CSV via proxy chain, no key) ---------- */
-
-async function fetchCsv(url) {
-  // try direct, then two CORS proxies — stooq usually needs a proxy in-browser
-  const attempts = [
-    url,
-    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
-    'https://corsproxy.io/?url=' + encodeURIComponent(url),
-  ];
-  for (const u of attempts) {
-    try {
-      const r = await fetch(u);
-      if (!r.ok) continue;
-      const t = await r.text();
-      if (/\d/.test(t) && t.includes(',')) return t;
-    } catch (e) { /* next */ }
-  }
-  throw new Error('all sources failed');
-}
-
-async function loadOil() {
-  const symbols = [
-    { code: 'cb.f', label: 'Brent' },
-    { code: 'cl.f', label: 'WTI' },
-  ];
-  const list = $('oil-list');
-  try {
-    const rows = await Promise.all(symbols.map(async (s) => {
-      try {
-        const text = await fetchCsv(`https://stooq.com/q/l/?s=${s.code}&f=sd2t2ohlcv&h&e=csv`);
-        const lines = text.trim().split('\n');
-        const cols = lines[lines.length - 1].split(',');
-        const open = parseFloat(cols[3]);
-        const close = parseFloat(cols[6]);
-        const chg = (close && open) ? ((close - open) / open) * 100 : null;
-        return { label: s.label, price: close, chg };
-      } catch (e) { return { label: s.label, price: null, chg: null }; }
-    }));
-    list.innerHTML = '';
-    let any = false;
-    for (const row of rows) {
-      const el = document.createElement('div');
-      el.className = 'oil-row';
-      if (row.price && !isNaN(row.price)) {
-        any = true;
-        const up = row.chg >= 0;
-        el.innerHTML = `<span class="oil-name">${row.label}</span>`
-          + `<span class="oil-price">$${row.price.toFixed(2)}</span>`
-          + `<span class="oil-chg ${up ? 'up' : 'down'}">${row.chg == null ? '' : (up ? '▲' : '▼') + ' ' + Math.abs(row.chg).toFixed(1) + '%'}</span>`;
-      } else {
-        el.innerHTML = `<span class="oil-name">${row.label}</span><span class="oil-price">—</span><span class="oil-chg"></span>`;
-      }
-      list.appendChild(el);
-    }
-    $('oil-note').textContent = any ? 'per barrel · delayed' : 'source unavailable';
-    if (any) stamp();
-  } catch (e) {
-    list.innerHTML = '<div class="oil-row"><span class="oil-name">Oil prices unavailable</span></div>';
-  }
-}
-
 /* ---------- exchange rates (open.er-api.com, no key) ---------- */
 
 async function loadFx() {
@@ -1518,14 +1352,12 @@ tickClock();
 setInterval(tickClock, 1000);
 loadWeather();
 loadNews();
-loadOil();
 loadFx();
 loadAir();
 keepAwake();
 
 setInterval(loadWeather, CONFIG.weatherEvery);
 setInterval(loadNews, CONFIG.newsEvery);
-setInterval(loadOil, CONFIG.oilEvery);
 setInterval(loadFx, 60 * 60 * 1000);
 setInterval(loadAir, 30 * 60 * 1000);
 </script>
