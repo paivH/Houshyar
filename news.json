@@ -1,14 +1,6 @@
 {
- "updated": "2026-07-18T15:59:57.575Z",
+ "updated": "2026-07-18T17:07:33.527Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-07-18T13:53:07.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -40,6 +32,22 @@
    "desc": "Last batch of Afrin IDPs return to their homes &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16WFFveE8xQ2dWeEsyRF9pdy1OZW12M0dJaTl6TEZ1TUktaDJ6SDh1Umh3dVMwc1o5M2NyWmM1YmVmUm1XMmVfbEItYzVmN2FrR3YxN21GSE1DcmV5ZW42T1NIN0Q?oc=5",
    "date": "2026-07-16T23:31:13.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "US forces board oil tanker amid renewed Hormuz blockade",
+   "desc": "US forces board oil tanker amid renewed Hormuz blockade &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LWVRfd1FVazExS2xvNmtyM214Z3FvRzR0RTdvUXFJcDg1Nks0OHdvZm5hdk5ralROX3llSUQ4b19xemh5YTFvUjlqMm83NW9vaTdDMll5Mmh3TFk0TkRxd0hRTkx5UEVyYXdF?oc=5",
+   "date": "2026-07-17T12:42:55.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq, U.S. Reach Understanding to Reinstate Restricted Banks to International Banking Channels",
+   "desc": "Seven Iraqi banks qualify to resume non-dollar foreign correspondent banking as reforms and compliance efforts advance",
+   "link": "https://www.kurdistan24.net/en/story/926621/iraq-us-reach-understanding-to-reinstate-restricted-banks-to-international-banking-channels",
+   "date": "2026-07-18T16:20:00.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,36 @@
    "date": "2026-07-18T12:34:59.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "ASYCUDA Implementation Nears Final Stage, KRG Rejects Salary Link",
-   "desc": "KRG says ASYCUDA customs reform is separate from public-sector salary payments as Erbil and Baghdad move closer to final approval of the system.",
-   "link": "https://www.kurdistan24.net/en/story/926585/asycuda-implementation-nears-final-stage-krg-rejects-salary-link",
-   "date": "2026-07-18T12:06:08.000Z"
+   "title": "Praise and pressure greet Mourinho’s Real Madrid return",
+   "desc": "Shafaq News- Madrid Jose Mourinho has begun his second spell as Real Madrid coach with support from players and former internationals, but analysts question whether his methods can restore the club&rsquo;s dominance. Madrid appointed the Portuguese until June 2029 after losing LaLiga to Barcelona and exiting last season&rsquo;s Champions League in the quarterfinals. Trent Alexander-Arnold praised ",
+   "link": "https://shafaq.com/en/sport/Praise-and-pressure-greet-Mourinho-s-Real-Madrid-return",
+   "date": "2026-07-18T17:01:24.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran freezes Islamabad MoU over US attacks",
+   "desc": "Shafaq News- Tehran Iran suspended its commitments under the Islamabad Memorandum of Understanding (MoU) after renewed US strikes, Deputy Foreign Minister Kazem Gharibabadi announced on Saturday. Speaking to the semi-official Fars News Agency, Gharibabadi accused Washington of breaching the agreement while negotiations were underway, arguing that Iran was now defending itself. Foreign Ministry spo",
+   "link": "https://shafaq.com/en/Middle-East/Iran-freezes-Islamabad-MoU-over-US-attacks",
+   "date": "2026-07-18T16:37:18.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Turkiye arrests 119 in nationwide ISIS crackdown",
+   "desc": "Shafaq News- Ankara Turkish gendarmerie detained 119 suspected ISIS members in coordinated operations across 30 provinces, the Turkish Interior Ministry announced on Saturday. The detainees were identified as promoting ISIS propaganda through social media accounts, belonging to the militant group, and raising funds for the group through affiliated individuals and so-called aid organizations. Last ",
+   "link": "https://shafaq.com/en/Middle-East/Turkiye-arrests-119-in-nationwide-ISIS-crackdown",
+   "date": "2026-07-18T16:28:03.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Corruption settlements may return $7.6B to Iraq",
+   "desc": "Shafaq News- Baghdad Preliminary settlements with people convicted of corruption could recover about 10 trillion dinars ($7.6 billion) through the return of stolen funds and confiscation of assets acquired with public money, an Iraqi government source told Shafaq News on Saturday. The settlements would neither overturn convictions nor waive the state&rsquo;s right to prosecute , but would &ldquo;e",
+   "link": "https://shafaq.com/en/Iraq/Corruption-settlements-may-return-7-6B-to-Iraq",
+   "date": "2026-07-18T16:05:15.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,38 +120,6 @@
    "desc": "Shafaq News- Cairo Iran's attacks on Gulf states and the Kurdistan Region of Iraq (KRI) aim to widen the conflict, push the region toward instability, and undermine security, Arab League Secretary-General Nabil Fahmy said on Saturday. Fahmy stated that the attacks on the KRI and Gulf countries were &ldquo;criminal and reckless.&rdquo; The &ldquo;escalating&rdquo; Iranian attacks targeting Bahrain,",
    "link": "https://shafaq.com/en/World/Arab-League-condemns-Iran-attacks-on-Arab-states-KRI",
    "date": "2026-07-18T15:26:00.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Syrian Kurdish council urges action over attacks on KRI",
-   "desc": "Shafaq News- Damascus The Kurdish National Council in Syria (ENKS) on Saturday condemned the continuing attacks on the Kurdistan Region of Iraq (KRI), describing them as violations of Iraqi sovereignty and international law. In a statement, the council accused Iran of pursuing policies that undermine regional stability and violate the territorial integrity of neighboring states. It also noted that",
-   "link": "https://shafaq.com/en/Kurdistan/Syrian-Kurdish-council-urges-action-over-attacks-on-KRI",
-   "date": "2026-07-18T15:01:15.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq slips to sixth among Turkiye's foreign homebuyers",
-   "desc": "Shafaq News- Baghdad/ Ankara Iraqis purchased 98 homes and four commercial properties in Turkiye in June, up from 66 homes in May, although their ranking among foreign homebuyers slipped from fifth to sixth, the Turkish Statistical Institute (TURKSTAT) reported on Saturday. The data showed that foreigners purchased a total of 2,024 homes and 114 commercial properties across Turkiye during the mont",
-   "link": "https://shafaq.com/en/Economy/Iraq-slips-to-sixth-among-Turkiye-s-foreign-homebuyers",
-   "date": "2026-07-18T14:39:37.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Fuel tanker erupts in flames in Al-Sulaymaniyah",
-   "desc": "Shafaq News- Al-Sulaymaniyah A fuel tanker caught fire in Tasluja in Al-Sulaymaniyah, the Kurdistan Region of Iraq, on Saturday, sending a thick cloud of black smoke into the sky, a local official told Shafaq News. Aram Ali, spokesperson for Al-Sulaymaniyah's Civil Defense Directorate, said the authorities have not yet determined the cause of the fire and the extent of damage. No casualties have b",
-   "link": "https://shafaq.com/en/Kurdistan/Fuel-tanker-erupts-in-flames-in-Al-Sulaymaniyah",
-   "date": "2026-07-18T13:55:50.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran signals broader attacks on regional energy infrastructure",
-   "desc": "Shafaq News- Tehran Iran has begun implementing a plan that could extend its response to regional energy, water purification, and desalination infrastructure, including in Kuwait, if US strikes continue, an Iranian military source cited by Middle East Spectator claimed on Saturday. Tehran had also shifted to high-precision medium-range ballistic missiles after earlier launches of less accurate pro",
-   "link": "https://shafaq.com/en/World/Iran-signals-broader-attacks-on-regional-energy-infrastructure",
-   "date": "2026-07-18T13:47:17.000Z"
   },
   {
    "src": "BBC",
@@ -207,7 +207,7 @@
    "title": "US strikes hit Iran for seventh consecutive night",
    "desc": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
    "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-18T15:04:25.000Z"
+   "date": "2026-07-18T16:56:34.000Z"
   },
   {
    "src": "BBC ME",
@@ -327,7 +327,15 @@
    "title": "Aquban Dam Strengthens Water Security, Agriculture, and Tourism in Erbil",
    "desc": "Aquban Dam Strengthens Water Security, Agriculture, and Tourism in Erbil &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjM5S2dFX213ejhJRmRlRVUzTFBYTURSRU9pYjZqS1JXZmVyMG1fVXMyRHk4VG5FcDY1U056M2JPWExMUkhoSHFvcEpqSC1hLXFQZ19nRGEzRk9LTnVqaTNDZUlYNGUzYmNtRnNtMi1iaFFGMllJM09fSzQ5ZnRSUmdKbjhmMUc4WGZEUktRN09RYk1YNzdRLTdLQno2UV9fbllkaENDN1ZPSU1BYW1QSWhZaFU?oc=5",
-   "date": "2026-07-09T13:30:00.000Z"
+   "date": "2026-07-09T07:00:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan referendum sparks fear in Christians, Yazides and Turkmen",
+   "desc": "Kurdistan referendum sparks fear in Christians, Yazides and Turkmen &nbsp;&nbsp; AsiaNews",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXBHTEVKaVJQUDRzN2lSX29ZY2RiY3YzUnFYS1FtYzdPc281NmpQYjctNEZMR0NHOTVIc05JV0s4QnlKNUdqcnZ1Q3phX05DR1NLVGE2SFBKZWpCTzh6em5ZV0MtdHRYTHNWSGxpZlAzYlFxb1Q3UlFwVjFtUk9BTFA0akVQV1FVTFBKcGF2akVpRGtfRTl3eEUyejY5dFhoZ3F5OGdwWDVWQ0dFNHJn?oc=5",
+   "date": "2026-07-18T10:49:22.000Z"
   },
   {
    "src": "Tourism",
@@ -352,14 +360,6 @@
    "desc": "Bastora, Dwin Dams Strengthen Kurdistan Region's Water Security and Tourism &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlphMXk5VVBFa00yS0ZMNERoOFZLRFE5Qjd5MWxuWEo0MF81UXB2YUxDZ0VuTTlTS2hoVXRWQ0w1UU5hOE9lam11N3BwRlVhQ3hya1FzRjhiNWZzbkl6cTF5ckNpaURGcjNaS3Q2bDFpNnZnT0hoZFRUUFA0VTU0OWdOX2NzY0QydDhWSWEtN2Y2XzAzSFdBTzhYS2kzbTJwUC1mVzJHVkFPWFZfQnE3SlMyWGhTcDNF?oc=5",
    "date": "2026-07-10T10:30:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Byara's historic khanaqah seeks place among UN's best tourist villages",
-   "desc": "Byara's historic khanaqah seeks place among UN's best tourist villages &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84Q2hqeTVGemNmMUNVSi1QQy1aanhCV1hqMHpyM3gxeDhGSTNMOXRGLW9rb01sd1B5dk8zZTRjMk56ZVJMcWkxa05Edw?oc=5",
-   "date": "2026-07-08T10:04:06.000Z"
   }
  ]
 }
