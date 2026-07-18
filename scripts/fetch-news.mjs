@@ -5,23 +5,22 @@
 import { writeFileSync } from 'node:fs';
 
 const FEEDS = [
-  // Kurdish outlets — several candidate feed URLs each; the first that works wins.
+  // Kurdish / Kurdistan Region outlets. Several candidate URLs each; first that works wins.
+  // Google News source-syndication is the last resort — it always works.
   { name: 'Rudaw', section: 'Kurdistan · کوردستان', urls: [
-    'https://www.rudaw.net/rss/rudaw?language=english',
-    'https://www.rudaw.net/rss/english',
-    'https://www.rudaw.net/english/rss',
-    'https://rudaw.net/rss/english',
+    'https://www.rudaw.net/rss.aspx?language=english',
+    'https://www.rudaw.net/english/rss.aspx',
+    'https://www.rudaw.net/rss/english.xml',
+    'https://news.google.com/rss/search?q=when:2d+site:rudaw.net&hl=en-US&gl=US&ceid=US:en',
   ] },
   { name: 'K24', section: 'Kurdistan · کوردستان', urls: [
-    'https://www.kurdistan24.net/en/rss',
-    'https://www.kurdistan24.net/rss/en',
-    'https://www.kurdistan24.net/en/feed',
     'https://www.kurdistan24.net/en/rss.xml',
   ] },
   { name: 'Shafaq', section: 'Kurdistan · کوردستان', urls: [
-    'https://shafaq.com/en/rss.xml',
-    'https://shafaq.com/en/feed',
     'https://shafaq.com/rss/en',
+  ] },
+  { name: 'Kurdistan', section: 'Kurdistan · کوردستان', urls: [
+    'https://news.google.com/rss/search?q=Kurdistan+Region+Erbil+when:2d&hl=en-US&gl=US&ceid=US:en',
   ] },
   { name: 'BBC', section: 'US & World · جیهان', urls: [
     'https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml',
@@ -76,8 +75,10 @@ for (const feed of FEEDS) {
       };
       let n = 0;
       for (const [, b] of blocks) {
-        const title = stripTags(pick(b, 'title'));
+        let title = stripTags(pick(b, 'title'));
         if (!title) continue;
+        // Google News appends ' - Publisher'; trim it for a clean headline
+        if (url.includes('news.google.com')) title = title.replace(/\s+-\s+[^-]{2,40}$/, '').trim();
         items.push({
           src: feed.name,
           section: feed.section,
@@ -97,8 +98,18 @@ for (const feed of FEEDS) {
   if (!got) console.error(`!! ${feed.name}: no working feed URL found`);
 }
 
+// drop duplicate stories (same headline surfaced by several feeds)
+const seenTitles = new Set();
+const deduped = items.filter((it) => {
+  const k = it.title.toLowerCase().replace(/[^a-z0-9\u0600-\u06ff ]/g, '').slice(0, 60);
+  if (seenTitles.has(k)) return false;
+  seenTitles.add(k);
+  return true;
+});
+console.log(`deduped ${items.length} -> ${deduped.length} items`);
+
 writeFileSync(
   'news.json',
-  JSON.stringify({ updated: new Date().toISOString(), items }, null, 1)
+  JSON.stringify({ updated: new Date().toISOString(), items: deduped }, null, 1)
 );
-console.log(`wrote news.json with ${items.length} items`);
+console.log(`wrote news.json with ${deduped.length} items`);
