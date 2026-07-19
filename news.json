@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T20:53:23.117Z",
+ "updated": "2026-07-19T21:55:56.420Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,6 +12,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04bmsycG5DekxXZENRaHgyc3YwX0xaR3lOTzJ2MmJZdEw2TVg5NGxHbGVGeHBFVEZSQXpGZ3NyRkZQc1ZETW55RFZOcnNFSi1yeklvMVRpa284b21QRkE?oc=5",
+   "date": "2026-07-19T01:28:28.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq arrests bulk cash couriers, seizes millions in Mastercards",
    "desc": "Iraq arrests bulk cash couriers, seizes millions in Mastercards &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ydUtPTTlIYXpYdXRzTjc2WF9CbXZpRkpLM2JycE55cVgtenUzZEt5OV9mU0l4VXM3TjJPOFNaWTZoc21uZjNDRXdMcGdZbG5TUEZqQUczZG5ZYWk1V0E?oc=5",
@@ -20,26 +28,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraq’s parliament votes to discharge officials over fisherman killing",
+   "desc": "Iraq’s parliament votes to discharge officials over fisherman killing &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uXzhrMjh6QXZadXBwUE85M3RWS3drVWc1ekRSQkdFZDh6Zmh6bm5QME4ydElyaTlRN3NrR2xnR0czdlZFNkl0aTNMT1RTczVSV05nRWxoSFVHT0Z0Ymc?oc=5",
+   "date": "2026-07-19T21:47:51.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "PUK leader condemns Iranian missile strike on Kurdistan Region",
    "desc": "PUK leader condemns Iranian missile strike on Kurdistan Region &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTElic2xoeVRrYkJmbzR3c0prYmhaSF9BSWdnLS14Rm5meTlCWVowd2NFZ0FDNzlqS1VPVkVHbnVRdk5rdEJEOFRMZTJtVU5vc0tWZ1o4b2Nhd2RwZXBRWlp2OVU?oc=5",
    "date": "2026-07-18T20:46:15.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Two US troops killed, one missing in Jordan after Iranian attacks",
-   "desc": "Two US troops killed, one missing in Jordan after Iranian attacks &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PbFdDRXNwRDRzUzE4enFUOWNWQTVlRGVkc0hnY2NDYUxRcjdIOWhfUFQySzB6MjhoUWp3YjVGcGRhcjVfeEc4Wlo4c2hTY2xGQTg5ZEV4b2xVaU9JYXFr?oc=5",
-   "date": "2026-07-18T18:51:00.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan gas field suspension causes 30% reduction in Erbil water supply",
-   "desc": "Kurdistan gas field suspension causes 30% reduction in Erbil water supply &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wNzgya2JNWE4yaUliSFZuX211cmNNTy1XMk5RcWRWVHZ2X2ZfWU5wTEtuTGlSRFU3Mjh6TGlqa05KbGpRSE9vdFdBQl9ERFgzcGsxUGlPSEphMWhBb1VQOW05WlhKTExydXc?oc=5",
-   "date": "2026-07-19T20:08:54.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Syria-SDF clash leaves 500+ dead",
+   "desc": "Shafaq News- Damascus Clashes between Syria&rsquo;s security authorities and the Kurdish-led Syrian Democratic Forces (SDF) have killed 530 people, including 76 civilians, the Syrian Observatory for Human Rights reported on Sunday. The Britain-based monitor documented eight additional fatalities, including five SDF fighters in northeastern Syria and three members of the Kurdish Internal Security F",
+   "link": "https://shafaq.com/en/Middle-East/Syria-SDF-clash-leaves-500-dead",
+   "date": "2026-07-19T21:44:52.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "World Cup final draws thousands to Erbil cafés",
+   "desc": "Shafaq News- Erbil Thousands of football fans filled caf&eacute;s, restaurants, and public squares across Erbil on Sunday to watch the 2026 FIFA World Cup final between Argentina and Spain. Shafaq News correspondent reported packed venues in Park Shar, Ainkawa, 60 Meter Street and Iskan, with many supporters wearing their teams' colors, while large outdoor screens attracted crowds eager to watch t",
+   "link": "https://shafaq.com/en/Kurdistan/World-Cup-final-draws-thousands-to-Erbil-caf-s",
+   "date": "2026-07-19T20:59:18.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Syria's Kurds hold 12 parliamentary seats, deserve 30",
    "desc": "Shafaq News Abdul Hakim Bashar, a Syrian Kurdish leader, member of the People's Assembly and member of the political bureau of the Kurdistan Democratic Party &ndash;Syria, spoke to Shafaq News about the first session of the new assembly, the level of Kurdish representation in it, the files Kurdish deputies intend to raise, and the limits of the agreements reached between Damascus and the Syrian De",
    "link": "https://shafaq.com/en/Report/Syria-s-Kurds-hold-12-parliamentary-seats-deserve-30",
@@ -106,22 +122,6 @@
    "date": "2026-07-19T19:49:47.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "5+ Iraqi Airways executives suspended over missing capital",
-   "desc": "Shafaq News- Baghdad Iraq's Ministry of Transport suspended eight senior Iraqi Airways officials on Sunday as authorities investigate the disappearance of 16 billion Iraqi dinars ($12.2M) from the state-owned carrier's accounts. An official document showed that Transport Minister Wahab Salman al-Hassani ordered the suspensions under Iraq's State Employees Discipline Law, pending the outcome of the",
-   "link": "https://shafaq.com/en/society/5-Iraqi-Airways-executives-suspended-over-missing-capital",
-   "date": "2026-07-19T19:11:20.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kuwait condemns Iranian strike on power, water facility",
-   "desc": "Shafaq News- Kuwait Kuwait held Iran fully responsible on Sunday for an attack on a power generation and water desalination plant, warning of the legal, moral, and security consequences of the strike. In a statement, the Foreign Ministry noted that the repeated deliberate targeting of critical civilian infrastructure marks a dangerous escalation and poses a serious threat to civilian safety and se",
-   "link": "https://shafaq.com/en/Middle-East/Kuwait-condemns-Iranian-strike-on-power-water-facility",
-   "date": "2026-07-19T18:45:21.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Tate brothers arrested in US as further UK charges take total to 59",
@@ -132,10 +132,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Madonna, Justin Bieber, Shakira and BTS perform at World Cup half-time show",
-   "desc": "Shakira, Robbie Wiliams and Jennifer Hudson were also part of the star-studded final, as Argentina took on Spain for the title.",
+   "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+   "desc": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
    "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-19T20:48:48.000Z"
+   "date": "2026-07-19T21:29:21.000Z"
   },
   {
    "src": "BBC",
@@ -160,6 +160,14 @@
    "desc": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
    "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-19T00:18:47.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Japan seeks to form new centralized spy agency",
+   "desc": "NPR's Adrian Ma speaks with Richard Samuels, professor of Political Science at the Massachusetts Institute of Technology, about Japan's effort to form a new centralized intelligence agency.",
+   "link": "https://www.npr.org/2026/07/19/nx-s1-5895099/japan-seeks-to-form-new-centralized-spy-agency",
+   "date": "2026-07-19T21:54:36.000Z"
   },
   {
    "src": "NPR",
@@ -192,14 +200,6 @@
    "desc": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country.",
    "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
    "date": "2026-07-19T07:27:59.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
-   "desc": "Influencer Andrew Tate and his brother Tristan have been arrested in Miami after British authorities issued 38 new charges against them, and said they are \"seeking extradition\" for the two men.",
-   "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-   "date": "2026-07-19T00:57:08.000Z"
   },
   {
    "src": "BBC ME",
