@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T07:41:20.949Z",
+ "updated": "2026-07-20T10:54:37.535Z",
  "items": [
   {
    "src": "Rudaw",
@@ -20,6 +20,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "China’s robots move beyond factories into everyday life",
+   "desc": "China’s robots move beyond factories into everyday life &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CdENYRWEzLW0wdzlqLWNEbVNHT2Vfc1VMU0wwZThVaS1XM01HdUUzWWNDa3E5MHRkSi1CNkxDTzdvTU9ucTNGbURpNnVOWk9lUHE1TTlyUUJIaVp2bVpjaU1ySEc?oc=5",
+   "date": "2026-07-20T09:29:42.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq arrests bulk cash couriers, seizes millions in Mastercards",
    "desc": "Iraq arrests bulk cash couriers, seizes millions in Mastercards &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ydUtPTTlIYXpYdXRzTjc2WF9CbXZpRkpLM2JycE55cVgtenUzZEt5OV9mU0l4VXM3TjJPOFNaWTZoc21uZjNDRXdMcGdZbG5TUEZqQUczZG5ZYWk1V0E?oc=5",
@@ -28,18 +36,42 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq’s parliament votes to discharge officials over fisherman killing",
-   "desc": "Iraq’s parliament votes to discharge officials over fisherman killing &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uXzhrMjh6QXZadXBwUE85M3RWS3drVWc1ekRSQkdFZDh6Zmh6bm5QME4ydElyaTlRN3NrR2xnR0czdlZFNkl0aTNMT1RTczVSV05nRWxoSFVHT0Z0Ymc?oc=5",
-   "date": "2026-07-19T22:47:51.000Z"
+   "title": "Gulf Keystone suspends operations at Duhok oil field",
+   "desc": "Gulf Keystone suspends operations at Duhok oil field &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ybEVBclM0WEFPNGlwY2hodThFeEhuUWt2bXB2LUpKb1ZlTTdtNWFDYlppYy1TMTJjY0RzOFd2U2FGYWVpa3lGem9HSzh1cjVKOXRUdHMtWWhoZEtGRzhackN4U3I?oc=5",
+   "date": "2026-07-20T07:54:18.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran launches fresh strikes on dissident group in Kurdistan",
-   "desc": "Iran launches fresh strikes on dissident group in Kurdistan &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1INlZob3pwak1sVVJreVdHSURaWll0REFSM1hjZGRjSVlNNUk3Y0k5MUREUmhBNGZhdmtkOFMwNzZFQ0V1TF90TGlBendZTllPOVJvNDZmbWR5RGxkUWhoZ3JCQU4?oc=5",
-   "date": "2026-07-20T06:39:12.000Z"
+   "title": "Iran Urges IAEA to Condemn U.S. Strike on Darkhovin Nuclear Plant",
+   "desc": "Tehran calls attack on under-construction nuclear facility a violation of international law as U.S. strikes reportedly hit Bushehr",
+   "link": "https://www.kurdistan24.net/en/story/927005/iran-urges-iaea-to-condemn-us-strike-on-darkhovin-nuclear-plant",
+   "date": "2026-07-20T10:45:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Rubio Says U.S. Service Member's Death in the Kurdistan Region Was an 'Accident'",
+   "desc": "U.S. Secretary of State says soldier was killed while decommissioning a downed Iranian drone as U.S. military death toll in nearly five-month war with Iran rises to 17",
+   "link": "https://www.kurdistan24.net/en/story/926988/rubio-says-us-service-members-death-in-the-kurdistan-region-was-an-accident",
+   "date": "2026-07-20T09:37:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Restoration Campaign Across Duhok Highlights Kurdistan's Growing Archaeological Ambitions",
+   "desc": "International partnerships, local expertise, and long-term conservation projects are transforming Duhok into a leading center for archaeological research, heritage preservation, and sustainable cultural tourism.",
+   "link": "https://www.kurdistan24.net/en/story/926986/restoration-campaign-across-duhok-highlights-kurdistans-growing-archaeological-ambitions",
+   "date": "2026-07-20T09:15:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "20 Kurdish Farmers Face Trial Over Land Dispute in Khurmatu",
+   "desc": "Lawsuits filed by relocated Arab settlers bring decades-old land ownership disputes in the Kurdistani Territories outside KRG Administrative control back before the courts.",
+   "link": "https://www.kurdistan24.net/en/story/926968/20-kurdish-farmers-face-trial-over-land-dispute-in-khurmatu",
+   "date": "2026-07-20T07:56:51.000Z"
   },
   {
    "src": "K24",
@@ -50,76 +82,44 @@
    "date": "2026-07-20T07:13:48.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Claims Strikes on U.S. Bases in Kuwait and Jordan as Fighting Intensifies Across Gulf",
-   "desc": "Tehran says it hit American military assets, while U.S. strikes kill at least one near Tabriz amid fresh security incidents in the Strait of Hormuz and Bahrain",
-   "link": "https://www.kurdistan24.net/en/story/926939/iran-claims-strikes-on-us-bases-in-kuwait-and-jordan-as-fighting-intensifies-across-gulf",
-   "date": "2026-07-20T06:53:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Trump Says U.S. Hitting Iran 'Very Hard' to Honor Fallen American Troops",
-   "desc": "The U.S. President Donald Trump says renewed U.S. strikes honor fallen service members as the Iran conflict escalates, with mounting casualties and growing regional instability.",
-   "link": "https://www.kurdistan24.net/en/story/926938/trump-says-us-hitting-iran-very-hard-to-honor-fallen-american-troops",
-   "date": "2026-07-20T06:32:08.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "CENTCOM Concludes Ninth Consecutive Night of Strikes on Iran",
-   "desc": "U.S. says campaign targeted Iranian military infrastructure to curb threats to shipping in the Strait of Hormuz as regional tensions remain high",
-   "link": "https://www.kurdistan24.net/en/story/926919/centcom-concludes-ninth-consecutive-night-of-strikes-on-iran",
-   "date": "2026-07-20T05:30:42.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "CENTCOM Mourns Fallen Troops in Kurdistan Region and Jordan",
-   "desc": "US Central Command says the service member died July 18 while conducting a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone.",
-   "link": "https://www.kurdistan24.net/en/story/926886/centcom-mourns-fallen-troops-in-kurdistan-region-and-jordan",
-   "date": "2026-07-19T19:47:33.000Z"
+   "title": "Industry revival key to diversifying Iraq’s economy, experts say",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s efforts to revive its industrial sector will determine whether the country can reduce its dependence on oil revenues and build a more productive economy, industry officials and economic analysts interviewed by Shafaq News suggested, calling for greater focus on restarting factories, supporting local production and attracting investment. Despite its large natural r",
+   "link": "https://shafaq.com/en/Economy/Industry-revival-key-to-diversifying-Iraq-s-economy-experts-say",
+   "date": "2026-07-20T10:40:37.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Turkiye's grain exports to Iraq hit $702M in H1",
-   "desc": "Shafaq News- Ankara Iraq ranked as the largest importer of grains, pulses, oilseeds, and related products from Turkiye in the first half of this year, purchasing goods worth $701.95 million, Turkiye&rsquo;s Food Exporters said on Sunday. The Middle East is the largest regional market for these products, importing more than $1.79 billion, followed by Africa with over $1.475 billion and the European",
-   "link": "https://shafaq.com/en/Economy/Turkiye-s-grain-exports-to-Iraq-hit-702M-in-H1",
-   "date": "2026-07-20T07:12:08.000Z"
+   "title": "Drone crashes in al-Faw district south of Basra",
+   "desc": "Shafaq News- Basra A drone crashed on Monday in the al-Faw district of Basra province, in southern Iraq, causing no casualties or material damage, a security source told Shafaq News. The aircraft came down near Ras al-Bisha, inside an abandoned farm, after a technical malfunction. It did not detonate on impact, and security units removed it from the site. Basra, Iraq's southernmost province, borde",
+   "link": "https://shafaq.com/en/Security/Drone-crashes-in-al-Faw-district-south-of-Basra",
+   "date": "2026-07-20T10:14:20.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Ninth night of US strikes draws Iranian counterstrikes on Gulf bases",
-   "desc": "Shafaq News- Tehran/ Washington (Updated at 9:48) The United States carried out a new wave of strikes on Iran early Monday, the ninth consecutive night of its air campaign, according to the US Central Command (CENTCOM). At the same time, Iran's Islamic Revolutionary Guard Corps (IRGC) struck American positions in Bahrain, Kuwait, and Jordan. American Attacks CENTCOM said the strikes hit missile an",
-   "link": "https://shafaq.com/en/World/Ninth-night-of-US-strikes-draws-Iranian-counterstrikes-on-Gulf-bases",
-   "date": "2026-07-20T06:39:12.000Z"
+   "title": "Diyala seizes 127K smuggled medicines",
+   "desc": "Shafaq News- Diyala Health inspectors in Iraq's eastern Diyala province blocked an attempt to bring 127,000 smuggled medicines into the province, the Health Directorate said on Monday. The shipment was seized from a vehicle after inspectors found it in breach of storage and transport requirements and without official testing or regulatory clearance. The directorate did not specify the origin of th",
+   "link": "https://shafaq.com/en/Security/Diyala-seizes-127K-smuggled-medicines",
+   "date": "2026-07-20T09:52:51.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq detains 35 officials in weekly corruption sweep",
-   "desc": "Shafaq News- Baghdad Iraqi authorities detained at least 35 officials and employees in six separate corruption cases between July 12 and July 19, according to a Shafaq News review. The detentions spanned five provinces or operational jurisdictions and seven government sectors, from the Defense Ministry to customs posts on the Kurdistan Region's boundary. The week's arrests form part of a nationwid",
-   "link": "https://shafaq.com/en/Iraq/Iraq-detains-35-officials-in-weekly-corruption-sweep",
-   "date": "2026-07-20T06:05:33.000Z"
+   "title": "Tehran hails PM Al-Zaidi’s visit to advance ties",
+   "desc": "Shafaq News- Tehran Iran on Monday welcomed Iraqi Prime Minister Ali al-Zaidi&rsquo;s upcoming visit to Tehran as an important diplomatic step in relations with Baghdad. Speaking during his weekly press conference, Foreign Ministry Spokesperson Esmaeil Baqaei described the visit as an opportunity for engagement between the two neighboring countries, reaffirming Tehran&rsquo;s commitment to Iraq&rs",
+   "link": "https://shafaq.com/en/World/Tehran-hails-PM-Al-Zaidi-s-visit-to-advance-ties",
+   "date": "2026-07-20T09:47:59.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Oil surges above $90 on Gulf escalation",
-   "desc": "Shafaq News Brent oil prices rose 2% to more than $90 per barrel on Monday, &zwnj;as escalating U.S.-Iran hostilities in the Middle East restricted oil shipments through the Strait of Hormuz. Brent crude futures climbed $2.09, or 2.37%, to $90.19 by 0241 GMT, touching the highest since June 11, extending gains after rising 15.9% last week, its biggest weekly gain since &#8203;April. U.S. West Texa",
-   "link": "https://shafaq.com/en/Economy/Oil-surges-above-90-on-Gulf-escalation",
-   "date": "2026-07-20T05:23:32.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "World Cup 2026 awards: Spain sweep top individual prizes",
-   "desc": "Shafaq News- New York/ New Jersey Spain capped their World Cup 2026 title by winning three of the tournament&rsquo;s principal awards, with Rodri receiving the Golden Ball, Unai Simon the Golden Glove, and Pau Cubarsi the Young Player Award. FIFA recognized Rodri as the competition&rsquo;s best player after he controlled Spain&rsquo;s midfield throughout an unbeaten campaign, while Simon&rsquo;s s",
-   "link": "https://shafaq.com/en/sport/World-Cup-2026-awards-Spain-sweep-top-individual-prizes",
-   "date": "2026-07-19T23:03:42.000Z"
+   "title": "Asayish arrests two ISIS militants in Al-Sulaymaniyah",
+   "desc": "Shafaq News- Erbil The Kurdistan Region&rsquo;s Security Agency (Asayish) apprehended two ISIS militants in two separate operations in Al-Sulaymaniyah province and the Raparin Administration. In a statement, Asayish said that during the operations, which were conducted in coordination with Iraq's Counter-Terrorism Service, a woman and a child previously held captive by one of the militants were re",
+   "link": "https://shafaq.com/en/Kurdistan/Asayish-arrests-two-ISIS-militants-in-Al-Sulaymaniyah",
+   "date": "2026-07-20T09:30:18.000Z"
   },
   {
    "src": "BBC",
@@ -132,10 +132,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "JD Vance announces birth of baby boy with wife Usha",
-   "desc": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
-   "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-19T23:16:04.000Z"
+   "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+   "desc": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+   "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-19T22:16:39.000Z"
   },
   {
    "src": "BBC",
@@ -148,18 +148,42 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-   "desc": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
-   "link": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-19T21:43:54.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "Tate brothers arrested in US as further UK charges take total to 59",
    "desc": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
    "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-19T12:53:20.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
+   "desc": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
+   "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-20T02:35:04.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "At least 930 people have died in Congo's Ebola outbreak",
+   "desc": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.",
+   "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
+   "date": "2026-07-20T10:36:08.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
+   "desc": "The U.S. attacks were the ninth consecutive day of bombing since peace talks between the two countries collapsed in dispute over a memorandum of understanding focused on the Strait of Hormuz.",
+   "link": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+   "date": "2026-07-20T10:04:56.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Keir Starmer resigns, Andy Burnham to become U.K. prime minister",
+   "desc": "In a transition of power presided over by King Charles, Andy Burnham is replacing Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party.",
+   "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
+   "date": "2026-07-20T08:41:42.000Z"
   },
   {
    "src": "NPR",
@@ -176,30 +200,6 @@
    "desc": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
    "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
    "date": "2026-07-19T10:00:00.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Deadly overnight Russian attack on Ukraine targets the capital",
-   "desc": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
-   "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-   "date": "2026-07-19T09:14:38.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-   "desc": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country.",
-   "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
-   "date": "2026-07-19T07:27:59.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
-   "desc": "Influencer Andrew Tate and his brother Tristan have been arrested in Miami after British authorities issued 38 new charges against them, and said they are \"seeking extradition\" for the two men.",
-   "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-   "date": "2026-07-19T00:57:08.000Z"
   },
   {
    "src": "BBC ME",
@@ -278,8 +278,8 @@
    "section": "Work & Erbil · کار",
    "title": "Kurdistan Region Begins Smart Water Project in Erbil Pilot",
    "desc": "Kurdistan Region Begins Smart Water Project in Erbil Pilot &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tVHItVWEwcERCb0ZobkkwRGhUOW9zci1aRVAzVE5oeEJQWktIeVpPd2p5QnJTbTNJN2RWYTFLS2V1dWQ5ajJqZHB2Z0dSX3FFbnB0dzFR?oc=5",
-   "date": "2026-07-16T17:03:15.000Z"
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkZ4Q2JLRDBkT01YVmxEaVZLdWdieUVmb2pFX3VrUzZqWDRRemtRczNRYXRqNzQ3Rks2a3ZlZ3RLSkplSm1qRlJINHlhclpiSlA5QWQ3MmtRUGYteUs4WThWbzdud2xKNGVEUDZ0U0wteGJDYmhRajJGTUY3NFVCMEdZRUVKYVhVd3kzUjNrc2ltWi1la0NBcm44TXpCRFd6MG1hYQ?oc=5",
+   "date": "2026-07-17T21:30:49.000Z"
   },
   {
    "src": "Erbil",
