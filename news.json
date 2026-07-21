@@ -1,14 +1,6 @@
 {
- "updated": "2026-07-20T23:31:25.562Z",
+ "updated": "2026-07-21T02:51:43.310Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04bmsycG5DekxXZENRaHgyc3YwX0xaR3lOTzJ2MmJZdEw2TVg5NGxHbGVGeHBFVEZSQXpGZ3NyRkZQc1ZETW55RFZOcnNFSi1yeklvMVRpa284b21QRkE?oc=5",
-   "date": "2026-07-19T01:28:28.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -40,6 +32,14 @@
    "desc": "Rojhelat hit by power outages amid summer heat, US-Iran escalation &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fVnRuY0FMbkhMdllJRG4wclF5YWQ0a1dfbUtnM25JSDluZFN6OUM2b0lIZ0FNbHJoaVNGT3JYNHZBczR0d1NUSTBvbHpPU3VyNHNwWHZqYk9jX1JpV3c?oc=5",
    "date": "2026-07-20T20:52:03.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Region launches $105M water project serving over 50 villages",
+   "desc": "Kurdistan Region launches $105M water project serving over 50 villages &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGOV9RRzhDUTZvYlo1X1RubVUwMkt1bng1aG1zZ1p4c2RJaFZXUE56N0UxTnlDSm9TMmFyajRQaGgyRjJ0VW5PSHhURDlLUXQyeU1RdHRTTl9Ka0Fmb1QxMmhrQks?oc=5",
+   "date": "2026-07-20T20:05:43.000Z"
   },
   {
    "src": "K24",
@@ -124,10 +124,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump imposes 50% tariff on Canadian imports",
+   "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
    "desc": "The duties mark a major escalation in trade tensions between the North American neighbours.",
    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-20T22:26:34.000Z"
+   "date": "2026-07-21T00:34:47.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+   "desc": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
+   "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-21T02:16:05.000Z"
   },
   {
    "src": "BBC",
@@ -135,7 +143,15 @@
    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
    "desc": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-20T21:09:31.000Z"
+   "date": "2026-07-21T02:41:28.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Tropical Storm Bertha threatens US Gulf coast",
+   "desc": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
+   "link": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-21T02:42:44.000Z"
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "desc": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
    "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-20T19:05:50.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-   "desc": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
-   "link": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-20T18:16:51.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-   "desc": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
-   "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-20T21:03:24.000Z"
   },
   {
    "src": "NPR",
@@ -300,18 +300,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil",
-   "desc": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil &nbsp;&nbsp; Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0RicW8tSGFGWnVjbHdqV09BUVAzOEZiX181ZXlfRUtDZ0lzSWRUaHhKVnp0REstY05vQ3VnUnJXQm5ZaW95akxhOEctT2M5YWZjZUc1UTJvMGF0MDV6OF9wdTNsUDNBcUNrejhtZzJHd21yNFkxQ19jV29jM1d1TUJLdERVQkdvWF9yM2RWeDFKaDl5UW1zZ3p2eUtBdE0?oc=5",
-   "date": "2026-07-20T19:23:19.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "$18B+ spent on 2025 Iraqi public construction - Shafaq News | Latest breaking news in Iraq and the world",
    "desc": "$18B+ spent on 2025 Iraqi public construction - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzFUNFE3aWpPRXppMzc3al9ZMlR4T2tqX3l4N1hObzE0VnZZUzBFb3hfTTZyOVNMdXBta2IwSlBEM09ZeFRDX1JOTEI0Y1JhT3diSWNFaTBSUjIyUlM5ZzlmWjgwN0RxSi1hZXhHTEtiM1JCdU40Nm9PZE4zZmprXzhrdw?oc=5",
    "date": "2026-07-20T09:26:33.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil",
+   "desc": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil &nbsp;&nbsp; Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0RicW8tSGFGWnVjbHdqV09BUVAzOEZiX181ZXlfRUtDZ0lzSWRUaHhKVnp0REstY05vQ3VnUnJXQm5ZaW95akxhOEctT2M5YWZjZUc1UTJvMGF0MDV6OF9wdTNsUDNBcUNrejhtZzJHd21yNFkxQ19jV29jM1d1TUJLdERVQkdvWF9yM2RWeDFKaDl5UW1zZ3p2eUtBdE0?oc=5",
+   "date": "2026-07-20T19:23:19.000Z"
   },
   {
    "src": "Tourism",
