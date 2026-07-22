@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T19:52:58.374Z",
+ "updated": "2026-07-22T21:11:16.708Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "UK Withdraws Embassy Staff from Iran as Security Risks Escalate",
+   "desc": "The UK's Foreign, Commonwealth and Development Office (FCDO) announced on Wednesday that its embassy in Tehran will continue operating remotely, citing the ongoing security situation.",
+   "link": "https://www.kurdistan24.net/en/story/927599/uk-withdraws-embassy-staff-from-iran-as-security-risks-escalate",
+   "date": "2026-07-22T20:35:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Coalition Air Defenses Shoot Down Five Drones Over Erbil",
+   "desc": "The interceptions occurred as air defense systems were activated over the city amid continued regional tensions.",
+   "link": "https://www.kurdistan24.net/en/story/927587/coalition-air-defenses-shoot-down-five-drones-over-erbil",
+   "date": "2026-07-22T19:51:43.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "KRG Approves Electricity Debt Discounts as Cabinet Moves to Curb Fuel Prices",
    "desc": "The Council, chaired by Prime Minister Masrour Barzani, also discussed the security situation, fuel prices, and administrative affairs during its weekly meeting.",
    "link": "https://www.kurdistan24.net/en/story/927567/krg-approves-electricity-debt-discounts-as-cabinet-moves-to-curb-fuel-prices",
@@ -66,20 +82,20 @@
    "date": "2026-07-22T14:56:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump Threatens to Bomb Iranian Civil Infrastructure After Any Strait of Hormuz Attack",
-   "desc": "\"Any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT,\" Trump wrote on social media.",
-   "link": "https://www.kurdistan24.net/en/story/927498/trump-threatens-to-bomb-iranian-civil-infrastructure-after-any-strait-of-hormuz-attack",
-   "date": "2026-07-22T13:31:09.000Z"
+   "title": "Preparatory studies begin on Kirkuk-Baniyas pipeline rehabilitation",
+   "desc": "Shafaq News- Baghdad/ Damascus Iraq and Syria have entered the preparatory phase of rehabilitating the Kirkuk-Baniyas oil pipeline, with technical, economic, and financial studies now underway alongside an assessment of the condition of the line and its associated facilities, the state-run Syrian Petroleum Company told Shafaq News . Two memorandums of understanding opened the phase, the company sa",
+   "link": "https://shafaq.com/en/Report/Preparatory-studies-begin-on-Kirkuk-Baniyas-pipeline-rehabilitation",
+   "date": "2026-07-22T20:41:30.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Claims Strikes on US Bases in Jordan, Threatens Washington with \"National Day of Mourning\"",
-   "desc": "Iran's Revolutionary Guard said it targeted three US air bases in Jordan in response to American strikes, while warning of more severe retaliation if attacks continue.",
-   "link": "https://www.kurdistan24.net/en/story/927494/iran-claims-strikes-on-us-bases-in-jordan-threatens-washington-with-national-day-of-mourning",
-   "date": "2026-07-22T12:48:53.000Z"
+   "title": "Corruption probe nets $10M+, gold bars in Iraq’s Saladin",
+   "desc": "Shafaq News- Baghdad Investigations into detained Oil Ministry Undersecretary for Refining Affairs Adnan Al-Jumaili led authorities to seize 13 billion Iraqi dinars (about $9.92 million) and $400,000 hidden at several locations in Saladin province, Dhiaa Jaafar, the senior judge at Baghdad&rsquo;s Second Karkh Investigation Court, said on Wednesday. Authorities also confiscated 40 gold bars weighi",
+   "link": "https://shafaq.com/en/society/Corruption-probe-nets-10M-gold-bars-in-Iraq-s-Saladin",
+   "date": "2026-07-22T20:05:53.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Tehran The Strait of Hormuz remains closed to regular maritime traffic, and any vessel seeking to transit the strategic waterway must use only the Iranian-designated route and comply with procedures announced earlier, Iran's Islamic Revolutionary Guard Corps (IRGC) said on Wednesday. In a statement, the IRGC warned it would block oil exports and target energy infrastructure across the",
    "link": "https://shafaq.com/en/Middle-East/IRGC-keeps-Hormuz-closed-threatens-oil-exports",
    "date": "2026-07-22T19:29:32.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Intelligence Chief Shaghati pledges strategy changes in Iraq",
-   "desc": "Shafaq News- Baghdad (Updated at 22:03) The Federal Intelligence and Investigations Agency (FIIA), a directorate of Iraq's Interior Ministry, will undergo \"changes in strategy\" to meet current security challenges, its newly installed head, Lieutenant General Falah Shaghati, told Shafaq News on Wednesday in his first remarks after taking office. He pledged to continue developing the agency's intell",
-   "link": "https://shafaq.com/en/Iraq/Shaghati-assumes-leadership-of-Iraq-s-federal-intelligence-agency",
-   "date": "2026-07-22T18:47:29.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US military redirects nine commercial ships",
-   "desc": "Shafaq News- Washington The US Central Command (CENTCOM) stated on Wednesday that it had redirected nine commercial vessels and disabled one ship as of July 22 as part of the enforcement of a maritime blockade on Iran. CENTCOM said the measures were taken to ensure full compliance with the naval blockade imposed on Iran. U.S. Sailors aboard guided-missile destroyer USS Michael Murphy (DDG 112) mon",
-   "link": "https://shafaq.com/en/World/US-military-redirects-nine-commercial-ships",
-   "date": "2026-07-22T18:43:33.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Why the U.S. and Saudi Arabia signed a nuclear agreement",
+   "desc": "NPR has confirmed a deal that would allow the U.S. to transfer nuclear technology to Saudi Arabia and allow the country to begin enriching uranium for civilian use.",
+   "link": "https://www.npr.org/2026/07/22/nx-s1-5903077/why-the-u-s-and-saudi-arabia-signed-a-nuclear-agreement",
+   "date": "2026-07-22T19:58:55.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "What to know about Ukraine's military shakeup",
    "desc": "After a week of nationwide protests over the direction of Ukraine's military strategy in the ongoing war with Russia, the Ukrainian military has a new commander, Mykhailo Drapatyi. Here's what to know.",
    "link": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
@@ -194,20 +202,12 @@
    "date": "2026-07-22T10:46:01.000Z"
   },
   {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "'It's all literally rubble': Lebanese poet returns to see what has become of her home",
-   "desc": "A village destroyed. A home erased. One poet returns to remember what was lost.",
-   "link": "https://www.npr.org/2026/07/22/nx-s1-5883746/its-all-literally-rubble-lebanese-poet-returns-to-see-what-has-become-of-her-home",
-   "date": "2026-07-22T08:47:16.000Z"
-  },
-  {
    "src": "BBC ME",
    "section": "US & World · جیهان",
    "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
    "desc": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-22T14:49:12.000Z"
+   "date": "2026-07-22T20:05:31.000Z"
   },
   {
    "src": "BBC ME",
@@ -356,10 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil",
-   "desc": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYldTck1zRWhNTEsxTFBxM3lrWHluMy14dlZId3NpQThkam9ScVpsY0tlV0FNX3Q3M1prdmVMd3U5bE5DLW1YYkwwYzh4b2xybkVJREw1cklHV1kyc3NEOXlWc2pnc0hxLVBySG90NkYteTJvUzZQTlNfcmFiN1JDR0M0U0hYRWpJY21jYUFMbW5vNjRWX1NqS29vdDdUeU9HcE5hNmk4QWsyZTZJZ1BkRmFqLU5IVFo0RzFhQ3NPWVNOdURYYTdrR2hncw?oc=5",
-   "date": "2026-07-09T18:58:00.000Z"
+   "title": "Bastora, Dwin Dams Strengthen Kurdistan Region's Water Security and Tourism",
+   "desc": "Bastora, Dwin Dams Strengthen Kurdistan Region's Water Security and Tourism &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlphMXk5VVBFa00yS0ZMNERoOFZLRFE5Qjd5MWxuWEo0MF81UXB2YUxDZ0VuTTlTS2hoVXRWQ0w1UU5hOE9lam11N3BwRlVhQ3hya1FzRjhiNWZzbkl6cTF5ckNpaURGcjNaS3Q2bDFpNnZnT0hoZFRUUFA0VTU0OWdOX2NzY0QydDhWSWEtN2Y2XzAzSFdBTzhYS2kzbTJwUC1mVzJHVkFPWFZfQnE3SlMyWGhTcDNF?oc=5",
+   "date": "2026-07-10T10:30:00.000Z"
   }
  ]
 }
