@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T22:59:36.493Z",
+ "updated": "2026-07-22T00:01:17.709Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Damascus Jewish quarter returns to the spotlight",
+   "desc": "In the eastern part of Damascus' Old City, just a short walk from Bab Sharqi (the Eastern Gate), the Jewish Quarter remains defined by its narrow stone alleys and traditional Damascene houses with inner courtyards, preserving the neighborhood's architectural character despite the departure of most of its longtime residents. The neighborhood was never an isolated enclave. Instead, it formed part of",
+   "link": "https://shafaq.com/en/Middle-East/Damascus-Jewish-quarter-returns-to-the-spotlight",
+   "date": "2026-07-21T22:55:34.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Baghdad dismantles two child trafficking networks",
    "desc": "Shafaq News- Baghdad Iraq's Interior Ministry said on Tuesday that its counter-trafficking directorate had dismantled two criminal networks involved in trafficking and unlawfully exploiting children in Baghdad and other provinces. The operation led to the arrest of the networks' members and the rescue of the child victims, who were placed under legal protection and care. All the suspects have been",
    "link": "https://shafaq.com/en/Security/Baghdad-dismantles-two-child-trafficking-networks",
@@ -114,14 +122,6 @@
    "date": "2026-07-21T21:30:18.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US condemns Iran attacks on Erbil and Al-Sulaymaniyah",
-   "desc": "Shafaq News- Washington The United States denounced on Tuesday the repeated Iranian strikes on Erbil and Al-Sulaymaniyah in Iraqi Kurdistan, according to a State Department spokesperson. The spokesperson told Shafaq News the attacks \"are an egregious violation of Iraq's sovereignty,\" and Washington strongly condemns them. Iran did not claim responsibility for the attacks. Erbil continued to face a",
-   "link": "https://shafaq.com/en/Kurdistan/US-condemns-Iran-s-attacks-on-Iraq-s-Kurdistan",
-   "date": "2026-07-21T20:55:09.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Canada's Carney faces tough choice on US trade - fight back or hold steady",
@@ -132,18 +132,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Iran war has cost US $37.5bn so far, Hegseth says",
-   "desc": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war.",
-   "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-21T22:49:20.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "'It's frustrating' - Canadians react to new US tariffs",
    "desc": "President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called \"unequal treatment\" of US products.",
    "link": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-21T20:52:08.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Iran war has cost US $37.5bn so far, Hegseth says",
+   "desc": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war.",
+   "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-21T22:49:20.000Z"
   },
   {
    "src": "BBC",
