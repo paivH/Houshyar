@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T20:15:05.842Z",
+ "updated": "2026-07-23T21:35:40.849Z",
  "items": [
   {
    "src": "Rudaw",
@@ -7,7 +7,7 @@
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-07-23T16:18:33.000Z"
+   "date": "2026-07-23T16:23:08.000Z"
   },
   {
    "src": "Rudaw",
@@ -28,10 +28,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Fire breaks out at Yazidi IDP camp in Duhok, no casualties reported",
-   "desc": "Fire breaks out at Yazidi IDP camp in Duhok, no casualties reported &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ycDJnZDAxNmVSYUg0N1R2Rm5sYUU5b2ZSLWo0VXVGbFEyNXZ3bzV4MkYxQTdqbGxiT0dJZjBaTDk0Tjg4ZWw2MVJTcF9udkYzRXowMWNVOEh3Z0t3S3plTFhYTVE?oc=5",
-   "date": "2026-07-21T20:48:33.000Z"
+   "title": "Heavy rains revive buffalo herding in Sulaimani’s Raparin administration",
+   "desc": "Heavy rains revive buffalo herding in Sulaimani’s Raparin administration &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zLUFpSzAwN2RuRHM5TEpRRko5clhiU1UzWGFZVGd3T2pvaWdOR3VFMEFlSFVvVERyTTd0MGRYOFMyVFNQYldNZkdqamZzTVdsUHBBMHRwVTZhTDRZZTJrR1JVclo?oc=5",
+   "date": "2026-07-23T12:41:57.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "KRG Says Investment in Kurdistan Region Surpasses USD 25 Billion",
+   "desc": "The KRG's Department of Media and Information says more than USD 25 billion has been invested across housing, tourism, industry, agriculture, healthcare, education and financial services, underscoring the long-term strategy to diversify economy and strengthen private-sector growth.",
+   "link": "https://www.kurdistan24.net/en/story/927825/krg-says-investment-in-kurdistan-region-surpasses-usd-25-billion",
+   "date": "2026-07-23T20:21:00.000Z"
   },
   {
    "src": "K24",
@@ -66,12 +74,28 @@
    "date": "2026-07-23T19:00:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Germany Repositions Naval Vessels as Red Sea Tensions Escalate",
-   "desc": "A ministry spokesperson confirmed that the minesweeper Fulda and the supply ship Mosel are currently stationed in Djibouti.",
-   "link": "https://www.kurdistan24.net/en/story/927804/germany-repositions-naval-vessels-as-red-sea-tensions-escalate",
-   "date": "2026-07-23T18:43:00.000Z"
+   "title": "Israeli airstrikes hit homes across Gaza",
+   "desc": "Shafaq News- Gaza Israeli warplanes carried out a series of airstrikes across the Gaza Strip on Thursday, leaving several injuries and large fires in the targeted sites, local media reported on Thursday. The strikes destroyed homes in the Al-Bureij refugee camp in central Gaza, Jabalia refugee camp in the north, and the Al-Zaytoun and Al-Jalaa neighborhoods of Gaza City. In Press remarks, the spok",
+   "link": "https://shafaq.com/en/Middle-East/Israeli-airstrikes-hit-homes-across-Gaza",
+   "date": "2026-07-23T21:15:15.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran seeks access to $11B in energy funds in Iraq",
+   "desc": "Shafaq News- Tehran/ Baghdad Iran has between $10 billion and $11 billion in funds and energy receivables held or owed in Iraq, Central Bank of Iran Governor Abd Al-Naser Hemmati announced on Thursday. Hemmati said he discussed the funds with Iraqi Central Bank Governor Nizar Nasser Hussein during Prime Minister Ali Al-Zaidi&rsquo;s visit to Tehran, with both sides seeking mechanisms to allow Iran",
+   "link": "https://shafaq.com/en/World/Iran-seeks-access-to-11B-in-energy-funds-in-Iraq",
+   "date": "2026-07-23T20:35:40.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Medical tourism to India draws Iraqi patient complaints",
+   "desc": "Shafaq News- Baghdad/ New Delhi Iraqi patients who traveled to India for medical treatment told Shafaq News they were charged for surgical technology they never saw used, and paid inflated fees they attribute to intermediaries and hospital pharmacies. India remains one of the leading destinations for Iraqis seeking care abroad , drawing patients with specialized centers in cardiac surgery, organ t",
+   "link": "https://shafaq.com/en/society/Medical-tourism-to-India-draws-Iraqi-patient-complaints",
+   "date": "2026-07-23T20:23:42.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,30 +112,6 @@
    "desc": "Shafaq News- Tehran Iraq has long served as a platform for dialogue and resolving regional disputes, Iraqi Prime Minister Ali Al-Zaidi said on Thursday, urging Iran to seize the current opportunity to advance \"de-escalation dialogue.\" During a meeting in Tehran with Iran's Judiciary Chief Gholam-Hossein Mohseni Ejei, Al-Zaidi reaffirmed Iraq's commitment to building strong relations with Iran and ",
    "link": "https://shafaq.com/en/Iraq/Al-Zaidi-urges-Iran-to-seize-Iraq-dialogue-opportunity",
    "date": "2026-07-23T18:36:04.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Five football transfers that could shape summer 2026",
-   "desc": "Shafaq News Europe&rsquo;s transfer market remains open until September 1, leaving several of the summer&rsquo;s largest potential deals unresolved after a window already marked by record spending. From Julian Alvarez&rsquo;s desired Atletico Madrid exit to Rodri&rsquo;s possible return to Spain, these are five transfer stories likely to dominate the remaining weeks. Julian Alvarez: Atletico Madri",
-   "link": "https://shafaq.com/en/sport/Five-football-transfers-that-could-shape-summer-2026",
-   "date": "2026-07-23T18:22:23.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "UK expresses readiness to counter any Iranian attack",
-   "desc": "Shafaq News- London The United Kingdom said on Thursday it was prepared to respond to any Iranian attack, after Iran's Islamic Revolutionary Guard Corps (IRGC) warned Britain against supporting recent US and Israeli military operations targeting Iran. The British response came shortly after the IRGC accused the UK of participating in the recent strikes and warned London against continuing its supp",
-   "link": "https://shafaq.com/en/World/UK-expresses-readiness-to-counter-any-Iranian-attack",
-   "date": "2026-07-23T17:53:46.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "New strike targets Abdaly border crossing between Iraq and Kuwait",
-   "desc": "Shafaq News- Kuwait City (Updated at 21:09) The Abdaly border crossing between Iraq and Kuwait came under a new strike on Thursday. Kuwait&rsquo;s Defense Ministry spokesperson Colonel Saud Abdulaziz al-Atwan said the &ldquo;hostile drones had repeatedly targeted the Abdaly border crossing near Iraq, causing material damage but no casualties.&rdquo; Shafaq News correspondent reported that the Safw",
-   "link": "https://shafaq.com/en/Security/New-strike-targets-Abdali-border-crossing-between-Iraq-and-Kuwait",
-   "date": "2026-07-23T16:50:27.000Z"
   },
   {
    "src": "BBC",
@@ -132,26 +132,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "US announces fresh raft of tariffs on overseas goods",
+   "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+   "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-23T21:25:02.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "'Everything on the table' as Canada plans response to US tariffs",
+   "desc": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect.",
+   "link": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-23T19:59:39.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Secret Service agent in Vance's team under investigation over alleged leak",
    "desc": "The Secret Service has not disclosed the agent's identity or the nature of the information allegedly leaked.",
    "link": "https://www.bbc.co.uk/news/articles/cq6dgp46923o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-23T17:51:38.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges",
-   "desc": "An American man sues OpenAI and its founder Sam Altman, claiming the popular chatbot \"repeatedly misdiagnosed\" him.",
-   "link": "https://www.bbc.co.uk/news/articles/cwylp3nxp5yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-23T17:20:06.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-   "desc": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
-   "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-23T06:18:37.000Z"
   },
   {
    "src": "NPR",
@@ -300,10 +300,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio",
-   "desc": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYVUFwRmRWUEM4eG9WSnlZY3c4dlgxamUyWTFrZFk1ajRHeHFuNUpZNkxKNEtsaFRXazZIajBfTHB5bDdaX3lSVGlpZEFBeTVGZmw5cnFn?oc=5",
-   "date": "2026-07-22T11:23:00.000Z"
+   "title": "Kurdistan Tourism Board Unveils New Water Tourism Safety Regulations",
+   "desc": "Kurdistan Tourism Board Unveils New Water Tourism Safety Regulations &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2VjVUozbmdhamF5TDFqR1NNeGhhdmx0cFVPZ2Jia1JOOE1wSUdVM21ncXJldnJHZ3gzclhraHJPVDc2cHFMWEh5eHVqQlQybXNMdXZWVE9xZ3ZkLWkzRERKRkxhcElvS0l0bG1Ma1ZpbXlzZ2s1dzRMZ3BxNDd6NE1JRXNQWEVOUDM4LWpxcGxObk14aHZJeml5dGlFaE9CaFFoVkpyWml1OXU1MFJSZ1RR?oc=5",
+   "date": "2026-07-23T20:21:00.000Z"
   },
   {
    "src": "Tourism",
@@ -316,10 +316,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Kurdistan Tourism Board Unveils New Water Tourism Safety Regulations",
-   "desc": "Kurdistan Tourism Board Unveils New Water Tourism Safety Regulations &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2VjVUozbmdhamF5TDFqR1NNeGhhdmx0cFVPZ2Jia1JOOE1wSUdVM21ncXJldnJHZ3gzclhraHJPVDc2cHFMWEh5eHVqQlQybXNMdXZWVE9xZ3ZkLWkzRERKRkxhcElvS0l0bG1Ma1ZpbXlzZ2s1dzRMZ3BxNDd6NE1JRXNQWEVOUDM4LWpxcGxObk14aHZJeml5dGlFaE9CaFFoVkpyWml1OXU1MFJSZ1RR?oc=5",
-   "date": "2026-07-23T17:00:00.000Z"
+   "title": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio",
+   "desc": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYVUFwRmRWUEM4eG9WSnlZY3c4dlgxamUyWTFrZFk1ajRHeHFuNUpZNkxKNEtsaFRXazZIajBfTHB5bDdaX3lSVGlpZEFBeTVGZmw5cnFn?oc=5",
+   "date": "2026-07-22T11:23:00.000Z"
   },
   {
    "src": "Tourism",
