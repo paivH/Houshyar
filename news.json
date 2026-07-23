@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T00:01:57.861Z",
+ "updated": "2026-07-23T03:54:43.419Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,14 +8,6 @@
    "desc": "Iranian Kurdish opposition attacked with missiles near Erbil &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ib0J4VFFHTmw3MnNQZ1NoUWt3N3plazJZZGdSbnoxQUJpNXlJcnNmclNISDZoV1hvTWZPRm5QWUlWMFR3OVhaejlaVmYzY2ZIUHAxY0VQY3VNQ0xTVXQ0Y01nT3VvaWhnMEE?oc=5",
    "date": "2026-07-21T17:46:58.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "IRGC claims attack on Goizha mountain in Sulaimani as fire breaks out",
-   "desc": "IRGC claims attack on Goizha mountain in Sulaimani as fire breaks out &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjZGhpNm82eXFGbGc4V3lTVThGbGM5aHhIMEkyOWgyM2tnaFpCNzRwVE9jNjZNUEt2cFNvUGFGTVNvUFE3eUlnV2dXVjZwZ0E2dVFZVXpZbHRjeDZ3YjdLMXdRcUNPOXlrcnc?oc=5",
-   "date": "2026-07-22T21:10:19.000Z"
   },
   {
    "src": "Rudaw",
@@ -31,7 +23,7 @@
    "title": "US would ‘absolutely attack’ Iran’s new suspected nuclear facility, Trump says",
    "desc": "US would ‘absolutely attack’ Iran’s new suspected nuclear facility, Trump says &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MTXpkVnRqazBObEwwcnVIR3lmQXBBN2JKcjhNcXBjQ0tISWpiamMtUXBwQnZoa2lwOU9CcjFrRm5hbnFScVlpSjZBRWhrYU1PcUtFY2EyQzdCcEdpODU0?oc=5",
-   "date": "2026-07-22T01:11:51.000Z"
+   "date": "2026-07-21T18:47:41.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +32,14 @@
    "desc": "Fire breaks out at Yazidi IDP camp in Duhok, no casualties reported &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ycDJnZDAxNmVSYUg0N1R2Rm5sYUU5b2ZSLWo0VXVGbFEyNXZ3bzV4MkYxQTdqbGxiT0dJZjBaTDk0Tjg4ZWw2MVJTcF9udkYzRXowMWNVOEh3Z0t3S3plTFhYTVE?oc=5",
    "date": "2026-07-21T20:48:33.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Canadian oil company initiates temporary production suspension in Kurdistan Region",
+   "desc": "Canadian oil company initiates temporary production suspension in Kurdistan Region &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13dXNSQzJHY0NBaE1KS283NVNkY1BZYjVCRUk2VVFlam1TMmtRNWlyZjVpTGFhMFVNV0tHMk9GaE9vcmdRYzZrWDh4QW9NbDVlbHE2Z2FvQ2hJRmlfYUM4bFo3MTQ?oc=5",
+   "date": "2026-07-21T13:20:41.000Z"
   },
   {
    "src": "K24",
@@ -124,6 +124,22 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "US signs landmark nuclear deal with Saudi Arabia",
+   "desc": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+   "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-23T00:21:53.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Watch: What we know about the US-Saudi nuclear deal",
+   "desc": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+   "link": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-22T22:45:08.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
    "desc": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
    "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
@@ -132,34 +148,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+   "desc": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+   "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-23T00:15:12.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
    "desc": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-22T21:33:01.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
-   "desc": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
-   "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-22T17:54:57.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-   "desc": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
-   "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-22T15:50:17.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Teenager drops social media addiction lawsuit against Meta",
-   "desc": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped.",
-   "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-22T19:04:47.000Z"
   },
   {
    "src": "NPR",
@@ -200,14 +200,6 @@
    "desc": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran.",
    "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
    "date": "2026-07-22T11:24:22.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "US signs landmark nuclear deal with Saudi Arabia",
-   "desc": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-   "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-22T23:21:31.000Z"
   },
   {
    "src": "BBC ME",
@@ -356,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil",
-   "desc": "Zaxo Approves 50 New Factories as Kurdistan Region Pushes to Broaden Economy Beyond Oil &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYldTck1zRWhNTEsxTFBxM3lrWHluMy14dlZId3NpQThkam9ScVpsY0tlV0FNX3Q3M1prdmVMd3U5bE5DLW1YYkwwYzh4b2xybkVJREw1cklHV1kyc3NEOXlWc2pnc0hxLVBySG90NkYteTJvUzZQTlNfcmFiN1JDR0M0U0hYRWpJY21jYUFMbW5vNjRWX1NqS29vdDdUeU9HcE5hNmk4QWsyZTZJZ1BkRmFqLU5IVFo0RzFhQ3NPWVNOdURYYTdrR2hncw?oc=5",
-   "date": "2026-07-09T18:58:00.000Z"
+   "title": "Bastora, Dwin Dams Strengthen Kurdistan Region's Water Security and Tourism",
+   "desc": "Bastora, Dwin Dams Strengthen Kurdistan Region's Water Security and Tourism &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlphMXk5VVBFa00yS0ZMNERoOFZLRFE5Qjd5MWxuWEo0MF81UXB2YUxDZ0VuTTlTS2hoVXRWQ0w1UU5hOE9lam11N3BwRlVhQ3hya1FzRjhiNWZzbkl6cTF5ckNpaURGcjNaS3Q2bDFpNnZnT0hoZFRUUFA0VTU0OWdOX2NzY0QydDhWSWEtN2Y2XzAzSFdBTzhYS2kzbTJwUC1mVzJHVkFPWFZfQnE3SlMyWGhTcDNF?oc=5",
+   "date": "2026-07-10T10:30:00.000Z"
   }
  ]
 }
