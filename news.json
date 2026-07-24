@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T11:17:49.227Z",
+ "updated": "2026-07-24T12:59:02.323Z",
  "items": [
   {
    "src": "Rudaw",
@@ -7,7 +7,7 @@
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-07-24T08:31:12.000Z"
+   "date": "2026-07-24T12:36:33.000Z"
   },
   {
    "src": "Rudaw",
@@ -36,6 +36,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Rubio, Iran Exchange Signals Rising Tensions as Trump Considers Next Steps",
+   "desc": "As President Donald Trump weighs broader military options against Iran, increasingly pointed exchanges between Washington and Tehran underscore mounting diplomatic strain, while Congress, energy markets, and regional security remain on edge.",
+   "link": "https://www.kurdistan24.net/en/story/927922/rubio-iran-exchange-signals-rising-tensions-as-trump-considers-next-steps",
+   "date": "2026-07-24T12:33:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran's Revolutionary Guards Warn Civilians to Stay Away from U.S. Forces Across Middle East",
+   "desc": "\"We warn the general public in countries where American soldiers are stationed to immediately stay out of a radius of 500 metres from the places where American soldiers are hiding, in order to be safe,\" the Guards said in a statement carried by state television.",
+   "link": "https://www.kurdistan24.net/en/story/927913/irans-revolutionary-guards-warn-civilians-to-stay-away-from-us-forces-across-middle-east",
+   "date": "2026-07-24T11:33:33.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Feraşîn Highlands Thrive as Rich Pastures Boost Livestock and Dairy Output",
    "desc": "Abundant rainfall has revitalized Northern Kurdistan's Feraşîn Highlands' pastures, improving grazing conditions, increasing milk production, and supporting seasonal livestock farming and traditional cheese and yogurt production across the mountain region.",
    "link": "https://www.kurdistan24.net/en/story/927910/fera%C5%9F%C3%AEn-highlands-thrive-as-rich-pastures-boost-livestock-and-dairy-output",
@@ -58,20 +74,28 @@
    "date": "2026-07-24T10:30:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "UN Urges Evacuation of 6,000 Stranded Seafarers in Strait of Hormuz",
-   "desc": "UN High Commissioner for Human Rights Volker Türk urged countries involved in the Middle East conflict, along with shipowners and other stakeholders, to take immediate action to protect stranded crews.",
-   "link": "https://www.kurdistan24.net/en/story/927899/un-urges-evacuation-of-6000-stranded-seafarers-in-strait-of-hormuz",
-   "date": "2026-07-24T10:15:00.000Z"
+   "title": "Suicide bombing kills 14 at Pakistan military post",
+   "desc": "Shafaq News- Islamabad A suicide bombing at a military post in Pakistan's northwestern Khyber Pakhtunkhwa province killed at least 14 people and injured 24 others, security sources told Chinese Xinhua news agency on Friday. The explosion destroyed the post and left nine soldiers, four police officers, and one provincial forest department official dead. The wounded included 20 soldiers and four pol",
+   "link": "https://shafaq.com/en/World/Suicide-bombing-kills-14-at-Pakistan-military-post",
+   "date": "2026-07-24T12:34:42.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Venice Film Festival Selects Halkawt Mustafa's Latest Kurdish Feature",
-   "desc": "Kurdish filmmaker Halkawt Mustafa's latest feature will make its world premiere at the Venice International Film Festival, marking a significant milestone for Kurdish cinema through an internationally backed production inspired by the experiences of women who fought ISIS.",
-   "link": "https://www.kurdistan24.net/en/story/927885/venice-film-festival-selects-halkawt-mustafas-latest-kurdish-feature",
-   "date": "2026-07-24T09:05:00.000Z"
+   "title": "Dhi Qar conference backs Iraq's anti-corruption campaign",
+   "desc": "Shafaq News- Dhi Qar Community leaders, tribal elders, academics, and representatives of civil society in Iraq's Dhi Qar province held a conference on Friday to express support for the judiciary and Prime Minister Ali Al-Zaidi's anti-corruption campaign. Shafaq News correspondent reported that participants also backed the federal government's plans to conclude agreements with international compani",
+   "link": "https://shafaq.com/en/society/Dhi-Qar-conference-backs-Iraq-s-anti-corruption-campaign",
+   "date": "2026-07-24T11:52:00.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Diyala water project stalls after 10+ years",
+   "desc": "Shafaq News- Diyala A water supply project in Jadidat al-Shatt in Iraq's eastern Diyala province remains unfinished 14 years after construction began, despite an original completion timeline of 390 days, the sub-district administration told Shafaq News on Friday. Awarded to a French company in 2012, the project was initially scheduled for completion within 390 days. Construction stalled because of",
+   "link": "https://shafaq.com/en/society/Diyala-water-project-stalls-after-10-years",
+   "date": "2026-07-24T11:33:27.000Z"
   },
   {
    "src": "Shafaq",
@@ -90,36 +114,12 @@
    "date": "2026-07-24T10:34:30.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi PM office denies ceasefire mediation report",
-   "desc": "Shafaq News- Baghdad The Media Office of the Iraqi Prime Minister has denied a New York Times report that Prime Minister Ali Al-Zaidi carried a United States ceasefire proposal to Tehran, saying the allegations are \"entirely unfounded and bear no relation to reality.\" Iranian Foreign Minister Abbas Araghchi separately dismissed reports that Al-Zaidi, during his visit to Tehran, brought a message f",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-PM-office-denies-ceasefire-mediation-report",
-   "date": "2026-07-24T09:56:40.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Farmers seek protection for Najaf rice revival",
-   "desc": "Shafaq News- Najaf Rice farmers in Iraq&rsquo;s Najaf province have urged the government to help cover production costs after improved water supplies revived fields left largely uncultivated during last year&rsquo;s drought. In Al-Issa, one of the main rice growing areas in the province&rsquo;s Kufa district, farmer Abu Amir Al-Issawi told Shafaq News that he planted more than 17.5 hectares with A",
-   "link": "https://shafaq.com/en/society/Farmers-seek-protection-for-Najaf-rice-revival",
-   "date": "2026-07-24T09:52:26.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Two missiles found in southern Iraq desert",
-   "desc": "Shafaq News- Al-Muthanna Iraqi security forces on Friday found two small military missiles, including an unexploded cruise missile. A security source told Shafaq News that the missiles had fallen &ldquo;recently&rdquo; in the Al-Busayya desert of southern Al-Muthanna province, but did not identify their model, intended target, or the party that launched them. Read more: Erbil Airport remains open ",
-   "link": "https://shafaq.com/en/Security/Two-missiles-found-in-southern-Iraq-desert",
-   "date": "2026-07-24T09:12:30.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "US hits dozens of countries with new wave of tariffs",
    "desc": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T08:59:31.000Z"
+   "date": "2026-07-24T12:40:44.000Z"
   },
   {
    "src": "BBC",
@@ -156,6 +156,22 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+   "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
+   "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
+   "date": "2026-07-24T11:37:58.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Trump threatens a major escalation in Iran as the war rounds its 4th month",
+   "desc": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
+   "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+   "date": "2026-07-24T11:30:08.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "How the Houthis blockade of the Red Sea could affect the global economy",
    "desc": "NPR's A Martínez asks former U.S. deputy national security adviser Jon Finer what the blockade of the Red Sea by Houthi rebels means for the global economy.",
    "link": "https://www.npr.org/2026/07/24/nx-s1-5904543/how-the-houthis-blockade-of-the-red-sea-could-affect-the-global-economy",
@@ -178,20 +194,12 @@
    "date": "2026-07-24T09:00:00.000Z"
   },
   {
-   "src": "NPR",
+   "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-   "desc": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-   "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-   "date": "2026-07-24T05:56:15.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-   "desc": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\"",
-   "link": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
-   "date": "2026-07-24T05:45:47.000Z"
+   "title": "Four Palestinians and one Israeli killed in West Bank shooting",
+   "desc": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+   "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-24T12:57:20.000Z"
   },
   {
    "src": "BBC ME",
@@ -224,14 +232,6 @@
    "desc": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
    "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-23T04:49:24.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Oil prices hit $100 for the first time since May",
-   "desc": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-   "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-23T15:31:00.000Z"
   },
   {
    "src": "LFU",
@@ -308,10 +308,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Drone carrying explosives downed near US consulate in Erbil, Iraq",
-   "desc": "Drone carrying explosives downed near US consulate in Erbil, Iraq &nbsp;&nbsp; Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcy1yb01zQ1VtOE0zRDZ5NVotbFV0YmlXNGd2SjBTbTNvMzdxTjBqSFhHazlkbHFfRXh6a3ZNNU5zWDd0Y3Y3a1RIOUlJU0Q3MG1vZXhNR2MyWmpURVMzNXNBczBYdmdPWW90ZXYtMTllWXBfSWZmeTZfMDRfc3hONXBXM3p2cC0yWHBRZFFJcU9Eb20tenV3?oc=5",
-   "date": "2026-07-18T23:19:46.000Z"
+   "title": "C-RAM defenses engage threats over Erbil amid Iran tensions",
+   "desc": "C-RAM defenses engage threats over Erbil amid Iran tensions &nbsp;&nbsp; Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG1HamZ1dWRoQlFTSlpKdzNEUHpMWXp0LWg1QmtqTTdsTkFfeFBCN0t1bG41VjNjekRIZlk1cVh1RXptVDlaOEpmZGY3R2FHSGluZWdUeDh3ZUdHWVhDMjBEdXNZUlZVVTE0SVBPWXhvaUxOZXFYR3pBOFZuOTZYNkxNTWc4YTMyVEFrdS05S1U?oc=5",
+   "date": "2026-07-18T22:36:23.000Z"
   },
   {
    "src": "Tourism",
