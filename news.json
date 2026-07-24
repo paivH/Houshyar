@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T03:54:03.257Z",
+ "updated": "2026-07-24T06:28:04.423Z",
  "items": [
   {
    "src": "Rudaw",
@@ -36,6 +36,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "US Launches 13th Consecutive Night of Strikes on Iran; Tehran Condemns Trump's Asset Threat",
+   "desc": "U.S. Central Command (CENTCOM) said American forces began the latest round of attacks at 6:45 p.m. ET (2245 GMT).",
+   "link": "https://www.kurdistan24.net/en/story/927836/us-launches-13th-consecutive-night-of-strikes-on-iran-tehran-condemns-trumps-asset-threat",
+   "date": "2026-07-24T05:08:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "KRG Says Investment in Kurdistan Region Surpasses USD 25 Billion",
    "desc": "The KRG's Department of Media and Information says more than USD 25 billion has been invested across housing, tourism, industry, agriculture, healthcare, education and financial services, underscoring the long-term strategy to diversify economy and strengthen private-sector growth.",
    "link": "https://www.kurdistan24.net/en/story/927825/krg-says-investment-in-kurdistan-region-surpasses-usd-25-billion",
@@ -66,12 +74,20 @@
    "date": "2026-07-23T19:25:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "KRG to Enable Electricity Debt Payments Through e-Psule Under Runaki Initiative",
-   "desc": "Eligible subscribers across the Kurdistan Region will soon be able to settle discounted legacy electricity debts through the e-Psule digital payment platform or local Energy Sales Offices, supporting the KRG's broader Runaki electricity reform and public service modernization.",
-   "link": "https://www.kurdistan24.net/en/story/927806/krg-to-enable-electricity-debt-payments-through-e-psule-under-runaki-initiative",
-   "date": "2026-07-23T19:00:00.000Z"
+   "title": "Iran rejects US ceasefire proposal delivered by Iraqi premier",
+   "desc": "Shafaq News- Washington/ Tehran Iran has rejected a US ceasefire proposal conveyed by Iraqi Prime Minister Ali Al-Zaidi, according to American and Iraqi officials cited by The New York Times, after the United States completed its 13th consecutive night of strikes against Iran. This is a breaking story&hellip;",
+   "link": "https://shafaq.com/en/Middle-East/Iran-rejects-US-ceasefire-proposal-delivered-by-Iraqi-premier",
+   "date": "2026-07-24T06:06:29.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Gold extends losses ahead of Fed meeting",
+   "desc": "Shafaq News Gold extended losses on Friday after falling 2% &zwnj;in the previous session, as Brent crude's move back above $100 a barrel stoked inflation concerns and strengthened the case for higher interest rates ahead of a Federal Reserve policy meeting next week. Spot gold eased &#8203;0.4% to $4,030.09 per ounce by 0333 GMT, with prices down more than $130 from a two-week &#8203;high hit on ",
+   "link": "https://shafaq.com/en/Economy/Gold-extends-losses-ahead-of-Fed-meeting",
+   "date": "2026-07-24T05:19:55.000Z"
   },
   {
    "src": "Shafaq",
@@ -93,25 +109,9 @@
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
    "title": "Baghdad shuts Kuwait crossing after drone strikes",
-   "desc": "Shafaq News- Basra Iraq on Thursday closed the Safwan border crossing with Kuwait, Basra Provincial Council Security Committee head Aqeel Al-Freiji told Shafaq News, after repeated drone strikes targeted the adjacent Abdali crossing. Al-Freiji said Safwan sustained no damage and will remain closed until the security threat to both crossings had passed. &ldquo;The decision was taken as a precaution",
+   "desc": "Shafaq News- Basra Iraq on Thursday closed the Safwan border crossing with Kuwait, Basra Provincial Council Security Committee head Aqeel Al-Freiji told Shafaq News, after repeated drone strikes targeted the adjacent Abdaly crossing. Al-Freiji said Safwan sustained no damage and will remain closed until the security threat to both crossings had passed. &ldquo;The decision was taken as a precaution",
    "link": "https://shafaq.com/en/society/Baghdad-shuts-Kuwait-crossing-after-drone-strikes",
    "date": "2026-07-23T22:27:50.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US attacks hit Iran’s Qeshm island",
-   "desc": "Shafaq News- Tehran/ Washington US missiles struck near Mesen village on Iran&rsquo;s Qeshm Island on Thursday, Iranian media reported, without providing details. According to Iranian outlets, the US had also struck near the island&rsquo;s coastal city of Suza, close to the Strait of Hormuz. Tehran then responded with missile and drone attacks against US-linked military sites in Kuwait. The Kuwait",
-   "link": "https://shafaq.com/en/Middle-East/American-attacks-hit-Iran-s-Qeshm-island",
-   "date": "2026-07-23T21:54:05.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Israeli airstrikes hit homes across Gaza",
-   "desc": "Shafaq News- Gaza Israeli warplanes carried out a series of airstrikes across the Gaza Strip on Thursday, leaving several injuries and large fires in the targeted sites, local media reported on Thursday. The strikes destroyed homes in the Al-Bureij refugee camp in central Gaza, Jabalia refugee camp in the north, and the Al-Zaytoun and Al-Jalaa neighborhoods of Gaza City. In Press remarks, the spok",
-   "link": "https://shafaq.com/en/Middle-East/Israeli-airstrikes-hit-homes-across-Gaza",
-   "date": "2026-07-23T21:15:15.000Z"
   },
   {
    "src": "BBC",
@@ -132,10 +132,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-   "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+   "title": "US hits dozens of trading partners with new wave of tariffs",
+   "desc": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T02:10:00.000Z"
+   "date": "2026-07-24T06:12:47.000Z"
   },
   {
    "src": "BBC",
@@ -152,6 +152,22 @@
    "desc": "The vote marks a win for Health Secretary Robert F Kennedy who has said he's a big fan of the drugs, which haven't been well studied for human use.",
    "link": "https://www.bbc.co.uk/news/articles/ckg4741vklko?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-24T02:03:11.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
+   "desc": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
+   "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
+   "date": "2026-07-24T05:56:15.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+   "desc": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\"",
+   "link": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
+   "date": "2026-07-24T05:45:47.000Z"
   },
   {
    "src": "NPR",
@@ -176,22 +192,6 @@
    "desc": "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.",
    "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
    "date": "2026-07-23T10:55:44.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
-   "desc": "The agreement between the U.S. and Saudi Arabia gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
-   "link": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia",
-   "date": "2026-07-23T10:46:02.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Former State Department official on the implications of the U.S.-Saudi nuclear deal",
-   "desc": "NPR's Michel Martin talks to Daniel Benaim, a former State Department official who worked on Gulf issues, about the U.S.-Saudi nuclear deal.",
-   "link": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal",
-   "date": "2026-07-23T10:45:56.000Z"
   },
   {
    "src": "BBC ME",
@@ -308,14 +308,6 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Kurdistan referendum sparks fear in Christians, Yazides and Turkmen",
-   "desc": "Kurdistan referendum sparks fear in Christians, Yazides and Turkmen &nbsp;&nbsp; AsiaNews",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXBHTEVKaVJQUDRzN2lSX29ZY2RiY3YzUnFYS1FtYzdPc281NmpQYjctNEZMR0NHOTVIc05JV0s4QnlKNUdqcnZ1Q3phX05DR1NLVGE2SFBKZWpCTzh6em5ZV0MtdHRYTHNWSGxpZlAzYlFxb1Q3UlFwVjFtUk9BTFA0akVQV1FVTFBKcGF2akVpRGtfRTl3eEUyejY5dFhoZ3F5OGdwWDVWQ0dFNHJn?oc=5",
-   "date": "2026-07-18T10:49:22.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio",
    "desc": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYVUFwRmRWUEM4eG9WSnlZY3c4dlgxamUyWTFrZFk1ajRHeHFuNUpZNkxKNEtsaFRXazZIajBfTHB5bDdaX3lSVGlpZEFBeTVGZmw5cnFn?oc=5",
@@ -336,6 +328,14 @@
    "desc": "ZAWYA: SunExpress resumes flights to the Middle East &nbsp;&nbsp; TradingView",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQek5zd2tlWmV2d1gza3NaZTlrWENnRUt4OXE1bEJJbTZVRlNzVXFjeEI2Umw1aVE5MGxZQTlpSFFuTWtwVmpmaUJNZ1p1MjZfTl81VFRjYmZadHNkcEl3UTVDQzlObHpzb2NqSDRwVUhtS1Q1SVM3ZWdLNkFUWFBhckRCdUh6bkRUS1BSbTVqWEVWNUpETVBOdDVZcmZBZjF1NzFuMWR2cktxSm9jdWFMaU5NOFZ1c0ZpUUZ3RmJFajdmQks5VGc?oc=5",
    "date": "2026-07-12T03:55:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Bastora, Dwin Dams Strengthen Kurdistan Region's Water Security and Tourism",
+   "desc": "Bastora, Dwin Dams Strengthen Kurdistan Region's Water Security and Tourism &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlphMXk5VVBFa00yS0ZMNERoOFZLRFE5Qjd5MWxuWEo0MF81UXB2YUxDZ0VuTTlTS2hoVXRWQ0w1UU5hOE9lam11N3BwRlVhQ3hya1FzRjhiNWZzbkl6cTF5ckNpaURGcjNaS3Q2bDFpNnZnT0hoZFRUUFA0VTU0OWdOX2NzY0QydDhWSWEtN2Y2XzAzSFdBTzhYS2kzbTJwUC1mVzJHVkFPWFZfQnE3SlMyWGhTcDNF?oc=5",
+   "date": "2026-07-10T10:30:00.000Z"
   }
  ]
 }
