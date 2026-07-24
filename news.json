@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T22:06:45.442Z",
+ "updated": "2026-07-24T23:33:40.496Z",
  "items": [
   {
    "src": "Rudaw",
@@ -76,6 +76,30 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Trump pushes Tehran toward serious diplomatic settlement",
+   "desc": "Shafaq News- Washington US President Donald Trump indicated on Friday that Iran is showing its strongest commitment yet in negotiations but remains unwilling to sign a deal, urging Tehran to take the process more seriously. &ldquo;We&rsquo;re talking to them right now. I think they&rsquo;re getting more and more solid as the days go by, for maybe the obvious reason,&rdquo; Trump told reporters in ",
+   "link": "https://shafaq.com/en/World/Trump-pushes-Tehran-toward-serious-diplomatic-settlement",
+   "date": "2026-07-24T23:00:05.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Cretan Greek survives in Syria after nearly 130 years",
+   "desc": "Shafaq News- Damascus 129 years after their ancestors fled Crete, Muslim families in Syria&rsquo;s coastal town of Al-Hamidiyah still speak a Cretan Greek dialect alongside Arabic, preserving a rare linguistic link to the Mediterranean island. The Ottoman Empire established Al-Hamidiyah near the present-day Lebanese border in 1897 as a refuge for Greek-speaking Muslims displaced during the 1897-18",
+   "link": "https://shafaq.com/en/Middle-East/Cretan-Greek-survives-in-Syria-after-nearly-130-years",
+   "date": "2026-07-24T22:33:43.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "KSA targets Houthi positions in Yemen’s Hodeidah",
+   "desc": "Shafaq News- Riyadh The Saudi-led Arab Alliance forces carried out air strikes on Houthi (Ansarallah) military positions in Yemen&rsquo;s Hodeidah province, targeting sites they linked to threats against commercial shipping in the Red Sea, Alliance spokesperson Major General Turki Al-Maliki stated on Friday. Al-Maliki confirmed that Hodeidah port was not among the targets and that all ports in the",
+   "link": "https://shafaq.com/en/Middle-East/KSA-targets-Houthi-positions-in-Yemen-s-Hodeidah",
+   "date": "2026-07-24T22:07:34.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq ranks 15th in Arab food security index for 2026",
    "desc": "Shafaq News- Baghdad Iraq ranked 15th among Arab countries in the 2026 Food Security Index, according to data published by World Population Review. According to the data, the index measures food security based on several factors, including food availability, affordability, quality, and the sustainability of supply chains. The United Arab Emirates topped the Arab rankings, followed by Qatar in seco",
    "link": "https://shafaq.com/en/Economy/Iraq-ranks-15th-in-Arab-food-security-index-for-2026",
@@ -88,30 +112,6 @@
    "desc": "Shafaq News- Najaf Arbaeen preparations are breathing new life into Najaf's old city, where thousands of vendors are counting on millions of pilgrims to revive trade after months of slow business. Along the narrow streets leading to the Imam Ali Shrine, sidewalks have turned into open-air markets selling everything Iraqi and foreign worshippers need during their visit, as well as souvenirs to comm",
    "link": "https://shafaq.com/en/society/Souvenirs-and-shoppers-fill-Iraq-s-Najaf-ahead-of-Arbaeen",
    "date": "2026-07-24T21:20:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "1,800+ delayed public projects slow Iraq’s infrastructure development",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s stalled public service projects have exceeded 1,800 nationwide, including more than 600 in Baghdad and over 1,200 in other provinces, the Parliamentary Services and Reconstruction Committee reported on Friday. Lawmaker Mahma Khalil, a committee member and part of&nbsp;the Kurdistan Democratic Party (KDP), told Shafaq News that the stalled projects cover key infras",
-   "link": "https://shafaq.com/en/society/1-800-delayed-public-projects-slow-Iraq-s-infrastructure-development",
-   "date": "2026-07-24T21:05:36.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "John returns to Hartlepool on permanent deal",
-   "desc": "Shafaq News- London Cameron John has completed a permanent move to Hartlepool United, signing a one-year contract with the club holding the option of a second year, the National League side confirmed on Friday. The 26-year-old defender arrives as a free agent after leaving York City at the expiry of his contract earlier this summer. He spent last season on a season-long loan at Hartlepool from Yor",
-   "link": "https://shafaq.com/en/sport/John-returns-to-Hartlepool-on-permanent-deal",
-   "date": "2026-07-24T20:30:39.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Attack damages Saudi vessel, Airstrikes hit Yemen’s Hodeidah",
-   "desc": "Shafaq News- Riyadh A Saudi vessel sustained minor damage after being attacked in the Red Sea, according to Saudi Arabia's General Authority for Transport. An official from the Authority quoted by Al-Arabiya said that the Saudi-owned vessel NCC MASA was targeted while sailing in the Red Sea, causing minor damage to the vessel&rsquo;s hull, and confirming that the ship and its crew were safe. NCC M",
-   "link": "https://shafaq.com/en/Middle-East/Attack-damages-Saudi-vessel-Airstrikes-hit-Yemen-s-Al-Hudaydah",
-   "date": "2026-07-24T20:28:23.000Z"
   },
   {
    "src": "BBC",
@@ -199,7 +199,7 @@
    "title": "Four Palestinians and two Israelis killed in West Bank shooting",
    "desc": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
    "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T18:19:23.000Z"
+   "date": "2026-07-24T22:49:59.000Z"
   },
   {
    "src": "BBC ME",
@@ -292,6 +292,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "US forces disable tanker after blockade attempts, CENTCOM says",
+   "desc": "US forces disable tanker after blockade attempts, CENTCOM says &nbsp;&nbsp; NewsNation",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTlNM0lodDRIV2hST1psa19IWDVGMmU0aEFCQ3V0Y1E3Rnltc1d3aEJ6blZ3VXVnVDQ3RHRJenJyeGVCaENpdGdsckZHZDkzcFpvNXRTdHQ0SS1fTUJibzl6QlViTGdBMkZZNk1aSWNldllMSmlHdjBIMzViQWpEUVIwZ0NFeTBwaHBz0gGQAUFVX3lxTFBLV01QUy1vYmxhNG9IWWxncU5nZ2tFU293Z2hfRkgzNWhKazdVTzZhbjBrRnNiWXZIYm1qMy1DRVRCMFJxMDdURWpkOTR5US11dWh4NkMyeHdydnNFSVdsT1huZ21pbmxSR0UyNlhqTjFaUy0zdTcta3l3cjdKMWFOMFBWeThjc1FKV0tlamF6Qw?oc=5",
+   "date": "2026-07-24T21:56:47.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Explosions rock Iraq's Erbil as air defenses intercept suicide drones - VIDEO",
    "desc": "Explosions rock Iraq's Erbil as air defenses intercept suicide drones - VIDEO &nbsp;&nbsp; Latest news from Azerbaijan",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODRyWU95a19reWN0VlRhWnI3cThEWXFGWlJqbGpMdDBndk9nU0NTMERqWlJYSEZCTWJGNnVfYjMxTUV6XzVJVE5wSmF6TVljVmFWQVdNQ2IyeEprUW5fRDV0dWRwTWxfY3hKQnlFa2tpNHoyNDNXNHBsSUtSX0FhVG1fdV9VMkM1WjBqRDJOMkpOMUd2VnU3RlktS1c?oc=5",
@@ -304,14 +312,6 @@
    "desc": "PM Barzani inaugurates major water project in Barzan &nbsp;&nbsp; The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05Z2VwSk1aTmpCSURNRDE4Mm5FcE56Ukp4cmtyeEEwTHNCc3pVRWw0T0hoV2hKRXJ2TW5hR1B4ZndRai1zeFprNExzZw?oc=5",
    "date": "2026-07-19T09:58:31.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Rwanga water project serves 4K Khanaqin families - Shafaq News | Latest breaking news in Iraq and the world",
-   "desc": "Rwanga water project serves 4K Khanaqin families - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2ozVkhrRlpQeU1oV2NBZHRhMTJOYUhTYkp2dWZfMmZ0QXVYOWw4WGhnNXpqVE10TzYwd0kwLUMzM0YxQTZsOGxGWlhNYUJEZnpha0dKU3p3S2pHRWZoR3BDVWhrN1U1VGZNS2V0bU9pTkw4bHNveGd6OHV4V2F4cEFrVnNFRkk?oc=5",
-   "date": "2026-07-18T18:48:39.000Z"
   },
   {
    "src": "Tourism",
