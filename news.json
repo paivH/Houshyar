@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T15:02:47.241Z",
+ "updated": "2026-07-24T17:06:09.739Z",
  "items": [
   {
    "src": "Rudaw",
@@ -7,7 +7,7 @@
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-07-24T12:36:33.000Z"
+   "date": "2026-07-24T12:40:03.000Z"
   },
   {
    "src": "Rudaw",
@@ -23,7 +23,7 @@
    "title": "CENTCOM concludes 12th night of Iran strikes",
    "desc": "CENTCOM concludes 12th night of Iran strikes &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1YVpWTGtkQk9RZ2dGb0FGTWhmbFBrQXRseUdjS1ZrOGVxeGV5NFpiZEJOTU42ZGRXZnF6dWRsVHdYYllzQ2MwVmxNNnhvSlhvTVBrUUxITTlPcFdCaEVlNUw4Vno?oc=5",
-   "date": "2026-07-23T05:58:59.000Z"
+   "date": "2026-07-23T04:58:59.000Z"
   },
   {
    "src": "Rudaw",
@@ -32,6 +32,30 @@
    "desc": "Heavy rains revive buffalo herding in Sulaimani’s Raparin administration &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zLUFpSzAwN2RuRHM5TEpRRko5clhiU1UzWGFZVGd3T2pvaWdOR3VFMEFlSFVvVERyTTd0MGRYOFMyVFNQYldNZkdqamZzTVdsUHBBMHRwVTZhTDRZZTJrR1JVclo?oc=5",
    "date": "2026-07-23T12:41:57.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "US Embassy Issues Urgent Security Alert for American Citizens in Iraq",
+   "desc": "The US Embassy in Baghdad has urged American citizens in Iraq to remain vigilant and prepare for possible travel disruptions as regional tensions continue to escalate.",
+   "link": "https://www.kurdistan24.net/en/story/927969/us-embassy-issues-urgent-security-alert-for-american-citizens-in-iraq",
+   "date": "2026-07-24T16:29:02.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Trump Says China, Russia Pledged Not to Arm Iran as US sanctions Iranian financial network",
+   "desc": "US President Donald Trump says Xi Jinping and Vladimir Putin personally assured him neither China nor Russia will arm Tehran, as the Treasury Department separately sanctioned Iranian financial network",
+   "link": "https://www.kurdistan24.net/en/story/927966/trump-says-china-russia-pledged-not-to-arm-iran-as-us-sanctions-iranian-financial-network",
+   "date": "2026-07-24T16:14:58.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "UN Chief Warns of Escalation as Houthis Renew Red Sea Attacks",
+   "desc": "Antonio Guterres warned that renewed Houthi attacks on commercial shipping could deepen regional instability, while the Iran-backed group insisted it is not seeking to close the strategic Bab al-Mandeb Strait",
+   "link": "https://www.kurdistan24.net/en/story/927956/un-chief-warns-of-escalation-as-houthis-renew-red-sea-attacks",
+   "date": "2026-07-24T15:32:41.000Z"
   },
   {
    "src": "K24",
@@ -50,28 +74,36 @@
    "date": "2026-07-24T13:34:46.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Rubio, Iran Exchange Signals Rising Tensions as Trump Considers Next Steps",
-   "desc": "As President Donald Trump weighs broader military options against Iran, increasingly pointed exchanges between Washington and Tehran underscore mounting diplomatic strain, while Congress, energy markets, and regional security remain on edge.",
-   "link": "https://www.kurdistan24.net/en/story/927922/rubio-iran-exchange-signals-rising-tensions-as-trump-considers-next-steps",
-   "date": "2026-07-24T12:33:00.000Z"
+   "title": "Trump warns China, Russia against arming Iran",
+   "desc": "Shafaq News- Washington Russia and China will not supply weapons to Iran, US President Donald Trump stated, warning that any such move &ldquo;would be very bad&rdquo; for both countries. Trump said Chinese President Xi Jinping assured him during a recent meeting in Beijing that China would not, &ldquo;under any circumstances,&rdquo; provide weapons to Tehran, adding that the commitment also applie",
+   "link": "https://shafaq.com/en/World/Trump-warns-China-Russia-against-arming-Iran",
+   "date": "2026-07-24T16:44:35.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran's Revolutionary Guards Warn Civilians to Stay Away from U.S. Forces Across Middle East",
-   "desc": "\"We warn the general public in countries where American soldiers are stationed to immediately stay out of a radius of 500 metres from the places where American soldiers are hiding, in order to be safe,\" the Guards said in a statement carried by state television.",
-   "link": "https://www.kurdistan24.net/en/story/927913/irans-revolutionary-guards-warn-civilians-to-stay-away-from-us-forces-across-middle-east",
-   "date": "2026-07-24T11:33:33.000Z"
+   "title": "US, EU tighten sanctions on Iran",
+   "desc": "Shafaq News- Washington The United States imposed sanctions on four individuals and nine entities linked to Iran, accusing them of helping Iranian businessman Babak Zanjani evade sanctions through financial services, gold trading, digital assets, and transportation businesses, the Treasury Department stated on Friday. Treasury's Office of Foreign Assets Control (OFAC) said the sanctions cover Zanj",
+   "link": "https://shafaq.com/en/society/US-EU-tighten-sanctions-on-Iran",
+   "date": "2026-07-24T16:02:45.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Feraşîn Highlands Thrive as Rich Pastures Boost Livestock and Dairy Output",
-   "desc": "Abundant rainfall has revitalized Northern Kurdistan's Feraşîn Highlands' pastures, improving grazing conditions, increasing milk production, and supporting seasonal livestock farming and traditional cheese and yogurt production across the mountain region.",
-   "link": "https://www.kurdistan24.net/en/story/927910/fera%C5%9F%C3%AEn-highlands-thrive-as-rich-pastures-boost-livestock-and-dairy-output",
-   "date": "2026-07-24T11:03:00.000Z"
+   "title": "Tehran links ceasefire to Hormuz demands",
+   "desc": "Shafaq News- Tehran Iran will not accept any temporary ceasefire unless its demands regarding the Strait of Hormuz are met, Iranian Foreign Minister Abbas Araghchi said on Friday. Speaking to Tasnim News Agency, Araghchi argued that every time Washington had &ldquo;tested&rdquo; Iran, it had received a &ldquo;decisive response,&rdquo; while accusing the United States of continuing the same approac",
+   "link": "https://shafaq.com/en/World/Tehran-links-ceasefire-to-Hormuz-demands",
+   "date": "2026-07-24T15:38:58.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Region gas crisis deepens despite lower prices",
+   "desc": "Shafaq News- Erbil Gasoline shortages have spread across the Kurdistan Region, with station closures, long queues, and higher transport costs emerging after the government imposed new price caps. A Shafaq News field survey found many private stations closed, while others displayed &ldquo;gasoline unavailable&rdquo; notices. The few selling commercial regular fuel at the official ceiling of 850 din",
+   "link": "https://shafaq.com/en/Kurdistan/Kurdistan-Region-gas-crisis-deepens-despite-lower-prices",
+   "date": "2026-07-24T15:24:06.000Z"
   },
   {
    "src": "Shafaq",
@@ -82,44 +114,28 @@
    "date": "2026-07-24T14:42:06.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "African catfish threatens Iraq's native fish",
-   "desc": "Shafaq News- Baghdad The African catfish (Clarias gariepinus) has become firmly established in Iraq's rivers and water bodies, making its eradication impossible, the head of the Iraqi Fish Producers Association told Shafaq News on Friday. Iyad Al-Talibi said the predatory species feeds on native fish, including binni, gattan, shabout, and carp. He noted that the fish entered Iraq before 2023 and i",
-   "link": "https://shafaq.com/en/society/African-catfish-threatens-Iraq-s-native-fish",
-   "date": "2026-07-24T14:20:27.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Cross-border river flows revive Iraq’s Diyala orchards",
-   "desc": "Shafaq News- Diyala Orchards in Mandali district, east of Iraq's Diyala province, are receiving sufficient water supplies for the first time in nearly 25 years, reviving large areas of farmland, the district head said on Friday. Ali Dhamad told Shafaq News that water levels have recently increased in several rivers flowing from Iran, including the Souk, Jani, and Bagh rivers, providing enough wate",
-   "link": "https://shafaq.com/en/society/Cross-border-river-flows-revive-Iraq-s-Diyala-orchards",
-   "date": "2026-07-24T13:42:29.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Netanyahu orders new Israeli outposts in West Bank",
-   "desc": "Shafaq News- Middle East Israeli Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz on Friday ordered steps to legalize existing settlement outposts and establish new ones in the West Bank after a deadly confrontation near the Havat Gilad settlement. Netanyahu stated that the military was also instructed to demolish the alleged attacker&rsquo;s home, launch a broad operation in vil",
-   "link": "https://shafaq.com/en/Middle-East/Netanyahu-orders-new-Israeli-outposts-in-West-Bank",
-   "date": "2026-07-24T13:16:38.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US sanctions fall short of disrupting Iraq’s parallel economy",
-   "desc": "Shafaq News- Baghdad&nbsp; Washington's current sanctions has failed to significantly curb Iraq's parallel economy, as sanctioned entities continue to benefit from state institutions, government contracts, and domestic financial networks despite international restrictions, according to an analysis published by the Middle East Forum. While US sanctions have raised the cost of international financia",
-   "link": "https://shafaq.com/en/Iraq/US-sanctions-fall-short-of-disrupting-Iraq-s-parallel-economy",
-   "date": "2026-07-24T13:00:02.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
+   "desc": "A bridge linking Michigan to Ontario is about to open but Canada disinvited US dignitaries from Friday's ceremony.",
+   "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-24T16:26:42.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
-   "desc": "A bridge linking Michigan to Ontario is about to open but Canada has disinvited US dignitaries from the ceremony.",
-   "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T05:56:55.000Z"
+   "title": "Wisconsin officials open investigation into fatal police shooting",
+   "desc": "Corey Ruiz, 38, was shot and killed on Wednesday in an altercation with four officers. Police say he resisted arrest and pulled a knife during the incident.",
+   "link": "https://www.bbc.co.uk/news/articles/c78ge6z459xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-24T14:24:52.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "NBA star LeBron James to join Philadelphia 76ers",
+   "desc": "Former Lakers basketball star LeBron James will be joining the Philadelphia 76ers.",
+   "link": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-24T16:07:33.000Z"
   },
   {
    "src": "BBC",
@@ -132,26 +148,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US hits dozens of countries with new wave of tariffs",
-   "desc": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-   "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T12:40:44.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-   "desc": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
-   "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T02:25:07.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US health panel loosens restrictions for controversial peptides popular online",
-   "desc": "The vote marks a win for Health Secretary Robert F Kennedy who has said he's a big fan of the drugs, which haven't been well studied for human use.",
-   "link": "https://www.bbc.co.uk/news/articles/ckg4741vklko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T02:03:11.000Z"
+   "title": "All passengers rescued after fiery seaplane crash",
+   "desc": "Video shows the seaplane landing awkwardly on the water, passengers being rescued and the plane bursting into flames.",
+   "link": "https://www.bbc.co.uk/news/videos/c1w10ez5qpeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-24T13:14:50.000Z"
   },
   {
    "src": "NPR",
@@ -164,7 +164,7 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Trump threatens a major escalation in Iran as the war nears the end of Month 5",
+   "title": "Trump threatens a major escalation in Iran as the war nears the 5-month mark",
    "desc": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
    "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
    "date": "2026-07-24T11:30:08.000Z"
@@ -199,7 +199,7 @@
    "title": "Four Palestinians and two Israelis killed in West Bank shooting",
    "desc": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
    "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T14:41:32.000Z"
+   "date": "2026-07-24T16:37:17.000Z"
   },
   {
    "src": "BBC ME",
@@ -284,6 +284,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Explosions, smoke near Iraq’s Erbil airport, which houses US troops",
+   "desc": "Explosions, smoke near Iraq’s Erbil airport, which houses US troops &nbsp;&nbsp; The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUFBUmV1WUY2dl9fdWd4Wmlubk9NODU3S1EzUWFpRlQyajB6VVBkXzFWQVhkUDM0a24yLS1yeUZGZ19HUjhKQkpKem91ZGRWSHFqeERuZHNPWW8wOEwycDRHMTA2OUdSLXBJTm1YeGpBU3ZCSGtqYjA1WkgySHk3WkoyYW5fS1UxQThHTVpvOXZGVzBWRHNUc0hSZElTakRmcm11dnVmdFl6aE5DNUpB?oc=5",
+   "date": "2026-07-24T07:51:03.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil",
    "desc": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil &nbsp;&nbsp; Crypto Briefing",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0RicW8tSGFGWnVjbHdqV09BUVAzOEZiX181ZXlfRUtDZ0lzSWRUaHhKVnp0REstY05vQ3VnUnJXQm5ZaW95akxhOEctT2M5YWZjZUc1UTJvMGF0MDV6OF9wdTNsUDNBcUNrejhtZzJHd21yNFkxQ19jV29jM1d1TUJLdERVQkdvWF9yM2RWeDFKaDl5UW1zZ3p2eUtBdE0?oc=5",
@@ -306,14 +314,6 @@
    "date": "2026-07-23T20:01:00.000Z"
   },
   {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "C-RAM defenses engage threats over Erbil amid Iran tensions",
-   "desc": "C-RAM defenses engage threats over Erbil amid Iran tensions &nbsp;&nbsp; Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG1HamZ1dWRoQlFTSlpKdzNEUHpMWXp0LWg1QmtqTTdsTkFfeFBCN0t1bG41VjNjekRIZlk1cVh1RXptVDlaOEpmZGY3R2FHSGluZWdUeDh3ZUdHWVhDMjBEdXNZUlZVVTE0SVBPWXhvaUxOZXFYR3pBOFZuOTZYNkxNTWc4YTMyVEFrdS05S1U?oc=5",
-   "date": "2026-07-18T22:36:23.000Z"
-  },
-  {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan Tourism Board Unveils New Water Tourism Safety Regulations",
@@ -332,18 +332,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio",
-   "desc": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYVUFwRmRWUEM4eG9WSnlZY3c4dlgxamUyWTFrZFk1ajRHeHFuNUpZNkxKNEtsaFRXazZIajBfTHB5bDdaX3lSVGlpZEFBeTVGZmw5cnFn?oc=5",
-   "date": "2026-07-22T11:23:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Iranian missile hits Komala headquarters in Erbil - Shafaq News | Latest breaking news in Iraq and the world",
    "desc": "Iranian missile hits Komala headquarters in Erbil - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVVXS2s5WVd2a29hQ2ttRWF0SXhKSk82ZnpYVW90d0NJYnRld2ViSjEwdjdCQ3ZRVTRJU1VLRkRGaUtRV3M2dndyRnE3WWlPZFJ4a1pRWlkweFh1U0Q2eWlnMlJVaVR1Y0hoX3VYQldGY3RqYnNtbW5NWjQ0OFlnNlJFbk9kdUpa?oc=5",
    "date": "2026-07-19T22:34:33.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio",
+   "desc": "Tourism Received $7.68 Billion of Kurdistan Region's $22 Billion Investment Portfolio &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYVUFwRmRWUEM4eG9WSnlZY3c4dlgxamUyWTFrZFk1ajRHeHFuNUpZNkxKNEtsaFRXazZIajBfTHB5bDdaX3lSVGlpZEFBeTVGZmw5cnFn?oc=5",
+   "date": "2026-07-22T11:23:00.000Z"
   },
   {
    "src": "Tourism",
