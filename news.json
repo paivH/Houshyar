@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T20:27:46.082Z",
+ "updated": "2026-07-25T21:27:55.099Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Iran: US infrastructure in Erbil destroyed",
+   "desc": "Shafaq News- Erbil/ Tehran Iran's military claimed on Saturday that nearly all US infrastructure in Erbil, the capital of Iraq's Kurdistan Region, had been destroyed. In remarks carried by the semi-official Fars News Agency, Army spokesperson Mohammad Akrami-Nia said a &ldquo;massive portion&rdquo; of American bases across the region had lost their operational capacity. He also asserted that Irani",
+   "link": "https://shafaq.com/en/Kurdistan/Iran-US-infrastructure-in-Erbil-destroyed",
+   "date": "2026-07-25T21:22:03.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Tehran: Kyiv's strike on Iranian vessel act of aggression",
+   "desc": "Shafaq News- Tehran Iran on Saturday condemned a Ukrainian military strike on an Iranian merchant vessel in the Caspian Sea that killed one sailor and injured another. In a statement, the Foreign Ministry called the incident \"an act of aggression\" in violation of Article 2(4) of the UN Charter that could further expand the war, adding that it reflected Ukraine's \"irrational and hostile approach\" t",
+   "link": "https://shafaq.com/en/Middle-East/Tehran-Kyiv-s-strike-on-Iranian-vessel-act-of-aggression",
+   "date": "2026-07-25T20:43:39.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Israel kills three Hamas members in Gaza",
    "desc": "Shafaq News- Gaza Israel's military said on Saturday it had killed a Hamas commander involved in the Oct. 7, 2023, attack, along with two other Hamas members in separate strikes across the Gaza Strip earlier this week. According to the army, an airstrike in central Gaza on Monday killed Mohannad Asaad Mahmoud Abu Ghazal, whom it identified as the commander of a Hamas Nukhba (elite) unit and accuse",
    "link": "https://shafaq.com/en/Middle-East/Israel-kills-three-Hamas-members-in-Gaza",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Tehran Iran's Islamic Revolutionary Guard Corps (IRGC) inflicted extensive damage on US military assets across the Middle East between July 8 and July 22, the group&rsquo;s spokesman Sardar Mohebi told the semi-official Tasnim News Agency. In air defense and radar, the IRGC listed seven command-and-control centers, six Patriot air-defense radars, and more than a dozen additional radar",
    "link": "https://shafaq.com/en/World/IRGC-claims-heavy-US-losses-across-the-region",
    "date": "2026-07-25T18:54:09.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "President Barzani mourns victims of Syria bus crash",
-   "desc": "Shafaq News- Erbil Kurdistan Region President Nechirvan Barzani on Saturday extended condolences following a deadly bus crash in Syria that claimed the lives of mostly Interior Ministry personnel. Barzani expressed his sympathies to the victims' families and the Syrian government, praying for mercy for those killed and a swift recovery for the injured. &#1578;&#1604;&#1602;&#1610;&#1606;&#1575; &#",
-   "link": "https://shafaq.com/en/Kurdistan/President-Barzani-mourns-victims-of-Syria-bus-crash",
-   "date": "2026-07-25T18:30:27.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq’s football league enters global top 100",
-   "desc": "Shafaq News- Baghdad The Iraq Stars League ranked 81st worldwide and fifth among Arab competitions in the latest league-strength table based on Opta Power Rankings. The Saudi Pro League led the Arab standings, followed by the Egyptian Premier League, UAE Pro League, and Qatar Stars League. England&rsquo;s Premier League remained first globally, ahead of Spain&rsquo;s La Liga. Opta compares competi",
-   "link": "https://shafaq.com/en/sport/Iraq-s-football-league-enters-global-top-100",
-   "date": "2026-07-25T18:14:25.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "The real cost of the war with Iran",
+   "desc": "NPR's Debbie Elliot speaks with Linda Bilmes, professor at the Harvard Kennedy School and expert of budgeting and public finance, about why the war between the U.S. and Iran has become so expensive.",
+   "link": "https://www.npr.org/2026/07/25/nx-s1-5903104/the-real-cost-of-the-war-with-iran",
+   "date": "2026-07-25T21:04:03.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
    "desc": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office.",
    "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
@@ -192,14 +200,6 @@
    "desc": "Member nations voted to remove chief prosecutor Karim Khan on Friday and the Trump administration is vowing to do whatever it can to dismantle the court.",
    "link": "https://www.npr.org/2026/07/24/nx-s1-5901054/icc-member-nations-vote-to-remove-chief-prosecutor",
    "date": "2026-07-24T20:25:58.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-   "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
-   "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-   "date": "2026-07-24T11:37:58.000Z"
   },
   {
    "src": "BBC ME",
