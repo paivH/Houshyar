@@ -1,14 +1,6 @@
 {
- "updated": "2026-07-25T02:49:40.047Z",
+ "updated": "2026-07-25T05:44:49.089Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-07-24T12:42:10.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -20,26 +12,34 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "CENTCOM concludes 12th night of Iran strikes",
-   "desc": "CENTCOM concludes 12th night of Iran strikes &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1YVpWTGtkQk9RZ2dGb0FGTWhmbFBrQXRseUdjS1ZrOGVxeGV5NFpiZEJOTU42ZGRXZnF6dWRsVHdYYllzQ2MwVmxNNnhvSlhvTVBrUUxITTlPcFdCaEVlNUw4Vno?oc=5",
-   "date": "2026-07-23T04:58:59.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Heavy rains revive buffalo herding in Sulaimani’s Raparin administration",
-   "desc": "Heavy rains revive buffalo herding in Sulaimani’s Raparin administration &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zLUFpSzAwN2RuRHM5TEpRRko5clhiU1UzWGFZVGd3T2pvaWdOR3VFMEFlSFVvVERyTTd0MGRYOFMyVFNQYldNZkdqamZzTVdsUHBBMHRwVTZhTDRZZTJrR1JVclo?oc=5",
-   "date": "2026-07-23T12:41:57.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "IRGC kills young kolbar in Kermanshah province: Report",
    "desc": "IRGC kills young kolbar in Kermanshah province: Report &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcWlsSUZJczlaVVlVV1hkQnpzd29aMTc3YzBSU1hWUzFJWjMza250Z0h5T3cwbG5PUThhbWhvWjdRZEdvWkdZR2RiWXJfOW5ZdVdTMkJQSVMwY251VHFqOTk5TQ?oc=5",
    "date": "2026-07-23T21:51:03.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iranian border guards kill Kurdish border porter",
+   "desc": "Iranian border guards kill Kurdish border porter &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QQ25KVENCZG5JUmV1X0MyM1puaWhCOEZHcGJOWHBGRVp2Q1VKSGxwaGtYSjFJZ09NZnRnTlotZFlfMFNabjg2aDB5cmNJR1NXLWRvYU1wcExsWXFqekE?oc=5",
+   "date": "2026-07-23T12:15:13.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Loud blasts heard over Erbil amid reports of drone crash near airport",
+   "desc": "Loud blasts heard over Erbil amid reports of drone crash near airport &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwWFFTeXdYSmlkN0l4NDJRajQ1dXo2Z1VLU2hlMWtGc29FMzMyblJVWnRNcVNBVVo3V2NycVRWSGFoc1V4MTdURmlIQ09xbVY4bFRtU3hfWm05clRvc2lyV0k1dW4?oc=5",
+   "date": "2026-07-24T07:58:56.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran army claims new attacks on US bases in Bahrain, Jordan",
+   "desc": "Iran army claims new attacks on US bases in Bahrain, Jordan &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vM0pEWFFDbDZ2Tnc2V0ZRd2RfRUNZN2dndVV5M0Vkc080QTZYai1XSnlWRkh0aWhwaWFpREhMamhQdUI4STFVdEJJY2xETUltOFN0SGJrRjJXdk9NSVhLMXozOA?oc=5",
+   "date": "2026-07-24T07:51:09.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Baghdad’s historic Al-Turat quarter risks complete collapse",
+   "desc": "Shafaq News- Baghdad Crumbling buildings and years of neglect have left Baghdad's historic Al-Turat Quarter in poor condition, prompting residents and heritage experts to call on authorities to restore one of the capital's oldest neighborhoods and preserve a district once home to much of its Jewish community. Located in Baghdad's Qanbar Ali district near Al-Sadriyah, Al-Turat Quarter is known for ",
+   "link": "https://shafaq.com/en/society/Baghdad-s-historic-Al-Turat-quarter-risks-complete-collapse",
+   "date": "2026-07-25T05:27:30.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Trump pushes Tehran toward serious diplomatic settlement",
    "desc": "Shafaq News- Washington US President Donald Trump indicated on Friday that Iran is showing its strongest commitment yet in negotiations but remains unwilling to sign a deal, urging Tehran to take the process more seriously. &ldquo;We&rsquo;re talking to them right now. I think they&rsquo;re getting more and more solid as the days go by, for maybe the obvious reason,&rdquo; Trump told reporters in ",
    "link": "https://shafaq.com/en/World/Trump-pushes-Tehran-toward-serious-diplomatic-settlement",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq ranked 15th among Arab countries in the 2026 Food Security Index, according to data published by World Population Review. According to the data, the index measures food security based on several factors, including food availability, affordability, quality, and the sustainability of supply chains. The United Arab Emirates topped the Arab rankings, followed by Qatar in seco",
    "link": "https://shafaq.com/en/Economy/Iraq-ranks-15th-in-Arab-food-security-index-for-2026",
    "date": "2026-07-24T21:50:34.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Souvenirs and shoppers fill Iraq’s Najaf ahead of Arbaeen",
-   "desc": "Shafaq News- Najaf Arbaeen preparations are breathing new life into Najaf's old city, where thousands of vendors are counting on millions of pilgrims to revive trade after months of slow business. Along the narrow streets leading to the Imam Ali Shrine, sidewalks have turned into open-air markets selling everything Iraqi and foreign worshippers need during their visit, as well as souvenirs to comm",
-   "link": "https://shafaq.com/en/society/Souvenirs-and-shoppers-fill-Iraq-s-Najaf-ahead-of-Arbaeen",
-   "date": "2026-07-24T21:20:18.000Z"
   },
   {
    "src": "BBC",
@@ -292,6 +292,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Explosions, smoke near Iraq’s Erbil airport, which houses US troops",
+   "desc": "Explosions, smoke near Iraq’s Erbil airport, which houses US troops &nbsp;&nbsp; The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUFBUmV1WUY2dl9fdWd4Wmlubk9NODU3S1EzUWFpRlQyajB6VVBkXzFWQVhkUDM0a24yLS1yeUZGZ19HUjhKQkpKem91ZGRWSHFqeERuZHNPWW8wOEwycDRHMTA2OUdSLXBJTm1YeGpBU3ZCSGtqYjA1WkgySHk3WkoyYW5fS1UxQThHTVpvOXZGVzBWRHNUc0hSZElTakRmcm11dnVmdFl6aE5DNUpB?oc=5",
+   "date": "2026-07-24T07:47:00.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil",
    "desc": "Explosive-laden drone intercepted near Iraq’s Al-Harir Airbase in Erbil &nbsp;&nbsp; Crypto Briefing",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0RicW8tSGFGWnVjbHdqV09BUVAzOEZiX181ZXlfRUtDZ0lzSWRUaHhKVnp0REstY05vQ3VnUnJXQm5ZaW95akxhOEctT2M5YWZjZUc1UTJvMGF0MDV6OF9wdTNsUDNBcUNrejhtZzJHd21yNFkxQ19jV29jM1d1TUJLdERVQkdvWF9yM2RWeDFKaDl5UW1zZ3p2eUtBdE0?oc=5",
@@ -303,7 +311,7 @@
    "title": "US forces disable tanker after blockade attempts, CENTCOM says",
    "desc": "US forces disable tanker after blockade attempts, CENTCOM says &nbsp;&nbsp; NewsNation",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTlNM0lodDRIV2hST1psa19IWDVGMmU0aEFCQ3V0Y1E3Rnltc1d3aEJ6blZ3VXVnVDQ3RHRJenJyeGVCaENpdGdsckZHZDkzcFpvNXRTdHQ0SS1fTUJibzl6QlViTGdBMkZZNk1aSWNldllMSmlHdjBIMzViQWpEUVIwZ0NFeTBwaHBz0gGQAUFVX3lxTFBLV01QUy1vYmxhNG9IWWxncU5nZ2tFU293Z2hfRkgzNWhKazdVTzZhbjBrRnNiWXZIYm1qMy1DRVRCMFJxMDdURWpkOTR5US11dWh4NkMyeHdydnNFSVdsT1huZ21pbmxSR0UyNlhqTjFaUy0zdTcta3l3cjdKMWFOMFBWeThjc1FKV0tlamF6Qw?oc=5",
-   "date": "2026-07-24T23:26:40.000Z"
+   "date": "2026-07-25T04:04:14.000Z"
   },
   {
    "src": "Erbil",
@@ -312,14 +320,6 @@
    "desc": "Explosions rock Iraq's Erbil as air defenses intercept suicide drones - VIDEO &nbsp;&nbsp; Latest news from Azerbaijan",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODRyWU95a19reWN0VlRhWnI3cThEWXFGWlJqbGpMdDBndk9nU0NTMERqWlJYSEZCTWJGNnVfYjMxTUV6XzVJVE5wSmF6TVljVmFWQVdNQ2IyeEprUW5fRDV0dWRwTWxfY3hKQnlFa2tpNHoyNDNXNHBsSUtSX0FhVG1fdV9VMkM1WjBqRDJOMkpOMUd2VnU3RlktS1c?oc=5",
    "date": "2026-07-21T19:08:30.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "PM Barzani inaugurates major water project in Barzan",
-   "desc": "PM Barzani inaugurates major water project in Barzan &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05Z2VwSk1aTmpCSURNRDE4Mm5FcE56Ukp4cmtyeEEwTHNCc3pVRWw0T0hoV2hKRXJ2TW5hR1B4ZndRai1zeFprNExzZw?oc=5",
-   "date": "2026-07-19T09:58:31.000Z"
   },
   {
    "src": "Tourism",
