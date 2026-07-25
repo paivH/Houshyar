@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T10:08:30.872Z",
+ "updated": "2026-07-25T11:44:32.110Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,30 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Dozens Dead, Injured in Bus Crash on Syria's 'Road of Death'",
+   "desc": "A head-on collision between an Internal Security Forces bus and a civilian passenger bus left at least 35 dead as rescue teams continued recovery operations on one of Syria's most dangerous highways.",
+   "link": "https://www.kurdistan24.net/en/story/928102/dozens-dead-injured-in-bus-crash-on-syrias-road-of-death",
+   "date": "2026-07-25T11:20:13.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Erbil Airport Denies Night Flight Suspension Rumors, Confirms Normal Operations",
+   "desc": "Airport officials say Erbil International Airport remains fully operational, with routine airline scheduling decisions, not government directives, behind any temporary flight adjustments following Friday's drone attack.",
+   "link": "https://www.kurdistan24.net/en/story/928093/erbil-airport-denies-night-flight-suspension-rumors-confirms-normal-operations",
+   "date": "2026-07-25T11:00:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Intelligence Points to Mosul Outskirts as Launch Site for Drones Targeting Erbil",
+   "desc": "New intelligence indicates five explosive-laden drones intercepted over Erbil on Friday morning were launched by outlawed armed groups from the outskirts of Mosul, highlighting persistent security threats despite successful Coalition air defenses.",
+   "link": "https://www.kurdistan24.net/en/story/928079/intelligence-points-to-mosul-outskirts-as-launch-site-for-drones-targeting-erbil",
+   "date": "2026-07-25T10:05:33.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Kurdistan Foundation, GIZ Launch Inclusive Employment, Business Forum",
    "desc": "More than 110 skilled job seekers and small and medium-sized businesses took part in the forum, where they were matched with 230 available vacancies offered by more than 50 companies.",
    "link": "https://www.kurdistan24.net/en/story/928076/kurdistan-foundation-giz-launch-inclusive-employment-business-forum",
@@ -58,28 +82,36 @@
    "date": "2026-07-25T09:18:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iranian Government and IRIB Clash Over Editing of President Pezeshkian's Remarks",
-   "desc": "Iran's government has accused state broadcaster IRIB of censoring President Masoud Pezeshkian's remarks on international negotiations, while the broadcaster says its editorial decisions are intended to preserve national unity during a politically sensitive period.",
-   "link": "https://www.kurdistan24.net/en/story/928060/iranian-government-and-irib-clash-over-editing-of-president-pezeshkians-remarks",
-   "date": "2026-07-25T08:22:16.000Z"
+   "title": "First UN Chief visit since 2009: Guterres backs Syria’s reconstruction",
+   "desc": "Shafaq News- Damascus United Nations Secretary-General Antonio Guterres arrived in Damascus on Saturday for the first visit by a UN chief to Syria in 17 years, meeting with Syria&rsquo;s transitional President Ahmed al-Sharaa. \"The United Nations stands with Syria at this pivotal moment,\" Guterres wrote on X, urging the international community to \"spare no effort\" to support the Syrian people. I h",
+   "link": "https://shafaq.com/en/Middle-East/First-UN-Chief-visit-since-2009-Guterres-backs-Syria-s-reconstruction",
+   "date": "2026-07-25T11:35:16.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran's Araghchi Discusses Alleged U.S. Violations With China as Talks Continue",
-   "desc": "Iranian Foreign Minister Abbas Araghchi appealed to China over what Tehran calls U.S. violations of the war-termination agreement, as Washington continues negotiations with Iran while keeping military options on the table.",
-   "link": "https://www.kurdistan24.net/en/story/928058/irans-araghchi-discusses-alleged-us-violations-with-china-as-talks-continue",
-   "date": "2026-07-25T07:58:09.000Z"
+   "title": "IRI’s Saraya Awliya Al-Dam denies role in Erbil, Kuwait attacks",
+   "desc": "Shafaq News- Baghdad Saraya Awliya Al-Dam, an Iraqi armed faction within the Islamic Resistance in Iraq (IRI), on Saturday rejected reports linking it to recent attacks targeting Erbil and Kuwait as &ldquo;false and unsupported by any evidence.&rdquo; In a statement, the group&rsquo;s military spokesperson, Abu Mahdi Al-Jaafari, maintained that the allegations were intended to sow confusion and in",
+   "link": "https://shafaq.com/en/Security/IRI-s-Saraya-Awliya-Al-Dam-denies-role-in-Erbil-Kuwait-attacks",
+   "date": "2026-07-25T11:12:01.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan24 Represents Kurdistan Region at White House Correspondents' Dinner in Washington",
-   "desc": "Rahim Rashidi, Kurdistan24's Washington Bureau Chief, joined White House journalists and senior U.S. officials at the rescheduled correspondents' dinner, where talks centered on the Kurdistan Region, regional security, diplomacy, and U.S. support for President Masoud Barzani's leadership.",
-   "link": "https://www.kurdistan24.net/en/story/928051/kurdistan24-represents-kurdistan-region-at-white-house-correspondents-dinner-in-washington",
-   "date": "2026-07-25T07:49:00.000Z"
+   "title": "Kuwait: Border drone attacks won’t disrupt Iraq ties",
+   "desc": "Shafaq News- Basra Kuwait&rsquo;s First Deputy Prime Minister and Minister of Interior, Sheikh Fahad Yousef Saud Al-Sabah, pledged on Saturday to confront attempts to undermine relations with Iraq, stressing that recent security incidents would not disrupt trade, travel, or cooperation between the two countries. Speaking alongside Basra Governor Asaad Al-Eidani at the Safwan border crossing, Al-Sa",
+   "link": "https://shafaq.com/en/Iraq/Kuwait-Border-drone-attacks-won-t-disrupt-Iraq-ties",
+   "date": "2026-07-25T10:47:30.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kirkuk seizes 160+ smuggling vehicles in 45 days",
+   "desc": "Shafaq News- Kirkuk Security forces in north-central Iraq&rsquo;s Kirkuk province seized 163 vehicles transporting smuggled goods without paying customs duties over the past 45 days, Kirkuk Operations Commander Maj. Gen. Maad Baday revealed on Saturday. Baday told Shafaq News the vehicles were intercepted on unofficial smuggling routes before being handed over to the relevant authorities, saying t",
+   "link": "https://shafaq.com/en/Security/Kirkuk-seizes-160-smuggling-vehicles-in-45-days",
+   "date": "2026-07-25T10:15:20.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,38 +120,6 @@
    "desc": "Shafaq News- Baghdad President Nizar Amedi on Saturday urged Iraq&rsquo;s political blocs to expand women&rsquo;s representation in senior leadership, proposing the appointment of a woman as vice president and deputy prime minister, along with the establishment of a Ministry for Women&rsquo;s Affairs. Speaking at the 18th Conference on Combating Violence Against Women in Baghdad, Amedi also backed",
    "link": "https://shafaq.com/en/Iraq/Iraqi-President-urges-more-women-in-senior-posts",
    "date": "2026-07-25T09:54:35.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq pushes green initiatives for Arbaeen pilgrimage",
-   "desc": "Shafaq News- Baghdad The Iraq Green Observatory on Saturday called for greener practices during Iraq&rsquo;s Arbaeen pilgrimage, encouraging service tents (mawakibs) to cut plastic use, reduce food waste and adopt cleaner methods to manage the millions of visitors expected to take part in the annual religious event. In a statement, the environmental watchdog outlined the &ldquo;Green Procession&rd",
-   "link": "https://shafaq.com/en/society/Iraq-pushes-green-initiatives-for-Arbaeen-pilgrimage",
-   "date": "2026-07-25T09:38:10.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq, Kuwait convene at Safwan crossing after drone strikes",
-   "desc": "Shafaq News- Basra Basra Governor Asaad Al-Eidani on Saturday met Kuwait&rsquo;s First Deputy Prime Minister and Minister of Interior, Sheikh Fahad Yousef Saud Al-Sabah, at Iraq&rsquo;s Safwan border crossing, days after repeated drone strikes targeted the neighboring Abdaly crossing. The governor&rsquo;s media office indicated that Basra Provincial Council Security Committee Chairman Aqeel Al-Fre",
-   "link": "https://shafaq.com/en/Security/Iraq-Kuwait-convene-at-Safwan-crossing-after-drone-strikes",
-   "date": "2026-07-25T09:08:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Gold prices retreat in Baghdad and Erbil markets",
-   "desc": "Shafaq News- Baghdad/ Erbil On Saturday, gold prices hovered around 855,000 IQD per mithqal in Baghdad and Erbil markets, according to a survey by Shafaq News Agency. Gold prices on Baghdad's Al-Nahr Street recorded a selling price of 856,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buying price of 852,000 IQD. The same g",
-   "link": "https://shafaq.com/en/Economy/Gold-prices-retreat-in-Baghdad-and-Erbil-markets-7",
-   "date": "2026-07-25T08:45:29.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Yemen’s Houthis blame Riyadh for continued Sanaa Airport blockade",
-   "desc": "Shafaq News- Sanaa Yemen&rsquo;s Houthis (Ansarallah) chief negotiator Mohammed Abdulsalam on Saturday accused Saudi Arabia of obstructing the reopening of Sanaa International Airport and compared Riyadh&rsquo;s policies in Yemen to those of Israel, alleging that both engage in &ldquo;lying, arrogance, hatred, and aggression.&rdquo; Abdulsalam claimed that Saudi Arabia insists on keeping Sanaa Air",
-   "link": "https://shafaq.com/en/Middle-East/Yemen-s-Houthis-blame-Riyadh-for-continued-Sanaa-Airport-blockade",
-   "date": "2026-07-25T08:20:05.000Z"
   },
   {
    "src": "BBC",
@@ -308,18 +308,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "US forces disable tanker after blockade attempts, CENTCOM says",
-   "desc": "US forces disable tanker after blockade attempts, CENTCOM says &nbsp;&nbsp; NewsNation",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTlNM0lodDRIV2hST1psa19IWDVGMmU0aEFCQ3V0Y1E3Rnltc1d3aEJ6blZ3VXVnVDQ3RHRJenJyeGVCaENpdGdsckZHZDkzcFpvNXRTdHQ0SS1fTUJibzl6QlViTGdBMkZZNk1aSWNldllMSmlHdjBIMzViQWpEUVIwZ0NFeTBwaHBz0gGQAUFVX3lxTFBLV01QUy1vYmxhNG9IWWxncU5nZ2tFU293Z2hfRkgzNWhKazdVTzZhbjBrRnNiWXZIYm1qMy1DRVRCMFJxMDdURWpkOTR5US11dWh4NkMyeHdydnNFSVdsT1huZ21pbmxSR0UyNlhqTjFaUy0zdTcta3l3cjdKMWFOMFBWeThjc1FKV0tlamF6Qw?oc=5",
-   "date": "2026-07-25T04:04:14.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Explosions rock Iraq's Erbil as air defenses intercept suicide drones - VIDEO",
    "desc": "Explosions rock Iraq's Erbil as air defenses intercept suicide drones - VIDEO &nbsp;&nbsp; Latest news from Azerbaijan",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODRyWU95a19reWN0VlRhWnI3cThEWXFGWlJqbGpMdDBndk9nU0NTMERqWlJYSEZCTWJGNnVfYjMxTUV6XzVJVE5wSmF6TVljVmFWQVdNQ2IyeEprUW5fRDV0dWRwTWxfY3hKQnlFa2tpNHoyNDNXNHBsSUtSX0FhVG1fdV9VMkM1WjBqRDJOMkpOMUd2VnU3RlktS1c?oc=5",
    "date": "2026-07-21T19:08:30.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Rwanga water project serves 4K Khanaqin families - Shafaq News | Latest breaking news in Iraq and the world",
+   "desc": "Rwanga water project serves 4K Khanaqin families - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2ozVkhrRlpQeU1oV2NBZHRhMTJOYUhTYkp2dWZfMmZ0QXVYOWw4WGhnNXpqVE10TzYwd0kwLUMzM0YxQTZsOGxGWlhNYUJEZnpha0dKU3p3S2pHRWZoR3BDVWhrN1U1VGZNS2V0bU9pTkw4bHNveGd6OHV4V2F4cEFrVnNFRkk?oc=5",
+   "date": "2026-07-18T18:48:39.000Z"
   },
   {
    "src": "Tourism",
