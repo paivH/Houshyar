@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T23:33:40.496Z",
+ "updated": "2026-07-25T02:49:40.047Z",
  "items": [
   {
    "src": "Rudaw",
@@ -7,7 +7,7 @@
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-07-24T12:40:12.000Z"
+   "date": "2026-07-24T12:42:10.000Z"
   },
   {
    "src": "Rudaw",
@@ -32,6 +32,14 @@
    "desc": "Heavy rains revive buffalo herding in Sulaimani’s Raparin administration &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zLUFpSzAwN2RuRHM5TEpRRko5clhiU1UzWGFZVGd3T2pvaWdOR3VFMEFlSFVvVERyTTd0MGRYOFMyVFNQYldNZkdqamZzTVdsUHBBMHRwVTZhTDRZZTJrR1JVclo?oc=5",
    "date": "2026-07-23T12:41:57.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "IRGC kills young kolbar in Kermanshah province: Report",
+   "desc": "IRGC kills young kolbar in Kermanshah province: Report &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcWlsSUZJczlaVVlVV1hkQnpzd29aMTc3YzBSU1hWUzFJWjMza250Z0h5T3cwbG5PUThhbWhvWjdRZEdvWkdZR2RiWXJfOW5ZdVdTMkJQSVMwY251VHFqOTk5TQ?oc=5",
+   "date": "2026-07-23T21:51:03.000Z"
   },
   {
    "src": "K24",
@@ -116,6 +124,30 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+   "desc": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+   "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-25T02:14:50.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+   "desc": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+   "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-25T02:23:09.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+   "desc": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
+   "link": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-25T00:41:50.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
    "desc": "A bridge linking Michigan to Ontario is about to open but Canada disinvited US dignitaries from Friday's ceremony.",
    "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
@@ -128,30 +160,6 @@
    "desc": "Federal investigators continue to search for the sources amid the largest number of reported cyclosporiasis cases in US history.",
    "link": "https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-24T18:00:03.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Trump vows to investigate EU over fining of US tech companies",
-   "desc": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-   "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T20:23:58.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US measles cases reach 35-year high",
-   "desc": "There have been 2,318 confirmed cases of the virus, higher than last year's total with five months to go.",
-   "link": "https://www.bbc.co.uk/news/articles/c36dw75dkw5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T18:18:30.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Wisconsin officials open investigation into fatal police shooting",
-   "desc": "Corey Ruiz, 38, was shot and killed on Wednesday in an altercation with four officers. Police say he resisted arrest and pulled a knife during the incident.",
-   "link": "https://www.bbc.co.uk/news/articles/c78ge6z459xo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-24T22:00:09.000Z"
   },
   {
    "src": "NPR",
@@ -279,7 +287,7 @@
    "title": "KRG Says Investment in Kurdistan Region Surpasses USD 25 Billion",
    "desc": "KRG Says Investment in Kurdistan Region Surpasses USD 25 Billion &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHdPcjFoeW9GMDIwdk5WRDRjV3FwX1pNbTZNTmpiYlFScjFQT1dCYjMtSFYzRVE3WWcyaHZVS1ZCYUdtRzJFd3lBbVl1RWxVMGRoN29lWnJWVjlaQjBLWjhSZDg4am5lM19DQ3AwdEFfcVNBNDllRm1tNk1YbkNQRl9BbHBRMVhRSjRnZV9keTdEYXR1cWdnNm0zZDA3SUVPOU90bmFlcGFGWkJk?oc=5",
-   "date": "2026-07-23T20:01:00.000Z"
+   "date": "2026-07-24T07:59:00.000Z"
   },
   {
    "src": "Erbil",
@@ -295,7 +303,7 @@
    "title": "US forces disable tanker after blockade attempts, CENTCOM says",
    "desc": "US forces disable tanker after blockade attempts, CENTCOM says &nbsp;&nbsp; NewsNation",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTlNM0lodDRIV2hST1psa19IWDVGMmU0aEFCQ3V0Y1E3Rnltc1d3aEJ6blZ3VXVnVDQ3RHRJenJyeGVCaENpdGdsckZHZDkzcFpvNXRTdHQ0SS1fTUJibzl6QlViTGdBMkZZNk1aSWNldllMSmlHdjBIMzViQWpEUVIwZ0NFeTBwaHBz0gGQAUFVX3lxTFBLV01QUy1vYmxhNG9IWWxncU5nZ2tFU293Z2hfRkgzNWhKazdVTzZhbjBrRnNiWXZIYm1qMy1DRVRCMFJxMDdURWpkOTR5US11dWh4NkMyeHdydnNFSVdsT1huZ21pbmxSR0UyNlhqTjFaUy0zdTcta3l3cjdKMWFOMFBWeThjc1FKV0tlamF6Qw?oc=5",
-   "date": "2026-07-24T21:56:47.000Z"
+   "date": "2026-07-24T23:26:40.000Z"
   },
   {
    "src": "Erbil",
