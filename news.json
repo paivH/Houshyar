@@ -1,14 +1,6 @@
 {
- "updated": "2026-07-27T18:42:00.521Z",
+ "updated": "2026-07-27T20:24:01.066Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Fly Erbil maintains European flights despite ongoing drone attacks on Kurdistan",
-   "desc": "Fly Erbil maintains European flights despite ongoing drone attacks on Kurdistan &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZnhTdG43WGJUbEZKQ2xnRW5YSXRwZzZmU2RIdEFhdkNtVUNmbDRYTG9YODM5VTdIZGl3bG5Oc195UVRoaFB1YjZMcmpNaWZONTNDUjV2WU5OVUM2M2tudkpXS2I?oc=5",
-   "date": "2026-07-25T18:57:49.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -40,6 +32,22 @@
    "desc": "Drone attacks on Kurdistan Region came from Mosul: PM Barzani &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0T0VYaE9VM1FhY0R3SS1yLW12eWY1Z1Bvb052NS13dTNRU1p0cmZWZ2ZiZzM2UDh4a0dsZTRmU1dUTlVab0NmUExQWXBOMzRCbXp4N1RmYUxVZ0o5cWxnRXcyYlFzRENZcVE?oc=5",
    "date": "2026-07-27T15:14:34.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "KRG cabinet remains legitimate until new government forms, says Public Prosecution",
+   "desc": "KRG cabinet remains legitimate until new government forms, says Public Prosecution &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWWZzMVFYRXVlTVZqckxwLUNtRVpwWHN5am1vZzhrZUZlTmtKRUhBclVRODZSczM0aU94cGRXdEZyeVZ4WmtoUXllZ3ZZakh5Um80WVFURDFzVXlJcFRhUjNtZ0U?oc=5",
+   "date": "2026-07-27T19:41:31.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq Orders Investigation into Saudi Claim of Drone Attacks Launched from Iraqi Territory",
+   "desc": "Prime Minister spokesperson Sabah al-Numan said Zaidi instructed \"the competent security authorities to investigate the statement issued by the Ministry of Defense of the Kingdom of Saudi Arabia regarding the targeting of the kingdom with drones launched from Iraqi territory.\"",
+   "link": "https://www.kurdistan24.net/en/story/928656/iraq-orders-investigation-into-saudi-claim-of-drone-attacks-launched-from-iraqi-territory",
+   "date": "2026-07-27T19:53:33.000Z"
   },
   {
    "src": "K24",
@@ -74,60 +82,52 @@
    "date": "2026-07-27T14:20:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "PM Barzani Receives French Consul General as Diplomatic Mission Concludes",
-   "desc": "Prime Minister Barzani thanked Braem for his efforts in strengthening the friendship and relations between France and the Kurdistan Region and wished him success in his future responsibilities.",
-   "link": "https://www.kurdistan24.net/en/story/928588/pm-barzani-receives-french-consul-general-as-diplomatic-mission-concludes",
-   "date": "2026-07-27T13:51:53.000Z"
+   "title": "Ukraine-linked cells arrested over attacks in Iraq",
+   "desc": "Shafaq News- Baghdad Iraqi authorities arrested cells working for Ukraine in Iraq and accused them of carrying out several attacks, National Security Adviser Qasim Al-Aboudi said on Monday. In a TV interview, Al-Aboudi revealed an intelligence unit tasked with analyzing information has concluded that there is Ukrainian involvement in Iraq. &ldquo;We arrested a limited number of groups that carried",
+   "link": "https://shafaq.com/en/Security/Ukraine-linked-cells-arrested-over-attacks-in-Iraq",
+   "date": "2026-07-27T20:23:29.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "1.8M+ foreign pilgrims enter Iraq for Arbaeen",
-   "desc": "Shafaq News- Karbala Nearly two million foreign pilgrims have entered Iraq to observe the Arbaeen commemoration so far, according to Lt. Gen. Saad Maan, head of Iraq's Security Media Cell. Maan said in a statement on Monday that 1,813,188 foreign visitors from 172 nationalities had entered the country between June 16 and July 26. This year's Arbaeen falls on Wednesday, August 5, 2026, correspondin",
-   "link": "https://shafaq.com/en/society/1-8M-foreign-pilgrims-enter-Iraq-for-Arbaeen",
-   "date": "2026-07-27T18:36:05.000Z"
+   "title": "Kirkuk PhD student leads mobile Turkish restaurant venture",
+   "desc": "Shafaq News- Kirkuk Five young men from Kirkuk, northern Iraq, have turned a bus into a mobile restaurant serving Turkish cuisine, choosing entrepreneurship over waiting for government jobs. The idea came from Mohammed Hassan, a PhD student in the Turkish language, who turned his academic background into a business introducing authentic cuisine to Iraq. He was joined by four partners, including Hu",
+   "link": "https://shafaq.com/en/society/Kirkuk-PhD-student-leads-mobile-Turkish-restaurant-venture",
+   "date": "2026-07-27T20:02:24.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Al-Zaidi orders investigation on reported attack on Saudi Arabia from Iraq",
-   "desc": "Shafq News- Baghdad The Iraqi Commander-in-Chief of the Armed Forces, Prime Minister Ali Faleh Al-Zaidi, directed, on Monday, the competent security authorities to investigate the statement issued by the Ministry of Defense of the Kingdom of Saudi Arabia regarding the targeting of the Kingdom with drones launched from Iraqi territory. Spokesman for the Commander-in-Chief of the Armed Forces Sabah ",
-   "link": "https://shafaq.com/en/Iraq/Al-Zaidi-orders-investigation-on-reported-attack-on-Saudi-Arabia-from-Iraq",
-   "date": "2026-07-27T18:04:49.000Z"
+   "title": "Islamic Resistance in Iraq denies Saudi drone claim",
+   "desc": "Shafaq News- Baghdad The Islamic Resistance in Iraq, an umbrella of Iran-aligned armed factions operating in Iraq, rejected on Monday a Saudi accusation that drones which struck Saudi oil facilities had been launched from Iraqi territory. In a statement, the group said the accusation is an attempt to justify Riyadh's &ldquo;inability to respond to Yemeni strikes that had reached deep into Saudi in",
+   "link": "https://shafaq.com/en/Iraq/Islamic-Resistance-in-Iraq-denies-Saudi-drone-claim",
+   "date": "2026-07-27T19:59:58.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Arab States condemns attacks on Saudi Arabia",
-   "desc": "Shafaq News- Gulf Arab governments issued a series of condemnations on Monday over an attempted drone strike on oil facilities in Saudi Arabia, which Riyadh said was launched from Iraqi territory by &ldquo;Iran-backed militias.&rdquo; No group has claimed responsibility. The Saudi Foreign Ministry urged the Iraqi government to prevent its territory from being used to launch attacks against the kin",
-   "link": "https://shafaq.com/en/Middle-East/Arab-States-condemns-attacks-on-Saudi-Arabia",
-   "date": "2026-07-27T18:04:24.000Z"
+   "title": "Drone crashes at Haditha Dam compound in al-Anbar",
+   "desc": "Shafaq News- al-Anbar A drone crashed inside the residential compound of the Haditha Dam in Iraq's al-Anbar province on Monday, a security source told Shafaq News. The crash caused no injuries among civilians or workers at the site. Security forces cordoned off the location, and authorities have opened an investigation to determine the circumstances. Earlier today in the southern province of Babil",
+   "link": "https://shafaq.com/en/Security/Drone-crashes-at-Haditha-Dam-compound-in-al-Anbar",
+   "date": "2026-07-27T19:53:02.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Four ISIS suspects held in Al-Anbar arms raid",
-   "desc": "Shafaq News- Al-Anbar A joint force from Al-Anbar Police Command and the Iraqi Army on Monday arrested three women and a man linked to ISIS in Rawa district of al-Anbar Province, seizing a cache of phones, weapons, and cash, the Iraqi Interior Ministry said. The man suspect was found carrying identification belonging to ISIS members, while the three women had returned from the Jadaa camp &mdash;a ",
-   "link": "https://shafaq.com/en/Security/Four-ISIS-suspects-held-in-Al-Anbar-arms-raid",
-   "date": "2026-07-27T17:29:51.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Lawmakers endorse reforms to ease Iraq's power shortages",
-   "desc": "Shafaq News- Baghdad The Iraqi parliament voted on Monday to approve a package of recommendations to address the country's electricity crisis, including reopening all corruption cases related to the Electricity Ministry dating back to 2005 and strengthening oversight. According to a statement, the measures require the ministry to submit a detailed annual plan before each summer season outlining co",
-   "link": "https://shafaq.com/en/Iraq/Lawmakers-endorse-reforms-to-ease-Iraq-s-power-shortages",
-   "date": "2026-07-27T17:17:55.000Z"
+   "title": "Iraq's oil revenue share in budget falls to 84%",
+   "desc": "Shafaq News- Baghdad Oil revenues accounted for 84% of Iraq's federal budget income during the first five months of 2026, down from 91% in the same period of 2025, while the share of non-oil revenues increased to 16%, according to official data released by the Ministry of Finance on Monday. The ministry's report, reviewed by Shafaq News, showed that oil and mineral resource revenues totaled 26.946",
+   "link": "https://shafaq.com/en/Economy/Iraq-s-oil-revenue-share-in-budget-falls-to-84",
+   "date": "2026-07-27T19:28:15.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-   "desc": "Police say two suspects were shooting at each other and one of them is in custody and one at large.",
+   "title": "Police still searching for second suspect in fatal Seattle food festival shooting",
+   "desc": "One suspect, a teenager, is in custody following the shooting, in which three people were killed and others injured.",
    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-27T15:39:54.000Z"
+   "date": "2026-07-27T19:23:08.000Z"
   },
   {
    "src": "BBC",
@@ -140,6 +140,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "'Do the right thing': Savannah Guthrie makes another plea to mom's kidnappers",
+   "desc": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
+   "link": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-27T19:54:24.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "More than 600 US military service members injured since Iran War began in February",
    "desc": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
    "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
@@ -148,18 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Shots fired at US consulate in Toronto for a second time this year",
-   "desc": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-   "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-27T16:56:57.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
-   "desc": "Musk has backed a film called Citizen Vigilante featuring an American vigilante tearing across an unnamed European country.",
-   "link": "https://www.bbc.co.uk/news/articles/c5y4w5nwk00o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-27T09:52:21.000Z"
+   "title": "How a bridge became a symbol of US-Canada tensions",
+   "desc": "The Gordie Howe International Bridge has officially opened to motorists amid a trade row between both countries.",
+   "link": "https://www.bbc.co.uk/news/videos/cq564e1l6zno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-27T18:27:12.000Z"
   },
   {
    "src": "NPR",
