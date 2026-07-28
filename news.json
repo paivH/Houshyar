@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T10:08:34.768Z",
+ "updated": "2026-07-28T12:21:38.818Z",
  "items": [
   {
    "src": "Rudaw",
@@ -28,24 +28,40 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdTEzRmtvX3ZBZ2d0OGhMa1V2WEtnZHZiVjRzT0d0YUZESGRKQkNpN1FEWWNPSkhrU2xQd0puejFURlZrV04xcGNUNzhnU0xaTVZIUENSU0wwQkFHdldxdzFUWUoyeHdLN2FmYnRPRHZBNV9pbmhUYnN6LWI1R2FaTU8yTUo2VGpoTjl2NmxYZy0yNTN4TGVfQXZBQjUxa1RaTjBTRUlmY0RMdm9jZ3NlUHpTcUhjYXIzWWd6RmQyVjB5ejFtQWE1azBuZ2hIQQ?oc=5",
-   "date": "2026-07-28T05:47:07.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Drones strike Iranian Kurdish opposition bases near Erbil, no casualties reported",
    "desc": "Drones strike Iranian Kurdish opposition bases near Erbil, no casualties reported &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DS21RT0xuRXZTbGNpSmlxMFljUnMzLU1Fc1NOMkw1RTRUT2cwTDF2emhlaDZtTFR0aHZRcVl2SFlIQWhzTXBVdG1GVUJsVEVhZXdKOUJzTVdUbnlWWDUzN3pnQUU5UHFuQ0E?oc=5",
    "date": "2026-07-28T04:52:51.000Z"
   },
   {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lZDA0am5ZOHBLQWdHVFZIQkxmOW5tMDhXcndjdE1DdGNiQlFtMzBBZFVpUjZ0VTVJSTd4UXl1cmtUZXpmTWRkWHNhd1B2eF9PNUZnY0Z6NGc0R19BRE84?oc=5",
+   "date": "2026-07-27T22:30:03.000Z"
+  },
+  {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "KDP to Attend Kirkuk Provincial Council Meeting for First Time in Two Years",
-   "desc": "The Kurdistan Democratic Party (KDP) will participate in a meeting of the Kirkuk Provincial Council on Monday for the first time in two years, according to Kurdistan24 correspondent Hemn Delo.",
+   "title": "Death Toll Feared to Rise After Earthquake Brings Down Japan's Aeon Mall",
+   "desc": "A police source says authorities fear a substantial loss of life following the collapse of Aeon Mall Kumamoto, as rescue teams continue searching for survivors after a powerful earthquake struck southwestern Japan.",
+   "link": "https://www.kurdistan24.net/en/story/928782/death-toll-feared-to-rise-after-earthquake-brings-down-japans-aeon-mall",
+   "date": "2026-07-28T11:15:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "KRG Offers 50% Discount on Legacy Electricity Debts Under Runaki Reform",
+   "desc": "The Ministry of Electricity has introduced a limited-time debt settlement initiative offering discounts on legacy electricity bills as part of broader reforms supporting the Runaki (Light) Project and modernized electricity services.",
+   "link": "https://www.kurdistan24.net/en/story/928768/krg-offers-50-discount-on-legacy-electricity-debts-under-runaki-reform",
+   "date": "2026-07-28T10:24:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "KDP Ends Kirkuk Council Boycott, Returns to Provincial Meetings",
+   "desc": "The Kurdistan Democratic Party says it will resume participation in Kirkuk Provincial Council meetings after nearly two years, citing public demand, political cooperation, and a commitment to oversight and accountability.",
    "link": "https://www.kurdistan24.net/en/story/928762/kdp-to-attend-kirkuk-provincial-council-meeting-for-first-time-in-two-years",
    "date": "2026-07-28T09:57:00.000Z"
   },
@@ -66,60 +82,44 @@
    "date": "2026-07-28T09:26:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq Seeks Continued Presence of Foreign Military Advisors, Security Chief Says",
-   "desc": "Iraqi National Security Advisor Qasim Al-Aboudi says Baghdad has asked foreign military advisors to remain as the country strengthens its security forces, while ongoing investigations continue into recent attacks on state institutions.",
-   "link": "https://www.kurdistan24.net/en/story/928752/iraq-seeks-continued-presence-of-foreign-military-advisors-security-chief-says",
-   "date": "2026-07-28T09:01:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq Says Thousands of Young Citizens Are Fighting on Opposing Sides in Russia-Ukraine War",
-   "desc": "Iraqi National Security Advisor Qasim Al-Aboudi said economic hardship has driven thousands of Iraqi youths to enlist with Russian and Ukrainian forces, prompting a security crackdown on recruitment networks and diplomatic efforts to assist Iraqi nationals caught in the conflict.",
-   "link": "https://www.kurdistan24.net/en/story/928743/iraq-says-thousands-of-young-citizens-are-fighting-on-opposing-sides-in-russia-ukraine-war",
-   "date": "2026-07-28T08:11:00.000Z"
+   "title": "Kurdistan security seizes 680+ medieval silver coins",
+   "desc": "Shafaq News- Al-Sulaymaniyah Kurdistan Region security forces (Asayish) seized 685 authentic silver coins dating to the 12th and 13th centuries and arrested three suspects attempting to sell them illegally in Al-Sulaymaniyah, authorities said on Tuesday. Kurdistan Asayish spokesperson Brig. Gen. Karzan Sherko said the coins have since been transferred to the Al-Sulaymaniyah Museum. Museum director",
+   "link": "https://shafaq.com/en/Kurdistan/Kurdistan-security-seizes-680-medieval-silver-coins",
+   "date": "2026-07-28T12:13:43.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "350 Iranian government employees killed in war",
-   "desc": "Shafaq News- Tehran Iranian government spokesperson Fatemeh Mohajerani said on Tuesday that 350 government employees were killed during the country's war with the United States and Israel that began on February 28. Speaking at a news conference, she revealed that the Bushehr Airport in southwestern Iran has been rendered inoperable by a US strike, adding that a newly purchased aircraft, refurbishe",
-   "link": "https://shafaq.com/en/Middle-East/350-Iranian-government-employees-killed-in-war",
-   "date": "2026-07-28T09:47:21.000Z"
+   "title": "NPA mine clearance frees 7.4M sq m in Iraq",
+   "desc": "Shafaq News- Al-Anbar The Norwegian People's Aid (NPA) said on Tuesday it had cleared 7,456,004 square meters of land contaminated by landmines and explosive remnants of war in Iraq under a project funded by the German Federal Foreign Office and launched in 2022. In a statement, NPA said the village of Albu Dhiab, north of Ramadi, in al-Anbar of western Iraq, was one of the project's key achieveme",
+   "link": "https://shafaq.com/en/society/NPA-mine-clearance-frees-7-4M-sq-m-in-Iraq",
+   "date": "2026-07-28T12:11:41.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq records 2.1M arrivals for Arbaeen pilgrimage",
-   "desc": "Shafaq News- Baghdad 2,139,186 pilgrims have entered Iraq since the start of the month of Muharram to take part in the Arbaeen pilgrimage, the command headquarters overseeing the event said on Tuesday, as arrivals continued to move through the country's border crossings. Security and service agencies are carrying out field plans at the crossings and along main routes to keep pace with the rising n",
-   "link": "https://shafaq.com/en/society/Iraq-records-2-1-million-arrivals-for-Arbaeen-pilgrimage",
-   "date": "2026-07-28T09:15:01.000Z"
+   "title": "KDP ends Kirkuk Council boycott after political appeals",
+   "desc": "Shafaq News- Kirkuk The Kurdistan Democratic Party (KDP) announced on Tuesday that it will end its boycott of Kirkuk's 16-member Provincial Council, restoring its two-member bloc to the chamber after months of absence. Hassan Majid, head of the KDP's bloc in the council, said the party leadership approved the move in response to repeated appeals from other political blocs, describing the decision ",
+   "link": "https://shafaq.com/en/Iraq/KDP-ends-Kirkuk-Council-boycott-after-political-appeals",
+   "date": "2026-07-28T11:42:09.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Gold prices dip across Baghdad and Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil On Tuesday, gold prices fell across Baghdad and Erbil, hovering around 850,000 IQD per mithqal, according to Shafaq News market survey. Gold prices on Baghdad's Al-Nahr Street recorded a selling price of 848,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buying price of 844,000 IQD. The same gold",
-   "link": "https://shafaq.com/en/Economy/Gold-prices-dip-across-Baghdad-and-Erbil-1",
-   "date": "2026-07-28T08:57:26.000Z"
+   "title": "Constitutional quotas offer Iraqi women no shield against domestic abuse",
+   "desc": "Shafaq News Iraqi women have secured a stronger voice in parliament, entered more government positions, and gained greater visibility in public life. Yet inside homes across the country, many continue to face violence with limited legal protection. The contrast has become one of the most persistent challenges facing women in Iraq. While conferences, government initiatives, and public commitments c",
+   "link": "https://shafaq.com/en/Report/Constitutional-quotas-offer-Iraqi-women-no-shield-against-domestic-abuse",
+   "date": "2026-07-28T11:36:48.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kerosene shortage worsens in Baghdad as queues lengthen",
-   "desc": "Shafaq News- Baghdad A kerosene shortage in Baghdad worsened on Tuesday as lines of vehicles outside fuel stations grew longer, part of a supply crisis affecting most of Iraq in recent days. The shortage, which extends to Baghdad and several provinces, stems from higher domestic demand as private neighborhood generators consume more fuel during the summer, alongside reduced output at several oil r",
-   "link": "https://shafaq.com/en/Economy/Kerosene-shortage-worsens-in-Baghdad-as-queues-lengthen",
-   "date": "2026-07-28T08:46:22.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "USD/IQD exchange rates drop in Baghdad, Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar weakened against the Iraqi dinar on Tuesday morning, hovering around 150,000 dinars per $100 in Baghdad and Erbil, according to a Shafaq News market survey. In Baghdad, the dollar traded at 149,900 IQD per $100 at the Al-Kifah and Al-Harithiya central exchanges, down from 150,050 IQD on Monday. Exchange shops in the capital offered the dollar at 150,500 IQ",
-   "link": "https://shafaq.com/en/Economy/USD-IQD-exchange-rates-drop-in-Baghdad-Erbil-8-0",
-   "date": "2026-07-28T08:13:18.000Z"
+   "title": "Electricity Ministry dismisses officials over forged deals",
+   "desc": "Shafaq News- Baghdad Iraq's Electricity Ministry dismissed the general manager of the Central Electricity Distribution Company and several other officials over facilitating forged procurement transactions. According to ministry documents reviewed by Shafaq News on Tuesday, the dismissed general manager, Alaa Samir, and his office director were removed on accusations that the forged deals were carr",
+   "link": "https://shafaq.com/en/Security/Electricity-Ministry-dismisses-officials-over-forged-deals",
+   "date": "2026-07-28T11:16:49.000Z"
   },
   {
    "src": "BBC",
@@ -140,6 +140,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Seattle pays tribute to food festival shooting victims",
+   "desc": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+   "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-28T11:50:59.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
    "desc": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
@@ -154,12 +162,12 @@
    "date": "2026-07-28T07:14:51.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-   "desc": "The president says his economic policies are reinvigorating the auto industry and forcing overseas companies to relocate to the US.",
-   "link": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-27T23:24:28.000Z"
+   "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+   "desc": "President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.",
+   "link": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
+   "date": "2026-07-28T11:26:09.000Z"
   },
   {
    "src": "NPR",
@@ -192,14 +200,6 @@
    "desc": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
    "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
    "date": "2026-07-27T16:54:28.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-   "desc": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-   "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
-   "date": "2026-07-27T11:45:56.000Z"
   },
   {
    "src": "BBC ME",
