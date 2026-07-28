@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T20:01:51.907Z",
+ "updated": "2026-07-28T21:39:43.426Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Saudi Arabia Says It Intercepted More Drones Launched from Iraq",
+   "desc": "Defense Ministry spokesperson Turki al-Maliki said Saudi air defenses \"intercepted and destroyed several drones that attempted to target oil installations.\"",
+   "link": "https://www.kurdistan24.net/en/story/928886/saudi-arabia-says-it-intercepted-more-drones-launched-from-iraq",
+   "date": "2026-07-28T20:27:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "KRG Interior Minister Reaffirms Neutrality, Calls for Stronger Crisis Cooperation at Disaster Initiative Ceremony",
    "desc": "He highlighted a joint project launched in January 2024 by Expertise France, the Ministry of Interior, and the Joint Crisis Coordination Centre (JCC), with financial support from the European Union.",
    "link": "https://www.kurdistan24.net/en/story/928867/krg-interior-minister-reaffirms-neutrality-calls-for-stronger-crisis-cooperation-at-disaster-initiative-ceremony",
@@ -74,52 +82,60 @@
    "date": "2026-07-28T15:30:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Netanyahu Arrives at White House for First Meeting with Trump Since Iran War Began, Graham Funeral Next",
-   "desc": "The eighth sit-down of Trump's second term covers Iran, Lebanon's framework agreement, and Abraham Accords expansion, as both leaders prepare to attend Senator Lindsey Graham's memorial at the National Cathedral",
-   "link": "https://www.kurdistan24.net/en/story/928837/netanyahu-arrives-at-white-house-for-first-meeting-with-trump-since-iran-war-began-graham-funeral-next",
-   "date": "2026-07-28T15:28:13.000Z"
+   "title": "Iraq ships 32.1M barrels over two months",
+   "desc": "Shafaq News- Baghdad Iraq, OPEC's second-largest producer, exported 32.11 million barrels of crude oil, including condensates, worth about $2.34 billion during May and June 2026, the Oil Ministry announced on Tuesday. According to the State Organization for Marketing of Oil (SOMO), the total comprised 20.24 million barrels from Basra, 10.31 million barrels of Kirkuk crude shipped through Turkiye's",
+   "link": "https://shafaq.com/en/Economy/Iraq-ships-32-1M-barrels-over-two-months",
+   "date": "2026-07-28T21:02:00.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Saudi Arabia: Iraq-launched drones targeted oil facilities",
-   "desc": "Shafaq News- Riyadh Saudi Arabia said on Tuesday it had intercepted and destroyed several drones launched from Iraqi territory toward oil facilities in the Kingdom's Eastern Province, accusing &ldquo;Iran-backed militias&rdquo; of carrying out the attack. Defence Ministry spokesperson Major General Turki Al-Maliki said the drones had originated in Iraq, adding that Saudi Arabia reserved the right ",
-   "link": "https://shafaq.com/en/Middle-East/Saudi-Arabia-Iraq-launched-drones-targeted-oil-facilities",
-   "date": "2026-07-28T19:45:27.000Z"
+   "title": "Green route leads Arbaeen pilgrims toward Karbala",
+   "desc": "Shafaq News- Al-Diwaniyah Thousands of pilgrims continue their journey to Karbala to mark Arbaeen, following rural roads that stretch from Al-Diwaniyah through Al-Shamiyah and Kufa, where vast Amber rice (Shilib) fields and palm groves dominate the landscape at this time of year. Arbaeen marks the end of a 40-day mourning period for Imam Hussein ibn Ali, the third Shia Imam and a grandson of the P",
+   "link": "https://shafaq.com/en/society/Green-route-leads-Arbaeen-pilgrims-toward-Karbala",
+   "date": "2026-07-28T20:59:42.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq seeks closer Turkiye cooperation to recover stolen assets",
-   "desc": "Shafaq News- Ankara (Updated at 22:59) Iraqi Prime Minister Ali al-Zaidi has placed the extradition of former lawmakers and senior officials implicated in financial corruption on his agenda for his visit to Turkiye, aiming to bring them before the Iraqi judiciary, a government source revealed on Tuesday evening. Al-Zaidi will raise with Turkish officials the handover of former MPs and senior figur",
-   "link": "https://shafaq.com/en/Iraq/Iraq-seeks-closer-Turkiye-cooperation-to-recover-stolen-assets",
-   "date": "2026-07-28T19:24:08.000Z"
+   "title": "Interior Minister: Attacks target KRI from all sides",
+   "desc": "Shafaq News- Erbil The Kurdistan Region of Iraq (KRI) is being targeted from multiple directions and has faced repeated attacks that have caused material and moral damage to civilians and security forces, Interior Minister Reber Ahmed said on Tuesday, calling for concrete measures to stop the attacks. Speaking at the closing ceremony of the national project for Disaster Risk Management in the Kurd",
+   "link": "https://shafaq.com/en/Kurdistan/Interior-Minister-Attacks-target-KRI-from-all-sides",
+   "date": "2026-07-28T20:21:18.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump and Netanyahu hold first meeting since Iran war",
-   "desc": "Shafaq News- Washington Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump met at the White House on Tuesday for the first time since they launched a joint war against Iran. The meeting was positive and productive, according to the White House Press Secretary Karoline Leavitt. President Trump has concluded his meetings in the Oval Office with President Zelenskyy and Prime Mini",
-   "link": "https://shafaq.com/en/World/Trump-and-Netanyahu-hold-first-meeting-since-Iran-war",
-   "date": "2026-07-28T19:00:37.000Z"
+   "title": "Houthis target Saudi oil tanker under maritime blockade",
+   "desc": "Shafaq News- Sanaa Yemen's Houthi Movement (Ansarallah) targeted on Tuesday Saudi oil tanker NCC GHAZAL for violating its maritime blockade on the Kingdom, claiming the vessel was &ldquo;forced to turn back&rdquo; after refusing warning calls. Houthi military spokesperson Yahya Saree said the group fired multiple ballistic missiles at the tanker after it ignored repeated warnings. &#1606;&#1601;&#",
+   "link": "https://shafaq.com/en/Middle-East/Houthis-target-Saudi-oil-tanker-under-maritime-blockade",
+   "date": "2026-07-28T20:12:18.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "PM Al-Zaidi, President Erdogan sign three MOUs",
-   "desc": "Shafaq News- Ankara Iraqi Prime Minister Ali al-Zaidi and Turkish President Recep Tayyip Erdogan signed three memorandums of understanding (MOUs) on Tuesday covering industrial cooperation, police training, and youth affairs during al-Zaidi's official visit to Ankara. According to a statement from al-Zaidi's office, the agreements include cooperation on industrial property between Iraq's Ministry ",
-   "link": "https://shafaq.com/en/Iraq/PM-Al-Zaidi-President-Erdogan-sign-three-MOUs",
-   "date": "2026-07-28T18:41:07.000Z"
+   "title": "CENTCOM: 18 vessels rerouted since renewed Iran maritime blockade",
+   "desc": "Shafaq News- Washington US Central Command (CENTCOM) forces have rerouted 18 commercial vessels, disabled two, and inspected two others since the resumption of the maritime blockade on Iran, the military stated on Tuesday. CENTCOM said more than 20 US vessels were operating across the Middle East in support of the blockade and related operations. There are more than 20 U.S. Navy warships operating",
+   "link": "https://shafaq.com/en/World/CENTCOM-18-vessels-rerouted-since-renewed-Iran-maritime-blockade",
+   "date": "2026-07-28T20:03:47.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Centuries-old Baghdad shrine awaits preservation",
-   "desc": "Shafaq News- Baghdad The shrine of Sheikh Umar Al-Suhrawardi stands prominently in Baghdad, preserving a legacy that dates back to the Abbasid era (750-1258 CE), while years of neglect have threatened one of the Iraqi capital's most significant heritage landmarks. Distinguished by its unique conical dome, the centuries-old landmark is one of the finest surviving examples of Islamic architecture in",
-   "link": "https://shafaq.com/en/society/Centuries-old-Baghdad-shrine-awaits-preservation",
-   "date": "2026-07-28T18:35:04.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
+   "desc": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
+   "link": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-28T21:38:37.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+   "desc": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-28T20:57:29.000Z"
   },
   {
    "src": "BBC",
@@ -140,26 +156,42 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-   "desc": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
-   "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-28T11:50:59.000Z"
+   "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+   "desc": "The 16-year-old lifeguard rescued a 10-year-old boy from a beach in Santa Cruz, California after the boy had been swept offshore.",
+   "link": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-28T21:09:21.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Ariana Grande sues hackers who leaked music and videos",
-   "desc": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
-   "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-28T08:37:12.000Z"
+   "title": "As Spain battles wildfires, its politicians battle over climate change's role",
+   "desc": "Crews are still battling wildfires that broke out last week and have burned nearly 200,000 acres across Spain. The country is bracing for another round of extreme heat, with temperatures expected to top 100 degrees Fahrenheit starting Wednesday.",
+   "link": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
+   "date": "2026-07-28T20:31:54.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "'I just found all the classified stuff downstairs,' Biden tells ghostwriter in recording",
-   "desc": "Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps.",
-   "link": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-28T07:14:51.000Z"
+   "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+   "desc": "The 51-year-old daughter of the late former President Alberto Fujimori, Peru's new conservative leader has pledged to fight crime with an \"iron fist.\"",
+   "link": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
+   "date": "2026-07-28T20:30:50.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Trump meets Ukrainian, Israeli leaders as they pay respects to Lindsey Graham",
+   "desc": "President Trump holds talks with Ukrainian and Israeli leaders on the sidelines of Senator Lindsey Graham's funeral.",
+   "link": "https://www.npr.org/2026/07/28/nx-s1-5910540/trump-meets-ukrainian-israeli-leaders-as-they-pay-respects-to-lindsey-graham",
+   "date": "2026-07-28T20:14:24.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Ukraine negotiator: 'We have the upper hand'",
+   "desc": "In an interview with NPR, one of Ukraine's top negotiators Sergiy Kyslytsya explains why Kyiv believes it now has the leverage to force Russia into serious negotiations.",
+   "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
+   "date": "2026-07-28T20:10:18.000Z"
   },
   {
    "src": "NPR",
@@ -168,38 +200,6 @@
    "desc": "Hundreds of thousands of people have been forced from their homes as powerful wildfires sweep across Spain and France, revealing the growing scale of a climate crisis already reshaping the continent.",
    "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
    "date": "2026-07-28T15:24:07.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping mall",
-   "desc": "The quake shook Japan's southern main island of Kyushu late Tuesday afternoon local time, causing damage and injuries.",
-   "link": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
-   "date": "2026-07-28T12:51:33.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
-   "desc": "President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.",
-   "link": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
-   "date": "2026-07-28T11:26:09.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
-   "desc": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
-   "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
-   "date": "2026-07-28T07:42:11.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
-   "desc": "French authorities ordered nearly 4,000 people evacuated Tuesday from tourist sites on the Atlantic coast as returning heat threatened firefighters' fragile hold on a vast wildfire west of Bordeaux.",
-   "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
-   "date": "2026-07-28T06:25:18.000Z"
   },
   {
    "src": "BBC ME",
