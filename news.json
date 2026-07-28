@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T04:13:19.622Z",
+ "updated": "2026-07-28T07:15:27.466Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,10 +12,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "PKK-Turkey peace process reaching a climax?",
-   "desc": "PKK-Turkey peace process reaching a climax? &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zckUzMV9FeWc5Z3A2UDJWc2o4N0Vhd2h6YWhSc2VrR0RDZ2pDVGwzY29aUXR6bXEtSVhvcG5DR2hlVkNDOVoyLTV4UjBOMGVzRjRJRTdNMUxxeHBXN2xVVl9haGQxQQ?oc=5",
-   "date": "2026-07-26T07:11:14.000Z"
+   "title": "Drones strike Iranian Kurdish opposition bases near Erbil, no casualties reported",
+   "desc": "Drones strike Iranian Kurdish opposition bases near Erbil, no casualties reported &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DS21RT0xuRXZTbGNpSmlxMFljUnMzLU1Fc1NOMkw1RTRUT2cwTDF2emhlaDZtTFR0aHZRcVl2SFlIQWhzTXBVdG1GVUJsVEVhZXdKOUJzTVdUbnlWWDUzN3pnQUU5UHFuQ0E?oc=5",
+   "date": "2026-07-28T04:52:51.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Family Awaits Return of Abducted Father in Hasaka",
+   "desc": "Family Awaits Return of Abducted Father in Hasaka &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wYm9SRG1SblRvZHRMSUFsbWR6b2NsTWdIQjJKb3NNVlpEbW9nT0NaeDBmSWFuMHFlZjNIcUJaeDBxZ094Znh5N0FtNjgyelE5Qk5WbzVDWHhCWHloXzRn?oc=5",
+   "date": "2026-07-26T17:51:47.000Z"
   },
   {
    "src": "Rudaw",
@@ -28,18 +36,42 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran, Oman hold talks over Strait of Hormuz management",
-   "desc": "Iran, Oman hold talks over Strait of Hormuz management &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zRWgyTV9LaDd2c3BzS1NqY3pKWmtzQXRhNUI5QzIwX0U0dmhZNXZlSVZldGNsUUtYbDJDMnlSUHBFZlYyTFRQNGVZbTlWT09XVkdEaTNISHBEYVB6T0c2ajF0YUdoVTY1dmhV?oc=5",
-   "date": "2026-07-26T07:06:03.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Private sector begins buying remaining Kurdistan wheat",
    "desc": "Private sector begins buying remaining Kurdistan wheat &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40SEFvV2NzY0hwTV9uXzN1NFlGeTJWQS00TkJMWmVTYlhLUHg0dzAtdEJQMnVWSG5UU3hEb1RsN1lCWUFxTUxQQ25DQk5lYURONG1rSGhHNlFxMTdNczE5NzhSeDE?oc=5",
    "date": "2026-07-26T21:38:58.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "U.S. Officials Say Sanctions May Hurt Iran More Than Bombs",
+   "desc": "Senior Trump administration officials say the renewed sanctions campaign is squeezing Iran’s economy more effectively than airstrikes, even as Washington keeps military pressure and diplomacy in play.",
+   "link": "https://www.kurdistan24.net/en/story/928713/us-officials-say-sanctions-may-hurt-iran-more-than-bombs",
+   "date": "2026-07-28T06:55:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Zelensky to Meet Trump at White House as Ukraine Seeks Renewed US Backing",
+   "desc": "Ukrainian president hopes to strengthen Washington's support as battlefield tensions escalate and diplomatic efforts to end the war remain stalled",
+   "link": "https://www.kurdistan24.net/en/story/928706/zelensky-to-meet-trump-at-white-house-as-ukraine-seeks-renewed-us-backing",
+   "date": "2026-07-28T06:45:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Four Drones Shot Down Over Kurdistan Region Overnight",
+   "desc": "International Coalition air defense systems intercepted four drones over Erbil and the Soran Independent Administration shortly after midnight, with no immediate reports of casualties or damage.",
+   "link": "https://www.kurdistan24.net/en/story/928704/four-drones-shot-down-over-kurdistan-region-overnight",
+   "date": "2026-07-28T06:17:39.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Yemen Government Braces for Escalation After Houthi Attacks",
+   "desc": "Yemen warns Iran-backed rebels are seeking to replicate Tehran's maritime strategy by expanding control over the Bab al-Mandeb Strait, raising fears of a broader regional conflict",
+   "link": "https://www.kurdistan24.net/en/story/928688/saudi-arabia-yemen-government-brace-for-escalation-after-houthi-attacks",
+   "date": "2026-07-28T05:35:00.000Z"
   },
   {
    "src": "K24",
@@ -50,76 +82,44 @@
    "date": "2026-07-27T20:40:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq Orders Investigation into Saudi Claim of Drone Attacks Launched from Iraqi Territory",
-   "desc": "Prime Minister spokesperson Sabah al-Numan said Zaidi instructed \"the competent security authorities to investigate the statement issued by the Ministry of Defense of the Kingdom of Saudi Arabia regarding the targeting of the kingdom with drones launched from Iraqi territory.\"",
-   "link": "https://www.kurdistan24.net/en/story/928656/iraq-orders-investigation-into-saudi-claim-of-drone-attacks-launched-from-iraqi-territory",
-   "date": "2026-07-27T19:53:33.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Trump Says Iran Peace Deal Possible, Warns U.S. Strikes Could Resume if Talks Fail",
-   "desc": "\"I have a lot of patience... We'll see what happens. I think there is a good chance that something could happen,\" Trump said.",
-   "link": "https://www.kurdistan24.net/en/story/928639/trump-says-iran-peace-deal-possible-warns-us-strikes-could-resume-if-talks-fail",
-   "date": "2026-07-27T18:05:08.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "PM Barzani Reaffirms Support for New South Korean Consul General",
-   "desc": "The Prime Minister congratulated Shim on his appointment and expressed confidence in the success of his tenure, reiterating the KRG's support for his efforts to strengthen ties between the Kurdistan Region and South Korea.",
-   "link": "https://www.kurdistan24.net/en/story/928612/pm-barzani-reaffirms-support-for-new-south-korean-consul-general",
-   "date": "2026-07-27T15:14:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Dana Gas to Gradually Restore Khor Mor Gas Output After Security Assurances",
-   "desc": "Speaking to Kurdistan24 on Monday, Shakir Wajid Shakir, Dana Gas Iraq Country Manager, said the company aims to restore gas production to its maximum capacity by Tuesday.",
-   "link": "https://www.kurdistan24.net/en/story/928606/dana-gas-resumes-gradual-production-increase-at-khor-mor-after-security-review",
-   "date": "2026-07-27T14:54:35.000Z"
+   "title": "Shelling hits Peshmerga artillery positions in Al-Sulaymaniyah",
+   "desc": "Shafaq News- Al-Sulaymaniyah Artillery positions belonging to the Peshmerga forces came under shelling early Tuesday in a border area of Al-Sulaymaniyah in Iraq's Kurdistan Region, with the attackers remaining unidentified, a source told Shafaq News. The attack targeted positions in the Takaran area. This is a developing story...",
+   "link": "https://shafaq.com/en/Kurdistan/Shelling-hits-Peshmerga-artillery-positions-in-Al-Sulaymaniyah",
+   "date": "2026-07-28T07:08:15.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Settler attacks accompany Israeli raids across West Bank",
-   "desc": "Shafaq News- Ramallah Israeli forces carried out raids across several cities and towns in the occupied West Bank on Monday, Palestinian media outlets reported. Citing sources, media outlets said 134 Israeli settlers entered the courtyards of Al-Aqsa Mosque through the Mughrabi Gate under heavy protection from police and special forces. In Qalqilya, Israeli troops opened live fire at a vehicle duri",
-   "link": "https://shafaq.com/en/Middle-East/Settler-attacks-accompany-Israeli-raids-across-West-Bank",
-   "date": "2026-07-27T23:01:41.000Z"
+   "title": "Al-Zaidi pushes Iraq-Turkiye partnership ahead of Ankara visit",
+   "desc": "Shafaq News- Baghdad Hours before his scheduled visit to Ankara, Iraqi Prime Minister Ali Al-Zaidi said Iraq and Turkiye have a \"historic opportunity\" to build one of the Middle East's most significant economic partnerships. In an article published by Turkiye's Anadolu Agency on Tuesday, Al-Zaidi said the two countries could transform their shared geography into a strategic economic corridor linki",
+   "link": "https://shafaq.com/en/Iraq/Al-Zaidi-pushes-Iraq-Turkiye-partnership-ahead-of-Ankara-visit",
+   "date": "2026-07-28T06:59:49.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "UAVs attack Iranian Kurdish opposition groups near Erbil",
-   "desc": "Shafaq News- Erbil Three drones targeted the headquarters of two Iranian Kurdish opposition parties north of Erbil, causing material damage but no casualties, a senior official in the Kurdistan Democratic Party of Iran (KDPI)told Shafaq News on Tuesday. Karim Barouzi said a drone struck the party's Jezhnikan camp in the Bahrka area, north of Erbil. In a separate attack, Amjad Hussein, a member of ",
-   "link": "https://shafaq.com/en/Middle-East/UAVs-attack-Iranian-Kurdish-opposition-groups-near-Erbil",
-   "date": "2026-07-27T22:46:40.000Z"
+   "title": "Gold slips ahead of Fed rate decision",
+   "desc": "Shafaq News Gold prices fell on Tuesday, pressured by a stronger dollar, while markets &zwnj;looked to the Federal Reserve's upcoming policy decision for clues on the interest rate outlook. Spot gold fell 0.7% to $4,045.89 per ounce by 0448 GMT after rising as much as 1% &#8203;on Monday. U.S. gold futures for August delivery lost 0.8% to $4,046.20. The &#8203;dollar held near a one-month high, ma",
+   "link": "https://shafaq.com/en/Economy/Gold-slips-ahead-of-Fed-rate-decision",
+   "date": "2026-07-28T06:41:15.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Beyond traditional media: The digital revolution reshaping Iraq",
-   "desc": "Shafaq News By Ali Hussein Feyli A growing number of Iraqi teenagers and young adults are building careers as content creators on platforms such as Facebook, YouTube, Instagram, and TikTok, reflecting a broader shift in the country's social and media landscape. Although official figures are unavailable, digital media monitoring centers estimate that more than 32 million Iraqis, or about 70% of the",
-   "link": "https://shafaq.com/en/society/Beyond-traditional-media-The-digital-revolution-reshaping-Iraq",
-   "date": "2026-07-27T22:31:11.000Z"
+   "title": "Basrah crudes plunge amid global oil losses",
+   "desc": "Shafaq News- Basrah Iraq&rsquo;s Basrah crude tumbled more than 17% on Tuesday, while major global benchmarks declined. Basrah Heavy crude dropped by $11.63, or 17.67%, to $54.19 per barrel, while Basrah Medium crude fell by $11.63, or 17.07%, to settle at $56.49 per barrel. Brent crude futures declined by $1.47, or 1.66%, to $86.89 per barrel, while US West Texas Intermediate crude lost $1.45, or",
+   "link": "https://shafaq.com/en/Economy/Basrah-crudes-plunge-amid-global-oil-losses",
+   "date": "2026-07-28T06:18:26.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran: 10-day US campaign left 60 dead",
-   "desc": "Shafaq News- Tehran US recent attacks on Iran during the 10 to 12 days killed 60 people and wounded about 670 others, Iranian media outlets quoted Health Minister Mohammad Reza Zafarghandi on Tuesday. Zafarghandi did not provide further details on the locations of the attacks or when they occurred. Earlier this week, Axios reported, citing sources, that US President Donald Trump directed the US mi",
-   "link": "https://shafaq.com/en/Middle-East/Iran-10-day-US-campaign-left-60-dead",
-   "date": "2026-07-27T21:59:29.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Global Coalition downs unidentified drones over Erbil",
-   "desc": "Shafaq News- Erbil US-Led Coalition warplanes shot down an unidentified drones flying over the Khalifan area in Erbil province, the Kurdistan Region of Iraq, a local source told Shafaq News on Monday. The source said preliminary information indicates the UAVs were heading toward the US Consulate in Erbil. No information was available on casualties or material damage. The incident marked the first ",
-   "link": "https://shafaq.com/en/Kurdistan/Global-Coalition-downs-unidentified-drone-over-Erbil",
-   "date": "2026-07-27T21:24:30.000Z"
+   "title": "Iraq jails Australia-linked drug trafficker for life",
+   "desc": "Shafaq News- Baghdad An Iraqi court sentenced one of Iraq's most wanted international fugitives, Kazem Malik Hamad Rabah al-Hajami, to life imprisonment following judicial cooperation between Iraq and Australia, the National Center for International Judicial Cooperation announced on Tuesday. The Al-Karkh Criminal Court convicted al-Hajami of narcotics trafficking and ordered the confiscation of hi",
+   "link": "https://shafaq.com/en/society/Iraq-jails-Australia-linked-drug-trafficker-for-life",
+   "date": "2026-07-28T06:00:07.000Z"
   },
   {
    "src": "BBC",
@@ -148,10 +148,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'I just found all the classified stuff downstairs' - Biden to ghostwriter",
+   "title": "'I just found all the classified stuff downstairs,' Biden tells ghostwriter in recording",
    "desc": "Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps.",
    "link": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-28T03:20:20.000Z"
+   "date": "2026-07-28T07:14:51.000Z"
   },
   {
    "src": "BBC",
@@ -160,6 +160,14 @@
    "desc": "The 84-year-old Republican senator has been away from work for weeks amid ongoing speculation about his health.",
    "link": "https://www.bbc.co.uk/news/articles/c5yd8k3rgj7o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-27T17:25:29.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
+   "desc": "French President Emmanuel Macron said France was \"facing a completely unprecedented fire,\" describing the situation as France's worst fire-related crisis since World War II.",
+   "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+   "date": "2026-07-28T06:25:18.000Z"
   },
   {
    "src": "NPR",
@@ -194,20 +202,20 @@
    "date": "2026-07-27T10:50:09.000Z"
   },
   {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Can the U.S. and Iran take the off-ramp?",
-   "desc": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
-   "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
-   "date": "2026-07-27T05:57:59.000Z"
-  },
-  {
    "src": "BBC ME",
    "section": "US & World · جیهان",
    "title": "Trump says Iran war talks taking place during lull in strikes",
    "desc": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
    "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-27T21:10:56.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "More than 600 US military service members injured since Iran War began in February",
+   "desc": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
+   "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-27T13:31:57.000Z"
   },
   {
    "src": "BBC ME",
@@ -224,22 +232,6 @@
    "desc": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
    "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-27T16:33:05.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
-   "desc": "Neither the US nor Iran have launched attacks in the last three nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
-   "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-27T08:14:46.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-   "desc": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-   "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-27T09:59:15.000Z"
   },
   {
    "src": "LFU",
