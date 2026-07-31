@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T00:04:16.722Z",
+ "updated": "2026-07-31T04:00:44.677Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,18 +12,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TckhGNUFSYkMwR04tSmx5dzdwaWRGTTJMbHRuQXE4UllBTzdBQWI4b2pOMURaazkxUFVPWEFFemx3Ymc3VHcyVFBMbFVBbnE1Y2JOajRPS095SUQzamgw?oc=5",
-   "date": "2026-07-30T18:06:40.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "UN warns of ‘worse situation’ after US-Saudi airstrikes in Iraq",
    "desc": "UN warns of ‘worse situation’ after US-Saudi airstrikes in Iraq &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03VldEY29vcHJzX3JNa2REMjlLM2NVZDR4TDdIbndXVGNqQmRBLUdIQnIwd3JiUHoyaDNhUFptS0FNUkJHMmVkTWJsdElJSGEtWkQzMXpPeWxsc1RRVUwydTl5alM?oc=5",
    "date": "2026-07-29T19:02:35.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5neEc1cU94d1RFekIydnNxaGNXV1g2dmMxRW52VExfdDBqWWFucDFtZzdnZVRLZWxWUGlONWd3SUFDenFZUmlQYzFJcFcxc25acElnZTJKSEF4bkJmNEVoag?oc=5",
+   "date": "2026-07-29T07:58:57.000Z"
   },
   {
    "src": "Rudaw",
@@ -39,7 +39,15 @@
    "title": "Saudi Arabia hosts multinational meeting to establish maritime coalition",
    "desc": "Saudi Arabia hosts multinational meeting to establish maritime coalition &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVbWpUeHhIZDFWS3pFTmVGTlAySDlmQ3lWTlNhYWNKa19UbVR4T2tDbUlKVWtDUExOTkZES0FnM2N5eTJHZnZtNjFkY3BrVzlFUHVzZ2xuSWM4TjYzdXhhM0RYdkF5YjN1TnJz?oc=5",
-   "date": "2026-07-30T18:33:38.000Z"
+   "date": "2026-07-30T18:33:39.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Trump Announces Historic Agreement for Complete Disarmament of Hamas and All Armed Groups in Gaza",
+   "desc": "Board of Peace reaches landmark deal implementing Trump's 20-Point Plan, with Israeli withdrawal to follow disarmament and an International Stabilization Force to work alongside a new Palestinian police force",
+   "link": "https://www.kurdistan24.net/en/story/929390/trump-announces-historic-agreement-for-complete-disarmament-of-hamas-and-all-armed-groups-in-gaza",
+   "date": "2026-07-31T01:56:44.000Z"
   },
   {
    "src": "K24",
@@ -72,14 +80,6 @@
    "desc": "the Treasury designated Iran-based DadeNegar Startup Studio, alleging it is an IRGC-affiliated front company that supported Iranian military targeting through an online platform.",
    "link": "https://www.kurdistan24.net/en/story/929361/us-treasury-sanctions-entities-in-china-india-russia-iran-over-support-for-mahan-air-irgc",
    "date": "2026-07-30T19:00:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Saudi Arabia Announces Founding of Multinational Maritime Defense Alliance",
-   "desc": "Joint declaration signed in Riyadh establishes coalition to safeguard Red Sea, Gulf of Aden and key international waterways",
-   "link": "https://www.kurdistan24.net/en/story/929345/saudi-arabia-announces-founding-of-multinational-maritime-defense-alliance",
-   "date": "2026-07-30T17:04:28.000Z"
   },
   {
    "src": "Shafaq",
@@ -165,7 +165,7 @@
    "src": "NPR",
    "section": "US & World · جیهان",
    "title": "European soccer leaders to boycott the World Cup in an unprecedented step",
-   "desc": "In an unprecedented step, European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
+   "desc": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
    "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
    "date": "2026-07-30T17:38:38.000Z"
   },
