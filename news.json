@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T21:38:37.992Z",
+ "updated": "2026-07-31T23:03:18.758Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FRi0yQUZaTDNOUjFDNGtBRFU0VjFuSHlQUWJLU3RzUC1TdWJScWNFN1dPcVlROE9jWWw0cDNSRzlvZFp5MkF4aTJTVVpmV05JYUUwc2JnencxWUlLbEdB?oc=5",
-   "date": "2026-07-31T11:26:27.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nZ1BUQTVyUGMzQ3hJTVhYNXgwaUhRcFdxalp0T2Nvam1yVGdwX2NzUWF3eFR5bVp3LVZNVUFWZXVTYVp2RW9JTXdxUEpyZE9Ua0sxYjB1eXFMV1kyUmxGQ0FBYw?oc=5",
+   "date": "2026-07-31T01:49:32.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Infantino faces FIFA revolt over $20B plan",
+   "desc": "Shafaq News Opposition to FIFA President Gianni Infantino&rsquo;s proposed $20 billion tournament venture spread inside the governing body on Friday, with Chief Operating Officer Kevin Lamour accusing its leadership of deceiving employees and senior adviser Carlos Cordeiro resigning in protest. Lamour described FIFA Forward Enterprise (FFE) as the &ldquo;project of one person&rdquo; and argued tha",
+   "link": "https://shafaq.com/en/sport/Infantino-faces-FIFA-revolt-over-20B-plan",
+   "date": "2026-07-31T22:38:08.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "US military redirects 30 commercial ships near Hormuz",
+   "desc": "Shafaq News- Washington US Forces redirected 30 commercial vessels, disabled two ships, and inspected two others to ensure full compliance with security measures, the US Central Command (CENTCOM) stated on Friday. CENTCOM also said that it facilitated the passage of about 30 ships through the blockade to deliver humanitarian aid. A U.S. Navy MH-60R Sea Hawk helicopter is prepared for flight aboard",
+   "link": "https://shafaq.com/en/World/US-military-redirects-30-commercial-ships-near-Hormuz",
+   "date": "2026-07-31T21:55:26.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Egypt rejects report blaming Iran for Damietta attack",
    "desc": "Shafaq News- Cairo Egyptian Minister of State for Information Diaa Rashwan on Friday rejected a Wall Street Journal report citing unnamed Egyptian officials as blaming Iran for the Damietta Port drone attack. Rashwan told Al-Arabiya that Cairo would determine responsibility only after the official investigation is completed, stressing that any findings would be announced by the competent state aut",
    "link": "https://shafaq.com/en/World/Egypt-rejects-report-blaming-Iran-for-Damietta-attack",
@@ -106,20 +122,36 @@
    "date": "2026-07-31T19:58:46.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Lebanon: Israeli Beaufort Castle blast breached ceasefire",
-   "desc": "Shafaq News- Beirut Lebanese President Joseph Aoun and Prime Minister Nawaf Salam on Friday condemned the massive Israeli explosion at the UNESCO-listed *Beaufort Castle (Qala'at al-Shqif) in southern Lebanon, saying it breached the ceasefire, endangered civilians, damaged cultural heritage, and undermined diplomatic efforts. Aoun denounced Israel's continuing operations in southern Lebanon, parti",
-   "link": "https://shafaq.com/en/Middle-East/Lebanon-Israeli-Beaufort-Castle-blast-breached-ceasefire",
-   "date": "2026-07-31T18:52:31.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+   "desc": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
+   "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-31T22:46:44.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Trump: US will keep hitting Iran until it can't take it anymore",
-   "desc": "Shafaq News- Washington/ Tehran US President Donald Trump said on Friday that reaching an agreement with Iran remains possible but added that he is losing confidence in Tehran. In press remarks, he claimed that Iran is \"taking a tremendous beating\", predicting that Tehran would eventually conclude it could no longer withstand US airstrikes. Mehr News Agency reported that Iran&rsquo;s Maritime Orga",
-   "link": "https://shafaq.com/en/World/Trump-US-will-keep-hitting-Iran-until-it-can-t-take-it-anymore",
-   "date": "2026-07-31T18:15:29.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Trump administration drops Reflecting Pool vandalism charge and admits flawed repairs",
+   "desc": "Former Olympian David Hearn had been arrested, but prosecutors now say he did not cause the damage.",
+   "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-31T22:57:42.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
+   "desc": "The US president's latest comments come weeks after he offered Kyiv the right to make the missiles.",
+   "link": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-31T21:18:30.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Body of US climber the latest recovered after Pakistan avalanche",
+   "desc": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+   "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-07-31T20:22:46.000Z"
   },
   {
    "src": "BBC",
@@ -128,38 +160,6 @@
    "desc": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be behind it.",
    "link": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-31T19:03:28.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US economic growth sees surprise slowdown in second quarter",
-   "desc": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
-   "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-30T14:24:41.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Father of teen school shooter sentenced to 15 years in prison",
-   "desc": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
-   "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-30T17:33:41.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Nevada wildfire still burning out of control near secretive Area 51",
-   "desc": "The Quail Springs Fire, which was caused by lightning, now covers more than 13,500 acres, officials say.",
-   "link": "https://www.bbc.co.uk/news/articles/c89nenqg10wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-30T18:48:35.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Belgium says a Canadian intern is suspected of spying at Nato. Here's what we know",
-   "desc": "The suspect was working as an intern in Nato's Supreme Headquarters Allied Powers (Shape) Europe in Mons, Belgium.",
-   "link": "https://www.bbc.co.uk/news/articles/cwymk20n0v7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-30T16:48:40.000Z"
   },
   {
    "src": "NPR",
