@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T18:53:21.609Z",
+ "updated": "2026-07-31T20:21:26.331Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "World Rallies Behind Historic Gaza Disarmament and Withdrawal Agreement",
+   "desc": "The UN, EU, Britain, France, Canada, Pakistan and Saudi Arabia welcomed Donald Trump's announcement of a deal to disarm Hamas and withdraw Israeli forces from Gaza.",
+   "link": "https://www.kurdistan24.net/en/story/929531/world-rallies-behind-historic-gaza-disarmament-and-withdrawal-agreement",
+   "date": "2026-07-31T19:17:23.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Tehran Says Strait of Hormuz Is Shut While CENTCOM Insists Shipping Continues",
    "desc": "Tehran says shipping through the Strait of Hormuz has been halted, while CENTCOM insists commercial maritime traffic remains unaffected.",
    "link": "https://www.kurdistan24.net/en/story/929526/tehran-says-strait-of-hormuz-is-shut-while-centcom-insists-shipping-continues",
@@ -74,12 +82,20 @@
    "date": "2026-07-31T16:49:53.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "European Leaders Call for Tougher Border Controls as Ceuta Migration Crisis Deepens",
-   "desc": "A mass influx of nearly 60,000 migrants into Spain's North African enclave of Ceuta has triggered political and security concerns across Europe, prompting calls for stricter border controls",
-   "link": "https://www.kurdistan24.net/en/story/929497/european-leaders-call-for-tougher-border-controls-as-ceuta-migration-crisis-deepens",
-   "date": "2026-07-31T15:25:06.000Z"
+   "title": "43 years later, Barzani genocide still demands answers",
+   "desc": "Shafaq News- Erbil Forty-three years after the Barzani genocide, key facts about the crime have emerged, but justice and accountability remain incomplete. On May 3, 2011, the Iraqi High Criminal Court classified the killing of Barzanis as genocide and a crime against humanity. Yet the legal recognition did not close the file of accountability. In December 2025, the court sentenced former officer S",
+   "link": "https://shafaq.com/en/Report/43-years-later-Barzani-genocide-still-demands-answers",
+   "date": "2026-07-31T19:58:46.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Lebanon: Israeli Beaufort Castle blast breached ceasefire",
+   "desc": "Shafaq News- Beirut Lebanese President Joseph Aoun and Prime Minister Nawaf Salam on Friday condemned the massive Israeli explosion at the UNESCO-listed *Beaufort Castle (Qala'at al-Shqif) in southern Lebanon, saying it breached the ceasefire, endangered civilians, damaged cultural heritage, and undermined diplomatic efforts. Aoun denounced Israel's continuing operations in southern Lebanon, parti",
+   "link": "https://shafaq.com/en/Middle-East/Lebanon-Israeli-Beaufort-Castle-blast-breached-ceasefire",
+   "date": "2026-07-31T18:52:31.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,28 +122,12 @@
    "date": "2026-07-31T16:41:51.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq raises military alert nationwide",
-   "desc": "Shafaq News- Baghdad Iraqi Prime Minister and Commander-in-Chief Ali Faleh Al-Zaidi on Friday ordered heightened alert and readiness across all military camps and bases, spokesperson for the Commander-in-Chief Sabah Al-Numan announced. Al-Numan added that preventive intelligence plans had been adopted to thwart any attacks or infiltration attempts. On July 29, US and Saudi forces carried out&nbsp;",
-   "link": "https://shafaq.com/en/Security/Iraq-raises-military-alert-nationwide",
-   "date": "2026-07-31T16:41:23.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US expands hunt for Iranian assets",
-   "desc": "Shafaq News- Washington US Treasury Secretary Scott Bessent on Friday vowed to pursue Iranian funds worldwide as part of Washington&rsquo;s &ldquo;maximum-pressure&rdquo; campaign against Tehran. &ldquo;There is a lot of Iranian money circulating, and we will track it,&rdquo; Bessent told Fox News. On July 21, Bessent stated that the Treasury had identified a financier linked to Iran&rsquo;s leade",
-   "link": "https://shafaq.com/en/World/US-expands-hunt-for-Iranian-assets",
-   "date": "2026-07-31T15:40:06.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US cyber defence agency warns of water attacks after Minnesota targeted",
-   "desc": "More than 30 water systems in the state faced an attack this week - with US media indicating Iran could be behind it.",
+   "title": "Minnesota not Iran to blame for state's water issues, says Trump",
+   "desc": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be behind it.",
    "link": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-31T01:46:58.000Z"
+   "date": "2026-07-31T19:03:28.000Z"
   },
   {
    "src": "BBC",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rwanga Foundation concludes returnee reintegration project in Erbil",
-   "desc": "Rwanga Foundation concludes returnee reintegration project in Erbil &nbsp;&nbsp; شفق نيوز",
+   "desc": "Rwanga Foundation concludes returnee reintegration project in Erbil &nbsp;&nbsp; shafaq.com",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanRlYjY5a3FGMXZTMU1SaDlhVzYtRFZIUExwQ0lxZ2lVR0VlLWRZcEJoekJ3Yy1ZYUN4VTYtOTRXSGpfTVdVVEtEcDhZUURrLVlhcm1WZk1nbTFCcWVtOWl6eXBtZ05yZmE5NlBTVWk4SXFFdjNVMUFab0pORERBdDhEZVJMR3dqTDM4LXZWU1V1dklDaXNndno1a0xQdk5Y?oc=5",
    "date": "2026-07-27T14:30:31.000Z"
   },
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq: Bishops to consider government plan encouraging Christian return",
-   "desc": "Iraq: Bishops to consider government plan encouraging Christian return &nbsp;&nbsp; Independent Catholic News",
+   "desc": "Iraq: Bishops to consider government plan encouraging Christian return &nbsp;&nbsp; indcatholicnews.com",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NMU1yUmZVN1Y0bXlQdGFubnNWQ08yY01vM1kzTWstN3ZTaVM3TGdITWEtdm51bmJ6ek9WcTdLd0lWVDhQaW43cWNhWWVKemdoTWU3Qg?oc=5",
    "date": "2026-07-30T13:24:25.000Z"
   },
@@ -333,7 +333,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Fuel shortage grips Kurdistan’s Duhok tourism peak - Shafaq News | Latest breaking news in Iraq and the world",
-   "desc": "Fuel shortage grips Kurdistan’s Duhok tourism peak - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+   "desc": "Fuel shortage grips Kurdistan’s Duhok tourism peak - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; shafaq.com",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUg2dHJBMENkNjV5WjhXMVY5SkZqaVhhaEIzNjhLMm9QekZ0eDNRQjFDcHYxaGtwVEJJaGw3MXBsVGFOMVNiNDVvSWdCamNEVHRlemszbkVUcnM0UzlxRXZtZHp4UEkyYTRLVHRSd3V4b3VrTmlOQUVxMjI5UDlRdjdFUUZ5aVV4Tnc?oc=5",
    "date": "2026-07-26T19:04:13.000Z"
   },
