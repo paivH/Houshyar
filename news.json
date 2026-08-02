@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T14:37:13.020Z",
+ "updated": "2026-08-02T16:02:03.107Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,6 +12,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aYVR2Z20wT0dyWHZiRUp2amdZZkF3SEEzUjJlR2xXdUZIYVQyQlQ5NzFHdFNvUTAxYllhdnAwSldzTDNhZjl0Sl9pQVhLdW9rZU9ZeTJuVXhxSE15QUpBZU5USQ?oc=5",
+   "date": "2026-08-01T15:01:05.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "US urges citizens in Iraq to prepare for flight cancellations amid Iran war",
    "desc": "US urges citizens in Iraq to prepare for flight cancellations amid Iran war &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QnVxODlBcDJFTjlCN21IcUxXOGp2VjVyWUtmNjZta2tibUQxM3NVRTU1R01xNklfRnlnRjZXallFd25oUFRvQm1ocVV2VTVuODhsQ3RTcXVQeUVOc2hqR2Iydw?oc=5",
@@ -20,10 +28,10 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44YUtaaU12ZU41Y0wyX1NaUkRzOGtkTE51NHI4MWFyZlBTZDBiTUpTd24tS3cyQ2hZOWxGZTRWNzduVU12X0Vpb0RGaWU3SU9obE1xZGFtdTRubzFJLU1ZZ2lHc21pbXBESEM0?oc=5",
-   "date": "2026-08-01T15:40:41.000Z"
+   "title": "Security threats push Yazidis to rebuild along foothills of Shingal",
+   "desc": "Security threats push Yazidis to rebuild along foothills of Shingal &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpZU4tbHR6Zl9LYXFjTE9hWms0cHZYbDBTWlVjc1BxZnFDS2l6dXF1T2dDWUNQRTRFRTU2Q0tWLXBzLVBSZ0JURkR0LWRSU2xkRzllQWJ3ZDJsdjktQXVYRHVRSQ?oc=5",
+   "date": "2026-08-02T15:49:14.000Z"
   },
   {
    "src": "Rudaw",
@@ -34,12 +42,28 @@
    "date": "2026-08-01T16:20:20.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "US concerned about attacks on opposition party offices in Rojava",
-   "desc": "US concerned about attacks on opposition party offices in Rojava &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQ3VmZmlUdWl0dkxla1g1ME8xV19DdVkzU29YQUp6M0d3N3g4SkpjY0RaX0tzaEoxc3FOQjlFNmlBa2hGWEdRazJFTVFDSDFISHAyNHBPOW9aOVo5NW5xTVU4Y01ZQQ?oc=5",
-   "date": "2026-07-31T22:12:42.000Z"
+   "title": "Erbil Shelter Ends Stray Dog Attacks in City Center",
+   "desc": "The director of Erbil's stray dog shelter says a coordinated daily collection campaign has fully brought the problem under control, with 26,000 dogs collected over three years.",
+   "link": "https://www.kurdistan24.net/en/story/929911/erbil-shelter-ends-stray-dog-attacks-in-city-center",
+   "date": "2026-08-02T15:49:38.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Three Kurdish Artists to Represent Kurdistan at International Art Symposium in Poland",
+   "desc": "Artists from Kurdistan will participate alongside creators from five other countries in the 27th International Painting Exhibition, \"Colors of Małopolska.\"",
+   "link": "https://www.kurdistan24.net/en/story/929903/three-kurdish-artists-to-represent-kurdistan-at-international-art-symposium-in-poland",
+   "date": "2026-08-02T15:10:44.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Five Killed in Moscow Restaurant Blast; Kurdish-Russian MP Zelimkhan Mutsoev Injured",
+   "desc": "According to Russian media, the explosion occurred during a private celebration hosted by General Alexander Chayko, Commander-in-Chief of the Russian Aerospace Forces, marking his 55th birthday and his recent appointment to the post.",
+   "link": "https://www.kurdistan24.net/en/story/929899/five-killed-in-moscow-restaurant-blast-kurdish-russian-mp-zelimkhan-mutsoev-injured",
+   "date": "2026-08-02T15:09:00.000Z"
   },
   {
    "src": "K24",
@@ -58,28 +82,36 @@
    "date": "2026-08-02T14:27:56.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdish Artist Hama Hashim Represents Kurdish Art at International Exhibition in Romania",
-   "desc": "The prestigious event, curated by Ramona Novicov and Vioara Bara, is dedicated to commemorating and reflecting on the Romani Holocaust. It brings together 40 distinguished contemporary artists from around the world to showcase a diverse range of visual art.",
-   "link": "https://www.kurdistan24.net/en/story/929885/kurdish-artist-hama-hashim-represents-kurdish-art-at-international-exhibition-in-romania",
-   "date": "2026-08-02T14:00:38.000Z"
+   "title": "Kurdistan’s Duhok warehouse fire causes $2M in losses",
+   "desc": "Shafaq News- Duhok A blaze at a storage facility in Duhok province caused an estimated $2 million in losses, Shafaq News learned on Sunday. Owner Ferhad Mohammed explained that the cause of the incident remains unknown, adding that the fire broke out suddenly and spread quickly across both levels of the building. &ldquo;The lower floor held stocks of juices and energy drinks, while the upper floor",
+   "link": "https://shafaq.com/en/Kurdistan/Kurdistan-s-Duhok-warehouse-fire-causes-2M-in-losses",
+   "date": "2026-08-02T15:36:03.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Corruption Suspects Still Serving in Iraqi Parliament Despite Arrest Campaign",
-   "desc": "Despite an expanding nationwide anti-corruption drive, several Iraqi lawmakers named in corruption files have not been arrested and continue attending parliament",
-   "link": "https://www.kurdistan24.net/en/story/929873/corruption-suspects-still-serving-in-iraqi-parliament-despite-arrest-campaign",
-   "date": "2026-08-02T13:01:16.000Z"
+   "title": "Exclusive: US conditions $30B fund release on Iraqi weapon control",
+   "desc": "Shafaq News- Baghdad Iraq is seeking to unlock around $30 billion in frozen financial guarantees dating back to Saddam Hussein&rsquo;s rule, but Washington has linked the funds&rsquo; release to progress on bringing all weapons under state control, an informed source told Shafaq News on Sunday. The issue was discussed during Prime Minister Ali al-Zaidi&rsquo;s recent visit to Washington. However, ",
+   "link": "https://shafaq.com/en/Iraq/Exclusive-US-conditions-30B-fund-release-on-Iraqi-weapon-control",
+   "date": "2026-08-02T15:22:02.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Report: Türkiye, Iraq, KRG Reach Understanding to Close Makhmour Camp Under New Peace Framework",
-   "desc": "Turkish newspaper says plan envisions return of 16,000 residents and security screening of PKK members",
-   "link": "https://www.kurdistan24.net/en/story/929866/report-t%C3%BCrkiye-iraq-krg-reach-understanding-to-close-makhmour-camp-under-new-peace-framework",
-   "date": "2026-08-02T12:17:00.000Z"
+   "title": "Fire ignites ammunition inside Iraq’s Camp Taji",
+   "desc": "Shafaq News- Baghdad High temperatures caused some ammunition to rupture and explode inside Camp Taji north of Iraq&rsquo;s Baghdad on Sunday, Security Media Cell chief Lt. Gen. Saad Maan announced. Maan added that Civil Defense teams were continuing efforts to extinguish the resulting fire. A security source told Shafaq News that the blaze had broken out inside weapons and ammunition warehouses, ",
+   "link": "https://shafaq.com/en/society/Fire-ignites-ammunition-inside-Iraq-s-Camp-Taji",
+   "date": "2026-08-02T15:19:15.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq salary delays test Central Bank’s limits",
+   "desc": "Shafaq News- Baghdad Delays in public-sector salary payments have renewed debate over whether the Central Bank of Iraq (CBI) can ease mounting fiscal pressure as declining oil revenues squeeze state finances. With last month&rsquo;s salaries still unpaid and regional tensions continuing to disrupt oil exports, economists told Shafaq News the Central Bank has only limited tools to support public fi",
+   "link": "https://shafaq.com/en/Economy/Iraq-salary-delays-test-Central-Bank-s-limits",
+   "date": "2026-08-02T15:03:51.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,38 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq's General Authority for Antiquities and Heritage on Sunday clarified that archaeologist Amer Abdul Razzaq was asked to provide administrative clarification over his remarks concerning an Iraqi antiquity displayed in Kuwait, rejecting reports that he had been referred for investigation. The Authority confirmed that it had formally received Abdul Razzaq's file and transferr",
    "link": "https://shafaq.com/en/society/Baghdad-demands-explanation-over-Mesopotamian-artifact-in-Kuwait",
    "date": "2026-08-02T14:30:33.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Israel kills 12 in Gaza, raids West Bank",
-   "desc": "Shafaq News- Gaza/ West Bank Israeli strikes killed 12 Palestinians, including three children and three women, across the Gaza Strip on Sunday, according to Palestinian media. The attacks hit a vehicle on Salah Al-Din Street in Deir Al-Balah, residential apartments in western Gaza City and Al-Qarara northwest of Khan Younis, as well as areas near Jabalia refugee camp and Al-Mawasi. Strikes on a ch",
-   "link": "https://shafaq.com/en/Middle-East/Israel-kills-12-in-Gaza-raids-West-Bank",
-   "date": "2026-08-02T13:58:29.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "USD/IQD steadies in Baghdad, rises in Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Sunday&rsquo;s trading mixed in Iraq, hovering around 152,000 dinars per 100 dollars. According to Shafaq News market survey, the dollar traded in Baghdad&rsquo;s Al-Kifah and Al-Harithiya exchanges at 151,800 dinars per 100 dollars, unchanged from the morning session. In the Iraqi capital, exchange shops sold the dollar at 152,250 dinars and bought",
-   "link": "https://shafaq.com/en/Economy/USD-IQD-steadies-in-Baghdad-rises-in-Erbil",
-   "date": "2026-08-02T13:47:36.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Integrity teams raid financial network in Al-Jumaili probe",
-   "desc": "Shafaq News- Saladin Iraqi anti-corruption investigators on Sunday raided locations linked to the suspected financial network of suspended former Oil Ministry Undersecretary Adnan Al-Jumaili in northern Saladin province, a security source told Shafaq News. Joint teams from the Federal Commission of Integrity and the Anti-Corruption Committee searched the home of a man identified by the initials M.",
-   "link": "https://shafaq.com/en/Security/Iraq-raids-exchange-company-in-Al-Jumaili-corruption-investigation",
-   "date": "2026-08-02T13:16:55.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Weekly trading value on Iraq bourse plunges 63%",
-   "desc": "Shafaq News- Baghdad Trading activity on the Iraq Stock Exchange (ISX) slowed sharply, with the value of transactions falling more than 63% from the previous week to 17.46 billion Iraqi dinars ($13.3M). According to the exchange's weekly report, trading took place over five sessions involving 69 listed companies. Shares of 26 companies were not trade because buy and sell orders failed to match, wh",
-   "link": "https://shafaq.com/en/Economy/Weekly-trading-value-on-Iraq-bourse-plunges-63",
-   "date": "2026-08-02T12:49:03.000Z"
   },
   {
    "src": "BBC",
@@ -132,7 +132,7 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Washington state wildfires trigger evacuations",
+   "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
    "desc": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
    "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-02T10:20:10.000Z"
@@ -149,7 +149,7 @@
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-   "desc": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
+   "desc": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
    "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-01T23:56:19.000Z"
   },
@@ -204,6 +204,14 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+   "desc": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+   "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-02T15:50:59.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
    "desc": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
    "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
    "desc": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
    "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
    "date": "2026-07-31T15:18:31.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "What's in the Gaza peace deal roadmap?",
-   "desc": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-   "link": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-07-31T16:00:56.000Z"
   },
   {
    "src": "LFU",
