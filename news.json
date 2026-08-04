@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-04T17:13:16.026Z",
+ "updated": "2026-08-04T19:08:20.430Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; rudaw.net",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BQWJXOFRacXZiR3ZEOUdMTkgyNGxtc096R05YS1JHT1BTcDljYzh5eWJkX1BXZVJ3b2pGZ3IxZ3FIdkw5UDBYQ3lQNUl2c3A4U3lfU3pTVm9yVXBodzZNdXpocWY?oc=5",
    "date": "2026-08-03T19:41:52.000Z"
   },
@@ -13,7 +13,7 @@
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "Iran executes Kurdish man despite overturned verdict",
-   "desc": "Iran executes Kurdish man despite overturned verdict &nbsp;&nbsp; rudaw.net",
+   "desc": "Iran executes Kurdish man despite overturned verdict &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12bTlZV0MzaGNueUZVdmQyZE00Y01TZl8yTFk5QUV5aUdTZ0l6T2hNMDhhMFFSRW9xQk1RN0N2UXlwZEdjRTdRSFdKS3lJYVNiYm5vV2NJMkN2Um1RazloakMyMA?oc=5",
    "date": "2026-08-04T06:39:36.000Z"
   },
@@ -21,25 +21,49 @@
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "Christian lawmakers object to land registration in northern Iraq over demographic fears",
-   "desc": "Christian lawmakers object to land registration in northern Iraq over demographic fears &nbsp;&nbsp; rudaw.net",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MRXp2dm9Femw1SlNTMHNDcnBfdnA3Nk5weVRhMU85ZlpiMlI4U2lOQVBuS2xUMEpyOUlQVGNnd3NROG1EOWdqaW12WjVfQVNGdG8tdm5KSGR4OEJuMDdQSnVEMA?oc=5",
-   "date": "2026-08-03T19:04:16.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq orders probe after border officer lets Iranian tourist stamp her own passport",
-   "desc": "Iraq orders probe after border officer lets Iranian tourist stamp her own passport &nbsp;&nbsp; rudaw.net",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yeUZxT0cwWW5PRnV0Mm1FT1cwUE5IWWFlZzhGYWdaSGJQTWM1U0R5RUVUTm5rNm5xbHNVYzZ0LUVucTdIUzMxbjBQVmVEb2p4d0M5aTI4bXJEalNBN19uWFJMbw?oc=5",
-   "date": "2026-08-03T14:39:24.000Z"
+   "desc": "Christian lawmakers object to land registration in northern Iraq over demographic fears &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yNGQ3Y3ZsQnRQcEpVSk0wTDdfaXAzZ3pTYWxqSDBRRTFvSnJld25MVDA5RW1oeGdIWVpxVEg1N08xaTEyRlVFd1BSY2pjYkU2WWtwOXVVdl9FY3FBeGc?oc=5",
+   "date": "2026-08-03T19:03:50.000Z"
   },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "Iraq welcomes diplomacy in Strait of Hormuz talks during call with Iran",
-   "desc": "Iraq welcomes diplomacy in Strait of Hormuz talks during call with Iran &nbsp;&nbsp; rudaw.net",
+   "desc": "Iraq welcomes diplomacy in Strait of Hormuz talks during call with Iran &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zMzBHSnMyUHlyZXRmNk1yYlJJb3JGVnpCU2Zzd2lpbWdhTXR5eFR0NFRkQS1KTXVRT3hCQjg3ZlptMTcyY1QxMDdXX00xVkhadklaS3p0R3ZyRHUzZXFjZ1Bn?oc=5",
    "date": "2026-08-03T04:59:37.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Netanyahu Says Israel Rejected Trump Administration's Gaza Draft Proposal",
+   "desc": "Israeli Prime Minister Benjamin Netanyahu says Israel rejected a US-proposed draft agreement on Gaza, insisting there will be no military withdrawal before Hamas is fully disarmed.",
+   "link": "https://www.kurdistan24.net/en/story/930395/netanyahu-says-israel-rejected-trump-administrations-gaza-draft-proposal",
+   "date": "2026-08-04T18:03:52.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iranian FM Spox: Iran, Oman Make Progress in Strait of Hormuz Navigation Talks",
+   "desc": "Baghaei said the two neighboring countries are working on a framework to regulate future maritime traffic through the strategic waterway while safeguarding the sovereignty and national security interests of both states.",
+   "link": "https://www.kurdistan24.net/en/story/930390/iranian-fm-spox-iran-oman-make-progress-in-strait-of-hormuz-navigation-talks",
+   "date": "2026-08-04T17:40:28.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Damascus Hosts New Round of Talks with SDF Commander Mazloum Abdi",
+   "desc": "The Syrian president and the commander of the Syrian Democratic Forces held talks in Damascus on implementing the Jan. 29 agreement",
+   "link": "https://www.kurdistan24.net/en/story/930386/damascus-hosts-new-round-of-talks-with-sdf-commander-mazloum-abdi",
+   "date": "2026-08-04T17:30:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan24 Sources: Syrian Army on Military Alert, Reinforces Iraq Border",
+   "desc": "Kurdistan24 sources say the Syrian army has been placed on military alert and additional forces are being deployed to the Iraq border, while Syrian media report a heightened state of readiness",
+   "link": "https://www.kurdistan24.net/en/story/930381/kurdistan24-sources-syrian-army-on-military-alert-reinforces-iraq-border",
+   "date": "2026-08-04T17:10:27.000Z"
   },
   {
    "src": "K24",
@@ -50,76 +74,44 @@
    "date": "2026-08-04T17:00:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump Backs Lindsey Graham's Sister in South Carolina Senate Race",
-   "desc": "The US president announced his full support for Darline Graham Nordone, describing the sister of the late Senator Lindsey Graham as the best person to carry forward her brother's legacy",
-   "link": "https://www.kurdistan24.net/en/story/930369/trump-backs-lindsey-grahams-sister-in-south-carolina-senate-race",
-   "date": "2026-08-04T16:00:39.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Rubio says Hormuz is open \"right now,\" confirms denuclearization talks underway",
-   "desc": "Secretary of State declares ships and oil moving through the strait in real time, describes a two-track Iran strategy covering immediate Hormuz access and a longer-term nuclear deal, while confirming Venezuela's democratic transition and formalizing a nuclear memorandum with Paraguay",
-   "link": "https://www.kurdistan24.net/en/story/930351/rubio-says-hormuz-is-open-right-now-confirms-denuclearization-talks-underway-and-signs-paraguay-nuclear-pact-in-landmark-diplomatic-session",
-   "date": "2026-08-04T14:16:55.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Dana Gas, Crescent Petroleum Begin Gas Supplies to Iraq's Electricity Ministry from Khor Mor",
-   "desc": "Dana Gas and Crescent Petroleum, joint operators of the Kurdistan Gas Project, said the gas supplies are intended to help improve electricity generation and services in Iraq by providing additional fuel to the Kirkuk power station.",
-   "link": "https://www.kurdistan24.net/en/story/930349/dana-gas-crescent-petroleum-begin-gas-supplies-to-iraqs-electricity-ministry-from-khor-mor",
-   "date": "2026-08-04T14:13:18.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan24 Exclusive: Republican, Democratic Senators Share Contrasting Views on Iran",
-   "desc": "In separate interviews with Kurdistan24, two US senators offered sharply different assessments of Washington's approach toward Iran",
-   "link": "https://www.kurdistan24.net/en/story/930343/kurdistan24-exclusive-republican-democratic-senators-share-contrasting-views-on-iran",
-   "date": "2026-08-04T13:46:22.000Z"
+   "title": "Erbil shooting targets son of Kurdish party military chief",
+   "desc": "Shafaq News- Erbil The son of the head of the military wing of the Kurdistan Freedom Party (Azadi Kurdistan Party) was critically wounded in an apparent assassination attempt in Erbil, a senior party official told Shafaq News on Tuesday. This is a developing story&hellip;",
+   "link": "https://shafaq.com/en/Kurdistan/Erbil-shooting-targets-son-of-Kurdish-party-military-chief",
+   "date": "2026-08-04T18:50:07.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Region produces 20 new grain seed varieties",
-   "desc": "Shafaq News- Erbil The Kurdistan Region's Ministry of Agriculture and Water Resources announced Tuesday that it had produced 20 new varieties of grain seed and would begin distributing them to farmers this year to improve the quality of agricultural output. Nabz Rifat, director general of the agricultural extension and research department at the ministry, told Shafaq News that after the Iraqi gove",
-   "link": "https://shafaq.com/en/Kurdistan/Kurdistan-Region-produces-20-new-grain-seed-varieties",
-   "date": "2026-08-04T17:08:14.000Z"
+   "title": "Indian vessel sinks after attack off Yemen",
+   "desc": "Shafaq News- New Delhi An Indian-flagged commercial vessel sank off the coast of Yemen on Tuesday after an attack in the Red Sea, with all 14 crew members rescued, according to India's Ministry of External Affairs and a local Yemeni news agency. The vessel, identified as the MSV Faize Noore Oliya, went down near the western Yemeni port city of Hodeidah, the sources said. India's&nbsp;Minister of P",
+   "link": "https://shafaq.com/en/World/Indian-vessel-sinks-after-attack-off-Yemen",
+   "date": "2026-08-04T18:42:55.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Lebanon pursues more Israeli withdrawals in Rome talks",
-   "desc": "Shafaq News- Rome Lebanon pressed for further Israeli pullbacks from the south in its first day of the seventh round of direct, US-mediated negotiations with Israel in Rome on Tuesday, with talks continuing through August 6. According to Lebanese media, the sessions focused on land-border demarcation, Israeli demolition operations in southern Lebanon, and implementation of the framework agreement ",
-   "link": "https://shafaq.com/en/Middle-East/Lebanon-pursues-more-Israeli-withdrawals-in-Rome-talks",
-   "date": "2026-08-04T16:46:02.000Z"
+   "title": "Syria targets 200K bpd from Al-Jazira fields",
+   "desc": "Shafaq News- Damascus Syria aims to raise production from the northeastern Al-Jazira&rsquo;s oil fields from more than 100,000 to about 200,000 barrels per day (bpd) as the facilities are transferred to government control, the Syrian Petroleum Company announced on Tuesday. At a joint press conference with US-based HKN Energy at the Al-Rumailan field in Al-Hasakah, a company representative said imm",
+   "link": "https://shafaq.com/en/Middle-East/Syria-targets-200K-bpd-from-Al-Jazira-fields",
+   "date": "2026-08-04T18:28:50.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "3M+ Iranian pilgrims enter Iraq for Arbaeen",
-   "desc": "Shafaq News- Tehran More than 3.33 million Iranian pilgrims traveled to Iraq for Arbaeen*, with about 1.03 million still in the country, Iran&rsquo;s Central Arbaeen Committee chief Ali Akbar Pourjamshidian said on Tuesday. Speaking during an inspection of the Shahid Raisi terminal at the Mehran border crossing in western Iran, Pourjamshidian put the return rate at about 69%, adding that services ",
-   "link": "https://shafaq.com/en/Middle-East/3M-Iranian-pilgrims-enter-Iraq-for-Arbaeen",
-   "date": "2026-08-04T16:20:05.000Z"
+   "title": "Sources: Damascus denies border alert near Iraq; Baghdad monitors",
+   "desc": "Shafaq News- Damascus/ Baghdad The Syrian Defense Ministry denied on Tuesday that military movements near the Iraqi border reflected a state of alert or an emergency security situation, describing them as troop redeployments carried out under approved military plans. A Defense Ministry source told Shafaq News that the routine measures include repositioning Syrian army units and columns, testing op",
+   "link": "https://shafaq.com/en/Security/Sources-Damascus-denies-border-alert-near-Iraq-Baghdad-monitors",
+   "date": "2026-08-04T18:10:07.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US, Iran near Hormuz shipping deal",
-   "desc": "Shafaq News- Washington/ Tehran The United States and Iran could reach an agreement within days to restore unrestricted commercial shipping through the Strait of Hormuz, senior US officials said on Tuesday. US Treasury Secretary Scott Bessent told CNBC that Washington and Tehran could finalize the deal as early as August 4 or 5, noting that it would guarantee &ldquo;freedom of movement&rdquo; for ",
-   "link": "https://shafaq.com/en/World/US-Iran-near-Hormuz-shipping-deal",
-   "date": "2026-08-04T16:02:31.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Karbala draws 22M Arbaeen visitors, 5M foreign",
-   "desc": "Shafaq News- Karbala More than 22 million people entered Karbala for this year's Arbaeen pilgrimage, Karbala Governor Nassif Jassim al-Khattabi said Tuesday, with around than five million of the visitors being foreign pilgrims arriving from 172 countries. The head of the Security Media Cell, Lieutenant General Saad Maan, told a press conference that the five-million foreign-pilgrim total was the f",
-   "link": "https://shafaq.com/en/society/Karbala-draws-22M-Arbaeen-visitors-5M-foreign",
-   "date": "2026-08-04T15:56:51.000Z"
+   "title": "Israel shifts strike approval to Army Chief as Gaza buries 112",
+   "desc": "Shafaq New- Gaza Israel has tightened its strike policy in the Gaza Strip by requiring Chief of Staff Eyal Zamir to approve every attack, replacing the previous system that allowed division commanders to authorize operations, Army Radio reported on Tuesday, citing security sources. According to the report, the new policy has contributed to a recent decline in Israeli strikes, alongside a general r",
+   "link": "https://shafaq.com/en/Middle-East/Israel-shifts-strike-approval-to-Army-Chief-as-Gaza-buries-112",
+   "date": "2026-08-04T17:39:24.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +156,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
+   "desc": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
+   "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+   "date": "2026-08-04T18:01:04.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Europe heat wave fuels drought, fires and energy fears",
    "desc": "Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires.",
    "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
@@ -194,14 +194,6 @@
    "date": "2026-08-03T11:57:06.000Z"
   },
   {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
-   "desc": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
-   "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
-   "date": "2026-08-03T09:42:04.000Z"
-  },
-  {
    "src": "BBC ME",
    "section": "US & World · جیهان",
    "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
@@ -215,7 +207,7 @@
    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
    "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-04T17:06:17.000Z"
+   "date": "2026-08-04T19:00:43.000Z"
   },
   {
    "src": "BBC ME",
