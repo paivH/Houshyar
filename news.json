@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T23:33:35.622Z",
+ "updated": "2026-08-05T02:41:58.826Z",
  "items": [
   {
    "src": "Rudaw",
@@ -124,10 +124,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Arson arrest made over largest of Washington state's wildfires",
-   "desc": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
+   "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+   "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+   "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-05T00:19:04.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+   "desc": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
    "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-04T19:18:45.000Z"
+   "date": "2026-08-05T00:40:23.000Z"
   },
   {
    "src": "BBC",
@@ -141,9 +149,9 @@
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "US congressman refuses to drop re-election bid over ex-wife's abuse claims",
-   "desc": "Ohio Republican Max Miller, who is fighting for his political life, told CNN: \"I'm never going to back down.\"",
+   "desc": "Ohio Republican Max Miller's former father-in-law, a US senator, wants him removed from Congress.",
    "link": "https://www.bbc.co.uk/news/articles/czrj1751r02o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-04T22:36:40.000Z"
+   "date": "2026-08-05T00:05:47.000Z"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "desc": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
    "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-04T09:11:39.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-   "desc": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-   "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-04T21:57:19.000Z"
   },
   {
    "src": "NPR",
@@ -207,7 +207,7 @@
    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
    "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-04T19:00:43.000Z"
+   "date": "2026-08-05T01:05:21.000Z"
   },
   {
    "src": "BBC ME",
