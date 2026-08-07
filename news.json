@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-07T03:29:17.859Z",
+ "updated": "2026-08-07T05:18:01.046Z",
  "items": [
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "What the US Patriot pull-out means for Kurdistan Region’s air defense",
+   "desc": "What the US Patriot pull-out means for Kurdistan Region’s air defense &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZlJDUUluMkczcnFma25OYjVDcVJJS1M5SVl0cGdJWTlmN2VGTmdlRm9GSUM4ZEJsT2dxSERVUjJ5QWgtczJ0bjVKNjJITHpUUFZxWXBGa1JUXzkzNmt2azdR?oc=5",
+   "date": "2026-08-06T16:01:45.000Z"
+  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -20,26 +28,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "UN experts raise alarm over Iran escalating targeting of Kurds, Baluchis",
+   "desc": "UN experts raise alarm over Iran escalating targeting of Kurds, Baluchis &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IX1VySERweHhqMmhKSWJiQzREeFNPTFM0azRkSVNHUklWU2FCUjdORUQ1aHhDRVFvb0pxQ0tMLXN3YWJMVGJBbU53OERNMGlwd3VPSmZMU05QWDczaDVR?oc=5",
+   "date": "2026-08-06T22:18:20.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Solar panel prices in Kurdistan Region amid US-Iran war",
    "desc": "Solar panel prices in Kurdistan Region amid US-Iran war &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiekFEUW1ueVdBaVVvTmpZbWJHQlFmaEJTTk90QjBPUkNzQ1NNdVZfQXlmYkpWS1VOZy1HZHgzYkhDUElTNVcxT2dFRTdtTFhDNnY5bXVObzRJV1FEMGM3U1dwaDE?oc=5",
    "date": "2026-08-05T13:09:10.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Cargo vessel hit by 'unknown projectile' in Strait of Hormuz amid US-blockade",
-   "desc": "Cargo vessel hit by 'unknown projectile' in Strait of Hormuz amid US-blockade &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IN0pRTkxxZHlzbnRVSlBzcjlvQnlWdVoyN01hclMtQ1d4VGRnUW93UG9fRDdqNHNYa0szOWpNM1VHS1RmZDVoeWkxVzRJbUNndnR0dFM5a3UwVk9vNUd3cEltOHlDU1J3MzlB?oc=5",
-   "date": "2026-08-05T05:38:14.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "All 36 registered archaeological sites in Kurdish-majority Afrin city damaged, looted: Official",
-   "desc": "All 36 registered archaeological sites in Kurdish-majority Afrin city damaged, looted: Official &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OUUx5a2Y1eWZaNDB0dmJHckhrcEZvaVRqUWlLUWNVTUdXV01wSUhRSElNQUxCcVN2X01IcnV4U0F4VFdFZnlRMDJ6enNVSjFoMTU2U20xa1RiYmVUT1NZ?oc=5",
-   "date": "2026-08-05T17:07:28.000Z"
   },
   {
    "src": "K24",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Construction Continues on Key Erbil Road Project to Ease Traffic Flow",
-   "desc": "Construction Continues on Key Erbil Road Project to Ease Traffic Flow &nbsp;&nbsp; kurdistan24.net",
+   "desc": "Construction Continues on Key Erbil Road Project to Ease Traffic Flow &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yaTRXaGROejVBQ1JtamZyRkh0X1dhb3hLQnkxeXgydnVrdFFBMVFVcGYxMGZhWE56U283SmVRaXNEckxMYjd0UE96MlFyZl80LU1XYTFR?oc=5",
    "date": "2026-08-05T22:12:16.000Z"
   },
@@ -325,7 +325,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
-   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; kurdistan24.net",
+   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
    "date": "2026-08-05T22:12:16.000Z"
   },
@@ -356,10 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "The Arbaeen walk is a factor of unity, empathy, and cohesion among Islamic denominations",
-   "desc": "The Arbaeen walk is a factor of unity, empathy, and cohesion among Islamic denominations &nbsp;&nbsp; taghribnews.com",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFVwTkhReVQ0eXZlSHhxYW40QjF6NmhIQ1BUcHRIM25yRzB6RE01S2VuTUZFMDE4LXhOcmpzamJ6WnFGQ0s1MTdKNXVXamlNMFNkN3JKSUFXajRwOUk0OFJCUXJDaDFKXzRoWlQ1cDJSUmp4dmVZQTNDaWxGd25DNnRxcmxaTlpwYVRMWTA0eklTSW9ZREJQbnNrSm9uOFVjMWg2akFfbUZGazZjM2Y4dDVOU19QR3J0SlNsV2lBcE9ENWFSYWxya0dVQkVqbExo?oc=5",
-   "date": "2026-08-03T15:58:51.000Z"
+   "title": "Fire Breaks Out at Refinery in Iraq’s Erbil - World news - Tasnim News Agency",
+   "desc": "Fire Breaks Out at Refinery in Iraq’s Erbil - World news - Tasnim News Agency &nbsp;&nbsp; tasnimnews.ir",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlRfOUkzREI4a2N6OTJOWXRsV0tJeE5sX3h5a2NKT0RKcC1UMktxNkJPaFFXa2ZWbkU5RVBTM1NiVXc0MHljU1dDbHcySWpoR1lpV2xCYWxPQVZrRnVYZnh6REVCektMUFlJNzJBN1UydXZxeWdmeFhuUkRzM05Hb21NOEg3N0ZoUXhwOGxTQ3FBY1EzM1ZjTnJLMS0?oc=5",
+   "date": "2026-08-01T11:11:12.000Z"
   }
  ]
 }
