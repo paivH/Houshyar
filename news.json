@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T21:40:57.078Z",
+ "updated": "2026-08-07T22:38:08.751Z",
  "items": [
   {
    "src": "Rudaw",
@@ -22,8 +22,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FeUR4U0o5dmg2LUU4cEVCUkcxalJNRDN2SWRHNFZ6Rk5IejVMcXlLaGM1OVhRLTMtdWRzalBWcTJvdTZFeWJUYkRZMkdkbGFqeGE2WmMwdmVySjBmbmM0?oc=5",
-   "date": "2026-08-07T08:47:37.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HQ0M5aUp3MzU1OEQ2Rnd2dU5RbWRCOGlIcmlQUXpBeDRaZ2hKeDlzMWw4Nk5WZU9fOHhPek4yWTVqUW1BamVoeTBlMms1VGM1RXpEQ043NlJCMHBPdlBjekJxVVI?oc=5",
+   "date": "2026-08-07T10:07:44.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,7 +84,15 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US reroutes 51 ships as Hormuz deal nears",
+   "title": "Currency issuance rose 13.8 percent through May",
+   "desc": "Shafaq News- Baghdad Iraq's currency issuance rose 13.8 percent in the first five months of 2026, reaching about 113.56 trillion Iraqi dinars (about $86B) by the end of May, an increase of 13.761 trillion dinars from the close of 2025 (about $10.4B), the financial and economic adviser to the prime minister, Mudhhir Mohammed Salih, told Shafaq News. Salih said the rise was an exceptional response t",
+   "link": "https://shafaq.com/en/Economy/Currency-issuance-rose-13-8-percent-through-May",
+   "date": "2026-08-07T22:33:32.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "CENTCOM reroutes 51 ships as Hormuz deal nears",
    "desc": "Shafaq News- Washington/ Tehran US Central Command (CENTCOM) said on Friday it had rerouted 51 commercial vessels since maritime restrictions around Iran resumed on July 14, as US officials reported progress in talks aimed at restoring commercial shipping through the Strait of Hormuz. CENTCOM stated that its forces had also disabled two vessels and boarded two others to verify compliance with the ",
    "link": "https://shafaq.com/en/World/US-reroutes-51-ships-as-Hormuz-deal-nears",
    "date": "2026-08-07T21:38:48.000Z"
@@ -114,14 +122,6 @@
    "date": "2026-08-07T19:50:39.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq dismantles human trafficking, organ trade networks",
-   "desc": "Shafaq News- Baghdad Iraq's Federal Intelligence and Investigation Agency dismantled three dangerous criminal networks operating in human trafficking, the agency's Anti-Human Trafficking Directorate announced on Friday. Among those networks was an international ring specialized in trafficking human organs and exploiting victims through the illegal sale of kidneys, the directorate clarified in a st",
-   "link": "https://shafaq.com/en/Security/Iraq-dismantles-human-trafficking-organ-trade-networks",
-   "date": "2026-08-07T19:21:58.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
@@ -133,9 +133,9 @@
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-   "desc": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.",
+   "desc": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
    "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-07T21:32:30.000Z"
+   "date": "2026-08-07T22:07:00.000Z"
   },
   {
    "src": "BBC",
@@ -160,14 +160,6 @@
    "desc": "Officials are still working to contain the blazes that have burned down at least 860 buildings.",
    "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-07T01:10:58.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Israeli efforts to seize more Palestinian land have reached a frenzied pitch",
-   "desc": "Israeli efforts to establish new Jewish settlements and seize Palestinian land have reached a frenzied pitch in the occupied West Bank, where Palestinian residents say they have been encircled and besieged by violent settlers.",
-   "link": "https://www.npr.org/2026/08/07/nx-s1-5914041/israeli-efforts-to-seize-more-palestinian-land-have-reached-a-frenzied-pitch",
-   "date": "2026-08-07T20:24:36.000Z"
   },
   {
    "src": "NPR",
@@ -200,6 +192,14 @@
    "desc": "The motive is still under investigation, though there were reports he had been stressed in connection with school.",
    "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
    "date": "2026-08-07T05:34:15.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+   "desc": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
+   "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+   "date": "2026-08-06T20:58:56.000Z"
   },
   {
    "src": "BBC ME",
@@ -349,7 +349,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s largest laser fountain to open in Zakho within months",
-   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; thenewregion.com",
+   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
    "date": "2026-08-07T07:04:14.000Z"
   },
