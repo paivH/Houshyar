@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T09:40:00.924Z",
+ "updated": "2026-08-08T10:36:00.493Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,42 +44,58 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Oil Minister Says Talks Underway to Raise Kurdistan Oil Quota",
+   "desc": "Basim Mohammed Khudair says increasing the Kurdistan Region’s crude allocation is under discussion as Baghdad advances plans for oil exports through Türkiye.",
+   "link": "https://www.kurdistan24.net/en/story/931146/iraqi-oil-minister-says-talks-underway-to-raise-kurdistan-oil-quota",
+   "date": "2026-08-08T10:14:42.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran’s Supreme Leader Adviser Says Foreign Forces Must Leave Middle East",
+   "desc": "Ali Akbar Velayati says US and Israeli defeat strengthened Iran’s belief that foreign forces drive insecurity and must leave the Middle East.",
+   "link": "https://www.kurdistan24.net/en/story/931143/irans-supreme-leader-adviser-says-foreign-forces-must-leave-middle-east",
+   "date": "2026-08-08T09:56:24.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq Army Chief Dissolves East Tigris Operations Command",
+   "desc": "General Abdul Amir Rashid Yarallah orders the command dissolved during a Kirkuk visit as military and security leadership changes are expected in Kirkuk and Khurmatu.",
+   "link": "https://www.kurdistan24.net/en/story/931139/iraq-army-chief-dissolves-east-tigris-operations-command",
+   "date": "2026-08-08T09:52:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Prime Minister Barzani Rejects Israel Ties, Says Kurdistan Will Avoid Regional Conflicts",
+   "desc": "Kurdistan Region Prime Minister Masrour Barzani reaffirmed Baghdad's authority over foreign policy and said the Region does not seek involvement in regional conflicts.",
+   "link": "https://www.kurdistan24.net/en/story/931136/prime-minister-barzani-rejects-israel-ties-says-kurdistan-will-avoid-regional-conflicts",
+   "date": "2026-08-08T09:28:40.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Kurdistan24 Exclusive: AK Party, HUDA-PAR MPs Voice Support for Türkiye's National Solidarity Law",
    "desc": "Turkish Parliamentarians describe the proposed framework law as a significant step toward peace, while the bill prepares to advance through parliament",
    "link": "https://www.kurdistan24.net/en/story/931133/kurdistan24-exclusive-ak-party-huda-par-mps-voice-support-for-t%C3%BCrkiyes-national-solidarity-law",
    "date": "2026-08-08T09:23:02.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Al-Wala'i Says Retaliation Is Delayed, Not Abandoned",
-   "desc": "The Kata'ib Sayyid al-Shuhada leader's warning underscores the tension between Iraq's push for state control and armed factions' commitment to retaliate for recent strikes",
-   "link": "https://www.kurdistan24.net/en/story/931124/al-walai-says-retaliation-is-delayed-not-abandoned",
-   "date": "2026-08-08T09:00:37.000Z"
+   "title": "Karbala launches green belt, million-tree project",
+   "desc": "Shafaq News- Karbala Iraq's Abbasid Shrine launched a project on Saturday to establish a 90-kilometer green belt plant of one million trees at the Awali farm in Karbala province, as part of efforts to combat desertification, expand green spaces, and develop desert land for agricultural use. In a statement, Secretary-General Mustafa Murtadha Deyaa al-Din, said the work is underway at the farm, whic",
+   "link": "https://shafaq.com/en/society/Karbala-launches-green-belt-million-tree-project",
+   "date": "2026-08-08T10:33:37.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump's Top General Seeks 'Off-Ramp' as Iran War Options Narrow: CNN",
-   "desc": "CNN reports that Gen. Dan Caine has raised concerns over airpower, depleted weapons stocks and the risks of further escalation as the Iran war nears six months.",
-   "link": "https://www.kurdistan24.net/en/story/931119/trumps-top-general-seeks-off-ramp-as-iran-war-options-narrow-cnn",
-   "date": "2026-08-08T08:15:26.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Green Iraq Observatory: Recurring Fish Deaths Expose Iraq’s Deepening Environmental Crisis",
-   "desc": "The Green Iraq Observatory says repeated fish deaths in Iraq have become an annual pattern, pointing to worsening water and pollution crises and a lack of lasting solutions.",
-   "link": "https://www.kurdistan24.net/en/story/931111/green-iraq-observatory-recurring-fish-deaths-expose-iraqs-deepening-environmental-crisis",
-   "date": "2026-08-08T08:11:33.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Türkiye’s Peace Process Framework Bill Clears Justice Commission",
-   "desc": "Türkiye’s “Law on Strengthening National Solidarity and Social Integration” has cleared the Justice Commission, paving the way for its consideration by the General Assembly",
-   "link": "https://www.kurdistan24.net/en/story/931093/t%C3%BCrkiyes-peace-process-framework-bill-clears-justice-commission",
-   "date": "2026-08-08T06:48:14.000Z"
+   "title": "Iraq disbands command overseeing Kirkuk-Saladin areas",
+   "desc": "Shafaq News- Kirkuk Iraq&rsquo;s military has decided to dissolve the East Tigris Operations Command, which oversees security from southern Kirkuk to Tuz Khurmatu in neighboring Saladin province, as part of a reorganization of military responsibilities and deployments, an informed security source told Shafaq News on Saturday. Military authorities will determine how its forces and duties are redist",
+   "link": "https://shafaq.com/en/Security/Iraq-disbands-command-overseeing-Kirkuk-Saladin-areas",
+   "date": "2026-08-08T09:43:38.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad/ Erbil The US dollar opened Saturday's trading lower in Iraq, hovering around 152,000 dinars per 100 dollars in Baghdad and Erbil. According to Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 152,000 dinars per 100 dollars, down from Thursday's 152,050 dinars. In the Iraqi capital, exchange shops sold the dollar at 152,500 dinar",
    "link": "https://shafaq.com/en/Economy/US-Dollar-edges-lower-in-Baghdad-and-Erbil-9",
    "date": "2026-08-08T08:07:12.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Three major targets Arsenal missed this summer",
-   "desc": "Shafaq News- London Premier League champions Arsenal have missed out on three high-profile summer targets, with Vinicius Junior staying at Real Madrid, Morgan Rogers joining Chelsea and Sandro Tonali moving to Tottenham. Vinicius became the latest name to fall off Arsenal&rsquo;s shortlist after extending his Real Madrid contract until 2032. Sky Sports reported that the Gunners had genuine interes",
-   "link": "https://shafaq.com/en/sport/Three-major-targets-Arsenal-missed-this-summer",
-   "date": "2026-08-08T07:34:53.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Basrah crude drops over 2% on the week",
-   "desc": "Shafaq News- Basrah Basrah Heavy and Medium crude posted weekly losses of $1.42 a barrel, or 2.56% and 2.49%, respectively, despite rising in the final trading session, while global oil prices closed lower. Basrah Heavy gained $2.16 a barrel, or 4.10%, in the final session to settle at $54.79. Basrah Medium also rose $2.16 a barrel, or 3.92%, to close at $57.09. Global oil futures ended the sessio",
-   "link": "https://shafaq.com/en/Economy/Basrah-crude-drops-over-2-on-the-week",
-   "date": "2026-08-08T06:45:05.000Z"
   },
   {
    "src": "BBC",
@@ -292,18 +292,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership",
-   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; russiancouncil.ru",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFqNGdHZU10NWRoTC10cXJwUjBxQUw0a056MGd4alRqUVNLN2VKOXFTeF9WNXRrRzZkSGxGZ1BLWHVvdWZlY0k5eV84a1NaSWJxNWZ5NmdEWFNsUWl3YkEzejkwUUVOeGhlLUNXRmdKM01xT0tEZjJFQ2JMaURUNERPWmVKWGZid1dlekNTdUtnVkJEQTZhYlc2RHVLQ1JYRzdrRWNoM3d2emgy?oc=5",
-   "date": "2026-08-07T13:15:32.000Z"
+   "title": "US pulls Patriot missiles from Erbil as Iran-backed attacks intensify: Report",
+   "desc": "US pulls Patriot missiles from Erbil as Iran-backed attacks intensify: Report &nbsp;&nbsp; Türkiye Today",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHdLYlRVMFlTc2RmejBRSXVBZlI2UjJRTTU4X2FQWThZQml3TGctbGNwWDB3SFdBbWNObnhRQXBiNGJOQnNFb0xhS0NMelFhRjYxX3FvdG9OaGE2SWIwZkpJY01CejFBanYwcGM0YXRnd2xUT1I1SGJSYk1qdzNmZ2FDVjlwZ3k4a2hNTkxpZldrR0c4cENRcDVBcGJ1OEJyMElRMlRaaTh0aDN1VHcxWVhkQVVFS2E1WkFRdw?oc=5",
+   "date": "2026-08-01T19:23:46.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Maldives launches agroforestry project to boost food security, climate resilience",
-   "desc": "Maldives launches agroforestry project to boost food security, climate resilience &nbsp;&nbsp; Muslim Network TV",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVW9QN0wycVdsMGdwTEEyMDdXNzliYS1Ta01NT09nLUI5U25jMy1rZFlGejZBbEFHNlhnczVFZkRXb3BNeGwtdHVVLVQwd210WUd1bzR3X25qdlJtN0pBaTRrV0VQS3kzY3ZvVmlxOGdFZFU2RmliakZtU0V4MnRNWXVBQkVVU1JzQ3BGUy1wZzc2LVhIR1NvYng3T1RrTnFDQnNGWkpVQVdtcU40WmM4?oc=5",
-   "date": "2026-08-04T02:22:15.000Z"
+   "title": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership",
+   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; russiancouncil.ru",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFqNGdHZU10NWRoTC10cXJwUjBxQUw0a056MGd4alRqUVNLN2VKOXFTeF9WNXRrRzZkSGxGZ1BLWHVvdWZlY0k5eV84a1NaSWJxNWZ5NmdEWFNsUWl3YkEzejkwUUVOeGhlLUNXRmdKM01xT0tEZjJFQ2JMaURUNERPWmVKWGZid1dlekNTdUtnVkJEQTZhYlc2RHVLQ1JYRzdrRWNoM3d2emgy?oc=5",
+   "date": "2026-08-07T13:15:32.000Z"
   },
   {
    "src": "Erbil",
@@ -316,10 +316,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Qatar Airways to resume Bahrain, Kuwait and Erbil flights from August 8",
-   "desc": "Qatar Airways to resume Bahrain, Kuwait and Erbil flights from August 8 &nbsp;&nbsp; Gulf Business",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3lmUHZ1SlRiUDgtZE54RnFfMldNSmhIOXZHMkF4SU5pSnpKbkxxeGx4R2lVNDUyaFZOV0tncEU4ZVBqRjZPckprV1Q1T203RnlLVVR1aUZ0UFZsdVVCV01uRHA5N1NDV3U0Y2dOQVBrbGJCc080NjR1NGV6bm5BQ3c4R2lrWlJwMDNreTJvenVFUjdIN1dEemhBUXAtR3BURFdFaVBkVEU0aUVFY1pRc3ZETQ?oc=5",
-   "date": "2026-08-06T12:02:28.000Z"
+   "title": "Maldives launches agroforestry project to boost food security, climate resilience",
+   "desc": "Maldives launches agroforestry project to boost food security, climate resilience &nbsp;&nbsp; Muslim Network TV",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVW9QN0wycVdsMGdwTEEyMDdXNzliYS1Ta01NT09nLUI5U25jMy1rZFlGejZBbEFHNlhnczVFZkRXb3BNeGwtdHVVLVQwd210WUd1bzR3X25qdlJtN0pBaTRrV0VQS3kzY3ZvVmlxOGdFZFU2RmliakZtU0V4MnRNWXVBQkVVU1JzQ3BGUy1wZzc2LVhIR1NvYng3T1RrTnFDQnNGWkpVQVdtcU40WmM4?oc=5",
+   "date": "2026-08-04T02:22:15.000Z"
   },
   {
    "src": "Tourism",
@@ -341,7 +341,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iraq: new Dutch-backed vegetable brand for Kurdistan region",
-   "desc": "Iraq: new Dutch-backed vegetable brand for Kurdistan region &nbsp;&nbsp; Agroberichten Buitenland",
+   "desc": "Iraq: new Dutch-backed vegetable brand for Kurdistan region &nbsp;&nbsp; agroberichtenbuitenland.nl",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWtsN1BkUno1V09PYVhXcy1mUkoxZHhRRHNiV2FvU3plREsxNVNuXy0taDFiWVYzU1ZTcXBHTk8yXzI3dENNTVJnTFh3NGdMbC1KYUdicHZGNElOeDNTME5KcnBHbFowWDQya0ZyWW12RkRaMkFLV0JYSnhMQU1KZFlyeFJVNEF4TGdqOVJfMVluOEJ3V0hRN0hiWERpTXBobE5JYUdMQW1kejUxaE9zSWlzaUpUa1JlV3g4X3ctYmI?oc=5",
    "date": "2026-07-31T08:22:18.000Z"
   },
