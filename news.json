@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T05:43:43.778Z",
+ "updated": "2026-08-08T06:56:42.971Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Region Facilitates Passage of 100,000 Arbaeen Visitors from Five Countries",
+   "desc": "Under the direction of Prime Minister Masrour Barzani, Kurdistan Region prepares rest stations for 100,000 pilgrims from five countries traveling to Najaf and Karbala for Arbaeen 2026",
+   "link": "https://www.kurdistan24.net/en/story/931079/kurdistan-region-facilitates-passage-of-100000-arbaeen-visitors-from-five-countries",
+   "date": "2026-08-08T05:55:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Two ISIS Members Killed While Planting Explosive in Damascus Countryside",
    "desc": "Syrian security authorities say two members of the terrorist group ISIS were killed while planting an explosive device in the Sayyida Zeinab area of the Damascus countryside",
    "link": "https://www.kurdistan24.net/en/story/931068/two-isis-members-killed-while-planting-explosive-in-damascus-countryside",
@@ -74,12 +82,20 @@
    "date": "2026-08-07T18:59:17.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi PM, Saudi Intelligence Chief Discuss Regional Security and Coordination",
-   "desc": "Iraqi Prime Minister and Saudi General Intelligence Directorate chief discussed regional security developments and ways to strengthen coordination",
-   "link": "https://www.kurdistan24.net/en/story/931025/iraqi-pm-saudi-intelligence-chief-discuss-regional-security-and-coordination",
-   "date": "2026-08-07T17:54:07.000Z"
+   "title": "Basrah crude drops over 2% on the week",
+   "desc": "Shafaq News- Basrah Basrah Heavy and Medium crude posted weekly losses of $1.42 a barrel, or 2.56% and 2.49%, respectively, despite rising in the final trading session, while global oil prices closed lower. Basrah Heavy gained $2.16 a barrel, or 4.10%, in the final session to settle at $54.79. Basrah Medium also rose $2.16 a barrel, or 3.92%, to close at $57.09. Global oil futures ended the sessio",
+   "link": "https://shafaq.com/en/Economy/Basrah-crude-drops-over-2-on-the-week",
+   "date": "2026-08-08T06:45:05.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Taipei challenges Beijing shipping rules in Taiwan Strait during typhoon",
+   "desc": "Shafaq News- Taipei/ Beijing Taiwan&rsquo;s Mainland Affairs Council (MAC) on Saturday rejected China&rsquo;s traffic controls on northbound vessels entering the Taiwan Strait during Typhoon Dolphin, stating that Beijing had no right to impose restrictions on Taiwan&rsquo;s waters. China&rsquo;s Guangdong Maritime Safety Administration ordered vessels entering the strait from the south to follow t",
+   "link": "https://shafaq.com/en/World/Taipei-challenges-Beijing-shipping-rules-in-Taiwan-Strait-during-typhoon",
+   "date": "2026-08-08T06:07:12.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Damascus On Friday, Syrian security forces killed two suspected ISIS militants who were allegedly planting a roadside bomb near the Sayyida Zainab district on the outskirts of Damascus. The Interior Ministry said in a statement that the suspects opened fire after officers approached them during a night patrol, triggering a gun battle. Authorities said they recovered an improvised expl",
    "link": "https://shafaq.com/en/Middle-East/Syria-foils-ISIS-bomb-plot-near-Sayyida-Zainab",
    "date": "2026-08-07T22:57:04.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Currency issuance rose 13.8 percent through May",
-   "desc": "Shafaq News- Baghdad Iraq's currency issuance rose 13.8 percent in the first five months of 2026, reaching about 113.56 trillion Iraqi dinars (about $86B) by the end of May, an increase of 13.761 trillion dinars from the close of 2025 (about $10.4B), the financial and economic adviser to the prime minister, Mudhhir Mohammed Salih, told Shafaq News. Salih said the rise was an exceptional response t",
-   "link": "https://shafaq.com/en/Economy/Currency-issuance-rose-13-8-percent-through-May",
-   "date": "2026-08-07T22:33:32.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "CENTCOM reroutes 51 ships as Hormuz deal nears",
-   "desc": "Shafaq News- Washington/ Tehran US Central Command (CENTCOM) said on Friday it had rerouted 51 commercial vessels since maritime restrictions around Iran resumed on July 14, as US officials reported progress in talks aimed at restoring commercial shipping through the Strait of Hormuz. CENTCOM stated that its forces had also disabled two vessels and boarded two others to verify compliance with the ",
-   "link": "https://shafaq.com/en/World/US-reroutes-51-ships-as-Hormuz-deal-nears",
-   "date": "2026-08-07T21:38:48.000Z"
   },
   {
    "src": "BBC",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Construction Continues on Key Erbil Road Project to Ease Traffic Flow",
-   "desc": "Construction Continues on Key Erbil Road Project to Ease Traffic Flow &nbsp;&nbsp; Kurdistan24",
+   "desc": "Construction Continues on Key Erbil Road Project to Ease Traffic Flow &nbsp;&nbsp; kurdistan24.net",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaG9GcElGZ3NfeGNKamVjSVZwWk11bTZyS2VZLWFFelFqN3lTcXZHVlM1T1h0UUdpdFhBUlpoSUhGb29HcDdSZzhJRjM4b24wSUJXV1VVSkV1ZzV4M2RsbThBZUhmbElteTNkd1dGcUo5d3NGM29qVjdoX25OZ3dmY3FjeXlpREw0Q0lqbkVrV0RpYmdBRmhjRVpQU05xZC1oZVZrc1Q1d3JkUkY5RkozemstNA?oc=5",
    "date": "2026-08-06T20:22:53.000Z"
   },
@@ -325,7 +325,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
-   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
+   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; kurdistan24.net",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
    "date": "2026-08-05T22:12:16.000Z"
   },
