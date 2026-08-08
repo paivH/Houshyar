@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T10:36:00.493Z",
+ "updated": "2026-08-08T11:31:03.973Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraq oil minister details Hormuz talks, production outlook",
+   "desc": "Shafaq News- Baghdad Iraq's Oil Minister Basim Mohammed Khudair confirmed on Saturday that the country is currently producing 2.7 million barrels of oil per day, with exports ranging between 1.5 and 1.7 million barrels daily, revealing that talks are underway with Iran to allow Iraqi oil exports through the Strait of Hormuz, though no agreement has yet been implemented. Despite challenges linked t",
+   "link": "https://shafaq.com/en/Economy/Iraq-oil-minister-details-Hormuz-talks-production-outlook",
+   "date": "2026-08-08T11:30:21.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran strikes Kurdish opposition sites near Al-Sulaymaniyah",
+   "desc": "Shafaq News- Al-Sulaymaniyah Iran launched drone strikes early Saturday on positions belonging to Iranian Kurdish parties near Al-Sulaymaniyah in the Kurdistan Region of Iraq, Amjad Hussein, an official with the Iranian Kurdish opposition group Komala, told Shafaq News. Among the targets, a drone hit the home of a political bureau member of the Komala of the Toilers of Kurdistan.&nbsp; Preliminary",
+   "link": "https://shafaq.com/en/Kurdistan/Komala-Iran-targets-Kurdish-opposition-sites-near-Al-Sulaymaniyah",
+   "date": "2026-08-08T10:43:11.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Karbala launches green belt, million-tree project",
    "desc": "Shafaq News- Karbala Iraq's Abbasid Shrine launched a project on Saturday to establish a 90-kilometer green belt plant of one million trees at the Awali farm in Karbala province, as part of efforts to combat desertification, expand green spaces, and develop desert land for agricultural use. In a statement, Secretary-General Mustafa Murtadha Deyaa al-Din, said the work is underway at the farm, whic",
    "link": "https://shafaq.com/en/society/Karbala-launches-green-belt-million-tree-project",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad/ Erbil On Saturday, gold prices hovered around 930,000 IQD per mithqal in Baghdad and Erbil markets, continuing their upward trend, according to a survey by Shafaq News Agency. Gold prices on Baghdad's Al-Nahr Street recorded a selling price of 937,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buying p",
    "link": "https://shafaq.com/en/Economy/Gold-prices-rise-in-Baghdad-Erbil-markets-7-1",
    "date": "2026-08-08T09:20:55.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Pollution and water shortages kill 1K+ tons of fish in Iraq",
-   "desc": "Shafaq News- Baghdad More than 1,000 tons of fish have died in Iraq this year, with recurring die-offs exposing mounting water-management and pollution failures, the Green Iraq Observatory warned on Saturday. The first major episode struck the Tigris and Diyala rivers in April, with losses concentrated in Wasit province after contamination from untreated sewage and industrial waste. The Observator",
-   "link": "https://shafaq.com/en/society/Pollution-and-water-shortages-kill-1K-tons-of-fish-in-Iraq",
-   "date": "2026-08-08T09:01:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US Dollar edges lower in Baghdad and Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar opened Saturday's trading lower in Iraq, hovering around 152,000 dinars per 100 dollars in Baghdad and Erbil. According to Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 152,000 dinars per 100 dollars, down from Thursday's 152,050 dinars. In the Iraqi capital, exchange shops sold the dollar at 152,500 dinar",
-   "link": "https://shafaq.com/en/Economy/US-Dollar-edges-lower-in-Baghdad-and-Erbil-9",
-   "date": "2026-08-08T08:07:12.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+   "desc": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
+   "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+   "date": "2026-08-08T11:01:00.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
    "desc": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
    "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
@@ -192,14 +200,6 @@
    "desc": "The motive is still under investigation, though there were reports he had been stressed in connection with school.",
    "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
    "date": "2026-08-07T05:34:15.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-   "desc": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
-   "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-   "date": "2026-08-06T20:58:56.000Z"
   },
   {
    "src": "BBC ME",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership",
-   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; russiancouncil.ru",
+   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; Российский совет по международным делам",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFqNGdHZU10NWRoTC10cXJwUjBxQUw0a056MGd4alRqUVNLN2VKOXFTeF9WNXRrRzZkSGxGZ1BLWHVvdWZlY0k5eV84a1NaSWJxNWZ5NmdEWFNsUWl3YkEzejkwUUVOeGhlLUNXRmdKM01xT0tEZjJFQ2JMaURUNERPWmVKWGZid1dlekNTdUtnVkJEQTZhYlc2RHVLQ1JYRzdrRWNoM3d2emgy?oc=5",
    "date": "2026-08-07T13:15:32.000Z"
   },
@@ -341,7 +341,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iraq: new Dutch-backed vegetable brand for Kurdistan region",
-   "desc": "Iraq: new Dutch-backed vegetable brand for Kurdistan region &nbsp;&nbsp; agroberichtenbuitenland.nl",
+   "desc": "Iraq: new Dutch-backed vegetable brand for Kurdistan region &nbsp;&nbsp; Agroberichten Buitenland",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWtsN1BkUno1V09PYVhXcy1mUkoxZHhRRHNiV2FvU3plREsxNVNuXy0taDFiWVYzU1ZTcXBHTk8yXzI3dENNTVJnTFh3NGdMbC1KYUdicHZGNElOeDNTME5KcnBHbFowWDQya0ZyWW12RkRaMkFLV0JYSnhMQU1KZFlyeFJVNEF4TGdqOVJfMVluOEJ3V0hRN0hiWERpTXBobE5JYUdMQW1kejUxaE9zSWlzaUpUa1JlV3g4X3ctYmI?oc=5",
    "date": "2026-07-31T08:22:18.000Z"
   },
