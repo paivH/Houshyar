@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T16:35:50.864Z",
+ "updated": "2026-08-08T17:32:29.217Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "KDP says efforts continue to break political deadlock and form new Kurdistan government",
+   "desc": "Party spokesperson Mahmoud Mohammed says political meetings must produce concrete results, urges caution over Kirkuk statements",
+   "link": "https://www.kurdistan24.net/en/story/931226/kdp-says-efforts-continue-to-break-political-deadlock-and-form-new-kurdistan-government",
+   "date": "2026-08-08T17:26:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Oman says Hormuz talks with Iran ‘positive’ as shipping attacks continue",
    "desc": "Muscat urges restraint after a vessel is struck by a projectile in the strategic waterway amid Tehran’s ongoing blockade",
    "link": "https://www.kurdistan24.net/en/story/931213/oman-says-hormuz-talks-with-iran-positive-as-shipping-attacks-continue",
@@ -74,12 +82,20 @@
    "date": "2026-08-08T13:25:14.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Mohammed Haji Mahmoud Calls Iraq's Corruption 'Pillage'",
-   "desc": "The KSDP leader criticized Iraq's financial situation while urging Kurdish political forces to revive parliament and form a new regional cabinet.",
-   "link": "https://www.kurdistan24.net/en/story/931182/mohammed-haji-mahmoud-calls-iraqs-corruption-pillage",
-   "date": "2026-08-08T12:59:00.000Z"
+   "title": "Groundwater transforms Iraq desert into farmland",
+   "desc": "Shafaq News- Al-Muthanna More than 350,000 dunams* of desert land in Nugrat Al-Salman district, southwestern Al-Muthanna, have been brought under cultivation through over 4,000 agricultural contracts, relying mainly on groundwater, the head of the district told Shafaq News on Friday. The agricultural expansion has significantly increased wheat production, with Nugrat Al-Salman now accounting for a",
+   "link": "https://shafaq.com/en/society/Groundwater-transforms-Iraq-desert-into-farmland",
+   "date": "2026-08-08T17:03:04.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi forces arrest former MP Abu Mazen in Baghdad",
+   "desc": "Shafaq News- Baghdad A joint security force arrested former member of parliament Ahmed al-Jubouri, known as Abu Mazen, in Baghdad on Saturday on corruption-related charges, according to a security source who spoke to Shafaq News. The source said the arrest was carried out under judicial orders. The United States Treasury Department placed al-Jubouri under sanctions in July 2019, accusing him of co",
+   "link": "https://shafaq.com/en/Security/security-forces-arrest-ex-Iraqi-MP",
+   "date": "2026-08-08T16:43:15.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,22 +122,6 @@
    "date": "2026-08-08T15:05:22.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Pezeshkian: IRGC decides Iran’s war and peace",
-   "desc": "Shafaq News- Tehran Iranian President Masoud Pezeshkian stated on Saturday that decisions on war and peace rest with the Islamic Revolutionary Guard Corps (IRGC), not his government. Speaking to reporters, Pezeshkian denied any rift between the government and Iran&rsquo;s armed forces but acknowledged internal challenges and differing views, accusing the United States and Israel of seeking to expl",
-   "link": "https://shafaq.com/en/Middle-East/Pezeshkian-IRGC-decides-Iran-s-war-and-peace",
-   "date": "2026-08-08T14:42:26.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Barcelona confident of completing Rodri transfer",
-   "desc": "Shafaq News- Barcelona Barcelona, Manchester City and Rodri are increasingly confident that the Spain midfielder&rsquo;s transfer to the Catalan club can be completed, transfer journalist Fabrizio Romano reported on Saturday. Romano stated that Barcelona will submit a higher formal offer after City rejected an opening proposal worth about $52 million, adding that Rodri has informed the English clu",
-   "link": "https://shafaq.com/en/sport/Barcelona-confident-of-completing-Rodri-transfer",
-   "date": "2026-08-08T14:14:47.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -143,7 +143,7 @@
    "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
    "desc": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
    "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-08T15:44:08.000Z"
+   "date": "2026-08-08T17:23:31.000Z"
   },
   {
    "src": "BBC",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership",
-   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; Российский совет по международным делам",
+   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; russiancouncil.ru",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFqNGdHZU10NWRoTC10cXJwUjBxQUw0a056MGd4alRqUVNLN2VKOXFTeF9WNXRrRzZkSGxGZ1BLWHVvdWZlY0k5eV84a1NaSWJxNWZ5NmdEWFNsUWl3YkEzejkwUUVOeGhlLUNXRmdKM01xT0tEZjJFQ2JMaURUNERPWmVKWGZid1dlekNTdUtnVkJEQTZhYlc2RHVLQ1JYRzdrRWNoM3d2emgy?oc=5",
    "date": "2026-08-07T13:15:32.000Z"
   },
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Maldives launches agroforestry project to boost food security, climate resilience",
-   "desc": "Maldives launches agroforestry project to boost food security, climate resilience &nbsp;&nbsp; Muslim Network TV",
+   "desc": "Maldives launches agroforestry project to boost food security, climate resilience &nbsp;&nbsp; muslimnetwork.tv",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVW9QN0wycVdsMGdwTEEyMDdXNzliYS1Ta01NT09nLUI5U25jMy1rZFlGejZBbEFHNlhnczVFZkRXb3BNeGwtdHVVLVQwd210WUd1bzR3X25qdlJtN0pBaTRrV0VQS3kzY3ZvVmlxOGdFZFU2RmliakZtU0V4MnRNWXVBQkVVU1JzQ3BGUy1wZzc2LVhIR1NvYng3T1RrTnFDQnNGWkpVQVdtcU40WmM4?oc=5",
    "date": "2026-08-04T02:22:15.000Z"
   },
@@ -341,7 +341,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iraq: new Dutch-backed vegetable brand for Kurdistan region",
-   "desc": "Iraq: new Dutch-backed vegetable brand for Kurdistan region &nbsp;&nbsp; Agroberichten Buitenland",
+   "desc": "Iraq: new Dutch-backed vegetable brand for Kurdistan region &nbsp;&nbsp; agroberichtenbuitenland.nl",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWtsN1BkUno1V09PYVhXcy1mUkoxZHhRRHNiV2FvU3plREsxNVNuXy0taDFiWVYzU1ZTcXBHTk8yXzI3dENNTVJnTFh3NGdMbC1KYUdicHZGNElOeDNTME5KcnBHbFowWDQya0ZyWW12RkRaMkFLV0JYSnhMQU1KZFlyeFJVNEF4TGdqOVJfMVluOEJ3V0hRN0hiWERpTXBobE5JYUdMQW1kejUxaE9zSWlzaUpUa1JlV3g4X3ctYmI?oc=5",
    "date": "2026-07-31T08:22:18.000Z"
   },
