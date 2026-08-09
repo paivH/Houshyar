@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-09T08:45:30.890Z",
+ "updated": "2026-08-09T09:41:37.128Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FeUR4U0o5dmg2LUU4cEVCUkcxalJNRDN2SWRHNFZ6Rk5IejVMcXlLaGM1OVhRLTMtdWRzalBWcTJvdTZFeWJUYkRZMkdkbGFqeGE2WmMwdmVySjBmbmM0?oc=5",
-   "date": "2026-08-07T08:47:37.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -16,6 +8,14 @@
    "desc": "No successful Belarus border crossings in 2026: Poland &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51dVZ0WUI1dDROUENsOUt6UXNuVXNxMkpJR2hkaDNtaFdvLUZhSG50QVhFVFl4bUlGLXA3TzVGYVFKREdmUlVKRFJNNnZGSWx4blROTDRPZ1JRdUloeFdr?oc=5",
    "date": "2026-08-08T07:57:48.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CT0hfb2k0aFZVNWVHaUlHWFpsRFBTN0g4XzNmTWJZb3EtbGszZkxIZFdpWGRyRTJzNUZYYUxDZXFzc1RjTHBJa0pST3cyakkxREdFMFAtOVc1Qkh1M2dqYVJNbEQ?oc=5",
+   "date": "2026-08-07T09:53:23.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Baghdad Viral Video Sparks Kidnapping Claims, Kurdistan24 Finds Different Account",
+   "desc": "Footage circulating on Iraqi social media was initially described as a possible abduction, but a Kurdistan24 investigation indicated a different account of the incident.",
+   "link": "https://www.kurdistan24.net/en/story/931333/baghdad-viral-video-sparks-kidnapping-claims-kurdistan24-finds-different-account",
+   "date": "2026-08-09T09:14:20.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran Says US Must Address 'Violations' Before Talks Can Resume",
+   "desc": "Iran's Foreign Minister Abbas Araghchi says messages are being exchanged through intermediaries, but Tehran does not consider the contacts negotiations",
+   "link": "https://www.kurdistan24.net/en/story/931330/iran-says-us-must-address-violations-before-talks-can-resume",
+   "date": "2026-08-09T08:48:04.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Duhok Solar Systems Reach 22.4 MW as Adoption Grows",
    "desc": "More than 1,760 electricity subscribers in Duhok have installed solar systems with a combined generation capacity of about 22.4 megawatts.",
    "link": "https://www.kurdistan24.net/en/story/931318/duhok-solar-systems-reach-224-mw-as-adoption-grows",
@@ -66,20 +82,36 @@
    "date": "2026-08-09T07:38:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Türkiye's New Peace Law Could Affect Up to 75,000 People",
-   "desc": "DEM Party lawmakers say the proposed framework could alter the legal and social status of tens of thousands, while thousands of prisoners may potentially qualify under its provisions.",
-   "link": "https://www.kurdistan24.net/en/story/931297/t%C3%BCrkiyes-new-peace-law-could-affect-up-to-75000-people",
-   "date": "2026-08-09T06:27:14.000Z"
+   "title": "Baghdad disarmament deadline tests PM Al-Zaidi’s authority",
+   "desc": "Shafaq News- Washington Iraq's September 30 deadline for armed factions to give up their weapons will be a serious test of Prime Minister Ali al-Zaidi's efforts to bring all arms under state control, former Global Coalition spokesman and US official Miles Cagins told Shafaq News on Sunday. Cagins noted that Baghdad would also need to make progress on the issue to maintain strong relations with the",
+   "link": "https://shafaq.com/en/Iraq/Baghdad-disarmament-deadline-tests-PM-Al-Zaidi-s-authority",
+   "date": "2026-08-09T09:37:26.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq Dismantles Armed Cell in Babil, Seizes Drones",
-   "desc": "Iraqi Counter-Terrorism and Intelligence forces reportedly disrupted a drone attack plot in Babil and seized weapons, equipment and several drones.",
-   "link": "https://www.kurdistan24.net/en/story/931287/iraq-dismantles-armed-cell-in-babil-seizes-drones",
-   "date": "2026-08-09T05:47:26.000Z"
+   "title": "Dawn Crackdown returns $370M+ to Iraq",
+   "desc": "Shafaq News- Baghdad The Iraqi state has recovered an estimated 482.6 billion dinars ($371.6M) in stolen assets under its Dawn Crackdown anti-corruption campaign, roughly equivalent to one month of salaries for the Foreign Ministry and its diplomatic staff, the Eco Iraq Observatory reported on Sunday. The total comprises about 390.08 billion dinars ($300.3M) in cash, including $141 million convert",
+   "link": "https://shafaq.com/en/Economy/Dawn-Crackdown-returns-370M-to-Iraq",
+   "date": "2026-08-09T09:35:36.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Al-Sulaymaniyah hosts third edition of feline beauty contest",
+   "desc": "Shafaq News- Al-Sulaymaniyah More than 200 cats gathered in al-Sulaymaniyah on Sunday for the third edition of the city&rsquo;s cat beauty pageant, drawing pet owners and animal lovers from across the Kurdistan Region. Tablo Hassan, the event supervisor, noted that a panel of veterinary doctors evaluated the cats and selected the top three based on several criteria, including their health, physica",
+   "link": "https://shafaq.com/en/Kurdistan/Al-Sulaymaniyah-hosts-third-edition-of-feline-beauty-contest",
+   "date": "2026-08-09T09:23:06.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Gold holds steady in Baghdad and Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil On Sunday, gold prices hovered around 94 0,000 IQD per mithqal in Baghdad and Erbil markets, according to a survey by Shafaq News Agency. Gold prices on Baghdad&rsquo;s Al-Nahr Street recorded a selling price of 937 ,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buying price of 933,000 IQD, unch",
+   "link": "https://shafaq.com/en/Economy/Gold-holds-steady-in-Baghdad-and-Erbil",
+   "date": "2026-08-09T08:47:56.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,38 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraqi Civil Defense teams rescued 10 people on Sunday from a fire that engulfed a restaurant on Street 42 in Baghdad&rsquo;s central Al-Karrada district and reached a neighboring building, a security source told Shafaq News. The flames originated in the restaurant&rsquo;s ventilation and exhaust system, and firefighters evacuated those trapped inside and worked to bring the bl",
    "link": "https://shafaq.com/en/society/Baghdad-restaurant-fire-Ten-people-saved",
    "date": "2026-08-09T08:30:12.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "8K Interior Ministry staff disciplined in Iraq",
-   "desc": "Shafaq News- Baghdad Iraq's Interior Ministry has taken legal action against 8,000 officers, personnel and civilian employees since the start of 2026 over offenses ranging from bribery and embezzlement to theft and fraud, the Ministry reported on Sunday. Major General Miqdad Miri, the Ministry's head of media and public relations, detailed offenses including, abuse or neglect of official duties, i",
-   "link": "https://shafaq.com/en/Security/8K-Interior-Ministry-staff-disciplined-in-Iraq",
-   "date": "2026-08-09T08:24:44.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Dollar slips in Baghdad, gains in Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar opened Sunday&rsquo;s trading mixed in Iraq, hovering around 152,000 dinars per 100 dollars. According to Shafaq News market survey, the dollar traded in Baghdad&rsquo;s Al-Kifah and Al-Harithiya exchanges at 152,100 dinars per 100 dollars, down from the previous session&rsquo;s 152,200 dinars. In the Iraqi capital, exchange shops sold the dollar at 152,50",
-   "link": "https://shafaq.com/en/Economy/Dollar-slips-in-Baghdad-gains-in-Erbil",
-   "date": "2026-08-09T07:59:06.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi passport restricted to just 28 destinations",
-   "desc": "Shafaq News- Baghdad Iraq has the world&rsquo;s third-weakest passport, according to the latest Henley Passport Index, with its citizens able to enter just 28 destinations without previously obtaining a visa or securing one on arrival. Afghanistan occupies the lowest position in the August 2026 ranking, with access to 22 destinations, followed by Syria with 25. Iraq comes third, while Pakistan and",
-   "link": "https://shafaq.com/en/society/Iraqi-passport-restricted-to-just-28-destinations",
-   "date": "2026-08-09T07:47:13.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Houthis hit Saudi Aramco’s Jazan refinery with drone",
-   "desc": "Shafaq News- Sanaa Yemen&rsquo;s Houthis (Ansarallah) said on Sunday that they targeted Saudi Aramco&rsquo;s Jazan refinery, linking the drone operation to alleged Saudi incursions over Saada and Hajjah provinces. Military spokesperson Yahya Saree reported an &ldquo;accurate&rdquo; hit. &#1578;&#1605;&#1603;&#1606;&#1578; &#1575;&#1604;&#1602;&#1608;&#1575;&#1578; &#1575;&#1604;&#1605;&#1587;&#160",
-   "link": "https://shafaq.com/en/World/Houthis-hit-Saudi-Aramco-s-Jazan-refinery-with-drone",
-   "date": "2026-08-09T07:14:53.000Z"
   },
   {
    "src": "BBC",
