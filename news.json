@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-08T23:31:02.318Z",
+ "updated": "2026-08-09T01:53:33.403Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "What the US Patriot pull-out means for Kurdistan Region’s air defense",
-   "desc": "What the US Patriot pull-out means for Kurdistan Region’s air defense &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZlJDUUluMkczcnFma25OYjVDcVJJS1M5SVl0cGdJWTlmN2VGTmdlRm9GSUM4ZEJsT2dxSERVUjJ5QWgtczJ0bjVKNjJITHpUUFZxWXBGa1JUXzkzNmt2azdR?oc=5",
-   "date": "2026-08-06T23:42:01.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -40,6 +32,14 @@
    "desc": "Two Kurdish men killed in German refugee camp, suspect arrested &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zVGlWZXQtRENMV2ptNjJrWnBSeURoNHM0STVfWUN5bUJqN1pBSHBGbzNoZFpWRklYV2I0UlVMM1BCNS1LQWtpbEdZdVBadmljeFJHa2Q4bm9QTEw5ajd6cVJLRQ?oc=5",
    "date": "2026-08-07T21:28:15.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi parliament to investigate rising gasoline prices in Kurdistan Region: MP",
+   "desc": "Iraqi parliament to investigate rising gasoline prices in Kurdistan Region: MP &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtNXR5ZWt3YlRXT0FPQ2RBSlJ3M25ZRno2TGVVeTZRbnN1YVEwS0V0UmJjQ0x6SnN5MGtTQjZZd3BGSXhmVkJpMkNUM1oyRWlCTHdjNzFDU0lVa1FLOGtjWkhFNGE?oc=5",
+   "date": "2026-08-08T23:12:04.000Z"
   },
   {
    "src": "K24",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Solar eclipse to occur next week. Here is what to know",
+   "desc": "It will be visible in parts of the U.S. on Wednesday.",
+   "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+   "date": "2026-08-09T00:56:21.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Tanker sailors still face danger in the Strait of Hormuz",
    "desc": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
    "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
@@ -192,14 +200,6 @@
    "desc": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
    "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
    "date": "2026-08-08T11:01:00.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-   "desc": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
-   "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-   "date": "2026-08-07T15:41:45.000Z"
   },
   {
    "src": "BBC ME",
@@ -292,6 +292,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "US packs up last Iraqi air defenses as withdrawal deadline looms",
+   "desc": "US packs up last Iraqi air defenses as withdrawal deadline looms &nbsp;&nbsp; Amwaj.media",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcG1DMnNqZFQ1QWVUVW8xTFJ1UU9BdHU5bTlwOVJocXNybUxqV3JnMlo0bGtKY0VEM1g2ZFR5cHFWcUtJUTV4bkd3UmR6SlI3WTY2OG1TdlJyS2tEemFEWXYwRzRWR3pYaXlmYUtKTlRyalNHNTBhaTRhYV9fZTEzVVAyNkJSZC1ZZWRRTm5HU08xVUNQMlhhUDhwTQ?oc=5",
+   "date": "2026-08-05T02:38:54.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership",
    "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; Российский совет по международным делам",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFqNGdHZU10NWRoTC10cXJwUjBxQUw0a056MGd4alRqUVNLN2VKOXFTeF9WNXRrRzZkSGxGZ1BLWHVvdWZlY0k5eV84a1NaSWJxNWZ5NmdEWFNsUWl3YkEzejkwUUVOeGhlLUNXRmdKM01xT0tEZjJFQ2JMaURUNERPWmVKWGZid1dlekNTdUtnVkJEQTZhYlc2RHVLQ1JYRzdrRWNoM3d2emgy?oc=5",
@@ -312,14 +320,6 @@
    "desc": "Baghdad, Erbil renew dialogue push to resolve long-running disputes &nbsp;&nbsp; middle-east-online.com",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkd6RXRWYjdTT3JickVSZkpZZDU1enBiSUtDb0lSVlFzZEJOWHBQT1dDZmVYejFkMGNReGd4RHZYVl9jSVlva1JtcHVXVkktNGsyaWFnbmRwSk9NaUQ1UUJHNThpSlZBUzhiQ3htaTZ5UHhCalVRWkY1OTlrNEl0MERGS3kyTHUxNnpDMXlCM2lRNDhVWjNRNHNJUTdDZw?oc=5",
    "date": "2026-08-06T06:42:21.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Maldives launches agroforestry project to boost food security, climate resilience",
-   "desc": "Maldives launches agroforestry project to boost food security, climate resilience &nbsp;&nbsp; Muslim Network TV",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVW9QN0wycVdsMGdwTEEyMDdXNzliYS1Ta01NT09nLUI5U25jMy1rZFlGejZBbEFHNlhnczVFZkRXb3BNeGwtdHVVLVQwd210WUd1bzR3X25qdlJtN0pBaTRrV0VQS3kzY3ZvVmlxOGdFZFU2RmliakZtU0V4MnRNWXVBQkVVU1JzQ3BGUy1wZzc2LVhIR1NvYng3T1RrTnFDQnNGWkpVQVdtcU40WmM4?oc=5",
-   "date": "2026-08-04T02:22:15.000Z"
   },
   {
    "src": "Tourism",
