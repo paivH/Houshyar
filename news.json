@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T14:36:35.702Z",
+ "updated": "2026-08-09T15:33:44.819Z",
  "items": [
   {
    "src": "Rudaw",
@@ -28,18 +28,26 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "Rojava 03052026",
+   "desc": "Rojava 03052026 &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWVQxeGJxbmNDdmFMSWoxVlZ0S1hicE9GOF9wbk8tb2FJdTJ5dFdFalg2VVNKNHpYa3NnSXBSOV9PM2ZYcG5sb1R3dUxtZ3Bnckx6bURGRmlJc25hMExQbzBPNWVMWUtmc1k3amRR?oc=5",
+   "date": "2026-08-09T07:52:06.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Two Kurdish men killed in German refugee camp, suspect arrested",
    "desc": "Two Kurdish men killed in German refugee camp, suspect arrested &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zVGlWZXQtRENMV2ptNjJrWnBSeURoNHM0STVfWUN5bUJqN1pBSHBGbzNoZFpWRklYV2I0UlVMM1BCNS1LQWtpbEdZdVBadmljeFJHa2Q4bm9QTEw5ajd6cVJLRQ?oc=5",
    "date": "2026-08-07T21:28:15.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi parliament to investigate rising gasoline prices in Kurdistan Region: MP",
-   "desc": "Iraqi parliament to investigate rising gasoline prices in Kurdistan Region: MP &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtNXR5ZWt3YlRXT0FPQ2RBSlJ3M25ZRno2TGVVeTZRbnN1YVEwS0V0UmJjQ0x6SnN5MGtTQjZZd3BGSXhmVkJpMkNUM1oyRWlCTHdjNzFDU0lVa1FLOGtjWkhFNGE?oc=5",
-   "date": "2026-08-08T23:12:04.000Z"
+   "title": "Houthi Strikes Kill 11 in Yemen as Saudi Oil Facility Targeted",
+   "desc": "The source said 32 people were also wounded, including six civilians, with civilian casualties resulting from strikes on Mokha's port. Two government military sources earlier reported at least eight troops killed and more than 40 wounded.",
+   "link": "https://www.kurdistan24.net/en/story/931412/houthi-strikes-kill-11-in-yemen-as-saudi-oil-facility-targeted",
+   "date": "2026-08-09T14:39:00.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,36 @@
    "date": "2026-08-09T12:32:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "President Barzani: Erbil-Baghdad Relations Under Iraq PM Zaidi at 'Excellent Stage'",
-   "desc": "President Masoud Barzani made the assessment during a meeting with newly appointed British Consul General Holly Vare in Erbil.",
-   "link": "https://www.kurdistan24.net/en/story/931377/president-barzani-erbil-baghdad-relations-under-iraq-pm-zaidi-at-excellent-stage",
-   "date": "2026-08-09T11:55:59.000Z"
+   "title": "Baghdad taps Turkish technology for smarter water management",
+   "desc": "Shafaq news- Baghdad/ Ankara Iraq's Water Resources Ministry signed a cooperation agreement with Turkish technology company Kolaysoft on Sunday to introduce digital monitoring and data systems for managing the country's increasingly strained water resources. The agreement, signed by Water Resources Minister Muthanna al-Tamimi, covers systems to monitor surface and groundwater, track consumption an",
+   "link": "https://shafaq.com/en/society/Baghdad-taps-Turkish-technology-for-smarter-water-management",
+   "date": "2026-08-09T15:18:38.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "25 mass grave sites remain unopened in Iraq’s Nineveh",
+   "desc": "Shafaq News- Baghdad Twenty-five of 55 mass grave sites documented in Nineveh province, northern Iraq, remain unopened, with overall work completed at only 54%, an Iraqi lawmaker said on Sunday. Speaking at a press conference in Parliament, Rahima Al-Jubouri said 30 sites have been opened, containing 94 individual mass graves from which 1,931 sets of remains have been recovered and are still held ",
+   "link": "https://shafaq.com/en/society/25-mass-grave-sites-remain-unopened-in-Iraq-s-Nineveh",
+   "date": "2026-08-09T15:12:54.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi factions to surrender weapons to PMF by Sept. 30",
+   "desc": "Shafaq News- Baghdad Iraqi political leaders agreed on a mechanism for armed factions to hand over their weapons to the Popular Mobilization Forces (PMF), which would register and store the arms under state supervision, a source in the leading Shiite Coordination Framework told Shafaq News on Sunday. Under the agreement, the PMF &mdash;a state security organization comprising mostly Shiite armed f",
+   "link": "https://shafaq.com/en/Iraq/Iraqi-factions-to-surrender-weapons-to-PMF-by-Sept-30",
+   "date": "2026-08-09T15:02:38.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Kurdistan, UK eye stronger cooperation",
+   "desc": "Shafaq News- Erbil Iraqi Kurdistan President Nechirvan Barzani and the UK&rsquo;s new Consul General in Erbil, Holly Vare, discussed developments in Iraq and the wider region on Sunday, with both sides seeking closer bilateral ties. Barzani welcomed the diplomat to her new post and expressed support for expanding engagement with the United Kingdom, while Vare pledged to advance cooperation across ",
+   "link": "https://shafaq.com/en/Kurdistan/Iraqi-Kurdistan-UK-eye-stronger-cooperation",
+   "date": "2026-08-09T14:46:33.000Z"
   },
   {
    "src": "Shafaq",
@@ -90,36 +122,20 @@
    "date": "2026-08-09T14:30:16.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi delegation heads to Iran for energy, Hormuz talks",
-   "desc": "Shafaq News- Baghdad An Iraqi government delegation will visit Iran soon for talks on energy supplies and securing passage for tankers carrying Iraqi crude through the Strait of Hormuz, a government source told Shafaq News on Sunday. The source described the delegation as largely technical, tasked with examining how preliminary agreements and understandings between Baghdad and Tehran could be impl",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-delegation-heads-to-Iran-for-energy-Hormuz-talks",
-   "date": "2026-08-09T14:29:23.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-09T14:18:10.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Integrity Commission detains six Iraqi officials in Al-Muthanna",
-   "desc": "Shafaq News- Al-Muthanna Iraq&rsquo;s Integrity Commission arrested two former heads of Al-Khidhir Municipality in Al-Muthanna province on Sunday over alleged encroachment on state-owned property, an informed source told Shafaq News. The operation also resulted in the arrest of four municipal employees on the same charges, the source added. Read more: Iraqi authorities detain 31 in weekly corrupti",
-   "link": "https://shafaq.com/en/society/Integrity-Commission-detains-six-Iraqi-officials-in-Al-Muthanna",
-   "date": "2026-08-09T14:20:15.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Dollar strengthens in Baghdad and Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Sunday&rsquo;s trading higher in Iraq, hovering around 152,200 dinars per 100 dollars. According to Shafaq News market survey, the dollar traded in Baghdad&rsquo;s Al-Kifah and Al-Harithiya exchanges at 152,250 dinars per 100 dollars, up from the morning session&rsquo;s 152,100 dinars. In the Iraqi capital, exchange shops sold the dollar at 152,750 ",
-   "link": "https://shafaq.com/en/Economy/Dollar-strengthens-in-Baghdad-and-Erbil",
-   "date": "2026-08-09T13:59:12.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Syria to absorb Russian military bases under new agreement",
-   "desc": "Shafaq News- Damascus Syria will gradually take over two Russian military bases in the country under a newly signed Memorandum of Understanding (MoU) with Moscow, the Syrian Foreign Ministry reported on Sunday. Over a three-month period, the Russian bases at Hmeimim Airport and the fourth commercial berth at the port of Tartus will be converted into joint training and qualification centers. &#1571",
-   "link": "https://shafaq.com/en/Middle-East/Syria-to-absorb-Russian-military-bases-under-new-agreement",
-   "date": "2026-08-09T13:43:43.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+   "desc": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
+   "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-09T15:25:50.000Z"
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "desc": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-09T13:08:21.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-   "desc": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-   "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-08T17:23:31.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-   "desc": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
-   "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-07T17:41:30.000Z"
   },
   {
    "src": "NPR",
@@ -196,18 +196,10 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Tanker sailors still face danger in the Strait of Hormuz",
-   "desc": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
-   "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-   "date": "2026-08-08T21:19:54.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "desc": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
-   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-09T14:18:10.000Z"
+   "title": "Meet the man circumnavigating the Arctic Ocean, alone",
+   "desc": "Matt Rutherford is sailing 10,000 nautical miles, through ice floes and gales, to try and accomplish a world first. He spoke with NPR from the cabin of his boat.",
+   "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
+   "date": "2026-08-08T21:30:56.000Z"
   },
   {
    "src": "BBC ME",
