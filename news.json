@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T11:21:09.571Z",
+ "updated": "2026-08-11T12:10:20.717Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,18 +12,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2FHTUNmRHVjcFEzQjJoeHVZTmRTSjA3Mk55eHdKNFB0Y0N1YkZaOXVnUmVNVTlpdE5qbGQ4dmo3VTIyZEZwdVNWTGpsNVYxZ2xIR0UxLWliM2k5a2VfYWNjQm5FQmIwdkk4bzhZNDMxVUpaWEZvS1AzMVR4cVZHcThncWFZc3lUellWeE1iYUxuQnJqNTVz?oc=5",
-   "date": "2026-08-11T07:02:23.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Kurdistan Region President welcomes new British consul general",
    "desc": "Kurdistan Region President welcomes new British consul general &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSF9Idi1xZm5RUHN6bWdESUxCODVjbnllaUhOamdXVmNpQnNXeFc2X3NNUUpnWnN3REMyTjNZSk1aZS10a3lJanBNeHcybGxfZTdhM0JvcjZlMmZPOFJKVkRVY0ROY1ZV?oc=5",
    "date": "2026-08-09T16:10:07.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jUjhhMjItTUFpUjF4azUxMlhOZGtySTNlaERhbzRCdFdlRTZCbXBCUVZMeFVybjQyWlBTOVhtZlNwdFBBZ3NjTDM4d3VpZTNhaDg2MEtNMkFVdlV5Q1Utci1R?oc=5",
+   "date": "2026-08-09T14:48:25.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "SDF chief condemns Sare Kani IDP convoy attacks, calls for restraint &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2dGZVV25fa3hYYlNCWHNaMXJvSkJpeEhiUE8wYXN2YmFVNnJ0SFN2eG1jaXdzbHRmOHl2MER0dXE5QkczNUNneUw0YkJvdmVKMEJXb2M0MmZ0d2NYTFFxYTlfRQ?oc=5",
    "date": "2026-08-10T16:46:33.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdish Farmer Turns Garmian Land Into a Date Palm Success",
+   "desc": "A Sulaimani farmer's gamble on Barhi and Medjool dates has grown from a small plantation into a 70-dunum operation, highlighting the agricultural potential of the Kurdistan Region.",
+   "link": "https://www.kurdistan24.net/en/story/931803/kurdish-farmer-turns-garmian-land-into-a-date-palm-success",
+   "date": "2026-08-11T11:31:00.000Z"
   },
   {
    "src": "K24",
@@ -74,18 +82,26 @@
    "date": "2026-08-11T09:05:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
-   "desc": "The Kurdistan Region plans to register 45 natural protected areas with the IUCN, potentially expanding protected land beyond 30% while strengthening conservation, international cooperation and sustainable tourism.",
-   "link": "https://www.kurdistan24.net/en/story/931773/kurdistan-region-moves-to-register-45-protected-areas",
-   "date": "2026-08-11T08:49:12.000Z"
+   "title": "Three traffickers sentenced to death over 140 kg drugs in Iraq",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Central Criminal Court on Tuesday sentenced three convicted drug traffickers to death after authorities found 140 kilograms of methamphetamine and caffeine in their possession. In July, Iraq&rsquo;s Interior Ministry said authorities had seized 16.8 tons of narcotics since 2023, while courts issued 380 death sentences, 150 life sentences and 190 international arre",
+   "link": "https://shafaq.com/en/Security/Three-traffickers-sentenced-to-death-over-140-kg-drugs-in-Iraq",
+   "date": "2026-08-11T11:47:46.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran strikes Kurdish opposition party bases in Erbil",
-   "desc": "Shafaq News- Erbil Iran launched missile strikes on the headquarters of a Kurdish opposition party in Erbil, the capital of the Kurdistan Region, on Tuesday. The attack wounded two members of the opposition party. On Saturday , Amjad Hussein, an official of the Kurdistan Toilers' Party (Komala), said Iran launched drone strikes on positions belonging to Iranian Kurdish parties near Al-Sulaymaniyah",
+   "title": "Southern Lebanon: Israeli strikes wound two, hit ambulance",
+   "desc": "Shafaq News- Beirut An Israeli drone strike on Tuesday wounded two people in Nabatieh, southern Lebanon, before a second attack hit an ambulance team that arrived to rescue them, damaging its vehicle, the country's Health Ministry said. The ministry condemned Israel's continued targeting of emergency crews as an \"unacceptable violation of international humanitarian law and all international norms.",
+   "link": "https://shafaq.com/en/Middle-East/Southern-Lebanon-Israeli-strikes-wound-two-hit-ambulance",
+   "date": "2026-08-11T11:33:06.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran strikes wound two of Kurdish opposition party in Erbil",
+   "desc": "Shafaq News- Erbil Iran struck on Tuesday the headquarters of the Iranian Kurdish opposition Komala Party in the Alana Valley area, north of Erbil, the capital of Iraqi Kurdistan. Amjad Hussein, a party official, told Shafaq News that three missiles struck the headquarters, leaving two members slightly wounded and causing material damage to the premises. On Saturday , Hussein said Tehran launched ",
    "link": "https://shafaq.com/en/Kurdistan/Iran-strikes-Kurdish-opposition-party-bases-in-Erbil",
    "date": "2026-08-11T11:01:33.000Z"
   },
@@ -106,26 +122,10 @@
    "date": "2026-08-11T10:20:06.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Syria sentences former president Bashar al-Assad to death",
-   "desc": "Shafaq News- Damascus A Syrian court sentenced former President Bashar al-Assad to death on Tuesday after convicting him of murder, torture, arbitrary detention and crimes against humanity, state news agency SANA reported. The court also handed death sentences to his brother Maher al-Assad and several other defendants who remain at large. Former security official Atef Najib was also sentenced to d",
-   "link": "https://shafaq.com/en/Middle-East/Syria-sentences-Bashar-al-Assad-brother-Maher-to-death",
-   "date": "2026-08-11T10:06:35.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Three PMF members killed in Saladin base shooting",
-   "desc": "Shafaq News- Saladin Three members of Iraq&rsquo;s Popular Mobilization Forces (PMF) were shot dead by a fellow member inside a PMF base in Saladin province on Tuesday, a security source told Shafaq News. The three victims, all from Al-Muthanna province, were on duty when their colleague opened fire, according to the source. The motive remains unclear, and the group is yet to comment on the incide",
-   "link": "https://shafaq.com/en/Security/Three-PMF-members-killed-in-Saladin-base-shooting",
-   "date": "2026-08-11T09:46:11.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-   "desc": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+   "desc": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
    "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-11T09:58:45.000Z"
   },
@@ -156,10 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-   "desc": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-   "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T08:44:52.000Z"
+   "title": "The big questions in Luigi Mangione case as he returns to court",
+   "desc": "His trial is a month away and his lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
+   "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-11T11:35:20.000Z"
   },
   {
    "src": "NPR",
@@ -292,14 +292,6 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "US packs up last Iraqi air defenses as withdrawal deadline looms",
-   "desc": "US packs up last Iraqi air defenses as withdrawal deadline looms &nbsp;&nbsp; Amwaj.media",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcG1DMnNqZFQ1QWVUVW8xTFJ1UU9BdHU5bTlwOVJocXNybUxqV3JnMlo0bGtKY0VEM1g2ZFR5cHFWcUtJUTV4bkd3UmR6SlI3WTY2OG1TdlJyS2tEemFEWXYwRzRWR3pYaXlmYUtKTlRyalNHNTBhaTRhYV9fZTEzVVAyNkJSZC1ZZWRRTm5HU08xVUNQMlhhUDhwTQ?oc=5",
-   "date": "2026-08-05T02:38:54.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
    "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
@@ -308,18 +300,26 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Erbil drug raid nets 5 kg of crystal meth - Shafaq News | Latest breaking news in Iraq and the world",
-   "desc": "Erbil drug raid nets 5 kg of crystal meth - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52QkwtdTdqSmU1Q2x3ay1TOG5vR2Y1cmtqaVlPZ3E0UXU5UHZiMmkwMkdPbW9fQnJTYUNWUURja1dhOEtXUFJlYUoycldMMzF5bU1DbjJXWl8zN2xkbmgxaVdCLW5OdkZkZzBHQlc1eHlHT1AyaTFiYW92RHI?oc=5",
-   "date": "2026-08-08T18:17:06.000Z"
+   "title": "US packs up last Iraqi air defenses as withdrawal deadline looms",
+   "desc": "US packs up last Iraqi air defenses as withdrawal deadline looms &nbsp;&nbsp; Amwaj.media",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcG1DMnNqZFQ1QWVUVW8xTFJ1UU9BdHU5bTlwOVJocXNybUxqV3JnMlo0bGtKY0VEM1g2ZFR5cHFWcUtJUTV4bkd3UmR6SlI3WTY2OG1TdlJyS2tEemFEWXYwRzRWR3pYaXlmYUtKTlRyalNHNTBhaTRhYV9fZTEzVVAyNkJSZC1ZZWRRTm5HU08xVUNQMlhhUDhwTQ?oc=5",
+   "date": "2026-08-05T02:38:54.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership",
-   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; Российский совет по международным делам",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFqNGdHZU10NWRoTC10cXJwUjBxQUw0a056MGd4alRqUVNLN2VKOXFTeF9WNXRrRzZkSGxGZ1BLWHVvdWZlY0k5eV84a1NaSWJxNWZ5NmdEWFNsUWl3YkEzejkwUUVOeGhlLUNXRmdKM01xT0tEZjJFQ2JMaURUNERPWmVKWGZid1dlekNTdUtnVkJEQTZhYlc2RHVLQ1JYRzdrRWNoM3d2emgy?oc=5",
-   "date": "2026-08-07T13:15:32.000Z"
+   "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FVTg4cVJWaUtWd0hLRG9idzhIZVdGNTFxcmpWZ1hpX25sdjU4UXhabDhHYjhBOWM2MTVHRnFrd3UyZ0hEUkQzTzd6UHU?oc=5",
+   "date": "2026-08-11T11:27:39.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Erbil drug raid nets 5 kg of crystal meth - Shafaq News | Latest breaking news in Iraq and the world",
+   "desc": "Erbil drug raid nets 5 kg of crystal meth - Shafaq News | Latest breaking news in Iraq and the world &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52QkwtdTdqSmU1Q2x3ay1TOG5vR2Y1cmtqaVlPZ3E0UXU5UHZiMmkwMkdPbW9fQnJTYUNWUURja1dhOEtXUFJlYUoycldMMzF5bU1DbjJXWl8zN2xkbmgxaVdCLW5OdkZkZzBHQlc1eHlHT1AyaTFiYW92RHI?oc=5",
+   "date": "2026-08-08T18:17:06.000Z"
   },
   {
    "src": "Tourism",
