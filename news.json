@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-11T01:53:36.010Z",
+ "updated": "2026-08-11T03:46:58.281Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01WUNGRVJmNl9sNU5VTEhfVzlSVFlza0V1UHlCNmFoQkt0bW9JT1p5OTNnNVVyMTRqLUtYYWE1STNwTVV3OGtKNzRWaURXR3Q0SlZGbVlwaGFHR0VJZmRuZm92OGg?oc=5",
-   "date": "2026-08-10T11:11:13.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -16,6 +8,14 @@
    "desc": "Kurdistan Region President welcomes new British consul general &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSF9Idi1xZm5RUHN6bWdESUxCODVjbnllaUhOamdXVmNpQnNXeFc2X3NNUUpnWnN3REMyTjNZSk1aZS10a3lJanBNeHcybGxfZTdhM0JvcjZlMmZPOFJKVkRVY0ROY1ZV?oc=5",
    "date": "2026-08-09T16:10:07.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jUjhhMjItTUFpUjF4azUxMlhOZGtySTNlaERhbzRCdFdlRTZCbXBCUVZMeFVybjQyWlBTOVhtZlNwdFBBZ3NjTDM4d3VpZTNhaDg2MEtNMkFVdlV5Q1Utci1R?oc=5",
+   "date": "2026-08-09T14:48:25.000Z"
   },
   {
    "src": "Rudaw",
@@ -127,7 +127,7 @@
    "title": "Trump signs order to limit childhood vaccines and split MMR shots",
    "desc": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
    "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-10T23:03:52.000Z"
+   "date": "2026-08-11T02:43:01.000Z"
   },
   {
    "src": "BBC",
@@ -157,9 +157,17 @@
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump Media reports $238m loss as crypto falls",
-   "desc": "The firm says it will refocus on its social media mission, which includes a controversial service that sells faster access to Trump's market-moving posts.",
+   "desc": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
    "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T01:12:11.000Z"
+   "date": "2026-08-11T02:21:31.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+   "desc": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
+   "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+   "date": "2026-08-11T03:39:40.000Z"
   },
   {
    "src": "NPR",
@@ -192,14 +200,6 @@
    "desc": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
    "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
    "date": "2026-08-10T11:42:58.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-   "desc": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.",
-   "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
-   "date": "2026-08-10T08:58:22.000Z"
   },
   {
    "src": "BBC ME",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership",
-   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; Российский совет по международным делам",
+   "desc": "Iran’s Influence Shapes Kurdistan-Syria Security Partnership &nbsp;&nbsp; russiancouncil.ru",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFqNGdHZU10NWRoTC10cXJwUjBxQUw0a056MGd4alRqUVNLN2VKOXFTeF9WNXRrRzZkSGxGZ1BLWHVvdWZlY0k5eV84a1NaSWJxNWZ5NmdEWFNsUWl3YkEzejkwUUVOeGhlLUNXRmdKM01xT0tEZjJFQ2JMaURUNERPWmVKWGZid1dlekNTdUtnVkJEQTZhYlc2RHVLQ1JYRzdrRWNoM3d2emgy?oc=5",
    "date": "2026-08-07T13:15:32.000Z"
   },
@@ -349,7 +349,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s largest laser fountain to open in Zakho within months",
-   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
+   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; thenewregion.com",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
    "date": "2026-08-07T07:04:14.000Z"
   },
