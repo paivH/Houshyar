@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-11T05:11:33.609Z",
+ "updated": "2026-08-11T06:28:23.017Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01WUNGRVJmNl9sNU5VTEhfVzlSVFlza0V1UHlCNmFoQkt0bW9JT1p5OTNnNVVyMTRqLUtYYWE1STNwTVV3OGtKNzRWaURXR3Q0SlZGbVlwaGFHR0VJZmRuZm92OGg?oc=5",
-   "date": "2026-08-10T11:11:13.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -16,6 +8,14 @@
    "desc": "Kurdistan Region President welcomes new British consul general &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSF9Idi1xZm5RUHN6bWdESUxCODVjbnllaUhOamdXVmNpQnNXeFc2X3NNUUpnWnN3REMyTjNZSk1aZS10a3lJanBNeHcybGxfZTdhM0JvcjZlMmZPOFJKVkRVY0ROY1ZV?oc=5",
    "date": "2026-08-09T16:10:07.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Opinions World ECONOMY Interview Culture Multimedia",
+   "desc": "Opinions World ECONOMY Interview Culture Multimedia &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RRWdsOEh1UHNOOXVfbjNicWhxWFZJYXlnUmZrYVdIY1RlZGJkb21INl9Xc1JzQ3FnS0xVY0pNWFZGbHBNbkdPdXpSZFBPYW0zendzNEI5MjNVSzQyTHBkLU5Pa1hhZw?oc=5",
+   "date": "2026-08-10T19:30:21.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,30 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "UN Refugee Chief Meets Syria's President Over Syrian Returns",
+   "desc": "UN refugee chief Barham Salih says rising returns and the needs of millions still displaced require sustained international support.",
+   "link": "https://www.kurdistan24.net/en/story/931715/un-refugee-chief-meets-syrias-president-over-syrian-returns",
+   "date": "2026-08-11T06:22:15.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Return to Sere Kaniye Suspended After Attacks on Displaced Families",
+   "desc": "Security forces arrest suspects as authorities halt return convoys and impose a temporary curfew in Kobani amid rising tensions",
+   "link": "https://www.kurdistan24.net/en/story/931711/return-to-sere-kaniye-suspended-after-attacks-on-displaced-families",
+   "date": "2026-08-11T06:01:57.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran’s Khamenei Reshuffles Top Military, Security Leadership Amid War",
+   "desc": "Former Revolutionary Guards chief Mohsen Rezaei takes over Iran’s top security body as Tehran tightens its military command amid confrontation with US and Israel",
+   "link": "https://www.kurdistan24.net/en/story/931713/irans-khamenei-reshuffles-top-military-security-leadership-amid-war",
+   "date": "2026-08-11T05:55:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Turkish Parliament Passes Limited Amnesty Bill for PKK Fighters",
    "desc": "The bill passed with 468 votes in favor, 88 against and six abstentions. Backed by President Recep Tayyip Erdogan’s ruling AKP and the pro-Kurdish DEM Party, it provides for the suspension of prosecutions and prison sentences for certain offenses for five to 10 years.",
    "link": "https://www.kurdistan24.net/en/story/931672/turkish-parliament-passes-limited-amnesty-bill-for-pkk-fighters",
@@ -58,28 +82,20 @@
    "date": "2026-08-10T18:56:15.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump Seeks Compensation from Iran in Any Future Peace Deal",
-   "desc": "“I am likewise demanding compensation from Iran, for all of the people that they have killed and gravely wounded with their roadside bombs and many conflicts,” Trump said in a post on Truth Social.",
-   "link": "https://www.kurdistan24.net/en/story/931643/trump-seeks-compensation-from-iran-in-any-future-peace-deal",
-   "date": "2026-08-10T17:45:00.000Z"
+   "title": "Syrian forces end security operation in Kobani",
+   "desc": "Shafaq News- Aleppo Syrian internal security forces on Tuesday completed security operations in the predominantly Kurdish city of Ain Al-Arab (Kobani) in northern Syria, restoring calm after deploying across the city. Aleppo&rsquo;s Internal Security Command described the deployment as aimed at preventing disorder, protecting residents, and securing public institutions and facilities. It reported ",
+   "link": "https://shafaq.com/en/Middle-East/Syrian-forces-end-security-operation-in-Kobani",
+   "date": "2026-08-11T06:11:53.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "SDF Commander Condemns Assault on Returning Kurdish Families in Serê Kaniyê",
-   "desc": "“Accountability will also be pursued against anyone proven to have been involved in these assaults,” he said, adding that the process would seek to safeguard the rights of all sides and preserve security and stability in the region.",
-   "link": "https://www.kurdistan24.net/en/story/931638/sdf-commander-condemns-assault-on-returning-kurdish-families-in-ser%C3%AA-kaniy%C3%AA",
-   "date": "2026-08-10T17:18:53.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Centuries-Old Virgin Mary Church in Akre Undergoes Rehabilitation",
-   "desc": "The church, which sits on a 100-square-metre site, is being restored by the Akre Directorate of Heritage and Antiquities in collaboration with the Lotus Flower Organization, with funding from the Federal Republic of Germany and in collaboration with GIZ.",
-   "link": "https://www.kurdistan24.net/en/story/931624/centuries-old-virgin-mary-church-in-akre-undergoes-rehabilitation",
-   "date": "2026-08-10T15:51:27.000Z"
+   "title": "Oil hits two-week high on US-Iran impasse",
+   "desc": "Shafaq News Oil prices rose on Tuesday as negotiations between the United States and Iran over a peace deal and the reopening of the Strait &#8203;of Hormuz hit an impasse, while Asian shares drifted on protracted uncertainty over the global inflation outlook. U.S. President Donald Trump responded with his own &zwnj;demands on Monday to Iran's conditions for a peace deal, calling for Iran to pay c",
+   "link": "https://shafaq.com/en/Economy/Oil-hits-two-week-high-on-US-Iran-impasse",
+   "date": "2026-08-11T05:27:56.000Z"
   },
   {
    "src": "Shafaq",
@@ -93,7 +109,7 @@
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
    "title": "Trump: US Navy controls Hormuz after clearing mines",
-   "desc": "Shafaq News- Washington the US Navy has cleared the Strait of Hormuz of mines and now exercises &ldquo;100%&rdquo; control over the strategic waterway, US President Donald Trump said on Monday. &ldquo;It&rsquo;s open now. Look, the only one that has control of the Strait of Hormuz right now is the United States Navy,&rdquo; Trump told reporters in the Oval Office. Mines were still occasionally bei",
+   "desc": "Shafaq News- Washington The US Navy has cleared the Strait of Hormuz of mines and now exercises &ldquo;100%&rdquo; control over the strategic waterway, US President Donald Trump said on Monday. &ldquo;It&rsquo;s open now. Look, the only one that has control of the Strait of Hormuz right now is the United States Navy,&rdquo; Trump told reporters in the Oval Office. Mines were still occasionally bei",
    "link": "https://shafaq.com/en/World/Trump-US-Navy-controls-Hormuz-after-clearing-mines",
    "date": "2026-08-10T22:27:29.000Z"
   },
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Babil/ Baghdad Two young people committed suicide in separate incidents in Babil and Baghdad on Monday, Iraqi security sources told Shafaq News. In Babil, an 18-year-old man from Al-Musayyib was found dead inside a bird enclosure. No further details were available. Separately, authorities in Baghdad recovered the body of a dentist from the Tigris River after finding her vehicle parked",
    "link": "https://shafaq.com/en/society/Baghdad-dentist-Babil-teenager-die-by-suicide",
    "date": "2026-08-10T22:22:08.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Dhi Qar corruption suspect found hiding in religious shrine",
-   "desc": "Shafaq News- Dhi Qar Security forces in Dhi Qar arrested a Nasiriyah Municipality employee who had been hiding inside a religious shrine south of the provincial capital, a security source said on Tuesday. The Nasiriyah Investigative Court issued arrest warrants on August 6 arrest warrants for eight municipality employees, including former municipal director Qahtan Adnan. The Intelligence Service a",
-   "link": "https://shafaq.com/en/Security/Dhi-Qar-corruption-suspect-found-hiding-in-religious-shrine",
-   "date": "2026-08-10T22:04:46.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Turkiye passes law on PKK dissolution process",
-   "desc": "Shafaq News- Ankara The Turkish parliament on Monday passed legislation establishing a legal framework concerning the Kurdistan Workers&rsquo; Party (PKK) as part of the &ldquo;Terror-Free Turkiye&rdquo; process, according to state-run Anadolu Agency. The Bill on Strengthening National Solidarity and Social Cohesion secured 468 votes in favor, 88 against, and six abstentions after roughly 12 hours",
-   "link": "https://shafaq.com/en/Middle-East/Turkiye-passes-law-on-PKK-dissolution-process",
-   "date": "2026-08-10T21:24:34.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,22 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+   "desc": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
+   "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+   "date": "2026-08-11T06:03:49.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+   "desc": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
+   "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+   "date": "2026-08-11T05:48:27.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
    "desc": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
    "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
@@ -184,22 +200,6 @@
    "desc": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
    "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
    "date": "2026-08-10T16:08:06.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
-   "desc": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
-   "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-   "date": "2026-08-10T12:39:05.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-   "desc": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
-   "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
-   "date": "2026-08-10T11:42:58.000Z"
   },
   {
    "src": "BBC ME",
@@ -357,7 +357,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; ttnworldwide.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeE16VmR0V3BxMUxhbkNSRDROcWZ4VTlpb2Rydy0wUUVnMi1OTlFxbFdGTXNDVzZzcFFwWEdmdkg2Mjg0UDBWbkQzenlENlp3eExkSWRVNGE4UHJHTS1aUVJHSUM0RTVKT2x0dWUyS1BpSHEtY1JaY1Q4WE1ra29UdVMtYTRsYlN3ZkVJSXIyVEpYLWVwbUJkeTlZNnltR2NYaUE?oc=5",
    "date": "2026-08-07T12:46:38.000Z"
   }
