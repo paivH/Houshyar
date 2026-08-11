@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T22:44:53.733Z",
+ "updated": "2026-08-11T23:42:10.118Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Baghdad unveils 2026–2029 cabinet agenda covering 14 sectors",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s cabinet on Tuesday approved a 2026&ndash;2029 government program setting 139 priorities across 14 sectors, with 13 pieces of legislation also designated as priorities for the government&rsquo;s next phase. The program received cabinet approval during the 14th regular session, chaired by Prime Minister Ali Al-Zaidi. The session focused solely on reviewing the progr",
+   "link": "https://shafaq.com/en/Iraq/Baghdad-unveils-2026-2029-cabinet-agenda-covering-14-sectors",
+   "date": "2026-08-11T23:03:56.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Rare eyeless fish found in Iraq’s Al-Anbar underground water",
    "desc": "Shafaq News- Al-Anbar Blind fish found in a cave in Iraq&rsquo;s Al-Anbar province are not a new discovery, an environmental official told Shafaq News on Tuesday, noting that their presence was first documented in 2010. According to Qais Najeh, director of the Al-Anbar Environmental Directorate, the cave is located in Al-Khasfa, a low-lying area known for its cracks and groundwater sites. He descr",
    "link": "https://shafaq.com/en/society/Rare-eyeless-fish-found-in-Iraq-s-Al-Anbar-underground-water",
@@ -114,20 +122,12 @@
    "date": "2026-08-11T21:21:41.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Yemen’s Houthis claim strikes on Saudi positions in Marib",
-   "desc": "Shafaq News- Sanaa Yemen's Houthi (Ansarallah) movement on Tuesday struck several Saudi military concentrations, weapons depots and command centers in Marib province, its military spokesperson Yahya Saree stated, confirming &ldquo;direct hits.&rdquo; The operation involved a large number of ballistic missiles and drones, causing dozens of deaths and injuries. Saree also urged &ldquo;deceived and m",
-   "link": "https://shafaq.com/en/Middle-East/Yemen-s-Houthis-claim-strikes-on-Saudi-positions-in-Marib",
-   "date": "2026-08-11T20:53:15.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
    "desc": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
    "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T14:47:28.000Z"
+   "date": "2026-08-11T23:04:06.000Z"
   },
   {
    "src": "BBC",
@@ -140,26 +140,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "UK prosecutors argue Tate brothers a flight risk ahead of bail hearing",
+   "desc": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue.",
+   "link": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-11T22:22:33.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Russia releases former US Marine reported in poor health",
-   "desc": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
+   "desc": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T17:02:22.000Z"
+   "date": "2026-08-11T23:33:45.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-   "desc": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-   "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T21:14:56.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Luigi Mangione murder trial to have anonymous jury",
-   "desc": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
-   "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T19:12:54.000Z"
+   "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
+   "desc": "The US president has repeatedly cast doubt on the safety of childhood vaccines, making several misleading claims.",
+   "link": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-11T23:16:38.000Z"
   },
   {
    "src": "NPR",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
    "date": "2026-08-11T11:27:39.000Z"
   },
