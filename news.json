@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-11T23:42:10.118Z",
+ "updated": "2026-08-12T02:06:32.659Z",
  "items": [
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "PKK says disarmament depends on Ocalan’s freedom, political participation",
+   "desc": "PKK says disarmament depends on Ocalan’s freedom, political participation &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hU0UyRUNKZmVWdUtONTFhYmN4NlRtZWJTTVZBS3hjaDhiTUswVGpKSUUwUC1nZk9sTmFneGhBT0hFdlcxOEFDVnBacTVmbC13endjdzVGcTl5dHJVVmlrM2lXR1VDZw?oc=5",
+   "date": "2026-08-11T01:08:13.000Z"
+  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -28,18 +36,10 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hSnpUTDRWLTJWeThXUlk3QVVmNzBsSmpiNEFudTl3NUlKdzNTbWt4MkgtUk5iSnlaOENENG5YWUlJZS1MQ3l4RXpMU0xOYU5YMHdZODhjUUYtODBiT2c?oc=5",
-   "date": "2026-08-11T09:51:27.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Syrian court sentences Bashar al-Assad to death for crimes against humanity",
-   "desc": "Syrian court sentences Bashar al-Assad to death for crimes against humanity &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ycXA1Ui1XOVRtRGtrMVo3TlFxOEdDT01ZRXlHLXhMbHV4TGpLU19qeWM3QUpFY3ZUODdfNVVaWW1tTkJOY3lJLWVQS1Zzd2pHX09DblpCY3oxSm0xLUdv?oc=5",
-   "date": "2026-08-11T12:01:16.000Z"
+   "title": "Kurdish PUBG team bounces back in Paris to reach Survival Stage",
+   "desc": "Kurdish PUBG team bounces back in Paris to reach Survival Stage &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWFotQzc4UGN3eVZpakFjT3lsdTlEQ1owZEpzYnZGREJ0VEZ0VFg0VzlBQk1aZ3BRcjl2SDBoZFhwSlhaeDAwVlBLd3hDVkhqYnNNY3B2VHA1ODkxTjhV?oc=5",
+   "date": "2026-08-10T08:02:27.000Z"
   },
   {
    "src": "K24",
@@ -124,10 +124,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-   "desc": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T23:04:06.000Z"
+   "title": "Trump says he switched planes after Nato summit because of possible threat",
+   "desc": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
+   "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-12T02:05:30.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+   "desc": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+   "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-12T00:14:42.000Z"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "desc": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-11T23:33:45.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
-   "desc": "The US president has repeatedly cast doubt on the safety of childhood vaccines, making several misleading claims.",
-   "link": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-11T23:16:38.000Z"
   },
   {
    "src": "NPR",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
