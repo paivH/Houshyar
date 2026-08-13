@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T23:44:04.539Z",
+ "updated": "2026-08-13T02:08:26.446Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,14 +8,6 @@
    "desc": "Kurdish director unveils film featuring female Peshmerga &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zaGdtN0NDZzlzNXB0dnk2a01yd2J6dWVNbkV3QW5BZThaMkY1YmVaUjJZaktVemtDZG1EcHJLWmhaY1gxSWR0cVlXV21HUkpNVEF2OWFRcUhqbVlnWWkxYW5hZDQ1Q2g1aHc?oc=5",
    "date": "2026-08-11T21:17:50.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "PKK says disarmament depends on Ocalan’s freedom, political participation",
-   "desc": "PKK says disarmament depends on Ocalan’s freedom, political participation &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hU0UyRUNKZmVWdUtONTFhYmN4NlRtZWJTTVZBS3hjaDhiTUswVGpKSUUwUC1nZk9sTmFneGhBT0hFdlcxOEFDVnBacTVmbC13endjdzVGcTl5dHJVVmlrM2lXR1VDZw?oc=5",
-   "date": "2026-08-11T01:08:13.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +32,14 @@
    "desc": "Kurdistan university students gain hands-on training through vocational program &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UcW5WMGZYaXM3akdUMXdRc3RZd0drNGpSd1NjVDVQTFBxTUNhNkRoTGRhakhPaWlGT0VyVkE5STFtZjVjTEtjMkJvNzl4VWJpMkZxV2RzcEUybEgydDFBbkNka3E0N3pqOGc?oc=5",
    "date": "2026-08-11T17:28:05.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq orders draft law to confine weapons to state",
+   "desc": "Iraq orders draft law to confine weapons to state &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pSURZVkQ3YlBSekgwaFdqcHQ1SHgxT1U2MzQ3bkNPS0xZV1dXZzJhZ0RzaGVPS0ZVMlRqSXp4aDlNMUZ5cHpGSVliZVpLZUxKQ3Y2QkpNY2ZST2h0S1E?oc=5",
+   "date": "2026-08-12T05:55:47.000Z"
   },
   {
    "src": "K24",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Photos: See the best photos from the solar eclipse",
+   "desc": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
+   "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
+   "date": "2026-08-13T01:38:01.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Has the U.S. lost its dominance to China?",
    "desc": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker 's Evan Osnos discusses his story \"The Future, Made in China.\"",
    "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
@@ -192,14 +200,6 @@
    "desc": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
    "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
    "date": "2026-08-12T11:25:11.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
-   "desc": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
-   "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-   "date": "2026-08-12T10:47:30.000Z"
   },
   {
    "src": "BBC ME",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
    "date": "2026-08-11T11:27:39.000Z"
   },
@@ -332,10 +332,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
-   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
-   "date": "2026-08-05T22:12:16.000Z"
+   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
+   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PeHhqVDd6YjdDWkYzLXV1ZjNuNncwSFY1MzgwX3o2eHVWeF9NY1hGUm1hVVpTeWJhOTJpMks4VHU4TWFaaTc3ZlhycFBxRjFkMTZmMVJ3?oc=5",
+   "date": "2026-08-11T10:06:00.000Z"
   },
   {
    "src": "Tourism",
