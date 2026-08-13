@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T21:48:27.505Z",
+ "updated": "2026-08-13T22:44:12.356Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,30 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Region records new CCHF case",
+   "desc": "Shafaq News- Erbil The Kurdistan Region of Iraq on Thursday confirmed a new Crimean-Congo hemorrhagic fever (CCHF) infection in Duhok province in a 23-year-old man who contracted the disease after contact with an infected animal, the Region&rsquo;s Health Ministry announced. According to Shafaq News&rsquo; tracker, Iraq has recorded 163 confirmed CCHF infections and 11 deaths since the beginning o",
+   "link": "https://shafaq.com/en/Kurdistan/Kurdistan-Region-records-new-CCHF-case",
+   "date": "2026-08-13T22:15:53.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Mourinho could look within Real Madrid after Rodri snub",
+   "desc": "Shafaq News- Madrid Real Madrid&rsquo;s failed pursuit of Rodri has intensified debate over an internal midfield solution, with Spanish football figures pointing to Bernardo Silva as a possible deeper option under Jose Mourinho. Rodri rejected Madrid after around two weeks of negotiations and chose Barcelona, Cadena SER reported, although the Catalan club must still reach an agreement with Manches",
+   "link": "https://shafaq.com/en/sport/Mourinho-could-look-within-Real-Madrid-after-Rodri-snub",
+   "date": "2026-08-13T22:07:36.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "UAE: Iran struck two ADNOC ships in Hormuz",
+   "desc": "Shafaq News- Abu Dhabi Two ADNOC vessels were attacked while transiting the Strait of Hormuz on Thursday, with no injuries reported and the situation brought under control, the company announced. The UAE Foreign Ministry blamed Iran for the attack, calling it a &ldquo;hostile Iranian attack&rdquo; and a &ldquo;flagrant violation&rdquo; of UN Security Council Resolution 2817 , which &ldquo;strongly",
+   "link": "https://shafaq.com/en/Middle-East/UAE-Iran-struck-two-ADNOC-ships-in-Hormuz",
+   "date": "2026-08-13T21:46:57.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Vance: US can pressure Iran into practical steps",
    "desc": "Shafaq News- Washington US Vice President JD Vance stated Thursday that Washington has the ability to pressure Iran into taking practical steps, while acknowledging that relations between the two countries remain volatile. In press remarks, Vance said the United States is focused on preventing Iran from obtaining a nuclear weapon, expressing confidence that the crisis will end in a way that streng",
    "link": "https://shafaq.com/en/World/Vance-US-can-pressure-Iran-into-practical-steps",
@@ -96,30 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraqi Prime Minister Ali Faleh Al-Zaidi and State of Law Coalition (SLC) leader Nouri Al-Maliki on Thursday discussed completing the Cabinet and bringing all weapons under state authority, with nine ministries still unfilled and a September 30 weapons-control deadline approaching. The meeting also covered anti-corruption measures, integrity safeguards, and economic reform, alo",
    "link": "https://shafaq.com/en/Iraq/Cabinet-gaps-disarmament-on-table-between-PM-Al-Zaidi-and-Nouri-Al-Maliki",
    "date": "2026-08-13T20:57:20.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi armed group: No disarmament before US withdrawal, air defense",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Badr Organization on Thursday rejected any use of force to disarm armed factions, warning that coercion could lead to internal conflict ahead of Baghdad&rsquo;s September 30 deadline to bring weapons under state control. Mohammad Naji Mohammad, head of Badr&rsquo;s political bureau, said reports of language threatening force, &ldquo;if true,&rdquo; represented a s",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-armed-group-No-disarmament-before-US-withdrawal-air-defense",
-   "date": "2026-08-13T20:40:35.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Saudi embassy may return to Baghdad within three months",
-   "desc": "Shafaq News- Baghdad Saudi Arabia plans to resume the work of its diplomatic mission in Baghdad within three months or less, an Iraqi diplomatic source told Shafaq News on Thursday, citing security guarantees to prevent attacks on the embassy and Saudi personnel in Baghdad, discussed during an Iraqi delegation&rsquo;s visit to Riyadh. The Iraqi security delegation presented measures taken by Baghd",
-   "link": "https://shafaq.com/en/Iraq/Saudi-embassy-may-return-to-Baghdad-within-three-months",
-   "date": "2026-08-13T19:44:07.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Three Nasiriyah municipality officials arrested in corruption probe",
-   "desc": "Shafaq News- Nasiriyah Security forces arrested three people wanted by the judiciary who work for the Nasiriyah Municipality in Dhi Qar province, a source at the provincial governor&rsquo;s office said Thursday evening. The source told Shafaq News that one of those arrested is a senior Nasiriyah Municipality official who was detained while attempting to flee to Iran through the Shalamcheh border c",
-   "link": "https://shafaq.com/en/society/Three-Nasiriyah-municipality-officials-arrested-in-corruption-probe",
-   "date": "2026-08-13T19:15:43.000Z"
   },
   {
    "src": "BBC",
@@ -151,7 +151,7 @@
    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
    "desc": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-13T20:01:30.000Z"
+   "date": "2026-08-13T22:02:54.000Z"
   },
   {
    "src": "BBC",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
    "date": "2026-08-11T11:27:39.000Z"
   },
