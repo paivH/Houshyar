@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T10:33:02.668Z",
+ "updated": "2026-08-14T11:45:25.835Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MTHN3UExQRzlmbkpZZ2Z1R094MjBsandFTlp4MU9tZnFMTjdnajkzWkpHX25EOUllX3ZKNHcyTlJxeVRXUWV0UTZUY3dwcm5ua1N1Qmc0N2k5aVN0NUZ1bGR3alUwUQ?oc=5",
-   "date": "2026-08-13T19:54:10.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jUktFZDNOT1JxbkwyWE9YRGF3eWhibzdrSzBNQVJDUDZER3VYRFJoa3dwSjFxWFhvT3FDbldGUENIUWd0TjRIOGxSVmVrSGtoWTkyQjNYM0hhbzhRbmt6YXhDN3BvRXZD?oc=5",
+   "date": "2026-08-13T17:55:12.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Hawraman Festival Promotes Local Produce, Crafts and Culture",
+   "desc": "A three-day festival at Ahmad Awa is bringing together 150 producers and artisans from across the Kurdistan Region and Eastern Kurdistan to promote Hawraman’s agricultural and cultural products.",
+   "link": "https://www.kurdistan24.net/en/story/932453/hawraman-festival-promotes-local-produce-crafts-and-culture",
+   "date": "2026-08-14T11:05:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq Plans New Oil Pipelines as August Exports Average 2 Million Barrels a Day",
+   "desc": "Iraq's Oil Minister Bassem Mohammed Khudair says four tankers are exporting Iraqi crude as Baghdad advances plans for Basra-Fishkhabur-Ceyhan and Haditha-Baniyas pipelines.",
+   "link": "https://www.kurdistan24.net/en/story/932449/iraq-plans-new-oil-pipelines-as-august-exports-average-2-million-barrels-a-day",
+   "date": "2026-08-14T10:46:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Duhok Expands Public Healthcare as 70% Rely on State Services",
    "desc": "Semel Hospital is set to become a 300-bed teaching facility as Duhok expands public healthcare capacity, adding hundreds of beds and increasing investment in medicines and specialized treatment.",
    "link": "https://www.kurdistan24.net/en/story/932445/duhok-expands-public-healthcare-as-70-rely-on-state-services",
@@ -66,20 +82,36 @@
    "date": "2026-08-14T09:01:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Mazloum Abdi: SDF, Damascus Move to Accelerate Reintegration",
-   "desc": "Syrian Democratic Forces (SDF) Commander Mazloum Abdi says talks with Syrian officials addressed Hasakah security, displaced families and steps to accelerate the implementation of an integration agreement with Damascus.",
-   "link": "https://www.kurdistan24.net/en/story/932427/mazloum-abdi-sdf-damascus-move-to-accelerate-reintegration",
-   "date": "2026-08-14T08:32:00.000Z"
+   "title": "Four tankers prepare to load 7M barrels in Iraq",
+   "desc": "Shafaq News- Basra Four foreign oil tankers with a combined capacity of seven million barrels are at Basra port for loading, a source at the General Company for Ports of Iraq told Shafaq News on Friday. The vessels included three large vessels capable of carrying two million barrels each and a smaller one-million-barrel tanker. Earlier today, Oil Minister Basim Mohammed Khudair Al-Abadi said Iraq ",
+   "link": "https://shafaq.com/en/Economy/Four-tankers-prepare-to-load-7M-barrels-in-Iraq",
+   "date": "2026-08-14T11:29:03.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Russia Says West Group Shot Down 110 Ukrainian Heavy Drones",
-   "desc": "Moscow says its Battlegroup West destroyed 110 heavy Ukrainian hexacopters and dozens of other targets in a day as drone activity raises tensions across Europe.",
-   "link": "https://www.kurdistan24.net/en/story/932422/russia-says-west-group-shot-down-110-ukrainian-heavy-drones",
-   "date": "2026-08-14T07:59:00.000Z"
+   "title": "Source: Iraq, Saudi Arabia, US hold Riyadh security talks",
+   "desc": "Shafaq News- Baghdad/ Riyadh Iraqi and Saudi delegations met with representatives of the United States Central Command (CENTCOM) in Riyadh on Thursday evening to discuss security developments and the file of armed factions in Iraq, according to Iraqi and Saudi diplomatic sources. The meeting addressed recent developments in the armed factions file and the options available for dealing with them, a",
+   "link": "https://shafaq.com/en/Iraq/Source-Iraq-Saudi-Arabia-US-hold-Riyadh-security-talks",
+   "date": "2026-08-14T11:22:17.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq ships 49M barrels, advances Basra-Fishkhabur pipeline",
+   "desc": "Shafaq News- Basra Iraq exported about 49 million barrels of crude oil in July, while talks with Iran and the United States continue over the passage of Iraqi shipments through the Strait of Hormuz, Oil Minister Basim Mohammed Khudair Al-Abadi announced on Friday. Speaking at a joint press conference with Basra Governor Asaad Al-Eidani, Al-Abadi said four tankers were loaded with crude today and a",
+   "link": "https://shafaq.com/en/Economy/Iraq-ships-49M-barrels-advances-Basra-Fishkhabur-pipeline",
+   "date": "2026-08-14T11:03:17.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "INSS busts fake jobs network, Diyala Police seize drug pills",
+   "desc": "Shafaq News- Al-Diwaniyah/ Diyala Iraqi National Security Service (INSS) dismantled an 11-member forgery and fake employment network in Al-Diwaniyah and arrested two suspects carrying 2,036 narcotic pills in Diyala, the agency said on Friday. Security personnel in Al-Diwaniyah arrested the first suspect before identifying and detaining 10 other members of the network. Investigators found that the ",
+   "link": "https://shafaq.com/en/Security/INSS-busts-fake-jobs-network-Diyala-Police-seize-drug-pills",
+   "date": "2026-08-14T10:40:33.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,38 +120,6 @@
    "desc": "Shafaq News- Baghdad A security force affiliated with Iraq&rsquo;s Federal Integrity Commission arrested Deputy Minister of Electricity for Transmission and Distribution Affairs Khalid Ghazi Atiyah on Friday, informed sources told Shafaq News. The force detained Atiyah without providing further details on the reasons for the arrest or the charges against him. Last month , the Electricity Ministry ",
    "link": "https://shafaq.com/en/society/Integrity-Commission-arrests-senior-Electricity-Ministry-official",
    "date": "2026-08-14T10:08:36.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Sand plants face lawsuits over violations in Iraq’s Al-Anbar",
-   "desc": "Shafaq News- Al-Anbar More than eight lawsuits have been filed against sand-processing plants in Al-Anbar province, western Iraq, over environmental violations, the province&rsquo;s Environment Director Qais Najeh told Shafaq News on Friday. The Directorate&rsquo;s legal department and the Environmental Protection and Improvement Police referred the cases to the court for action against the plant ",
-   "link": "https://shafaq.com/en/society/Sand-plants-face-lawsuits-over-violations-in-Iraq-s-Al-Anbar",
-   "date": "2026-08-14T10:03:35.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq and the Mecca Defense Pact: Strategic neutrality or growing isolation?",
-   "desc": "Shafaq News As a new security order takes shape across the Middle East, Iraq has stayed outside the Mecca Joint Defense Agreement signed on August 7 by Saudi Arabia, Turkiye, and Pakistan, despite sitting at the geographic center of the region the pact is meant to defend. Baghdad's absence raises a question its own divided political class has yet to answer: is this deliberate neutrality, or the dr",
-   "link": "https://shafaq.com/en/Report/Iraq-and-the-Mecca-Defense-Pact-strategic-neutrality-or-growing-isolation",
-   "date": "2026-08-14T09:40:29.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "West Bank raids detain seven, hold 30 Palestinians",
-   "desc": "Shafaq News- West Bank Israeli forces detained seven Palestinians and temporarily held around 30 others during overnight raids across the West Bank on Friday, while settler attacks injured a child and two young men, Palestinian media reported. Searches in Nablus and Tulkarm targeted homes and businesses, with a journalist briefly questioned in Bal&rsquo;a and two houses taken over as military post",
-   "link": "https://shafaq.com/en/Middle-East/West-Bank-raids-detain-seven-hold-30-Palestinians",
-   "date": "2026-08-14T08:50:03.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Israeli military kills Hamas commander in Gaza",
-   "desc": "Shafaq News- Middle East The Israeli army on Friday said it killed a Hamas commander accused of involvement in holding several hostages, two days after carrying out an airstrike against another Hamas cell commander in northern Gaza. The military identified him as Mohammed Bassam Mohammed Mushtaha, a company commander in Hamas&rsquo; Al-Shati Battalion, noting that he was targeted on July 30 in the",
-   "link": "https://shafaq.com/en/Middle-East/Israeli-military-kills-Hamas-commander-in-Gaza",
-   "date": "2026-08-14T08:02:00.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,22 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+   "desc": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
+   "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+   "date": "2026-08-14T11:02:42.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+   "desc": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
+   "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+   "date": "2026-08-14T10:30:17.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
    "desc": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
    "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
@@ -184,22 +200,6 @@
    "desc": "U.S. ambassador to Israel Mike Huckabee called settlers besieging a West Bank home of an American-Palestinian family \"terrorists.\"",
    "link": "https://www.npr.org/2026/08/13/nx-s1-5930275/u-s-ambassador-slams-israeli-settlers-besieging-home-of-palestinian-american",
    "date": "2026-08-13T21:11:59.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-   "desc": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
-   "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-   "date": "2026-08-13T16:40:26.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-   "desc": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
-   "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-   "date": "2026-08-13T15:18:27.000Z"
   },
   {
    "src": "BBC ME",
@@ -357,7 +357,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "China Becomes Türkiye’s Fastest-Growing Tourism Market",
-   "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
+   "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; telesurenglish.net",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
    "date": "2026-08-10T07:00:00.000Z"
   }
