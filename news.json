@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T08:31:20.325Z",
+ "updated": "2026-08-15T09:27:22.879Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraq's Arms Dispute Takes a 'Quid Pro Quo' Turn in Political Ads",
+   "desc": "A government campaign urges armed factions to hand over their weapons, while a PMF video projects military strength as Baghdad's push for state control reaches a critical stage.",
+   "link": "https://www.kurdistan24.net/en/story/932608/iraqs-arms-dispute-takes-a-quid-pro-quo-turn-in-political-ads",
+   "date": "2026-08-15T08:53:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq Security Chief in Erbil for Talks on Border Pact and Drone Attacks",
    "desc": "Qasim Aboudi is set to meet senior Kurdistan Region officials on the Erbil-Baghdad-Tehran security agreement, border arrangements, recent drone attacks and protection of energy facilities.",
    "link": "https://www.kurdistan24.net/en/story/932594/iraq-security-chief-in-erbil-for-talks-on-border-pact-and-drone-attacks",
@@ -74,12 +82,20 @@
    "date": "2026-08-15T07:01:08.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq Needs New Gulf Oil Export Routes to Ease Mounting Financial Pressure, FDD Says",
-   "desc": "A report by the Foundation for Defense of Democracies says Iraq’s heavy reliance on oil revenues and disruption in the Strait of Hormuz have sharply reduced exports and strained government finances.",
-   "link": "https://www.kurdistan24.net/en/story/932573/iraq-needs-new-gulf-oil-export-routes-to-ease-mounting-financial-pressure-fdd-says",
-   "date": "2026-08-15T06:25:02.000Z"
+   "title": "Gold prices rise in Baghdad, stabilize in Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil On Saturday, gold prices edged higher in Baghdad and remained constant in Erbil, hovering around 950,000 IQD per mithqal, according to a Shafaq News market survey. Gold prices on Baghdad's Al-Nahr Street recorded a selling price of 950,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buying price o",
+   "link": "https://shafaq.com/en/Economy/Gold-prices-rise-in-Baghdad-stabilize-in-Erbil-5-3",
+   "date": "2026-08-15T09:00:03.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Russia and Ukraine trade nearly 750 drone attacks",
+   "desc": "Shafaq News- Kyiv/ Moscow A Russian drone strike killed a three-month-old boy and wounded 11 people in Marhanets, Dnipropetrovsk region overnight into Saturday, according to Ukrainian media. The drone hit a residential high-rise, injuring two children aged five and 12. Seven people were hospitalized in serious condition. Ukraine&rsquo;s Air Force reported that Russia launched 152 drones and other ",
+   "link": "https://shafaq.com/en/World/Russia-and-Ukraine-trade-nearly-750-drone-attacks",
+   "date": "2026-08-15T08:45:11.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Erbil Iraqi National Security Advisor Qasim Al-Aboudi arrived in Erbil on Saturday with a senior delegation for talks on joint security coordination, regional developments, and other security files, a Shafaq News correspondent reported. Kurdistan Regional Government (KRG) Interior Minister Rebar Ahmed received the delegation at Erbil International Airport. Al-Aboudi is expected to hol",
    "link": "https://shafaq.com/en/Kurdistan/Iraq-security-chief-in-Erbil-for-coordination-talks",
    "date": "2026-08-15T07:32:03.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Quake kills 20+ off Indonesia’s Flores",
-   "desc": "Shafaq News- Jakarta A magnitude 7.7 earthquake struck off Indonesia&rsquo;s Flores Island on Saturday, killing at least 20 people and injuring six, while two others remained missing, according to the Maumere Search and Rescue Agency. Rescuers had yet to reach Nagekeo, the area closest to the epicenter, due to landslides blocking roads and disrupting communications. About 2,000 residents evacuated",
-   "link": "https://shafaq.com/en/World/Quake-kills-20-off-Indonesia-s-Flores",
-   "date": "2026-08-15T07:17:33.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Basrah crude gains over 12% on week",
-   "desc": "Shafaq News- Basrah Basrah Heavy and Medium crude posted weekly gains of $6.59 and $7.59 a barrel, or 12.03% and 13.29%, respectively, despite falling in the final trading session, while global oil prices moved higher. Basrah Heavy fell $0.92 a barrel, or 1.48%, in the final session to settle at $61.38. Basrah Medium also declined $0.94 a barrel, or 1.43%, to close at $64.68. Global oil prices ros",
-   "link": "https://shafaq.com/en/Economy/Basrah-crude-gains-over-12-on-week",
-   "date": "2026-08-15T06:21:35.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,22 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+   "desc": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
+   "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+   "date": "2026-08-15T09:00:00.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+   "desc": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 20 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
+   "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+   "date": "2026-08-15T08:29:20.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
    "desc": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
    "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
@@ -184,22 +200,6 @@
    "desc": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
    "date": "2026-08-14T12:11:50.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-   "desc": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
-   "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-   "date": "2026-08-14T11:02:42.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
-   "desc": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
-   "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
-   "date": "2026-08-14T10:47:19.000Z"
   },
   {
    "src": "BBC ME",
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
-   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; specialeurasia.com",
+   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
    "date": "2026-08-11T12:22:53.000Z"
   },
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination",
-   "desc": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sUzlVYVRFT1hhbjRTZnFCOVJhRDJvcHc1bjl0MGdRTjRGZUxBY2VGdWtKU2pySzNOUTFTUkJCOUZ4VTQ5QXQ0RS1IS1JYdmpGUFFwOUhR?oc=5",
-   "date": "2026-08-12T08:37:12.000Z"
+   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
+   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
+   "date": "2026-08-05T22:12:16.000Z"
   },
   {
    "src": "Tourism",
