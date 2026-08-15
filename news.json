@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T15:22:40.128Z",
+ "updated": "2026-08-15T15:46:56.626Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Israel blames Hezbollah attack for injuring three soldiers",
+   "desc": "Shafaq News- Middle East Israeli Prime Minister Benjamin Netanyahu&rsquo;s office said on Saturday that three soldiers were wounded in an attack it attributed to Hezbollah in southern Lebanon, hours after Israel&rsquo;s strikes killed at least 11 people. &ldquo;Hezbollah violated the ceasefire in Lebanon by attacking our soldiers in the security zone, which protects Israeli communities just across",
+   "link": "https://shafaq.com/en/Middle-East/Israel-blames-Hezbollah-attack-for-injuring-three-soldiers",
+   "date": "2026-08-15T15:36:58.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Turkiye pledges stronger ties with Kurds across region",
+   "desc": "Shafaq News- Ankara Turkish President Recep Tayyip Erdogan said on Saturday that Turkiye would continue strengthening ties with Kurds across the region and protecting their rights, while predicting greater stability for Syria's Kurdish population. &ldquo;Syria's Kurds will have their share of peace and stability,&rdquo; Erdogan told Al Jazeera, adding that Turkiye would support Syria's stability a",
+   "link": "https://shafaq.com/en/Middle-East/Turkiye-pledges-stronger-ties-with-Kurds-across-region",
+   "date": "2026-08-15T15:31:57.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Hezbollah charges Netanyahu with expanding war for political interests",
    "desc": "Shafaq News- Beirut Lebanon&rsquo;s Hezbollah on Saturday accused Israeli Prime Minister Benjamin Netanyahu of widening the war with Lebanon, arguing that the expansion of Israeli strikes and attacks on civilians serves his domestic political and electoral interests. In a statement, the group also held the United States responsible for providing Israel with political and military support, criticiz",
    "link": "https://shafaq.com/en/Middle-East/Hezbollah-charges-Netanyahu-with-expanding-war-for-political-interests",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Nineveh Nineveh is seeking investment proposals for oil refineries and production projects as the Provincial Council moves to establish an oil company in the northern Iraqi province, its Energy Committee chief, Ahmed al-Abd Rabbo, told Shafaq News on Saturday. Al-Abd Rabbo noted that the initiative could help develop the province's oil sector and eventually pave the way for an integra",
    "link": "https://shafaq.com/en/Economy/Nineveh-targets-investment-for-new-refinery-firms",
    "date": "2026-08-15T14:11:47.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "$1.26B hospital projects under corruption scrutiny",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Parliamentary Integrity Committee has opened a file into suspected corruption and major irregularities involving five hospital projects awarded to an &ldquo;unregistered&rdquo; and underperforming company, with their combined value reaching $1.26 billion, Committee member Salem Al-Issawi told Shafaq News on Saturday. The case forms part of a broader review of stal",
-   "link": "https://shafaq.com/en/society/1-26B-hospital-projects-under-corruption-scrutiny",
-   "date": "2026-08-15T13:53:52.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US dollar rate steady in Baghdad, rise in Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed mixed in Iraq on Saturday, hovering around 153,000 dinars per 100 dollars in Baghdad and Erbil. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 153,100 dinars per 100 dollars, the same price recorded this morning. In the Iraqi capital, exchange shops sold the dollar at 153,500 dinars an",
-   "link": "https://shafaq.com/en/Economy/US-dollar-rate-steady-in-Baghdad-rise-in-Erbil-8",
-   "date": "2026-08-15T13:43:28.000Z"
   },
   {
    "src": "BBC",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Wadi Al-Qiyamah Becomes a Summer Haven in Kurdistan Region",
-   "desc": "Wadi Al-Qiyamah Becomes a Summer Haven in Kurdistan Region &nbsp;&nbsp; kurdistan24.net",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXdUS2lyaHZSTUR5ak1WUUZpNmdTWW5ON2pWVC11NXFzLVF5dXhnSklRdVFyNGZiREY2M2JLUzh0emFWMGlsNlY3QzZ3M3JyT3RmTU5VbUZwaW8tbWtZVjFvNUJ0el8xYXVBd29weVVSUzQwM3lRRzdQU256UE52bzhyREdDQ3Z0QmItMjZQMlBWRzQwdUx6WHJyRFhkc1ZHY29PNQ?oc=5",
-   "date": "2026-08-15T13:50:36.000Z"
+   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
+   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; kurdistan24.net",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
+   "date": "2026-08-12T20:05:00.000Z"
   },
   {
    "src": "Tourism",
