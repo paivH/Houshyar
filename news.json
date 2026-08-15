@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T18:32:14.025Z",
+ "updated": "2026-08-15T19:22:28.085Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Qatar Flatly Denies Iranian Claims of Holding Captive Iranian Pilots",
+   "desc": "Doha issues categorical rejection of Tehran's allegations hours after an Iranian military official urged ICRC intervention over three Su-24 pilots said to have been held without contact for six months",
+   "link": "https://www.kurdistan24.net/en/story/932726/qatar-flatly-denies-iranian-claims-of-holding-captive-iranian-pilots",
+   "date": "2026-08-15T18:51:29.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Patriotic Union of Kurdistan Congratulates KDP on 80th Anniversary, Calls for Unity Around National and Democratic Goals",
    "desc": "PUK Political Bureau sends a congratulatory message on August 16, expressing hope that the struggle of all sides will make national and democratic objectives the foundation for navigating the challenges facing Kurdistan and the region",
    "link": "https://www.kurdistan24.net/en/story/932719/patriotic-union-of-kurdistan-congratulates-kdp-on-80th-anniversary-calls-for-unity-around-national-and-democratic-goals",
@@ -74,12 +82,12 @@
    "date": "2026-08-15T15:57:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Democratic Party Marks 80th Anniversary With Pledge to Protect the Region and Build a Tenth Cabinet",
-   "desc": "KDP Political Bureau issues landmark statement, vowing continued commitment to Kurdish national rights, democratic values, and regional stability as the party enters its ninth decade",
-   "link": "https://www.kurdistan24.net/en/story/932698/kurdistan-democratic-party-marks-80th-anniversary-with-pledge-to-protect-the-region-and-build-a-tenth-cabinet",
-   "date": "2026-08-15T15:39:42.000Z"
+   "title": "Al-Diwaniyah to become Iraq's agricultural capital",
+   "desc": "Shafaq News- Baghdad Iraq is preparing to crown Al-Diwaniyah (also known as Al-Qadisiyah) as its agricultural capital, betting on the province's farmland to anchor the country's food supply. Prime Minister Ali al-Zaidi laid out the plan on Saturday after meeting a delegation of lawmakers representing the province, the governor Abbas Al-Zameli, and local council members, pledging one trillion dinar",
+   "link": "https://shafaq.com/en/society/Al-Diwaniyah-to-become-Iraq-s-agricultural-capital",
+   "date": "2026-08-15T18:35:19.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Tehran Iran and Oman have agreed on a navigation map for ships passing through the Strait of Hormuz, Iran's Foreign Ministry announced on Saturday, setting out clearer routes for maritime traffic through one of the world's most important oil shipping lanes. Foreign Ministry spokesman Esmaeil Baqaei described talks between Tehran and Muscat as progressing steadily and positively, despi",
    "link": "https://shafaq.com/en/Middle-East/Iran-Oman-establish-Strait-of-Hormuz-navigation-map",
    "date": "2026-08-15T16:20:37.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "State of Law names candidates for Iraq’s vacant ministries",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s State of Law Coalition, led by former premier Nouri al-Maliki, is preparing to submit three candidates for vacant cabinet posts, including senior judge Mohammed Sami and Lt. Gen. Qasim Atta, as political negotiations intensify over completing Prime Minister Ali Falih al-Zaidi&rsquo;s government, a Coordination Framework source told Shafaq News on Saturday. Sami, w",
-   "link": "https://shafaq.com/en/Iraq/State-of-Law-names-candidates-for-Iraq-s-vacant-ministries",
-   "date": "2026-08-15T16:05:41.000Z"
   },
   {
    "src": "BBC",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
@@ -341,7 +341,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Drones target Erbil as attacks fuel fears of regional spillover",
-   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; newarab.com",
+   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
    "date": "2026-08-14T14:47:46.000Z"
   },
