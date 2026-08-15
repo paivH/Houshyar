@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T16:26:37.308Z",
+ "updated": "2026-08-15T16:51:57.420Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "KDP-Syria Hails KDP's 80th Anniversary as \"Twin Birth of Blessing and Hope\" for the Kurdish People",
+   "desc": "Political Bureau of the Kurdistan Democratic Party of Syria sends a congratulatory message from Qamishlo, calling the founding anniversary and Barzani's birthday \"twin births of blessing and hope\"",
+   "link": "https://www.kurdistan24.net/en/story/932703/kdp-syria-hails-kdps-80th-anniversary-as-twin-birth-of-blessing-and-hope-for-the-kurdish-people",
+   "date": "2026-08-15T16:33:38.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "UAE Blames Iran for Attack on ADNOC Vessel in Strait of Hormuz",
    "desc": "Abu Dhabi says repeated attacks on commercial shipping amount to “piracy” and vows to defend freedom of navigation in the strategic waterway",
    "link": "https://www.kurdistan24.net/en/story/932699/uae-blames-iran-for-attack-on-adnoc-vessel-in-strait-of-hormuz",
@@ -74,12 +82,12 @@
    "date": "2026-08-15T14:42:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Strikes Hormuz Deal With Oman",
-   "desc": "Tehran announces maritime navigation agreement with Muscat despite American obstacles, as Iranian military official reveals three Su-24 pilots shot down in March have been held by Qatar for six months without family contact",
-   "link": "https://www.kurdistan24.net/en/story/932683/iran-strikes-hormuz-deal-with-oman-while-demanding-qatar-release-three-captive-pilots",
-   "date": "2026-08-15T14:21:08.000Z"
+   "title": "Panel to inspect Iraq’s Jurf Al-Sakhar disputed land",
+   "desc": "Shafaq News- Baghdad Iraq's government will send a committee to Jurf al-Sakhar, north of Babil province, on Sunday to review disputed land contracts and conditions in the area, with more than 100,000 people still displaced since it was retaken from ISIS in 2014. The committee was formed on the orders of Prime Minister Ali al-Zaidi and includes representatives from the agriculture, justice and inte",
+   "link": "https://shafaq.com/en/Iraq/Panel-to-inspect-Iraq-s-Jurf-Al-Sakhar-disputed-land",
+   "date": "2026-08-15T16:37:15.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Middle East Israeli Prime Minister Benjamin Netanyahu&rsquo;s office said on Saturday that three soldiers were wounded in an attack it attributed to Hezbollah in southern Lebanon, hours after Israel&rsquo;s strikes killed at least 11 people. &ldquo;Hezbollah violated the ceasefire in Lebanon by attacking our soldiers in the security zone, which protects Israeli communities just across",
    "link": "https://shafaq.com/en/Middle-East/Israel-blames-Hezbollah-attack-for-injuring-three-soldiers",
    "date": "2026-08-15T15:36:58.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Turkiye pledges stronger ties with Kurds across region",
-   "desc": "Shafaq News- Ankara Turkish President Recep Tayyip Erdogan said on Saturday that Turkiye would continue strengthening ties with Kurds across the region and protecting their rights, while predicting greater stability for Syria's Kurdish population. &ldquo;Syria's Kurds will have their share of peace and stability,&rdquo; Erdogan told Al Jazeera, adding that Turkiye would support Syria's stability a",
-   "link": "https://shafaq.com/en/Middle-East/Turkiye-pledges-stronger-ties-with-Kurds-across-region",
-   "date": "2026-08-15T15:31:57.000Z"
   },
   {
    "src": "BBC",
@@ -309,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
-   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; kurdistan24.net",
+   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NTNXlIUk5XcmFZNmg1LTBUNDRiWmZVeDFiZFdHTHdHSk92cGNwa285aHp1aVhEbnV3bVc5amdTazVRdmdTXzd0NndTZ29TMHkxWTRBaXE1ODZHcXZ1MVBTbHU2aTdkaXhRWVkzMFN4VzAxTzBUYkltX0FHT0V4MnJYalFyZlJMOHlEZnRQclBwNUdjWHg3ODlGcl9vNXo3LUxvUU5YUVVhQQ?oc=5",
    "date": "2026-08-15T13:50:36.000Z"
   },
@@ -341,17 +341,17 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Drones target Erbil as attacks fuel fears of regional spillover",
-   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
+   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; newarab.com",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
    "date": "2026-08-14T14:47:46.000Z"
   },
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Wadi Al-Qiyamah Becomes a Summer Haven in Kurdistan Region",
-   "desc": "Wadi Al-Qiyamah Becomes a Summer Haven in Kurdistan Region &nbsp;&nbsp; kurdistan24.net",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXdUS2lyaHZSTUR5ak1WUUZpNmdTWW5ON2pWVC11NXFzLVF5dXhnSklRdVFyNGZiREY2M2JLUzh0emFWMGlsNlY3QzZ3M3JyT3RmTU5VbUZwaW8tbWtZVjFvNUJ0el8xYXVBd29weVVSUzQwM3lRRzdQU256UE52bzhyREdDQ3Z0QmItMjZQMlBWRzQwdUx6WHJyRFhkc1ZHY29PNQ?oc=5",
-   "date": "2026-08-15T13:50:36.000Z"
+   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
+   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
+   "date": "2026-08-12T20:05:00.000Z"
   },
   {
    "src": "Tourism",
