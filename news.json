@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T20:24:43.777Z",
+ "updated": "2026-08-15T20:49:05.460Z",
  "items": [
   {
    "src": "Rudaw",
@@ -20,18 +20,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jUk5NSFVnQTNQZWZnRU5wcFRrNzZpeFBtRWV0NUNvOW9hSlY3U2JOZjZGMUZScHNjNmQ3bE9XMDJQdHNmbzFoZ3Q1YTZQWWF1V3RKR2l4VEhRNFJ4N0RtRXRVMFg?oc=5",
-   "date": "2026-08-15T10:08:54.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "UAE condemns 'Iranian attack' on two ADNOC vessels in Strait of Hormuz",
    "desc": "UAE condemns 'Iranian attack' on two ADNOC vessels in Strait of Hormuz &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95ZlY1M25scnA4cDhQZGJKd2FMWVp1ZkJZaDBrTTA4X3MzWjN6NjVOS1pLOU5BMEZ2aHZIeDhGUmhMRUtQa3JqZk5PZzBqdTFUWTFKLXZON2NkUTBMWVVMMzFBLUE2MXZJZG9N?oc=5",
    "date": "2026-08-14T05:00:55.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUFM4QWNqa2J0UXBRSUNwZWRLNVAxZmRmbDM4NE45eXVYaWhMR3lCVEpsTGpkQjJ4YmhJeGd3bkhsMjEtY29tRGhyXy1pYW5pcEVHUm5oTWMyNElUbk1LVQ?oc=5",
+   "date": "2026-08-14T13:30:58.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Lawmaker alleges corruption in Dhi Qar camera project",
+   "desc": "Shafaq News- Dhi Qar A surveillance camera project worth about 12 billion Iraqi dinars (roughly $9.2 million) is under suspicion of corruption, a lawmaker representing Dhi Qar Province said Saturday, alleging that a former provincial governor split the contract to bypass mandatory tendering thresholds. Ali Saber told Shafaq News that the project, intended to supply and install an integrated networ",
+   "link": "https://shafaq.com/en/society/Lawmaker-alleges-corruption-in-Dhi-Qar-camera-project",
+   "date": "2026-08-15T20:35:29.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Qatar rebuts allegations of capturing Iranian pilots",
    "desc": "Shafaq News- Doha Qatar on Saturday denied holding three Iranian military pilots whose aircraft was shot down during an attempted attack on the Gulf country, rejecting an Iranian allegation that the pilots had been detained for months. Foreign Ministry spokesperson Majed Al Ansari dismissed the assertion as misleading, noting that Qatari authorities had reached out to the pilots after they violate",
    "link": "https://shafaq.com/en/World/Qatar-rebuts-allegations-of-capturing-Iranian-pilots",
@@ -114,20 +122,20 @@
    "date": "2026-08-15T18:35:19.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Houthi strikes force Yemen’s Mocha port to suspend operations",
-   "desc": "Shafaq News- Sanaa Yemen&rsquo;s Mocha port suspended commercial and maritime operations on Saturday after more than 25 Houthi (Ansarallah) missiles struck the area in recent days, killing seven people and causing an estimated $16 million in damage, the port administration announced at a news conference. The Houthis have intensified attacks on Mocha, including ballistic missile strikes and extensi",
-   "link": "https://shafaq.com/en/Middle-East/Houthi-strikes-force-Yemen-s-Mocha-port-to-suspend-operations",
-   "date": "2026-08-15T18:07:47.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Multiple suspects at large after five shot at Virginia State University, police say",
    "desc": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-15T19:34:22.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+   "desc": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+   "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-15T20:28:30.000Z"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-14T19:05:22.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-   "desc": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-   "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-14T23:16:43.000Z"
   },
   {
    "src": "NPR",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Drone Attack Targets US Positions in Erbil",
-   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; iranwire.com",
+   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; IranWire",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3U4T3R3TmJSUmdfYVhhcUxxUENBTzhVZk53SHBfYW9xcG5VampIU3FJRjQ3amk2N0ZzRnlnWW5uaGRQUmZnalJsUHg0WHhGWDZFenlfRUIwQzRLcUE2RTdhUWxhek9WS2Q4RFZMNjVUTVZROVBmV0NyMmZqcmtZdEFXWV9RQQ?oc=5",
    "date": "2026-08-14T15:19:34.000Z"
   },
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
    "date": "2026-08-11T11:27:39.000Z"
   },
