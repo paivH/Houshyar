@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T06:41:10.899Z",
+ "updated": "2026-08-15T07:32:37.313Z",
  "items": [
   {
    "src": "Rudaw",
@@ -20,6 +20,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUFM4QWNqa2J0UXBRSUNwZWRLNVAxZmRmbDM4NE45eXVYaWhMR3lCVEpsTGpkQjJ4YmhJeGd3bkhsMjEtY29tRGhyXy1pYW5pcEVHUm5oTWMyNElUbk1LVQ?oc=5",
+   "date": "2026-08-14T13:30:58.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Kurdistan Region confirms third hemorrhagic fever case of 2026",
    "desc": "Kurdistan Region confirms third hemorrhagic fever case of 2026 &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKU3JQaWpqc1diSFFuVVlRV2RDU3lWOGJyM0ZPOUZvbThmbmZOUEJqakFLdk00Q1VyVDVHR190ZXFiODJJeS1LbkxtZDJENEFJc1ZEYndyVDV2LWlHeGtLQzVBdXNkMjl3VXc?oc=5",
@@ -34,12 +42,20 @@
    "date": "2026-08-15T04:56:46.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkdkdVWHVZcC02MUpPd2tWY0xHeUJjdzl6RmJjZ291OXMyQjFLSVl1UVhuZGNEQUNaNkpSWDN6OVRyc0ZpdWlrcTlhdzFuSVBLYnVncnFyYl85SFM1X2Q0?oc=5",
-   "date": "2026-08-14T08:24:53.000Z"
+   "title": "Powerful 7.7 Quake Hits Indonesia, Killing 20",
+   "desc": "Rescuers search collapsed buildings for survivors after a powerful offshore earthquake triggered tsunami fears and mass evacuations across Flores.",
+   "link": "https://www.kurdistan24.net/en/story/932583/powerful-77-quake-hits-indonesia-killing-20",
+   "date": "2026-08-15T07:15:34.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Israel Resumes Strikes on Lebanon After More Than a Month",
+   "desc": "Seven people were killed in renewed Israeli strikes on several areas of southern Lebanon on Saturday, marking the first intensive Israeli attack on the area in more than a month.",
+   "link": "https://www.kurdistan24.net/en/story/932579/israel-resumes-strikes-on-lebanon-after-more-than-a-month",
+   "date": "2026-08-15T07:01:08.000Z"
   },
   {
    "src": "K24",
@@ -66,20 +82,12 @@
    "date": "2026-08-15T05:14:12.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump: US will Soon Claim Strait of Hormuz as American Territory",
-   "desc": "President Trump says the US will soon claim the Strait of Hormuz as American territory and deliver a crushing economic blow to Iran, defending the naval blockade.",
-   "link": "https://www.kurdistan24.net/en/story/932548/trump-us-will-soon-claim-strait-of-hormuz-as-american-territory",
-   "date": "2026-08-14T20:44:08.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Pezeshkian Says He Will Never Stand Against Iran’s Supreme Leader",
-   "desc": "Iran’s president says enemies are seeking to weaken the country from within, while stressing national unity and his commitment to the supreme leader’s general policies.",
-   "link": "https://www.kurdistan24.net/en/story/932545/pezeshkian-says-he-will-never-stand-against-irans-supreme-leader",
-   "date": "2026-08-14T20:17:00.000Z"
+   "title": "Quake kills 20+ off Indonesia’s Flores",
+   "desc": "Shafaq News- Jakarta A magnitude 7.7 earthquake struck off Indonesia&rsquo;s Flores Island on Saturday, killing at least 20 people and injuring six, while two others remained missing, according to the Maumere Search and Rescue Agency. Rescuers had yet to reach Nagekeo, the area closest to the epicenter, due to landslides blocking roads and disrupting communications. About 2,000 residents evacuated",
+   "link": "https://shafaq.com/en/World/Quake-kills-20-off-Indonesia-s-Flores",
+   "date": "2026-08-15T07:17:33.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,14 +122,6 @@
    "date": "2026-08-14T23:09:05.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Al-Anbar promotes 90,000 km2 for investment",
-   "desc": "Shafaq News- Al-Anbar Iraq&rsquo;s western desert in Al-Anbar spans about 90,000 square kilometers and offers investment opportunities across agriculture, livestock, minerals, and energy, the Al-Rutba district head told Shafaq News on Friday. Most of the western desert lies within Al-Rutba district and contains several dams, including Horan Dam, with a storage capacity of about 38 million cubic me",
-   "link": "https://shafaq.com/en/Economy/Al-Anbar-promotes-90-000-km2-for-investment",
-   "date": "2026-08-14T22:35:55.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
@@ -140,7 +140,7 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump asks Supreme Court to allow ballroom work to continue",
+   "title": "Trump asks US Supreme Court to allow ballroom work to continue",
    "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-14T19:05:22.000Z"
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
-   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
+   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; specialeurasia.com",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
    "date": "2026-08-11T12:22:53.000Z"
   },
@@ -309,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
    "date": "2026-08-11T11:27:39.000Z"
   },
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
-   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
-   "date": "2026-08-05T22:12:16.000Z"
+   "title": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination",
+   "desc": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sUzlVYVRFT1hhbjRTZnFCOVJhRDJvcHc1bjl0MGdRTjRGZUxBY2VGdWtKU2pySzNOUTFTUkJCOUZ4VTQ5QXQ0RS1IS1JYdmpGUFFwOUhR?oc=5",
+   "date": "2026-08-12T08:37:12.000Z"
   },
   {
    "src": "Tourism",
