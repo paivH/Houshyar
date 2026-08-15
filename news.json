@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T21:22:40.038Z",
+ "updated": "2026-08-15T21:46:09.799Z",
  "items": [
   {
    "src": "Rudaw",
@@ -22,8 +22,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jUk5NSFVnQTNQZWZnRU5wcFRrNzZpeFBtRWV0NUNvOW9hSlY3U2JOZjZGMUZScHNjNmQ3bE9XMDJQdHNmbzFoZ3Q1YTZQWWF1V3RKR2l4VEhRNFJ4N0RtRXRVMFg?oc=5",
-   "date": "2026-08-15T10:08:54.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sa0xqZFdPSFJIeS1NemNwb3JJNldpWHRHaDdiXzVXMmc5eDR4d3J2Tndjc1c5U3lab1hTc0o1RzFBUjVwY3dkei11d0F4a1EwbS1ERVd6NWVzTkNoLXNLVVBR?oc=5",
+   "date": "2026-08-15T10:23:31.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Baghdad eyes 10M tourists, 1.5M jobs by 2035",
+   "desc": "Shafaq News- Baghdad Iraq is targeting 10 million visitors and 1.5 million tourism-related jobs by 2035, seeking to turn its ancient heritage, religious sites and varied landscapes into a larger industry while reducing its heavy reliance on oil. The Tourism and Antiquities Authority at the Ministry of Culture, in cooperation with the German Agency for International Cooperation (GIZ), held a worksh",
+   "link": "https://shafaq.com/en/society/Baghdad-eyes-10M-tourists-1-5M-jobs-by-2035",
+   "date": "2026-08-15T21:34:59.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "FM extends condolences to Indonesia after deadly earthquakes",
    "desc": "Shafaq News- Baghdad Iraq's Foreign Ministry expressed solidarity with Indonesia on Saturday after a series of powerful earthquakes struck the country, killing at least 47 people and causing widespread destruction. The death toll rose to 47 following a magnitude 7.7 earthquake &mdash;the first of three to strike Indonesia within 24 hours&mdash; which damaged 346 homes and dozens of educational, he",
    "link": "https://shafaq.com/en/Iraq/FM-extends-condolences-to-Indonesia-after-deadly-earthquakes",
@@ -114,14 +122,6 @@
    "date": "2026-08-15T19:33:48.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Houthis fire ballistic missiles at Marib residential areas",
-   "desc": "Shafaq News- Sanaa Houthi (Ansarallah) forces fired three ballistic missiles at residential neighborhoods in Marib, a government-held city in eastern Yemen, Yemen's Armed Forces announced Saturday. Marib, one of the country's main energy-producing areas, hosts large numbers of internally displaced people who fled conflict zones elsewhere. No further details regarding casualties. Houthis did not co",
-   "link": "https://shafaq.com/en/Middle-East/Houthis-fire-ballistic-missiles-at-Marib-residential-areas",
-   "date": "2026-08-15T19:21:42.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Multiple suspects at large after five shot at Virginia State University, police say",
@@ -135,7 +135,7 @@
    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
    "desc": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-15T20:28:30.000Z"
+   "date": "2026-08-15T21:35:19.000Z"
   },
   {
    "src": "BBC",
@@ -188,8 +188,8 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-   "desc": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
+   "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
+   "desc": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
    "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
    "date": "2026-08-15T08:29:20.000Z"
   },
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
    "date": "2026-08-11T11:27:39.000Z"
   },
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
-   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
-   "date": "2026-08-05T22:12:16.000Z"
+   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
+   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
+   "date": "2026-08-12T20:05:00.000Z"
   },
   {
    "src": "Tourism",
