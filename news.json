@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T19:46:01.211Z",
+ "updated": "2026-08-15T20:24:43.777Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Kirkuk Governor Congratulates KDP on 80th Anniversary, Calls for Kurdish-Turkmen Cooperation",
+   "desc": "Iraqi Turkmen Front leader Mohammed Samaan Agha praises KDP’s role in Iraq’s political process and stresses partnership and coexistence in Kirkuk",
+   "link": "https://www.kurdistan24.net/en/story/932739/kirkuk-governor-congratulates-kdp-on-80th-anniversary-calls-for-kurdish-turkmen-cooperation",
+   "date": "2026-08-15T19:56:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Qatar Flatly Denies Iranian Claims of Holding Captive Iranian Pilots",
    "desc": "Doha issues categorical rejection of Tehran's allegations hours after an Iranian military official urged ICRC intervention over three Su-24 pilots said to have been held without contact for six months",
    "link": "https://www.kurdistan24.net/en/story/932726/qatar-flatly-denies-iranian-claims-of-holding-captive-iranian-pilots",
@@ -74,12 +82,12 @@
    "date": "2026-08-15T16:33:38.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "UAE Blames Iran for Attack on ADNOC Vessel in Strait of Hormuz",
-   "desc": "Abu Dhabi says repeated attacks on commercial shipping amount to “piracy” and vows to defend freedom of navigation in the strategic waterway",
-   "link": "https://www.kurdistan24.net/en/story/932699/uae-blames-iran-for-attack-on-adnoc-vessel-in-strait-of-hormuz",
-   "date": "2026-08-15T15:57:00.000Z"
+   "title": "Qatar rebuts allegations of capturing Iranian pilots",
+   "desc": "Shafaq News- Doha Qatar on Saturday denied holding three Iranian military pilots whose aircraft was shot down during an attempted attack on the Gulf country, rejecting an Iranian allegation that the pilots had been detained for months. Foreign Ministry spokesperson Majed Al Ansari dismissed the assertion as misleading, noting that Qatari authorities had reached out to the pilots after they violate",
+   "link": "https://shafaq.com/en/World/Qatar-rebuts-allegations-of-capturing-Iranian-pilots",
+   "date": "2026-08-15T19:51:34.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Sanaa Yemen&rsquo;s Mocha port suspended commercial and maritime operations on Saturday after more than 25 Houthi (Ansarallah) missiles struck the area in recent days, killing seven people and causing an estimated $16 million in damage, the port administration announced at a news conference. The Houthis have intensified attacks on Mocha, including ballistic missile strikes and extensi",
    "link": "https://shafaq.com/en/Middle-East/Houthi-strikes-force-Yemen-s-Mocha-port-to-suspend-operations",
    "date": "2026-08-15T18:07:47.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "PSG land World Cup winner Ferran Torres",
-   "desc": "Shafaq News- Paris Paris Saint-Germain signed Spain forward Ferran Torres from Barcelona on Saturday on a contract through 2031, with the transfer reportedly worth about $57.8 million. The 26-year-old reunites with Luis Enrique, who previously coached him with Spain, and joins the European champions after four and a half seasons at Barcelona. Bienvenue &agrave; Paris ! &#9997;&#65039;&#10084;&#650",
-   "link": "https://shafaq.com/en/sport/PSG-land-World-Cup-winner-Ferran-Torres",
-   "date": "2026-08-15T17:30:08.000Z"
   },
   {
    "src": "BBC",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Drone Attack Targets US Positions in Erbil",
-   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; IranWire",
+   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; iranwire.com",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3U4T3R3TmJSUmdfYVhhcUxxUENBTzhVZk53SHBfYW9xcG5VampIU3FJRjQ3amk2N0ZzRnlnWW5uaGRQUmZnalJsUHg0WHhGWDZFenlfRUIwQzRLcUE2RTdhUWxhek9WS2Q4RFZMNjVUTVZROVBmV0NyMmZqcmtZdEFXWV9RQQ?oc=5",
    "date": "2026-08-14T15:19:34.000Z"
   },
@@ -332,18 +332,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Drones target Erbil as attacks fuel fears of regional spillover",
-   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
-   "date": "2026-08-14T14:47:46.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
    "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
    "date": "2026-08-12T12:51:12.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Drones target Erbil as attacks fuel fears of regional spillover",
+   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
+   "date": "2026-08-14T14:47:46.000Z"
   },
   {
    "src": "Tourism",
