@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T12:40:25.269Z",
+ "updated": "2026-08-15T13:31:42.095Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "After the Coalition: Iraq's Harder Fight Over Weapons and Power",
+   "desc": "As the International Coalition's role changes, Baghdad faces a deeper challenge: dismantling the political, economic and security structures that have allowed armed power to operate alongside the state.",
+   "link": "https://www.kurdistan24.net/en/story/932664/after-the-coalition-iraqs-harder-fight-over-weapons-and-power",
+   "date": "2026-08-15T13:03:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Baghdad, Erbil Review Border Security and Smuggling Controls",
    "desc": "Iraq's National Security Advisor Qasim Aboudi and KRG Interior Minister Reber Ahmed lead federal and Kurdistan Region delegations reviewing border control, infiltration, smuggling and steps already taken under the security agreement.",
    "link": "https://www.kurdistan24.net/en/story/932660/baghdad-erbil-review-border-security-and-smuggling-controls",
@@ -74,12 +82,20 @@
    "date": "2026-08-15T11:42:33.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
-   "desc": "The 5-kilometer connector is 65% complete and expected to open by November, while plans advance to modernize the Erbil-Pirmam highway.",
-   "link": "https://www.kurdistan24.net/en/story/932630/erbil-ring-road-link-nears-completion-as-5-km-route-reaches-65",
-   "date": "2026-08-15T10:33:00.000Z"
+   "title": "Turkmen bloc urges expanding Yazidi Survivors Law protections",
+   "desc": "Shafaq News- Baghdad Iraqi Turkmen Front parliamentary bloc leader Ersat Salihi called on Saturday for amendments to the Yazidi Survivors Law to extend its protections to Turkmen, Shabak, Christian, and other children abducted or abused by ISIS. Salihi argued that the current law excludes many Turkmen children taken from Tal Afar, including girls and boys who were under 18 at the time. He urged Pa",
+   "link": "https://shafaq.com/en/Iraq/Turkmen-bloc-urges-expanding-Yazidi-Survivors-Law-protections",
+   "date": "2026-08-15T13:30:25.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iranian national arrested over driver’s killing in Iraq",
+   "desc": "Shafaq News- Al-Anbar/ Karbala Iraqi security forces arrested an Iranian national on Saturday over the killing of a driver from Al-Anbar following a dispute over the fare, a security source told Shafaq News. The suspect had been traveling toward Al-Rutba in western Al-Anbar but was denied entry at Al-Suqour checkpoint on the Baghdad-Al-Anbar road. While returning toward Baghdad, he became involved",
+   "link": "https://shafaq.com/en/Security/Iranian-national-arrested-over-driver-s-killing-in-Iraq",
+   "date": "2026-08-15T13:02:53.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq&rsquo;s U19 women&rsquo;s table tennis team won gold at the West Asia Championships in Amman on Saturday, with Nasma Moayad, Barin Shakhwan, and Athmar Aqeel representing the title-winning side. Iraq remains in contention across several other categories, with the U15 team set to face Saudi Arabia in the final, the U13 boys and men&rsquo;s teams reaching the semifinals, an",
    "link": "https://shafaq.com/en/sport/West-Asia-gold-for-Iraq-U19-women-in-table-tennis",
    "date": "2026-08-15T11:50:20.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran detains two French diplomats over \"interference\"",
-   "desc": "Shafaq News- Tehran Iran's Intelligence Ministry announced on Saturday the detention of two French diplomats over alleged interference in the country's internal affairs, saying documents linked to a suspected espionage operation bore the signature of France's former ambassador to Tehran. In a statement carried by Iranian media, the ministry said the diplomats were found at the site of a secret mee",
-   "link": "https://shafaq.com/en/World/Iran-detains-two-French-diplomats-over-alleged-interference",
-   "date": "2026-08-15T11:12:38.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "New Israeli strike lifts Lebanon death toll to 11",
-   "desc": "Shafaq News- Beirut Israel killed four people and wounded nine in an airstrike on Deir Al-Zahrani on Saturday, Lebanon&rsquo;s Health Ministry reported, bringing the day&rsquo;s toll to at least 11 dead and 11 injured. The ministry confirmed earlier today that an Israeli strike on Ansar killed seven people, including three children and two women, and wounded two others. Lebanese media also reporte",
-   "link": "https://shafaq.com/en/Middle-East/New-Israeli-strike-lifts-Lebanon-death-toll-to-11",
-   "date": "2026-08-15T10:27:08.000Z"
   },
   {
    "src": "BBC",
@@ -308,6 +308,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
+   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NTNXlIUk5XcmFZNmg1LTBUNDRiWmZVeDFiZFdHTHdHSk92cGNwa285aHp1aVhEbnV3bVc5amdTazVRdmdTXzd0NndTZ29TMHkxWTRBaXE1ODZHcXZ1MVBTbHU2aTdkaXhRWVkzMFN4VzAxTzBUYkltX0FHT0V4MnJYalFyZlJMOHlEZnRQclBwNUdjWHg3ODlGcl9vNXo3LUxvUU5YUVVhQQ?oc=5",
+   "date": "2026-08-15T10:23:23.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
    "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
@@ -325,7 +333,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
-   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
+   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; jinhaagency.com",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
    "date": "2026-08-12T12:51:12.000Z"
   },
