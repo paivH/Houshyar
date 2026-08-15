@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T10:24:40.465Z",
+ "updated": "2026-08-15T10:48:58.073Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,8 +44,24 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "President Barzani, Iraqi National Security Advisor Discuss Security Coordination",
-   "desc": "The talks covered border control, maintaining security and stability, and strengthening security cooperation, including intelligence sharing to prevent smuggling and combat terrorism.",
+   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
+   "desc": "The 5-kilometer connector is 65% complete and expected to open by November, while plans advance to modernize the Erbil-Pirmam highway.",
+   "link": "https://www.kurdistan24.net/en/story/932630/erbil-ring-road-link-nears-completion-as-5-km-route-reaches-65",
+   "date": "2026-08-15T10:33:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Wadi Al-Qiyamah Becomes a Summer Haven in Kurdistan Region",
+   "desc": "Wadi Al-Qiyamah (Valley of Judgment), has become a popular summer destination for families from across Kurdistan and central and southern Iraq.",
+   "link": "https://www.kurdistan24.net/en/story/932629/wadi-al-qiyamah-becomes-a-summer-haven-in-kurdistan-region",
+   "date": "2026-08-15T10:23:23.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "President Barzani, Iraq Security Advisor Discuss Regional Threats and Border Security",
+   "desc": "The talks in Erbil focused on regional developments, border control, intelligence sharing and closer security coordination between Baghdad and the Kurdistan Region.",
    "link": "https://www.kurdistan24.net/en/story/932623/president-barzani-iraqi-national-security-advisor-discuss-security-coordination",
    "date": "2026-08-15T10:00:00.000Z"
   },
@@ -66,20 +82,12 @@
    "date": "2026-08-15T09:13:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq's Arms Dispute Takes a 'Quid Pro Quo' Turn in Political Ads",
-   "desc": "A government campaign urges armed factions to hand over their weapons, while a PMF video projects military strength as Baghdad's push for state control reaches a critical stage.",
-   "link": "https://www.kurdistan24.net/en/story/932608/iraqs-arms-dispute-takes-a-quid-pro-quo-turn-in-political-ads",
-   "date": "2026-08-15T08:53:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq Security Chief in Erbil for Talks on Border Pact and Drone Attacks",
-   "desc": "Qasim Aboudi is set to meet senior Kurdistan Region officials on the Erbil-Baghdad-Tehran security agreement, border arrangements, recent drone attacks and protection of energy facilities.",
-   "link": "https://www.kurdistan24.net/en/story/932594/iraq-security-chief-in-erbil-for-talks-on-border-pact-and-drone-attacks",
-   "date": "2026-08-15T08:08:00.000Z"
+   "title": "New Israeli strike lifts Lebanon death toll to 11",
+   "desc": "Shafaq News- Beirut Israel killed four people and wounded nine in an airstrike on Deir Al-Zahrani on Saturday, Lebanon&rsquo;s Health Ministry reported, bringing the day&rsquo;s toll to at least 11 dead and 11 injured. The ministry confirmed earlier today that an Israeli strike on Ansar killed seven people, including three children and two women, and wounded two others. Lebanese media also reporte",
+   "link": "https://shafaq.com/en/Middle-East/New-Israeli-strike-lifts-Lebanon-death-toll-to-11",
+   "date": "2026-08-15T10:27:08.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Kyiv/ Moscow A Russian drone strike killed a three-month-old boy and wounded 11 people in Marhanets, Dnipropetrovsk region overnight into Saturday, according to Ukrainian media. The drone hit a residential high-rise, injuring two children aged five and 12. Seven people were hospitalized in serious condition. Ukraine&rsquo;s Air Force reported that Russia launched 152 drones and other ",
    "link": "https://shafaq.com/en/World/Russia-and-Ukraine-trade-nearly-750-drone-attacks",
    "date": "2026-08-15T08:45:11.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "First Iraqi deep-water drug raid busts international network",
-   "desc": "Shafaq News- Baghdad Security forces dismantled an international drug-trafficking network in the country&rsquo;s first anti-narcotics operation conducted deep inside Iraqi territorial waters, the Interior Ministry said on Saturday. The 16-hour mission began at Umm Qasr Naval Base after several days of surveillance near the maritime border with a neighboring country, resulting in the arrest of thre",
-   "link": "https://shafaq.com/en/Security/First-Iraqi-deep-water-drug-raid-busts-international-network",
-   "date": "2026-08-15T08:16:18.000Z"
   },
   {
    "src": "BBC",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
@@ -314,14 +314,6 @@
    "date": "2026-08-11T11:27:39.000Z"
   },
   {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Iraq: from agricultural knowledge to business",
-   "desc": "Iraq: from agricultural knowledge to business &nbsp;&nbsp; Agroberichten Buitenland",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFJpMnhHeHZVMFNJVVVlR0JzcDBsY293XzQ3WV9tS0NiN1RuVHppdGRKUVdEV2RGdEpCM0lwTnoyS0MyVDFWaVZoeHpvSW9teEtCQkh0X1pjeWNmSC1IblVTM2t0dFJGazRBakNyOUVUZS1tTGVjWGczcHRfRGp3LTA3R3NRelI5VkVITUxyeUNvbW93QlNvSWRjcXEyZTlkb0hYZS12SVRibUo3eEE?oc=5",
-   "date": "2026-08-14T07:17:10.000Z"
-  },
-  {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation",
@@ -344,14 +336,6 @@
    "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
    "date": "2026-08-14T14:47:46.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination",
-   "desc": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sUzlVYVRFT1hhbjRTZnFCOVJhRDJvcHc1bjl0MGdRTjRGZUxBY2VGdWtKU2pySzNOUTFTUkJCOUZ4VTQ5QXQ0RS1IS1JYdmpGUFFwOUhR?oc=5",
-   "date": "2026-08-12T08:37:12.000Z"
   },
   {
    "src": "Tourism",
