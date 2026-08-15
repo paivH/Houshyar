@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T01:20:09.321Z",
+ "updated": "2026-08-15T02:33:49.423Z",
  "items": [
   {
    "src": "Rudaw",
@@ -36,10 +36,10 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Watchdog raises alarm over continuation of torture, forced confessions in Syria",
-   "desc": "Watchdog raises alarm over continuation of torture, forced confessions in Syria &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kX1ZPN2k0bDhfZDQ3NEhTLXAwWjd2aTQtUVRvU1JmNFNWODFBU0ZYLVVCeGk2RkFHbE0wWUhwZzJNT1hjX0s5cVJ4UjcxOUxNV1hZd05RX0Fwb3FaV0xpTFRnSQ?oc=5",
-   "date": "2026-08-14T20:28:07.000Z"
+   "title": "Trump says will declare Strait of Hormuz ‘US territory’",
+   "desc": "Trump says will declare Strait of Hormuz ‘US territory’ &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RNFpKaVNEcERRNjBETDJYTlJJWE01SEMtSFNjaDdiUDNiR2dHZVA5eHktaW5ka3FaZ1FqSC1tNzhMQVVQT0hJTmRHRXpKNmRGZUYxVWxPZnZLSkI1djdFc3JmUWd1QQ?oc=5",
+   "date": "2026-08-14T20:54:07.000Z"
   },
   {
    "src": "K24",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+   "desc": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+   "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-14T19:20:43.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
    "desc": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
    "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
@@ -140,26 +148,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+   "desc": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+   "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-14T23:16:43.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
    "desc": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-14T17:36:27.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US missionary released following kidnap in Niger, Christian group says",
-   "desc": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
-   "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-14T10:18:02.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Selena Gomez sued for alleged fraud over mental health company",
-   "desc": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
-   "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-14T11:32:05.000Z"
   },
   {
    "src": "NPR",
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
-   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
+   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; specialeurasia.com",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
    "date": "2026-08-11T12:22:53.000Z"
   },
@@ -325,7 +325,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation",
-   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
+   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; timesofindia.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T10:14:10.000Z"
   },
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
-   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
-   "date": "2026-08-05T22:12:16.000Z"
+   "title": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination",
+   "desc": "Kurdistan Region Tourism Projects Set to Transform Rawanduz Into Year-Round Destination &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sUzlVYVRFT1hhbjRTZnFCOVJhRDJvcHc1bjl0MGdRTjRGZUxBY2VGdWtKU2pySzNOUTFTUkJCOUZ4VTQ5QXQ0RS1IS1JYdmpGUFFwOUhR?oc=5",
+   "date": "2026-08-12T08:37:12.000Z"
   },
   {
    "src": "Tourism",
