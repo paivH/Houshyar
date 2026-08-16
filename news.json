@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T20:24:18.537Z",
+ "updated": "2026-08-16T20:49:20.078Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sa0xqZFdPSFJIeS1NemNwb3JJNldpWHRHaDdiXzVXMmc5eDR4d3J2Tndjc1c5U3lab1hTc0o1RzFBUjVwY3dkei11d0F4a1EwbS1ERVd6NWVzTkNoLXNLVVBR?oc=5",
-   "date": "2026-08-15T10:23:31.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LbHpGeXg1TGhRdUFNVHlSRWdsNW1sNUh4NU92NHJ6Z1hXNDNWUVNOOXlSOHoyTU40dkpJYWZQODg1SmplTEt5d1NuT25wcFB5WFpDN1dSTU42YzZJbXR1US1sbw?oc=5",
+   "date": "2026-08-16T06:46:34.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Hamas backs roadmap for second phase of Trump’s Gaza plan",
+   "desc": "Shafaq News- Cairo Hamas has approved a roadmap for the second phase of US President Donald Trump&rsquo;s Gaza plan following Egyptian-sponsored talks with mediators and guarantors of the ceasefire agreement, the group said on Sunday. In a statement, Hamas said the proposal, presented by Peace Council's high representative Nikolay Mladenov and the mediators, sets out steps for implementing the nex",
+   "link": "https://shafaq.com/en/Middle-East/Hamas-backs-roadmap-for-second-phase-of-Trump-s-Gaza-plan",
+   "date": "2026-08-16T20:45:14.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "State of Law proposes separating US troop withdrawal from disarmament",
+   "desc": "Shafaq News- Baghdad The State of Law Coalition, headed by former PM Nouri Al-Maliki, has proposed separating the withdrawal of US forces from Iraq from efforts to bring weapons held by armed factions under state control, a source in the Coordination Framework told Shafaq News on Sunday. The source said the proposal would separate the two processes by at least a short interval to &ldquo;send messa",
+   "link": "https://shafaq.com/en/Iraq/State-of-Law-proposes-separating-US-troop-withdrawal-from-disarmament",
+   "date": "2026-08-16T20:27:14.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Former Iraqi FA chief criticizes stadium licensing",
    "desc": "Shafaq News- Baghdad The former president of the Iraqi Football Association, Hussein Saeed, said on Saturday that the licensing committee failed in its duties during the opening round of the Iraq Stars League, after clearing two stadiums he considered unfit to host matches. Saeed told Shafaq News that the pitches at the Diyala and Zakho stadiums were in poor condition and not suitable for competit",
    "link": "https://shafaq.com/en/sport/Former-Iraqi-FA-chief-criticizes-stadium-licensing",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News Salem (pseudonym) thought he had finally made it. The Iraqi man, now in his 50s, had found a good job in Germany, secured a home and managed to overcome an addiction that had once troubled him. For the first time in years, his life appeared to be settling into something close to normal, with the routine and stability that suggested the hardest part of starting over might be behind him.",
    "link": "https://shafaq.com/en/Report/Refugees-in-Germany-Work-alone-cannot-ensure-integration",
    "date": "2026-08-16T19:28:36.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Egypt resumes entry of empty Iraqi trucks",
-   "desc": "Shafaq News- Baghdad/ Cairo Egypt has resumed allowing empty Iraqi trucks to enter the country after a two-week suspension imposed on Aug. 1, Iraqi authorities stated on Sunday, with outstanding procedures set to be discussed at technical talks between Baghdad and Cairo in September. Iraq's embassy in Cairo confirmed the Egyptian approval, while the Transport Ministry said privately operated Iraqi",
-   "link": "https://shafaq.com/en/Economy/Egypt-resumes-entry-of-empty-Iraqi-trucks-8",
-   "date": "2026-08-16T19:09:21.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqis among up to 8,000 migrants stranded in Spain’s Ceuta",
-   "desc": "Shafaq News- Madrid Iraqis are among an estimated 5,000 to 8,000 migrants stranded in Spain's North African enclave of Ceuta, where thousands from the Middle East, North Africa, sub-Saharan Africa and South Asia remain caught in an unresolved asylum and reception crisis more than two weeks after a mass crossing from Morocco. Ceuta and Melilla, Spain's two autonomous cities in North Africa, form th",
-   "link": "https://shafaq.com/en/World/Iraqis-among-up-to-8-000-migrants-stranded-in-Spain-s-Ceuta",
-   "date": "2026-08-16T18:46:33.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+   "desc": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
+   "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+   "date": "2026-08-16T20:20:22.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "A good – and bad – week for Italy's art police and museum security",
    "desc": "On Friday, Italian police said they'd recovered three paintings stolen from a museum near the city of Parma. By Saturday night, thieves in Sicily had made off with four more masterpieces.",
    "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
@@ -192,14 +200,6 @@
    "desc": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
    "date": "2026-08-15T18:21:32.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-   "desc": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
-   "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-   "date": "2026-08-15T17:04:43.000Z"
   },
   {
    "src": "BBC ME",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
-   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; specialeurasia.com",
+   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
    "date": "2026-08-11T12:22:53.000Z"
   },
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis",
-   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; jpost.com",
+   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
    "date": "2026-08-16T14:28:53.000Z"
   },
@@ -309,7 +309,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation",
-   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
+   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; timesofindia.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T10:14:10.000Z"
   },
