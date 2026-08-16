@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T15:23:44.336Z",
+ "updated": "2026-08-16T15:47:54.786Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Saudi Arabia Warns of Potential Danger in Jazan as Houthi Attacks Escalate",
+   "desc": "Civil defense alert comes amid renewed Houthi attacks on Saudi energy facilities and fears that Yemen’s fragile truce could collapse into full-scale war",
+   "link": "https://www.kurdistan24.net/en/story/932931/saudi-arabia-warns-of-potential-danger-in-jazan-as-houthi-attacks-escalate",
+   "date": "2026-08-16T15:42:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "KRG Accelerates Agricultural Modernization as Exports Expand",
    "desc": "Qaraman Qadir, spokesperson for the Ministry of Agriculture and Water Resources, told Kurdistan24 that the use of no-till farming has expanded significantly across the Kurdistan Region.",
    "link": "https://www.kurdistan24.net/en/story/932923/krg-accelerates-agricultural-modernization-as-exports-expand",
@@ -74,12 +82,12 @@
    "date": "2026-08-16T13:04:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "SDF, YPG Set for Dissolution as Damascus Integration Nears",
-   "desc": "Senior SDF official Mahmoud Barkhodan says 99% of outstanding issues with Damascus have been resolved, with thousands of fighters already integrated into Syria’s army.",
-   "link": "https://www.kurdistan24.net/en/story/932894/sdf-ypg-set-for-dissolution-as-damascus-integration-nears",
-   "date": "2026-08-16T12:40:00.000Z"
+   "title": "New Al-Muthanna council alliance revives bid to question governor",
+   "desc": "Shafaq News- Al-Muthanna Seven members of Iraq's Al-Muthanna Provincial Council have formed a new two-bloc alliance that is expected to be formally announced on Aug. 18, a source told Shafaq News on Sunday. The alliance brings together a three-member bloc and a four-member bloc, with the backing of Badr Organization leader Hadi al-Amiri and Asaib Ahl al-Haq leader Qais al-Khazali. According to the",
+   "link": "https://shafaq.com/en/Iraq/New-Al-Muthanna-council-alliance-revives-bid-to-question-governor",
+   "date": "2026-08-16T15:41:38.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Sunday&rsquo;s trading lower in Iraq, hovering around 153,700 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 153,850 dinars per 100 dollars, up from the morning session&rsquo;s 153,100 dinars. In the Iraqi capital, exchange shops sold the dollar at 154,250 dinar",
    "link": "https://shafaq.com/en/Economy/USD-rates-climb-in-Baghdad-Erbil",
    "date": "2026-08-16T13:30:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Exclusive: SDF, YPG to be dissolved by August-end",
-   "desc": "Shafaq News- Damascus The integration of the Syrian Democratic Forces (SDF)-controlled Autonomous Administration institutions into the Syrian state has entered its final stages, with the SDF and People's Protection Units (YPG) potentially dissolved before the end of August, Syrian lawmaker Mustafa Abdi told Shafaq News on Sunday. Abdi, a member of the presidential team overseeing the SDF integrati",
-   "link": "https://shafaq.com/en/Middle-East/Exclusive-SDF-YPG-to-be-dissolved-by-August-end",
-   "date": "2026-08-16T13:16:50.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "What really happened in Ceuta? Why we may never find out",
+   "desc": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30.",
+   "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
+   "date": "2026-08-16T15:38:22.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
    "desc": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
    "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
@@ -192,14 +200,6 @@
    "desc": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
    "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
    "date": "2026-08-15T09:00:00.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 51",
-   "desc": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
-   "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-   "date": "2026-08-15T08:29:20.000Z"
   },
   {
    "src": "BBC ME",
@@ -308,18 +308,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
-   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NTNXlIUk5XcmFZNmg1LTBUNDRiWmZVeDFiZFdHTHdHSk92cGNwa285aHp1aVhEbnV3bVc5amdTazVRdmdTXzd0NndTZ29TMHkxWTRBaXE1ODZHcXZ1MVBTbHU2aTdkaXhRWVkzMFN4VzAxTzBUYkltX0FHT0V4MnJYalFyZlJMOHlEZnRQclBwNUdjWHg3ODlGcl9vNXo3LUxvUU5YUVVhQQ?oc=5",
-   "date": "2026-08-15T13:50:36.000Z"
+   "title": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis",
+   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; jpost.com",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
+   "date": "2026-08-16T14:28:53.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Attacks on Kurdistan expose Baghdad’s struggle to control Iran-backed militias - analysis",
-   "desc": "Attacks on Kurdistan expose Baghdad’s struggle to control Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
-   "date": "2026-08-16T13:55:36.000Z"
+   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
+   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NTNXlIUk5XcmFZNmg1LTBUNDRiWmZVeDFiZFdHTHdHSk92cGNwa285aHp1aVhEbnV3bVc5amdTazVRdmdTXzd0NndTZ29TMHkxWTRBaXE1ODZHcXZ1MVBTbHU2aTdkaXhRWVkzMFN4VzAxTzBUYkltX0FHT0V4MnJYalFyZlJMOHlEZnRQclBwNUdjWHg3ODlGcl9vNXo3LUxvUU5YUVVhQQ?oc=5",
+   "date": "2026-08-15T13:50:36.000Z"
   },
   {
    "src": "Tourism",
@@ -333,7 +333,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
-   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; jinhaagency.com",
+   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
    "date": "2026-08-12T12:51:12.000Z"
   },
