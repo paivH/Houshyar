@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T16:27:14.267Z",
+ "updated": "2026-08-16T16:53:20.567Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sa0xqZFdPSFJIeS1NemNwb3JJNldpWHRHaDdiXzVXMmc5eDR4d3J2Tndjc1c5U3lab1hTc0o1RzFBUjVwY3dkei11d0F4a1EwbS1ERVd6NWVzTkNoLXNLVVBR?oc=5",
-   "date": "2026-08-15T10:23:31.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LbHpGeXg1TGhRdUFNVHlSRWdsNW1sNUh4NU92NHJ6Z1hXNDNWUVNOOXlSOHoyTU40dkpJYWZQODg1SmplTEt5d1NuT25wcFB5WFpDN1dSTU42YzZJbXR1US1sbw?oc=5",
+   "date": "2026-08-16T06:46:34.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Political interference blocked Sunni Endowment leadership shift in Diyala",
+   "desc": "Shafaq News- Diyala The Sunni Endowment has reversed a decision to replace its director in Iraq&rsquo;s Diyala province, a source told Shafaq News on Sunday, citing political intervention. The reversal allows Majid al-Nadawi to remain in the post after Saleh Mohammed al-Harbi had been appointed as his successor. The Sunni Endowment is the Iraqi government body responsible for managing Sunni Muslim",
+   "link": "https://shafaq.com/en/society/Political-interference-blocked-Sunni-Endowment-leadership-shift-in-Diyala",
+   "date": "2026-08-16T16:47:05.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iranian delegation in Baghdad target faster trade",
+   "desc": "Shafaq News- Baghdad/ Tehran Iraq and Iran plan to increase bilateral trade, facilitate the flow of goods, and expand economic and investment cooperation, Iraqi Trade Minister Mustafa Nizar Al-Ani said during a meeting with an Iranian delegation in Baghdad on Sunday. Al-Ani said stronger ties with Iran could support Iraq&rsquo;s economy and create new opportunities for private companies and busine",
+   "link": "https://shafaq.com/en/Economy/Iranian-delegation-in-Baghdad-target-faster-trade",
+   "date": "2026-08-16T16:34:15.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Arsenal stun Man City 3-0 to win Community Shield",
    "desc": "Shafaq News- Cardiff Arsenal opened the 2026/27 campaign by beating Manchester City 3-0 in the Community Shield on Sunday, claiming the season&rsquo;s first domestic trophy with a dominant performance. The Community Shield is OURS &#127942; pic.twitter.com/DH7uzHkMvK &mdash; Arsenal (@Arsenal) August 16, 2026 Riccardo Calafiori scored after just 24 seconds, converting Myles Lewis-Skelly&rsquo;s pa",
    "link": "https://shafaq.com/en/sport/Arsenal-stun-Man-City-3-0-to-win-Community-Shield",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq seeks closer economic engagement with Italy and other European Union countries and access to advanced Italian technologies in energy, agriculture, and industry, Prime Minister Ali Falih Al-Zaidi said on Sunday. During a meeting with Italian Ambassador to Iraq Niccolo Fontana, the prime minister invited Italian companies to contribute to Iraq&rsquo;s development projects, ",
    "link": "https://shafaq.com/en/Iraq/Baghdad-invites-Italian-companies-to-expand-investment",
    "date": "2026-08-16T15:00:07.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Ex-Saladin governor gets 7 years for corruption",
-   "desc": "Shafaq News- Baghdad A former governor of Iraq&rsquo;s Saladin province was sentenced in absentia to seven years in prison for illicit enrichment and fined 1.728 billion Iraqi dinars ($1.32 million), the Federal Integrity Commission reported on Sunday. The Central Anti-Corruption Criminal Court convicted Ammar Jabr Khalil Abdul Hamid under Iraq&rsquo;s Integrity Commission Law, requiring him to re",
-   "link": "https://shafaq.com/en/society/Ex-Saladin-governor-gets-7-years-for-corruption",
-   "date": "2026-08-16T14:30:47.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran offers $30K bounty for killing, capturing US troops",
-   "desc": "Shafaq News- Tehran Iran&rsquo;s Army Commander-in-Chief Maj. Gen. Amir Hatami on Sunday announced a $30,000 reward for anyone who kills or captures and hands over any &ldquo;aggressor&rdquo; US service member, with the amount doubled if carried out by a woman. Speaking at a ceremony honoring journalists, Hatami called for US forces to leave the region, claiming Washington could no longer &ldquo;r",
-   "link": "https://shafaq.com/en/Middle-East/Iran-offers-30K-bounty-for-killing-capturing-US-troops",
-   "date": "2026-08-16T13:56:09.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "A good – and bad – week for Italy's art police and museum security",
+   "desc": "On Friday, Italian police said they'd recovered three paintings stolen from a museum near the city of Parma. By Saturday night, thieves in Sicily had made off with four more masterpieces.",
+   "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+   "date": "2026-08-16T16:27:54.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "What really happened in Ceuta? Why we may never find out",
    "desc": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30.",
    "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
@@ -192,14 +200,6 @@
    "desc": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
    "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
    "date": "2026-08-15T17:04:43.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-   "desc": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
-   "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
-   "date": "2026-08-15T09:00:00.000Z"
   },
   {
    "src": "BBC ME",
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
-   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
+   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; specialeurasia.com",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
    "date": "2026-08-11T12:22:53.000Z"
   },
@@ -357,7 +357,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s largest laser fountain to open in Zakho within months",
-   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; thenewregion.com",
+   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
    "date": "2026-08-07T07:04:14.000Z"
   }
