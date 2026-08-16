@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:32:54.285Z",
+ "updated": "2026-08-16T14:25:13.257Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Iran offers $30K bounty for killing, capturing US troops",
+   "desc": "Shafaq News- Tehran Iran&rsquo;s Army Commander-in-Chief Maj. Gen. Amir Hatami on Sunday announced a $30,000 reward for anyone who kills or captures and hands over any &ldquo;aggressor&rdquo; US service member, with the amount doubled if carried out by a woman. Speaking at a ceremony honoring journalists, Hatami called for US forces to leave the region, claiming Washington could no longer &ldquo;r",
+   "link": "https://shafaq.com/en/Middle-East/Iran-offers-30K-bounty-for-killing-capturing-US-troops",
+   "date": "2026-08-16T13:56:09.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "USD rates climb in Baghdad, Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Sunday&rsquo;s trading lower in Iraq, hovering around 153,700 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 153,850 dinars per 100 dollars, up from the morning session&rsquo;s 153,100 dinars. In the Iraqi capital, exchange shops sold the dollar at 154,250 dinar",
+   "link": "https://shafaq.com/en/Economy/USD-rates-climb-in-Baghdad-Erbil",
+   "date": "2026-08-16T13:30:18.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Exclusive: SDF, YPG to be dissolved by August-end",
    "desc": "Shafaq News- Damascus The integration of the Syrian Democratic Forces (SDF)-controlled Autonomous Administration institutions into the Syrian state has entered its final stages, with the SDF and People's Protection Units (YPG) potentially dissolved before the end of August, Syrian lawmaker Mustafa Abdi told Shafaq News on Sunday. Abdi, a member of the presidential team overseeing the SDF integrati",
    "link": "https://shafaq.com/en/Middle-East/Exclusive-SDF-YPG-to-be-dissolved-by-August-end",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Al-Sulaymaniyah The KDP and PUK are preparing for a high-level meeting as negotiations over forming the Kurdistan Region's new government and filling key parliamentary posts move closer to an agreement, senior KDP official Ali Hussein said on Sunday. In a press conference, Hussein, who heads the KDP's organizational office in Al-Sulaymaniyah and Halabja, urged the two parties to put p",
    "link": "https://shafaq.com/en/Kurdistan/KDP-PUK-leaders-to-meet-amid-KRI-government-talks",
    "date": "2026-08-16T12:35:43.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Fire destroys 10 tents at Duhok's Shariya camp",
-   "desc": "Shafaq News- Duhok A fire tore through 10 tents at Shariya displacement camp in Iraqi Kurdistan&rsquo;s Duhok province on Sunday, causing &ldquo;extensive&rdquo; property damage but no injuries, a local official told Shafaq News. Shivan Issa from the province&rsquo;s Migration and Displacement Directorate media office told Shafaq News that the civil defense teams extinguished the blaze and prevent",
-   "link": "https://shafaq.com/en/Kurdistan/Fire-destroys-10-tents-at-Duhok-s-Shariya-camp",
-   "date": "2026-08-16T12:06:38.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "SCOOP: Iraq in talks with US-Iran over Hormuz oil shipments",
-   "desc": "Shafaq News- Baghdad Iraq is holding direct talks with the United States and Iran to secure uninterrupted passage for tankers carrying Iraqi crude through the Strait of Hormuz, lawmaker Zainab al-Khazraji told Shafaq News on Sunday. Al-Khazraji, a member of parliament's Oil, Gas, and Natural Resources Committee, said Baghdad was engaging both sides because different shipping routes through the str",
-   "link": "https://shafaq.com/en/Economy/SCOOP-Iraq-in-talks-with-US-Iran-over-Hormuz-oil-shipments",
-   "date": "2026-08-16T11:52:58.000Z"
   },
   {
    "src": "BBC",
@@ -156,10 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump asks US Supreme Court to allow ballroom work to continue",
-   "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-   "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-14T19:05:22.000Z"
+   "title": "BBC seeks to subpoena family members in Panorama lawsuit",
+   "desc": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
+   "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-16T00:11:03.000Z"
   },
   {
    "src": "NPR",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; aljazeera.com",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
   },
@@ -308,18 +308,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
-   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; kurdistan24.net",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NTNXlIUk5XcmFZNmg1LTBUNDRiWmZVeDFiZFdHTHdHSk92cGNwa285aHp1aVhEbnV3bVc5amdTazVRdmdTXzd0NndTZ29TMHkxWTRBaXE1ODZHcXZ1MVBTbHU2aTdkaXhRWVkzMFN4VzAxTzBUYkltX0FHT0V4MnJYalFyZlJMOHlEZnRQclBwNUdjWHg3ODlGcl9vNXo3LUxvUU5YUVVhQQ?oc=5",
-   "date": "2026-08-15T13:50:36.000Z"
+   "title": "Attacks on Kurdistan expose Baghdad’s struggle to control Iran-backed militias - analysis",
+   "desc": "Attacks on Kurdistan expose Baghdad’s struggle to control Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
+   "date": "2026-08-16T13:55:36.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
-   "date": "2026-08-11T11:27:39.000Z"
+   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
+   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; kurdistan24.net",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NTNXlIUk5XcmFZNmg1LTBUNDRiWmZVeDFiZFdHTHdHSk92cGNwa285aHp1aVhEbnV3bVc5amdTazVRdmdTXzd0NndTZ29TMHkxWTRBaXE1ODZHcXZ1MVBTbHU2aTdkaXhRWVkzMFN4VzAxTzBUYkltX0FHT0V4MnJYalFyZlJMOHlEZnRQclBwNUdjWHg3ODlGcl9vNXo3LUxvUU5YUVVhQQ?oc=5",
+   "date": "2026-08-15T13:50:36.000Z"
   },
   {
    "src": "Tourism",
@@ -341,7 +341,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Drones target Erbil as attacks fuel fears of regional spillover",
-   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
+   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; newarab.com",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
    "date": "2026-08-14T14:47:46.000Z"
   },
