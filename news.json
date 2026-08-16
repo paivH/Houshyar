@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T14:49:48.495Z",
+ "updated": "2026-08-16T15:23:44.336Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "KRG Accelerates Agricultural Modernization as Exports Expand",
+   "desc": "Qaraman Qadir, spokesperson for the Ministry of Agriculture and Water Resources, told Kurdistan24 that the use of no-till farming has expanded significantly across the Kurdistan Region.",
+   "link": "https://www.kurdistan24.net/en/story/932923/krg-accelerates-agricultural-modernization-as-exports-expand",
+   "date": "2026-08-16T15:17:44.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kushner to Meet Hamas Leadership in Egypt as Trump Pushes Gaza Peace Plan",
+   "desc": "Trump envoy to hold talks with Hamas officials alongside Egyptian and Qatari mediators before traveling to Israel for a meeting with Netanyahu",
+   "link": "https://www.kurdistan24.net/en/story/932925/kushner-to-meet-hamas-leadership-in-egypt-as-trump-pushes-gaza-peace-plan",
+   "date": "2026-08-16T15:14:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Maliki Congratulates KDP on 80th Anniversary, Hails Its Struggle Against Dictatorship",
    "desc": "State of Law Coalition leader praises the party’s historic resistance to authoritarian rule and calls for stronger national partnership in Iraq",
    "link": "https://www.kurdistan24.net/en/story/932915/maliki-congratulates-kdp-on-80th-anniversary-hails-its-struggle-against-dictatorship",
@@ -66,20 +82,12 @@
    "date": "2026-08-16T12:40:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Moahmed Shia Al-Sudani Congratulates KDP on 80th Anniversary, Calls for Stronger Baghdad-Erbil Partnership Built on Trust",
-   "desc": "Former Iraqi Prime Minister honors the KDP's decades-long political journey and its role in combating dictatorship, calling national partnership, dialogue, and the constitution the pillars of Iraq's stability at a critical moment",
-   "link": "https://www.kurdistan24.net/en/story/932893/moahmed-shia-al-sudani-congratulates-kdp-on-80th-anniversary-calls-for-stronger-baghdad-erbil-partnership-built-on-trust",
-   "date": "2026-08-16T12:33:16.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Germany Tightens Syrian Asylum Reviews, Revokes More Protection",
-   "desc": "DW reports that 23.2% of protection reviews in Germany ended in revocation or withdrawal in the first half of 2026, up sharply from previous years.",
-   "link": "https://www.kurdistan24.net/en/story/932880/germany-tightens-syrian-asylum-reviews-revokes-more-protection",
-   "date": "2026-08-16T11:38:00.000Z"
+   "title": "Baghdad invites Italian companies to expand investment",
+   "desc": "Shafaq News- Baghdad Iraq seeks closer economic engagement with Italy and other European Union countries and access to advanced Italian technologies in energy, agriculture, and industry, Prime Minister Ali Falih Al-Zaidi said on Sunday. During a meeting with Italian Ambassador to Iraq Niccolo Fontana, the prime minister invited Italian companies to contribute to Iraq&rsquo;s development projects, ",
+   "link": "https://shafaq.com/en/Iraq/Baghdad-invites-Italian-companies-to-expand-investment",
+   "date": "2026-08-16T15:00:07.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,20 +122,12 @@
    "date": "2026-08-16T13:16:50.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Fuel-smuggling network busted in Iraq’s Al-Muthanna",
-   "desc": "Shafaq News- Al-Muthanna Iraq&rsquo;s National Security Service (INSS) on Sunday arrested several suspects in the southwestern Al-Muthanna province as part of a network allegedly involved in smuggling petroleum products, a source told Shafaq News. The operation also uncovered materials and equipment linked to the suspected smuggling activity . On August 7, the INSS announced separate anti-smugglin",
-   "link": "https://shafaq.com/en/Security/Fuel-smuggling-network-busted-in-Iraq-s-Al-Muthanna",
-   "date": "2026-08-16T12:49:45.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "desc": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+   "title": "Teenager arrested in Virginia State University shooting that injured five",
+   "desc": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-15T19:34:22.000Z"
+   "date": "2026-08-16T15:22:50.000Z"
   },
   {
    "src": "BBC",
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
-   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; specialeurasia.com",
+   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
    "date": "2026-08-11T12:22:53.000Z"
   },
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Drone Attack Targets US Positions in Erbil",
-   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; iranwire.com",
+   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; IranWire",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3U4T3R3TmJSUmdfYVhhcUxxUENBTzhVZk53SHBfYW9xcG5VampIU3FJRjQ3amk2N0ZzRnlnWW5uaGRQUmZnalJsUHg0WHhGWDZFenlfRUIwQzRLcUE2RTdhUWxhek9WS2Q4RFZMNjVUTVZROVBmV0NyMmZqcmtZdEFXWV9RQQ?oc=5",
    "date": "2026-08-14T15:19:34.000Z"
   },
@@ -333,7 +333,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
-   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
+   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; jinhaagency.com",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
    "date": "2026-08-12T12:51:12.000Z"
   },
