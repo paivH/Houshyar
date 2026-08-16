@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T09:53:45.045Z",
+ "updated": "2026-08-16T10:25:00.133Z",
  "items": [
   {
    "src": "Rudaw",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+   "desc": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+   "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+   "date": "2026-08-16T10:12:09.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
    "desc": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
@@ -188,18 +196,10 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
+   "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 51",
    "desc": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
    "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
    "date": "2026-08-15T08:29:20.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
-   "desc": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
-   "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
-   "date": "2026-08-14T22:03:08.000Z"
   },
   {
    "src": "BBC ME",
