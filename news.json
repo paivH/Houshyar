@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T11:22:10.815Z",
+ "updated": "2026-08-16T11:46:46.054Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Germany Tightens Syrian Asylum Reviews, Revokes More Protection",
+   "desc": "DW reports that 23.2% of protection reviews in Germany ended in revocation or withdrawal in the first half of 2026, up sharply from previous years.",
+   "link": "https://www.kurdistan24.net/en/story/932880/germany-tightens-syrian-asylum-reviews-revokes-more-protection",
+   "date": "2026-08-16T11:38:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Political Leaders Unite in Congratulating KDP on Its 80th Anniversary",
+   "desc": "Atheel al-Nujayfi, Mithal al-Alusi, the Sovereignty Coalition, and Khamis al-Khanjar join a sweeping chorus of Iraqi voices honoring eight decades of KDP struggle, sacrifice, and national contribution",
+   "link": "https://www.kurdistan24.net/en/story/932879/iraqi-political-leaders-unite-in-congratulating-kdp-on-its-80th-anniversary",
+   "date": "2026-08-16T11:23:05.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Why America Wants Countries to Pick an AI Side",
    "desc": "The competition over artificial intelligence is moving beyond technology and into global politics",
    "link": "https://www.kurdistan24.net/en/story/932874/why-america-wants-countries-to-pick-an-ai-side",
@@ -66,20 +82,20 @@
    "date": "2026-08-16T10:46:16.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "KDP, PUK Near Deal on New Kurdistan Government, Official Says",
-   "desc": "KDP official Ali Hussein says recent behind-the-scenes talks with the PUK have made progress toward forming the next Kurdistan government and reactivating parliament.",
-   "link": "https://www.kurdistan24.net/en/story/932867/kdp-puk-near-deal-on-new-kurdistan-government-official-says",
-   "date": "2026-08-16T10:23:00.000Z"
+   "title": "Baghdad reshuffles senior Federal Police command posts",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Interior Ministry on Sunday reshuffled five senior Federal Police posts, moving Samarra commander Lt. Gen. Staff Ahmed Al-Asadi to represent the ministry in the Office of the Commander-in-Chief of the Armed Forces, a security source told Shafaq News. Maj. Gen. Jaafar Al-Sudani moved from command of the Fifth Federal Police Division to lead the Samarra Area Command",
+   "link": "https://shafaq.com/en/Security/Baghdad-reshuffles-senior-Federal-Police-command-posts",
+   "date": "2026-08-16T11:40:16.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "France Says No to Social Media for Under-15s—For Now",
-   "desc": "A court ruling has blocked France's proposed ban, but the debate over children and social media is far from over",
-   "link": "https://www.kurdistan24.net/en/story/932860/france-says-no-to-social-media-for-under-15sfor-now",
-   "date": "2026-08-16T09:43:23.000Z"
+   "title": "Electricity Minister dismisses senior official over poor performance",
+   "desc": "Shafaq News- Baghdad Iraq's Minister of Electricity, Ali Saadi Wahib, dismissed Nizar Qahtan Hassan as Director General of the ministry's Training and Energy Research Department, citing his failure to perform his official duties. According to an official document, Hassan was reassigned to a position one grade below the rank he held before becoming director general. Wahib took office as electricity",
+   "link": "https://shafaq.com/en/society/Electricity-Minister-dismisses-senior-official-over-poor-performance",
+   "date": "2026-08-16T11:33:39.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq seized more than $6.7 million in cash, along with gold bars and jewelry, from several homes belonging to Khalid Ghazi Atiyah, deputy minister of Electricity for Transmission and Distribution Affairs, who recently faced allegations of financial and administrative corruption. The Federal Integrity Commission reported on Sunday that its investigators recovered 1.175 billion ",
    "link": "https://shafaq.com/en/Security/Anti-graft-raid-nets-6-7M-gold-from-Iraqi-electricity-official",
    "date": "2026-08-16T09:43:12.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran demands probe into downed pilots in Qatar",
-   "desc": "Shafaq News- Tehran Iran on Sunday urged Qatar to allow an Iranian delegation investigate the fate of three pilots whose aircraft were shot down during the February 28 war with the United States, rejecting Doha&rsquo;s denial that the men were detained. Brigadier General Seyed Mohammad Bagherzadeh, head of Iran&rsquo;s Armed Forces Missing Persons Search Committee, accused Qatari officials of repe",
-   "link": "https://shafaq.com/en/World/Iran-demands-probe-into-downed-pilots-in-Qatar",
-   "date": "2026-08-16T08:54:17.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran expands Qasr-e Shirin zone to boost Iraq trade",
-   "desc": "Shafaq News- Tehran Iran is developing the Qasr-e Shirin free trade zone on its border with Iraq, completing infrastructure and attracting new companies to expand commerce between the two countries, state-run IRNA News reported. Stretching along about 186 km of border with Iraq, the Qasr-e Shirin Free Trade-Industrial Zone covers more than 7,220 hectares between the Parviz Khan and Khosravi border",
-   "link": "https://shafaq.com/en/Economy/Iran-expands-Qasr-e-Shirin-zone-to-boost-Iraq-trade",
-   "date": "2026-08-16T08:43:51.000Z"
   },
   {
    "src": "BBC",
@@ -357,7 +357,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iraq’s largest laser fountain to open in Zakho within months",
-   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; thenewregion.com",
+   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
    "date": "2026-08-07T07:04:14.000Z"
   }
