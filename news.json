@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T08:32:01.058Z",
+ "updated": "2026-08-16T09:28:45.718Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LbHpGeXg1TGhRdUFNVHlSRWdsNW1sNUh4NU92NHJ6Z1hXNDNWUVNOOXlSOHoyTU40dkpJYWZQODg1SmplTEt5d1NuT25wcFB5WFpDN1dSTU42YzZJbXR1US1sbw?oc=5",
-   "date": "2026-08-16T01:46:30.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sa0xqZFdPSFJIeS1NemNwb3JJNldpWHRHaDdiXzVXMmc5eDR4d3J2Tndjc1c5U3lab1hTc0o1RzFBUjVwY3dkei11d0F4a1EwbS1ERVd6NWVzTkNoLXNLVVBR?oc=5",
+   "date": "2026-08-15T10:23:31.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,42 +44,66 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Sam Darmo Praises President Barzani's Support for Assyrians on 80th Birthday",
+   "desc": "Assyrian Foundation for Justice president praises Masoud Barzani's recognition of Assyrians as an indigenous people and his support for a Simele massacre memorial.",
+   "link": "https://www.kurdistan24.net/en/story/932849/sam-darmo-praises-president-barzanis-support-for-assyrians-on-80th-birthday",
+   "date": "2026-08-16T09:27:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "China Tests New Modular HQ-16F Air Defense System in First Live-Fire Assessment",
+   "desc": "PLA's 73rd Group Army completes inaugural combat evaluation of advanced medium-range air defense system derived from the HQ-16 family, signaling a significant step in Beijing's push to modernize its layered air defense architecture",
+   "link": "https://www.kurdistan24.net/en/story/932845/china-tests-new-modular-hq-16f-air-defense-system-in-first-live-fire-assessment",
+   "date": "2026-08-16T09:02:52.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Militia Leader Denounces US 'Hegemony' Over Iraq's Economy",
+   "desc": "Kata'ib Sayyid al-Shuhada chief Abu Ala al-Wala'i calls for independent banking and trade networks as Baghdad faces pressure to bring armed groups and economic policy under state control.",
+   "link": "https://www.kurdistan24.net/en/story/932835/iraqi-militia-leader-denounces-us-hegemony-over-iraqs-economy",
+   "date": "2026-08-16T08:43:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Azm Coalition Congratulates KDP on 80th Anniversary, Honors Eight Decades of National Sacrifice",
+   "desc": "Iraqi political alliance praises the KDP's effective role in Iraq's political landscape and commemorates the party's decades of sacrifice, wishing continued success for President Barzani and stability for all of Iraq's components",
+   "link": "https://www.kurdistan24.net/en/story/932829/azm-coalition-congratulates-kdp-on-80th-anniversary-honors-eight-decades-of-national-sacrifice",
+   "date": "2026-08-16T08:35:48.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Kurtulmus Sets Three Guarantees for Türkiye's New Peace Framework",
    "desc": "Parliament Speaker Numan Kurtulmus says the framework excludes senior PKK figures and gives fighters six months to surrender weapons, as Ankara moves to implement its new peace legislation.",
    "link": "https://www.kurdistan24.net/en/story/932826/kurtulmus-sets-three-guarantees-for-t%C3%BCrkiyes-new-peace-framework",
    "date": "2026-08-16T08:14:24.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Hakim Praises KDP Role in Iraq's Democracy and Political Process",
-   "desc": "Al-Hikma Movement (National Wisdom Movement) leader Ammar al-Hakim praises the KDP's decades-long political role, calling dialogue and partnership essential to Iraq's stability.",
-   "link": "https://www.kurdistan24.net/en/story/932818/hakim-praises-kdp-role-in-iraqs-democracy-and-political-process",
-   "date": "2026-08-16T07:44:03.000Z"
+   "title": "Iran demands probe into downed pilots in Qatar",
+   "desc": "Shafaq News- Tehran Iran on Sunday urged Qatar to allow an Iranian delegation investigate the fate of three pilots whose aircraft were shot down during the February 28 war with the United States, rejecting Doha&rsquo;s denial that the men were detained. Brigadier General Seyed Mohammad Bagherzadeh, head of Iran&rsquo;s Armed Forces Missing Persons Search Committee, accused Qatari officials of repe",
+   "link": "https://shafaq.com/en/World/Iran-demands-probe-into-downed-pilots-in-Qatar",
+   "date": "2026-08-16T08:54:17.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Bessent Presents Trump With Five Options to Crush Iran's Economy, With China as the Most Dangerous Target",
-   "desc": "Fortune reveals the Treasury Secretary's unprecedented economic pressure menu, ranging from targeting Chinese banks to dismantling Iran's shadow fleet, as Washington shifts from military strikes to financial warfare",
-   "link": "https://www.kurdistan24.net/en/story/932821/bessent-presents-trump-with-five-options-to-crush-irans-economy-with-china-as-the-most-dangerous-target",
-   "date": "2026-08-16T07:37:30.000Z"
+   "title": "Iran expands Qasr-e Shirin zone to boost Iraq trade",
+   "desc": "Shafaq News- Tehran Iran is developing the Qasr-e Shirin free trade zone on its border with Iraq, completing infrastructure and attracting new companies to expand commerce between the two countries, state-run IRNA News reported. Stretching along about 186 km of border with Iraq, the Qasr-e Shirin Free Trade-Industrial Zone covers more than 7,220 hectares between the Parviz Khan and Khosravi border",
+   "link": "https://shafaq.com/en/Economy/Iran-expands-Qasr-e-Shirin-zone-to-boost-Iraq-trade",
+   "date": "2026-08-16T08:43:51.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kirkuk Farmers Say Topzawa Lands Face Confiscation",
-   "desc": "Residents say a proposed master plan could affect thousands of dunams and demand implementation of Iraqi legislation restoring lands confiscated under the former regime.",
-   "link": "https://www.kurdistan24.net/en/story/932813/kirkuk-farmers-say-topzawa-lands-face-confiscation",
-   "date": "2026-08-16T07:31:42.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "President Barzani: \"No Obstacle Can Stand in the Way of This Sacred Duty\" as KDP Marks Its 80th Anniversary",
-   "desc": "KDP President delivers a landmark message on August 16, calling the party the source of the Kurdish people's strength and pledging that faith, will, and determination will overcome every challenge ahead",
-   "link": "https://www.kurdistan24.net/en/story/932807/president-barzani-no-obstacle-can-stand-in-the-way-of-this-sacred-duty-as-kdp-marks-its-80th-anniversary",
-   "date": "2026-08-16T07:05:07.000Z"
+   "title": "Baghdad gold holds firm while Erbil ticks higher",
+   "desc": "Shafaq News- Baghdad/ Erbil On Sunday, gold prices held steady in Baghdad while edging higher in Erbil, hovering around 950,000 IQD per mithqal in the capital, according to a Shafaq News market survey. Gold prices on Baghdad's Al-Nahr Street recorded a selling price of 950,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buyi",
+   "link": "https://shafaq.com/en/Economy/Baghdad-gold-holds-firm-while-Erbil-ticks-higher-7",
+   "date": "2026-08-16T08:32:54.000Z"
   },
   {
    "src": "Shafaq",
@@ -98,30 +122,6 @@
    "date": "2026-08-16T07:40:32.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Graduates clash with security forces outside Baghdad Health Ministry",
-   "desc": "Shafaq News- Baghdad Security forces fired stun grenades to disperse dozens of medical and health graduates who demonstrated outside the Ministry of Health in Baghdad on Sunday, demanding government appointments for graduates from the 2023 to 2025 cohorts, a Shafaq News correspondent reported. Read more:&nbsp;Iraq&rsquo;s healthcare system nears collapse: Doctors leave, hospitals overflow Proteste",
-   "link": "https://shafaq.com/en/society/Graduates-clash-with-security-forces-outside-Baghdad-Health-Ministry",
-   "date": "2026-08-16T07:00:02.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "EIA: US crude imports from Iraq zero for seventh week",
-   "desc": "Shafaq News- Baghdad/ Washington US crude oil imports from Iraq stood at zero barrels per day for the seventh consecutive week in the week ending August 7, with no Iraqi crude reaching the American market since late June, according to US Energy Information Administration (EIA) data. Canada remained the largest US crude supplier at 4.406 million bpd, followed by Venezuela at 743,000 bpd and Mexico ",
-   "link": "https://shafaq.com/en/Economy/EIA-US-crude-imports-from-Iraq-zero-for-seventh-week",
-   "date": "2026-08-16T06:45:01.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Court seizes $20M, 60kg of gold in Oil Ministry corruption case",
-   "desc": "Shafaq News- Baghdad Iraqi authorities, in coordination with authorities in the Kurdistan Region, have seized more than $20 million, 60 kilograms of gold, and seven vehicles in a corruption case involving detained Oil Ministry Undersecretary Adnan al-Jumaili, an investigating judge said on Sunday. According to the judge, statements made by al-Jumaili during questioning have widened the investigati",
-   "link": "https://shafaq.com/en/society/Court-seizes-20M-and-60kg-of-gold-in-Oil-Ministry-corruption-case",
-   "date": "2026-08-16T06:15:28.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Multiple suspects at large after five shot at Virginia State University, police say",
@@ -135,7 +135,7 @@
    "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
    "desc": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-16T07:58:02.000Z"
+   "date": "2026-08-16T08:49:32.000Z"
   },
   {
    "src": "BBC",
@@ -215,7 +215,7 @@
    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
    "desc": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
    "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-15T21:03:57.000Z"
+   "date": "2026-08-16T09:27:58.000Z"
   },
   {
    "src": "BBC ME",
@@ -332,18 +332,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
-   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
-   "date": "2026-08-12T12:51:12.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Drones target Erbil as attacks fuel fears of regional spillover",
    "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
    "date": "2026-08-14T14:47:46.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
+   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
+   "date": "2026-08-12T12:51:12.000Z"
   },
   {
    "src": "Tourism",
