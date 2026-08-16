@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T21:21:56.176Z",
+ "updated": "2026-08-16T21:45:56.992Z",
  "items": [
   {
    "src": "Rudaw",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Trump says US will scale back military drills with South Korea",
+   "desc": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+   "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-16T21:27:42.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
    "desc": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "desc": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-16T18:46:12.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-   "desc": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-   "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-14T19:20:43.000Z"
   },
   {
    "src": "NPR",
