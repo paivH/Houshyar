@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T23:45:39.865Z",
+ "updated": "2026-08-16T01:25:21.259Z",
  "items": [
   {
    "src": "Rudaw",
@@ -20,6 +20,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Sa0xqZFdPSFJIeS1NemNwb3JJNldpWHRHaDdiXzVXMmc5eDR4d3J2Tndjc1c5U3lab1hTc0o1RzFBUjVwY3dkei11d0F4a1EwbS1ERVd6NWVzTkNoLXNLVVBR?oc=5",
+   "date": "2026-08-15T10:23:31.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "UAE condemns 'Iranian attack' on two ADNOC vessels in Strait of Hormuz",
    "desc": "UAE condemns 'Iranian attack' on two ADNOC vessels in Strait of Hormuz &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95ZlY1M25scnA4cDhQZGJKd2FMWVp1ZkJZaDBrTTA4X3MzWjN6NjVOS1pLOU5BMEZ2aHZIeDhGUmhMRUtQa3JqZk5PZzBqdTFUWTFKLXZON2NkUTBMWVVMMzFBLUE2MXZJZG9N?oc=5",
@@ -28,18 +36,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nVXNWcER6Wmw0NmgycTNWcVU2UUhfaEJ2UGxFMzBRMHhrbzNGU21sQzZrZmtMSld6YmRqZG44VGdMRWg4ZkRILTRJcDdxUmJ3ekZtdnRUeEs5VFhBX1VJ?oc=5",
-   "date": "2026-08-14T10:51:54.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Trump says will declare Strait of Hormuz ‘US territory’",
    "desc": "Trump says will declare Strait of Hormuz ‘US territory’ &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lMHNKVUFIbFpLa1Q5a3lwR29faVZ2eFloWkdJbmlJakc1Z01uT1JhR2dXZEg3SlFRLXl6U3otNkstRFZNTjNVSUNaNGNSS0FfMWdVZ2FwSE1yUEFrcG16MTN1THVIX0JZeXYw?oc=5",
    "date": "2026-08-14T20:53:11.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "\"Hope, Trust, and Guarantee\": Masrour Barzani Honors KDP's 80th Anniversary and His Father's Birthday in Landmark Message",
+   "desc": "KDP Deputy President calls President Barzani the hope and guarantor of Kurdistan's security, stability, and constitutional framework as the party marks eight decades of national struggle on August 16",
+   "link": "https://www.kurdistan24.net/en/story/932745/hope-trust-and-guarantee-masrour-barzani-honors-kdps-80th-anniversary-and-his-fathers-birthday-in-landmark-message",
+   "date": "2026-08-15T23:53:45.000Z"
   },
   {
    "src": "K24",
@@ -72,14 +80,6 @@
    "desc": "Iran’s southern port city restores key air routes following months of repeated closures amid conflict with the United States",
    "link": "https://www.kurdistan24.net/en/story/932716/bandar-abbas-airport-resumes-domestic-flights-after-war-disruptions",
    "date": "2026-08-15T17:59:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "KDP-Syria Hails KDP's 80th Anniversary as \"Twin Birth of Blessing and Hope\" for the Kurdish People",
-   "desc": "Political Bureau of the Kurdistan Democratic Party of Syria sends a congratulatory message from Qamishlo, calling the founding anniversary and Barzani's birthday \"twin births of blessing and hope\"",
-   "link": "https://www.kurdistan24.net/en/story/932703/kdp-syria-hails-kdps-80th-anniversary-as-twin-birth-of-blessing-and-hope-for-the-kurdish-people",
-   "date": "2026-08-15T16:33:38.000Z"
   },
   {
    "src": "Shafaq",
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
+   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; Iran International",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
    "date": "2026-08-11T11:27:39.000Z"
   },
@@ -325,17 +325,9 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation",
-   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; timesofindia.indiatimes.com",
+   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T10:14:10.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
-   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
-   "date": "2026-08-12T12:51:12.000Z"
   },
   {
    "src": "Tourism",
@@ -348,6 +340,14 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
+   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
+   "date": "2026-08-12T12:51:12.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
    "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
@@ -356,10 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Iraq’s largest laser fountain to open in Zakho within months",
-   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
-   "date": "2026-08-07T07:04:14.000Z"
+   "title": "Iran reportedly hit Erbil with drones overnight",
+   "desc": "Iran reportedly hit Erbil with drones overnight &nbsp;&nbsp; Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3dpT1dUUnhNcGVmQWhrT3FYcVRKMUE4bVFYSHItd0pTNHc3aXAwMGVPRHphMjVMbkFfcDl4Nldzc2JfeFljczVzYjBtRWpzOXRtR09vZFN1V216Vk5zbk5rU1VLbHpQMm9iaXU3SDNEOUctNWIyUE0yMDU3ZXViMw?oc=5",
+   "date": "2026-08-14T07:16:43.000Z"
   }
  ]
 }
