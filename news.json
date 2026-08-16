@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T17:46:15.789Z",
+ "updated": "2026-08-16T18:32:03.684Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Rare Hulegu-Era Artifact Unearthed at Major Erbil Archaeological Site",
+   "desc": "The excavation is being conducted entirely by local archaeological teams and specialists, using advanced equipment and scientific methods.",
+   "link": "https://www.kurdistan24.net/en/story/932960/rare-hulegu-era-artifact-unearthed-at-major-erbil-archaeological-site",
+   "date": "2026-08-16T17:52:19.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq Accelerates Air Defense Modernization, Orders Faster Delivery of Advanced Systems",
    "desc": "The meeting also reviewed existing contracts with foreign companies for advanced air defense systems and specialized equipment. Zaidi stressed the urgent need to accelerate the implementation of the contracts and the delivery of the systems.",
    "link": "https://www.kurdistan24.net/en/story/932942/iraq-accelerates-air-defense-modernization-orders-faster-delivery-of-advanced-systems",
@@ -74,12 +82,12 @@
    "date": "2026-08-16T15:14:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Maliki Congratulates KDP on 80th Anniversary, Hails Its Struggle Against Dictatorship",
-   "desc": "State of Law Coalition leader praises the party’s historic resistance to authoritarian rule and calls for stronger national partnership in Iraq",
-   "link": "https://www.kurdistan24.net/en/story/932915/maliki-congratulates-kdp-on-80th-anniversary-hails-its-struggle-against-dictatorship",
-   "date": "2026-08-16T14:36:00.000Z"
+   "title": "Erbil security forces arrest suspect in Green Belt shooting",
+   "desc": "Shafaq News- Erbil Erbil security forces (Asayish) arrested a suspect on Sunday after three workers were wounded in a shooting at the city's Green Belt project in the Baharka district, the Asayish Directorate said. Acting on an investigating judge's order, Asayish forces arrested the suspected gunman, identified only by the initials M.T.T. An investigation is underway. The Green Belt is an eight-p",
+   "link": "https://shafaq.com/en/Kurdistan/Erbil-security-forces-arrest-suspect-in-Green-Belt-shooting",
+   "date": "2026-08-16T18:02:02.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Cardiff Arsenal opened the 2026/27 campaign by beating Manchester City 3-0 in the Community Shield on Sunday, claiming the season&rsquo;s first domestic trophy with a dominant performance. The Community Shield is OURS &#127942; pic.twitter.com/DH7uzHkMvK &mdash; Arsenal (@Arsenal) August 16, 2026 Riccardo Calafiori scored after just 24 seconds, converting Myles Lewis-Skelly&rsquo;s pa",
    "link": "https://shafaq.com/en/sport/Arsenal-stun-Man-City-3-0-to-win-Community-Shield",
    "date": "2026-08-16T15:58:20.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "New Al-Muthanna council alliance revives bid to question governor",
-   "desc": "Shafaq News- Al-Muthanna Seven members of Iraq's Al-Muthanna Provincial Council have formed a new two-bloc alliance that is expected to be formally announced on Aug. 18, a source told Shafaq News on Sunday. The alliance brings together a three-member bloc and a four-member bloc, with the backing of Badr Organization leader Hadi al-Amiri and Asaib Ahl al-Haq leader Qais al-Khazali. According to the",
-   "link": "https://shafaq.com/en/Iraq/New-Al-Muthanna-council-alliance-revives-bid-to-question-governor",
-   "date": "2026-08-16T15:41:38.000Z"
   },
   {
    "src": "BBC",
@@ -314,14 +314,6 @@
    "date": "2026-08-16T14:28:53.000Z"
   },
   {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65%",
-   "desc": "Erbil Ring-Road Link Nears Completion as 5-Km Route Reaches 65% &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NTNXlIUk5XcmFZNmg1LTBUNDRiWmZVeDFiZFdHTHdHSk92cGNwa285aHp1aVhEbnV3bVc5amdTazVRdmdTXzd0NndTZ29TMHkxWTRBaXE1ODZHcXZ1MVBTbHU2aTdkaXhRWVkzMFN4VzAxTzBUYkltX0FHT0V4MnJYalFyZlJMOHlEZnRQclBwNUdjWHg3ODlGcl9vNXo3LUxvUU5YUVVhQQ?oc=5",
-   "date": "2026-08-15T13:50:36.000Z"
-  },
-  {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation",
@@ -341,7 +333,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Drones target Erbil as attacks fuel fears of regional spillover",
-   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
+   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; newarab.com",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP0gGUAUFVX3lxTFBGYVBZMjVidHZGR1psNTYzUTM0TkpNaU5DSHBtekJmZDZ5d0VLb2hYbmcweWdCYmd3N0R3WjZWcHdVbHZDZEl6dng1NDZaSnpfc3V0RjhnZUlyYzVqNUZlcUxmT3RqYl9XVWRNX2hjWkJxaGR4aFN5ZFN2ajdjTDltb2xkNThsOUlnTXJFejVrVmloSk8?oc=5",
    "date": "2026-08-14T14:47:46.000Z"
   },
