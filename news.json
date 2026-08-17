@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T16:29:41.161Z",
+ "updated": "2026-08-17T16:58:11.400Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,14 +8,6 @@
    "desc": "Two drones launched from Iran target PM Barzani’s office: Statement &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pTzl3ZFVyNlZmNkNJVXV0cHpoVjYzSjdGZ1AtWE5MejhMUm8zc0V4aDQ2VUQyVk13QXJnOFdsSFpBcmh3NldobE5WaUxoVlZSb2xEREltQk9FSkhyTVdDa3VRQWU?oc=5",
    "date": "2026-08-17T08:10:35.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RYTd2bllYM1NoYzdqQ2xuN0RIRWY5RU5rdWxpS0JTdEVFU0ctSGFWTEJJR1ZleEJjWTlyWGNOLTNGbUhmaVJtQzB6U1RrZWg4LU1XUVExMkxMZXVWZlg2bmtTNXRldw?oc=5",
-   "date": "2026-08-17T06:15:35.000Z"
   },
   {
    "src": "Rudaw",
@@ -36,10 +28,26 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UcUtqTlk1MWNSU09aV29ld3NTMjJYOTBxM1lYeHlXcHFTd3NTaG5USldEamFxYWhHRnAyb2w4VFRMd3Bid2xHajN3NTNUSno5dkpwcWFwLVR1U2huMi1z?oc=5",
+   "date": "2026-08-16T08:41:21.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Ocalan’s freedom key to lasting peace in Turkey: Senior PKK commander",
    "desc": "Ocalan’s freedom key to lasting peace in Turkey: Senior PKK commander &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiemVpOFUxdnM4NkNRWEpyczJ4WVA4bk5WTFVSMmROZlV2NTNub0NrdHl6UUNlQWU0RVdzdlJZNEFfV3prUkNxbXVFSm9YbnQtWmFBeE85eUcyLWJVcHJnVHlWSnh0UQ?oc=5",
    "date": "2026-08-16T19:47:42.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Leyla Zana Condemns Drone Attack on PM Barzani’s Office",
+   "desc": "In a message addressed to Prime Minister Barzani on Monday, Zana said she “strongly condemns” the attack and called on both friends and adversaries to recognize what she described as “the century of freedom for the Kurdish people.”",
+   "link": "https://www.kurdistan24.net/en/story/933212/leyla-zana-condemns-drone-attack-on-pm-barzanis-office",
+   "date": "2026-08-17T16:54:42.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,20 @@
    "date": "2026-08-17T14:45:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Ezidi Supreme Spiritual Council Head Condemns Drone Attack on PM Barzani's Office",
-   "desc": "In a statement on Monday, Mir Hazem Tahsin said dialogue and mutual understanding should be the only appropriate means of resolving disputes among all parties, without tensions or actions that could undermine security and stability.",
-   "link": "https://www.kurdistan24.net/en/story/933175/ezidi-supreme-spiritual-council-head-condemns-drone-attack-on-pirmam",
-   "date": "2026-08-17T14:30:00.000Z"
+   "title": "Parliament demands action after KRI drone attack",
+   "desc": "Shafaq News- Baghdad The Iraqi Parliament condemned an attack targeting the office of Masrour Barzani, Prime Minister of the Kurdistan Region of Iraq (KRI), and the residence of the intelligence chief. The Kurdistan Region&rsquo;s security is an integral part of Iraq&rsquo;s security and that attacks on any part of the country, its officials, or institutions are unacceptable under any circumstance",
+   "link": "https://shafaq.com/en/Kurdistan/Parliament-demands-action-after-KRI-drone-attack",
+   "date": "2026-08-17T16:50:48.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Houthis claim missile strike on Saudi military vessels",
+   "desc": "Shafaq News- Sanaa Yemen&rsquo;s Houthis (Ansarallah) on Monday struck a Saudi military landing ship and four escort vessels with ballistic missiles in the Red Sea off Mocha, saying the attack set the ship ablaze and sank or burned the accompanying boats. Saudi authorities did not immediately confirm the attack or the claimed damage. Two sources in Yemen&rsquo;s internationally recognized governme",
+   "link": "https://shafaq.com/en/Middle-East/Houthis-claim-missile-strike-on-Saudi-military-vessels",
+   "date": "2026-08-17T16:37:10.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,26 +122,10 @@
    "date": "2026-08-17T15:00:20.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Authorities arrest six over alleged fake road project in Al-Anbar",
-   "desc": "Shafaq News- Al-Anbar Iraq&rsquo;s Federal Integrity Commission detained six suspects, including an official at a municipal department in Al-Anbar province, for illegally disbursing and receiving funds, the commission stated on Monday. The arrested included a deputy director along with the heads and members of the implementation and receiving committees. According to the commission, the suspects a",
-   "link": "https://shafaq.com/en/Iraq/Authorities-arrest-six-over-alleged-fake-road-project-in-Al-Anbar",
-   "date": "2026-08-17T14:35:08.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Asian Games preparations continue despite Iraq boxing hurdles",
-   "desc": "Shafaq News- Baghdad Iraq will send five boxers to an international tournament in Kazakhstan this week in preparation for the 2026 Asian Games despite severe financial constraints, the national federation said. Iraqi Boxing Federation President Ali Takleef told Shafaq News that the Almaty tournament begins on August 20 and will feature competitors from across Asia and Europe. Iraq's squad includes",
-   "link": "https://shafaq.com/en/sport/Asian-Games-preparations-continue-despite-Iraq-boxing-hurdles",
-   "date": "2026-08-17T14:21:00.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
-   "desc": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran.",
+   "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+   "desc": "The US and Oman have been working separately to reopen the Strait of Hormuz, one of the world's busiest oil shipping routes.",
    "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-17T16:26:34.000Z"
   },
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed",
-   "desc": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed &nbsp;&nbsp; The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU2FJaGhibHlOQXlYZDVwSk1CWV9FeG5QWHJhbTI3ZnhGTUdsS1B1VkZuQWFkazhmTGdNbklGbEZsTUowelpkOGNHRzhYWDBEcGg3N1hldXQ0UmpVaUdjSXJFZlpNSFQtZnFMRUdBSEVQYVAybzgyNl85UFBqYW81VW1JbmFHVzBQbE9iNnd5cllIRTVtdWIyV0tyd0RvZTB4OW41N0ZHTFkyZGZwcllWOVFTOWUzVXJXYzlmQ3ctZEZDaWJab2dSMjdCY01XNURwSDdrMHdjZjhaUnlkMjJ0LXJvQTNhbjhtV1HSAfwBQVVfeXFMTWhlNGtzLXZRUFZhVFNxZjBJbUk0UlJXMmdQNDdGREw5LVlaZHA1NlpmdjZkVDRhMXhhdmdwWGl4TC1ORURBbU5FQVdaN0pnQ1Y5cXNORHVpWDZRQ01CZ1dwY3N1amNhQ0tCSkdHc3RweGxPSkVEZGdSNHN5YWNuS0VfVmd3UVNZS2lzWlFJZ05rZk9tTWU3OWxhcG1PNmtjMjdpSHRHYXYxMEd5OUlZUllTMVczeWUtcWttTXNQSWlMaHhrYkt3RkF1c2FNRGdqaU1ZaXVzWnRqZmlVaVdXcTRlelZTV2ZybXliY1Q1VXE3NXdsOWk4aFZLOU0y?oc=5",
-   "date": "2026-08-14T18:15:00.000Z"
+   "title": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs",
+   "desc": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wcG9NeHFReTc2M1pLTU9FX2Vid0FqeEVSTnJlZ080YVVuNTA3QzBPRXdmREN5S2ZxVGNYdlZ1bmtJbmlFZmlXV0Frc3JBWm9BOHVoZ2dSTWF6WndFNEtBaWpmTmxVWk1aZ2c?oc=5",
+   "date": "2026-08-17T16:31:41.000Z"
   }
  ]
 }
