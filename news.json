@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T19:54:03.580Z",
+ "updated": "2026-08-17T20:29:17.620Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraqi MPs Seek Emergency Parliament Session in Erbil After Drone Attack",
+   "desc": "Al-Kubaisi said the lawmakers had signed a request to hold an emergency parliamentary session in Erbil “as an expression of full solidarity with our people in Kurdistan” and in response to any aggression against Iraqi territory.",
+   "link": "https://www.kurdistan24.net/en/story/933262/iraqi-mps-seek-emergency-parliament-session-in-erbil-after-drone-attack",
+   "date": "2026-08-17T20:22:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Assyrians for Justice Condemns Iranian Drone Attack Targeting Top KRG Officials",
    "desc": "“The Kurdistan Region is not a party to the conflict, and its territory must not be used as a target or battlefield for conflicts between other states or parties,” the statement said.",
    "link": "https://www.kurdistan24.net/en/story/933252/assyrians-for-justice-condemns-iranian-drone-attack-targeting-top-krg-officials",
@@ -74,12 +82,20 @@
    "date": "2026-08-17T18:20:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi PM Orders Probe into Drone Attack on PM Barzani’s Office",
-   "desc": "Al-Zaidi also ordered that all details, consequences, and parties responsible for the attack be identified as soon as possible. He stressed that the investigation’s findings must be made public in both Iraq and the Kurdistan Region without delay.",
-   "link": "https://www.kurdistan24.net/en/story/933226/iraqi-pm-orders-probe-into-drone-attack-on-pm-barzanis-office",
-   "date": "2026-08-17T17:50:21.000Z"
+   "title": "Iraqi lawmakers seek emergency parliament session in Erbil after attacks",
+   "desc": "Shafaq News- Baghdad More than 90 Iraqi lawmakers signed a request on Monday calling for an &ldquo;emergency&rdquo; parliamentary session in Erbil, the capital of the Kurdistan Region, instead of Baghdad, lawmaker Mustafa Al-Kubaisi said. In a brief statement, Al-Kubaisi said the move was intended as a show of solidarity with the people of the Kurdistan Region and a response to any attack on Iraqi",
+   "link": "https://shafaq.com/en/Iraq/Iraqi-lawmakers-seek-emergency-parliament-session-in-Erbil-after-attacks",
+   "date": "2026-08-17T20:16:16.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Washington rules out Iran MoU extension",
+   "desc": "Shafaq News- Washington Washington would not seek to ext end its memorandum of understanding (MoU) with Iran, US President Donald Trump said on Monday, arguing that Tehran remained unwilling to accept US terms for ending the conflict. Trump stated that the Strait of Hormuz was &ldquo;open,&rdquo; with millions of barrels of oil passing through the waterway each week, and expressed a desire to decl",
+   "link": "https://shafaq.com/en/World/Washington-rules-out-Iran-MoU-extension",
+   "date": "2026-08-17T20:07:42.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,22 +122,6 @@
    "date": "2026-08-17T18:43:25.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran: Drone attack on PM Barzani’s office ‘Highly Suspicious\"",
-   "desc": "Shafaq News- Tehran Iran on Monday condemned a reported drone attack on the office of Masrour Barzani, Prime Minister of the Kurdistan Region of Iraq, urging all parties to guard against plots aimed at damaging ties between Iran and Iraq. Asked by IRNA about the attack, the Iranian Foreign Ministry spokesperson Esmail Baqaei described the strikes as &ldquo;a highly suspicious development that must",
-   "link": "https://shafaq.com/en/Iraq/Iran-Drone-attack-on-Iraqi-Kurdistan-PM-Barzani-s-office-Highly-Suspicious",
-   "date": "2026-08-17T18:20:06.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Baghdad seeks Tehran’s position on Erbil drone attack",
-   "desc": "Shafaq News- Baghdad/ Tehran Iraqi Foreign Minister Fuad Hussein on Monday pressed Iran to clarify its official position on the drone attack targeting Kurdistan Region Prime Minister Masrour Barzani&rsquo;s residence and office in Erbil, during a phone call with Iranian counterpart Abbas Araghchi. Hussein described the attack, carried out with Hadeed-110 drones, as &ldquo;unjustified&rdquo; and a ",
-   "link": "https://shafaq.com/en/Iraq/Baghdad-seeks-Tehran-s-position-on-Erbil-drone-attack",
-   "date": "2026-08-17T18:14:07.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -140,6 +140,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
+   "desc": "Trump hosted Ryder Williams at the White House after the 16-year-old rescued a 10-year-old boy from a beach in California on 25 July.",
+   "link": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-17T20:07:13.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
    "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "desc": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
    "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-17T18:45:59.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
-   "desc": "Tropical storm warnings remain for some of the state's islands, as the storm is due to progress west.",
-   "link": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-17T15:35:47.000Z"
   },
   {
    "src": "NPR",
@@ -276,18 +276,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
-   "date": "2026-08-11T09:52:54.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
    "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
    "date": "2026-08-11T12:22:53.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+   "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
+   "date": "2026-08-11T09:52:54.000Z"
   },
   {
    "src": "Erbil",
