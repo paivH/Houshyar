@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T08:53:33.991Z",
+ "updated": "2026-08-17T09:44:12.425Z",
  "items": [
   {
    "src": "Rudaw",
@@ -15,7 +15,7 @@
    "title": "Ocalan’s freedom key to lasting peace in Turkey: Senior PKK commander",
    "desc": "Ocalan’s freedom key to lasting peace in Turkey: Senior PKK commander &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiemVpOFUxdnM4NkNRWEpyczJ4WVA4bk5WTFVSMmROZlV2NTNub0NrdHl6UUNlQWU0RVdzdlJZNEFfV3prUkNxbXVFSm9YbnQtWmFBeE85eUcyLWJVcHJnVHlWSnh0UQ?oc=5",
-   "date": "2026-08-16T16:47:42.000Z"
+   "date": "2026-08-16T19:47:42.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "Iraq’s PMF brigade assumes security control in eastern Salahaddin &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56TXlGaDFyeUlJZUY0S0Q5WWpTNlZhNURURVlHd0lBZXZrYTJNWmF3YUpyZzZhbUhVME8ycWxRNkw2aHZ2WHYwX25rWFZULWxBdzFGZzRZdWREd3BGRmRPTkdEWQ?oc=5",
    "date": "2026-08-15T21:01:18.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Human Rights Commission Condemns Iranian Drone Strike on KRG Prime Minister's Office and Security Agency Site",
+   "desc": "Commission calls Monday's predawn attack a flagrant violation of Iraqi and Kurdistan Region sovereignty, urging the federal government and international community to take a clear and serious stance against continued Iranian aggression",
+   "link": "https://www.kurdistan24.net/en/story/933044/kurdistan-human-rights-commission-condemns-iranian-drone-strike-on-krg-prime-ministers-office-and-security-agency-site",
+   "date": "2026-08-17T08:48:24.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,20 @@
    "date": "2026-08-17T07:06:25.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Maliki Pushes to Delay Militia Disarmament Until After US Withdrawal",
-   "desc": "A proposal linked to Nouri al-Maliki’s State of Law Coalition would separate the Sept. 30 weapons deadline from the scheduled US military withdrawal, reflecting growing preference for a negotiated transition.",
-   "link": "https://www.kurdistan24.net/en/story/933016/maliki-pushes-to-delay-militia-disarmament-until-after-us-withdrawal",
-   "date": "2026-08-17T06:52:00.000Z"
+   "title": "Iran dismisses US MoU deadline, warns military remains ready",
+   "desc": "Shafaq News- Tehran Iran on Monday rejected the 60-day deadline under its June Memorandum of Understanding (MoU) with the United States as binding, arguing that Washington had failed to meet its own commitments. Speaking at his weekly news conference, Foreign Ministry spokesman Esmaeil Baqaei maintained that Tehran would not accept being placed under time pressure and that it would act in line wit",
+   "link": "https://shafaq.com/en/Middle-East/Iran-dismisses-US-MoU-deadline-warns-military-remains-ready",
+   "date": "2026-08-17T09:32:11.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Gold prices increase across Baghdad and Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil On Monday, gold prices hovered around 97 0,000 IQD per mithqal in Baghdad and Erbil markets, according to a Shafaq News market survey. Gold prices on Baghdad&rsquo;s Al-Nahr Street recorded a selling price of 960 ,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buying price of 956,000 IQD. The sam",
+   "link": "https://shafaq.com/en/Economy/Gold-prices-increase-across-Baghdad-and-Erbil",
+   "date": "2026-08-17T08:57:57.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,22 +122,6 @@
    "date": "2026-08-17T08:05:55.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Military reorganization targets Iraqi-Saudi frontier security",
-   "desc": "Shafaq News- Saladin Iraq has begun dismantling the East Saladin Operations Command and moving its troops and military equipment to a newly formed Badia Operations Command tasked with securing the country&rsquo;s desert frontier with Saudi Arabia, security sources told Shafaq News on Monday. The transfer of troops, vehicles, weapons and logistical supplies began about 48 hours ago, with units movi",
-   "link": "https://shafaq.com/en/Security/Military-reorganization-targets-Iraqi-Saudi-frontier-security",
-   "date": "2026-08-17T07:58:39.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Gold nears $4,400 as rate hike bets fade",
-   "desc": "Shafaq News Gold &#8203;drifted higher on Monday, supported by a weaker dollar and recent &zwnj;soft economic data that reduced expectations for a U.S. interest rate hike next month. Spot gold rose 0.4% to $4,391.49 per ounce by 0520 GMT. Prices hit a more-than-two-month high &#8203;last week. U.S. gold futures for December delivery edged 0.3% higher to $4,448.40. The U.S. &#8203;dollar index (.DX",
-   "link": "https://shafaq.com/en/Economy/Gold-nears-4-400-as-rate-hike-bets-fade",
-   "date": "2026-08-17T07:30:07.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -140,26 +140,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+   "desc": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
+   "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-16T23:21:37.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+   "desc": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+   "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-17T05:00:25.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "US commander says mental health a 'priority' on USS Lincoln",
    "desc": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
    "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-16T21:04:27.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-   "desc": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
-   "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-16T19:00:23.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-   "desc": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
-   "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-17T00:20:51.000Z"
   },
   {
    "src": "NPR",
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Wadi Al-Qiyamah Becomes a Summer Haven in Kurdistan Region",
-   "desc": "Wadi Al-Qiyamah Becomes a Summer Haven in Kurdistan Region &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXdUS2lyaHZSTUR5ak1WUUZpNmdTWW5ON2pWVC11NXFzLVF5dXhnSklRdVFyNGZiREY2M2JLUzh0emFWMGlsNlY3QzZ3M3JyT3RmTU5VbUZwaW8tbWtZVjFvNUJ0el8xYXVBd29weVVSUzQwM3lRRzdQU256UE52bzhyREdDQ3Z0QmItMjZQMlBWRzQwdUx6WHJyRFhkc1ZHY29PNQ?oc=5",
-   "date": "2026-08-16T19:16:13.000Z"
+   "title": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed",
+   "desc": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed &nbsp;&nbsp; The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU2FJaGhibHlOQXlYZDVwSk1CWV9FeG5QWHJhbTI3ZnhGTUdsS1B1VkZuQWFkazhmTGdNbklGbEZsTUowelpkOGNHRzhYWDBEcGg3N1hldXQ0UmpVaUdjSXJFZlpNSFQtZnFMRUdBSEVQYVAybzgyNl85UFBqYW81VW1JbmFHVzBQbE9iNnd5cllIRTVtdWIyV0tyd0RvZTB4OW41N0ZHTFkyZGZwcllWOVFTOWUzVXJXYzlmQ3ctZEZDaWJab2dSMjdCY01XNURwSDdrMHdjZjhaUnlkMjJ0LXJvQTNhbjhtV1HSAfwBQVVfeXFMTWhlNGtzLXZRUFZhVFNxZjBJbUk0UlJXMmdQNDdGREw5LVlaZHA1NlpmdjZkVDRhMXhhdmdwWGl4TC1ORURBbU5FQVdaN0pnQ1Y5cXNORHVpWDZRQ01CZ1dwY3N1amNhQ0tCSkdHc3RweGxPSkVEZGdSNHN5YWNuS0VfVmd3UVNZS2lzWlFJZ05rZk9tTWU3OWxhcG1PNmtjMjdpSHRHYXYxMEd5OUlZUllTMVczeWUtcWttTXNQSWlMaHhrYkt3RkF1c2FNRGdqaU1ZaXVzWnRqZmlVaVdXcTRlelZTV2ZybXliY1Q1VXE3NXdsOWk4aFZLOU0y?oc=5",
+   "date": "2026-08-14T18:15:00.000Z"
   }
  ]
 }
