@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T20:29:17.620Z",
+ "updated": "2026-08-17T20:56:57.540Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraq lawmakers push to freeze provincial councils again",
+   "desc": "Shafaq News- Baghdad A group of Iraqi lawmakers submitted a formal request to Parliament Speaker Haibet Al-Halbousi to place a proposal to freeze provincial councils and their budgets for the current term on the agenda of the next parliamentary session. Reviving one of Iraq's most contentious debates over decentralization, signatories based their request, submitted Sunday, on Article 20/First of t",
+   "link": "https://shafaq.com/en/Report/Iraq-lawmakers-push-to-freeze-provincial-councils-again",
+   "date": "2026-08-17T20:43:05.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraqi lawmakers seek emergency parliament session in Erbil after attacks",
    "desc": "Shafaq News- Baghdad More than 90 Iraqi lawmakers signed a request on Monday calling for an &ldquo;emergency&rdquo; parliamentary session in Erbil, the capital of the Kurdistan Region, instead of Baghdad, lawmaker Mustafa Al-Kubaisi said. In a brief statement, Al-Kubaisi said the move was intended as a show of solidarity with the people of the Kurdistan Region and a response to any attack on Iraqi",
    "link": "https://shafaq.com/en/Iraq/Iraqi-lawmakers-seek-emergency-parliament-session-in-Erbil-after-attacks",
@@ -114,14 +122,6 @@
    "date": "2026-08-17T18:49:17.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "SCOOP: Iranian parliament speaker to visit Baghdad Wednesday",
-   "desc": "Shafaq News- Baghdad Iranian Parliament Speaker Mohammad Bagher Ghalibaf will lead a high-level delegation to Baghdad on Wednesday for talks with Iraqi officials and political figures, an informed source told Shafaq News. Topping the agenda is a proposal to allow Iraqi oil exports to pass through the Strait of Hormuz, the narrow waterway that normally carries about 90% of the country's crude shipm",
-   "link": "https://shafaq.com/en/Iraq/SCOOP-Iranian-parliament-speaker-to-visit-Baghdad-Wednesday",
-   "date": "2026-08-17T18:43:25.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -132,26 +132,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-   "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-   "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-17T18:39:39.000Z"
+   "title": "Mangione state murder trial postponed after federal guilty plea in CEO killing",
+   "desc": "Mangione admitted to killing United Healthcare CEO Brian Thompson on Friday, after which his lawyers moved to dismiss the state case.",
+   "link": "https://www.bbc.co.uk/news/articles/cqjxkqppz5ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-17T20:50:54.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
-   "desc": "Trump hosted Ryder Williams at the White House after the 16-year-old rescued a 10-year-old boy from a beach in California on 25 July.",
+   "desc": "The US president hosted Ryder Williams at the White House after the 16-year-old rescued a 10-year-old boy from a beach in California on 25 July.",
    "link": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-17T20:07:13.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-   "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-   "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-17T16:02:58.000Z"
+   "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+   "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+   "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-17T18:39:39.000Z"
   },
   {
    "src": "BBC",
@@ -200,6 +200,14 @@
    "desc": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
    "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
    "date": "2026-08-16T20:20:22.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "Trump envoy hails 'very good' meeting with Netanyahu after Hamas talks on peace plan",
+   "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+   "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-17T16:02:58.000Z"
   },
   {
    "src": "BBC ME",
@@ -276,18 +284,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
-   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
-   "date": "2026-08-11T12:22:53.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
    "desc": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWdtaUltQWVYdTM4M3QtSDR0QVFvZFFoOE9hTjloWGdJSzAtT0kyR3ZOUEtJWXd4VFlPb09KUzg0YnpnbGZzTWI1UVpBMG9oMFpzNENBSE9wd3JqWUJXSUoybGs0WjVxSFRuRzlHRjY4S1l1aWVuYzVMUDRsVTE3TkF6NnlYUDc2bS0yVk1wVEszTWZ4M3poeHhBOWR4LUNQWEtGMHNoYUVLWnNCMXfSAbMBQVVfeXFMUHcteXpxYjFZRnEzalVaTVpOczB6RjlkSXZQeDREVllrekstMjM5ZGtvTHBoanhOcXhLd3VSejZYcFhPWGdrNmVOWG5SSmNIaWZ2ZDAtQ3M5TXYxR2Z3alJtUHhTbTVPV0NTenl6OFktbXA3MS16NlBWOTQtQlhqR1lORl9vTjVzVmFPb281RUtvVmJfdlZjVDJWUy1kTm41OUNNSDVpZXJFWl9uTGRRZ1lCNXc?oc=5",
    "date": "2026-08-11T09:52:54.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil",
+   "desc": "Kurdistan: US Military Asset Reductions and Security Risk in Erbil &nbsp;&nbsp; SpecialEurasia",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nNzctR1hfOFpxeldKamc2MXhubTNQVGhxRFUxN0lJOGxhakZDLTZIeEVxNnYxTzFIaUZRNDFZejM2VnRsUnNqNmF2TFFPNFpXRGloc19aNERTQmZXSzVoNVBIRzkxR3ZSTk41TUd3T19VQUN6MEJiVVAxNmhidw?oc=5",
+   "date": "2026-08-11T12:22:53.000Z"
   },
   {
    "src": "Erbil",
@@ -301,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias",
-   "desc": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias &nbsp;&nbsp; The Jerusalem Post",
+   "desc": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias &nbsp;&nbsp; jpost.com",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
    "date": "2026-08-16T14:28:53.000Z"
   },
@@ -325,7 +333,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region",
-   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; jinhaagency.com",
+   "desc": "To Strengthen Kurdish Culture...New Tourism Projects iin Biyare Village,Kurdistan Region &nbsp;&nbsp; JINHAGENCY",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSko2NnJ5ZTl4QTVqd2FLM2xJc0ZHc0pxaFdrdWM5TC1jU0VOU1ZsdFBVZ0s2eGpkY0N3V1M5ZUdaMGNFVzkxWVZOUVVzNm54dEd1VzZ5ZFpIdmVwS2xHOS1hQ3ZmVy02YWpfNC1WcTZZZ3paY1otSVdiN2NmbW5WSlJlS1h6OEx5ZXRERHctZEYtUlNoQmllaTY5MWJhVU9ja1ZCMnRmMXlBMTFJajR5OUNoS0cyVXAwREdIZUFJWXNPY1V0?oc=5",
    "date": "2026-08-12T12:51:12.000Z"
   },
