@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T11:28:00.996Z",
+ "updated": "2026-08-17T11:52:33.244Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,10 +44,34 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Turkmen Party Condemns Drone Attacks on Kurdistan Prime Minister's Office",
+   "desc": "Mohammed Saadaddin Ilkhani condemns attacks targeting the Kurdistan Region prime minister's private office and the Parastin chief's residence, saying they threaten peace and coexistence.",
+   "link": "https://www.kurdistan24.net/en/story/933102/turkmen-party-condemns-drone-attacks-on-kurdistan-prime-ministers-office",
+   "date": "2026-08-17T11:41:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Justice Group Condemns Attacks on Region's Institutions",
+   "desc": "The Kurdistan Justice Group calls for Kurdish neutrality as authorities say two explosive drones targeted the Kurdistan prime minister's office and a senior security official's residence.",
+   "link": "https://www.kurdistan24.net/en/story/933101/kurdistan-justice-group-condemns-attacks-on-regions-institutions",
+   "date": "2026-08-17T11:29:45.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Global Leaders Salute President Barzani on His 80th Birthday",
    "desc": "From Washington to Ottawa and Brussels, 49 political, diplomatic and military figures sent birthday messages praising President Masoud Barzani's leadership, Peshmerga partnership and role in the Kurdistan Region.",
    "link": "https://www.kurdistan24.net/en/story/933087/global-leaders-salute-president-barzani-on-his-80th-birthday",
    "date": "2026-08-17T10:42:43.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Diaspora Confederation Condemns \"Terrifying\" Predawn Drone Strikes on Pirmam, Demands Serious International Action",
+   "desc": "Kurdistan Diaspora organization calls attacks on KRG Prime Minister's office and security agency site a clear violation of international law and a dangerous threat to Kurdistan's stability, holding perpetrators fully accountable",
+   "link": "https://www.kurdistan24.net/en/story/933095/kurdistan-diaspora-confederation-condemns-terrifying-predawn-drone-strikes-on-pirmam-demands-serious-international-action",
+   "date": "2026-08-17T10:31:55.000Z"
   },
   {
    "src": "K24",
@@ -58,34 +82,18 @@
    "date": "2026-08-17T09:10:58.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Human Rights Commission Condemns Iranian Drone Strike on KRG Prime Minister's Office and Security Agency Site",
-   "desc": "Commission calls Monday's predawn attack a flagrant violation of Iraqi and Kurdistan Region sovereignty, urging the federal government and international community to take a clear and serious stance against continued Iranian aggression",
-   "link": "https://www.kurdistan24.net/en/story/933044/kurdistan-human-rights-commission-condemns-iranian-drone-strike-on-krg-prime-ministers-office-and-security-agency-site",
-   "date": "2026-08-17T08:48:24.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Prime Minister Says Iranian Drones Targeted His Private Office",
-   "desc": "Prime Minister Masrour Barzani says two explosive drones launched from Iran targeted his private office and the Parastin chief’s residence in Pirmam.",
-   "link": "https://www.kurdistan24.net/en/story/933037/kurdistan-prime-minister-says-iranian-drones-targeted-his-private-office",
-   "date": "2026-08-17T08:20:48.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Explosive Drones Target Kurdistan Prime Minister's Private Office in Erbil",
-   "desc": "According to the directorate, the attack occurred at 12:28 a.m. on August 17, 2026, when two \"Hadid-110\" drones were launched from across the Iranian border and targeted the facilities in the Pirmam district.",
-   "link": "https://www.kurdistan24.net/en/story/933027/explosive-drones-target-kurdistan-prime-ministers-private-office-in-erbil",
-   "date": "2026-08-17T07:43:27.000Z"
+   "title": "World Cup coach Graham Arnold returns to Baghdad",
+   "desc": "Shafaq News- Baghdad Iraq football national team head coach Graham Arnold on Monday returned to Baghdad to finalize his contract extension and begin preparations for the Arabian Gulf Cup and 2027 AFC Asian Cup. The Australian had already accepted a deal running through February 20, 2027, with the possibility of a new agreement from March 1 covering Iraq&rsquo;s 2030 World Cup qualifying campaign o",
+   "link": "https://shafaq.com/en/sport/World-Cup-coach-Graham-Arnold-returns-to-Baghdad",
+   "date": "2026-08-17T11:40:41.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
    "title": "President Barzani condemns attack on PM residence",
-   "desc": "Shafaq News- Erbil Kurdistan Region of Iraq (KRI) President Nechirvan Barzani on Monday condemned the attacks targeting the office of Prime Minister Masrour Barzani and the residence of the head of the Security and Intelligence Agency, calling on the federal government to prevent further attacks. This is a developing story...",
+   "desc": "Shafaq News- Erbil Kurdistan Region President Nechirvan Barzani on Monday urged Iraq&rsquo;s federal government to prevent further attacks after drones targeted Prime Minister Masrour Barzani&rsquo;s office and the residence of the head of the Security and Intelligence Agency. Barzani called the strikes &ldquo;completely unacceptable&rdquo; and a &ldquo;dangerous escalation,&rdquo; stressing that ",
    "link": "https://shafaq.com/en/Kurdistan/President-Barzani-condemns-attack-on-PM-residence",
    "date": "2026-08-17T11:09:54.000Z"
   },
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq&rsquo;s four top state authorities will discuss on Monday how to deal with armed factions that refuse to surrender their weapons after the September 30 deadline and how to pursue corruption suspects without political exceptions, an informed source told Shafaq News. Prime Minister Ali Al-Zaidi, Parliament Speaker Haibet Al-Halbousi, President Nizar Amedi, and Supreme Judic",
    "link": "https://shafaq.com/en/Iraq/Baghdad-reviews-next-steps-for-disarmament-anti-corruption",
    "date": "2026-08-17T09:56:44.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran dismisses US MoU deadline, warns military remains ready",
-   "desc": "Shafaq News- Tehran Iran on Monday rejected the 60-day deadline under its June Memorandum of Understanding (MoU) with the United States as binding, arguing that Washington had failed to meet its own commitments. Speaking at his weekly news conference, Foreign Ministry spokesman Esmaeil Baqaei maintained that Tehran would not accept being placed under time pressure and that it would act in line wit",
-   "link": "https://shafaq.com/en/Middle-East/Iran-dismisses-US-MoU-deadline-warns-military-remains-ready",
-   "date": "2026-08-17T09:32:11.000Z"
   },
   {
    "src": "BBC",
