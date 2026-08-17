@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T20:56:57.540Z",
+ "updated": "2026-08-17T21:31:36.842Z",
  "items": [
   {
    "src": "Rudaw",
@@ -20,14 +20,6 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Thousands of graduates protest in Baghdad, demand public sector employment",
-   "desc": "Thousands of graduates protest in Baghdad, demand public sector employment &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90T0huUk83bWktbF9HNGg3aC0yYlZMMWlhVENCVEd6TzVlLU15Ty1aLTFtQmxiTjZRcUxVd0RZblJoZ2todXVMajNkeGhxWm5VVF83WF8teG5wNV9GSjZoN0M4bw?oc=5",
-   "date": "2026-08-17T12:08:17.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Iran executes man convicted of car-ramming attack on police in January",
    "desc": "Iran executes man convicted of car-ramming attack on police in January &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XdGVST3ZwbkhmeVJ3MUhxUW1rS1Itel9kWC1Ob19rdHdlRWRiUTV2aEVLTWZGLXJIOURvWmowZ3I0ckxfT3pfc3BoVkJJSklnT01vbEJvS0kyMnFBcUE?oc=5",
@@ -40,6 +32,14 @@
    "desc": "Ocalan’s freedom key to lasting peace in Turkey: Senior PKK commander &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiemVpOFUxdnM4NkNRWEpyczJ4WVA4bk5WTFVSMmROZlV2NTNub0NrdHl6UUNlQWU0RVdzdlJZNEFfV3prUkNxbXVFSm9YbnQtWmFBeE85eUcyLWJVcHJnVHlWSnh0UQ?oc=5",
    "date": "2026-08-16T19:47:42.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iranian MP apologizes to Zhina Amini’s family over derogatory remarks",
+   "desc": "Iranian MP apologizes to Zhina Amini’s family over derogatory remarks &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OVlhIbWZkMXdSc3V2WldscVctU0FuWVJZRWdZejY1ZENNc0ZpblE3dWNEZEdMWDhDR1NvUXg1eTBYU0drZ3k1R3UyeExaR25aTE00RHYwQVljRkVld2hVMHZNMA?oc=5",
+   "date": "2026-08-17T12:57:45.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Barcelona legend Sergio Busquets returns in first coaching role",
+   "desc": "Shafaq News- Barcelona Barcelona football club legend Sergio Busquets has returned to the club as assistant coach of Bar&ccedil;a Atl&egrave;tic, beginning his coaching career alongside reserve-team manager Juliano Belletti. The 38-year-old will work with Belletti while completing his coaching qualifications, with Barcelona saying he will bring his experience and football knowledge to the developm",
+   "link": "https://shafaq.com/en/sport/Barcelona-legend-Sergio-Busquets-returns-in-first-coaching-role",
+   "date": "2026-08-17T21:18:26.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq lawmakers push to freeze provincial councils again",
    "desc": "Shafaq News- Baghdad A group of Iraqi lawmakers submitted a formal request to Parliament Speaker Haibet Al-Halbousi to place a proposal to freeze provincial councils and their budgets for the current term on the agenda of the next parliamentary session. Reviving one of Iraq's most contentious debates over decentralization, signatories based their request, submitted Sunday, on Article 20/First of t",
    "link": "https://shafaq.com/en/Report/Iraq-lawmakers-push-to-freeze-provincial-councils-again",
@@ -114,14 +122,6 @@
    "date": "2026-08-17T18:55:18.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Al-Sadr urges IRGC to halt strikes on Iraq",
-   "desc": "Shafaq News- Najaf Patriotic Shiite Movement (PSM) leader Muqtada Al-Sadr on Monday called on Iran&rsquo;s Islamic Revolutionary Guard Corps (IRGC) to refrain from striking Iraqi territory, following drone attacks targeting senior officials in the Kurdistan Region of Iraq (KRI). In a statement, Al-Sadr described alleged attacks on Iraq by Iranian drones as &ldquo;saddening,&rdquo; particularly whe",
-   "link": "https://shafaq.com/en/Iraq/Al-Sadr-urges-IRGC-to-halt-strikes-on-Iraq",
-   "date": "2026-08-17T18:49:17.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -135,7 +135,7 @@
    "title": "Mangione state murder trial postponed after federal guilty plea in CEO killing",
    "desc": "Mangione admitted to killing United Healthcare CEO Brian Thompson on Friday, after which his lawyers moved to dismiss the state case.",
    "link": "https://www.bbc.co.uk/news/articles/cqjxkqppz5ko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-17T20:50:54.000Z"
+   "date": "2026-08-17T21:30:45.000Z"
   },
   {
    "src": "BBC",
@@ -204,8 +204,8 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Trump envoy hails 'very good' meeting with Netanyahu after Hamas talks on peace plan",
-   "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+   "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+   "desc": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-17T16:02:58.000Z"
   },
@@ -309,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias",
-   "desc": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias &nbsp;&nbsp; jpost.com",
+   "desc": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias &nbsp;&nbsp; The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
    "date": "2026-08-16T14:28:53.000Z"
   },
