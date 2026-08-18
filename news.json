@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T20:26:26.935Z",
+ "updated": "2026-08-18T20:51:32.567Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,7 +44,7 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Ayad Allawi Condemns Attack on Masrour Barzani’s Office",
+   "title": "Ayad Allawi Condemns Attack on Prime Minister Barzani’s Office",
    "desc": "National Coalition leader says the attack threatens the Kurdistan Region’s security and Iraq’s sovereignty and stability, calling for those responsible to be identified and held accountable.",
    "link": "https://www.kurdistan24.net/en/story/933525/ayad-allawi-condemns-attack-on-masrour-barzanis-office",
    "date": "2026-08-18T20:16:00.000Z"
@@ -72,6 +72,14 @@
    "desc": "Iranian Foreign Minister Abbas Araghchi says Tehran rejected an initial 15-point US proposal and later negotiated a 14-point memorandum after three months of difficult talks.",
    "link": "https://www.kurdistan24.net/en/story/933505/araghchi-says-iran-rejected-us-15-point-proposal-after-40-day-war",
    "date": "2026-08-18T19:06:32.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran envisions broadened economic partnership with Iraq",
+   "desc": "Shafaq News- Ilam Iranian economists and trade experts are calling for a broader economic partnership with Iraq, urging Tehran to strengthen ties in production, investment and job creation, state-run IRNA News reported on Tuesday. The proposals came at a meeting of the Employment Council in Ilam province in western Iran. The province is home to a significant Feyli Kurdish population, shares a 430-",
+   "link": "https://shafaq.com/en/Economy/Iran-envisions-broadened-economic-partnership-with-Iraq",
+   "date": "2026-08-18T20:37:23.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,14 +114,6 @@
    "date": "2026-08-18T18:48:32.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran rejects ceasefire extension, demands permanent end to war",
-   "desc": "Shafaq News- Tehran Iran will not accept another temporary ceasefire with the United States and instead wants a permanent end to the nearly six-month war, Foreign Minister Abbas Araghchi stated on Tuesday. Araghchi told Iranian television that Qatar and Pakistan had played an important role in mediating, but said contacts between Tehran and Washington did not amount to formal negotiations. Iranian",
-   "link": "https://shafaq.com/en/Middle-East/Iran-rejects-ceasefire-extension-demands-permanent-end-to-war",
-   "date": "2026-08-18T18:34:36.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
@@ -127,7 +127,7 @@
    "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
    "desc": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
    "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-18T16:22:54.000Z"
+   "date": "2026-08-18T20:39:36.000Z"
   },
   {
    "src": "BBC",
@@ -140,10 +140,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Man in doll-mask chases and threatens Philadelphia residents, police say",
+   "title": "Man in creepy Chucky-like mask chases Philadelphia residents, police say",
    "desc": "\"It was just weird, like some twisted game.\"",
    "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-18T20:01:34.000Z"
+   "date": "2026-08-18T20:27:44.000Z"
   },
   {
    "src": "BBC",
@@ -152,6 +152,14 @@
    "desc": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
    "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-18T05:07:06.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Canadian tariff deadline looms as two sides continue to negotiate",
+   "desc": "The U.S. is scheduled to impose more tariffs on Canada, hitting about $20 billion dollars worth of goods, as trade negotiations between the two neighboring countries hit an impasse.",
+   "link": "https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate",
+   "date": "2026-08-18T20:49:22.000Z"
   },
   {
    "src": "NPR",
@@ -184,14 +192,6 @@
    "desc": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
    "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
    "date": "2026-08-18T08:40:36.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-   "desc": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it.",
-   "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-   "date": "2026-08-18T05:51:50.000Z"
   },
   {
    "src": "BBC ME",
@@ -332,10 +332,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "China Becomes Türkiye’s Fastest-Growing Tourism Market",
-   "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
-   "date": "2026-08-10T07:00:00.000Z"
+   "title": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed",
+   "desc": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed &nbsp;&nbsp; The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU2FJaGhibHlOQXlYZDVwSk1CWV9FeG5QWHJhbTI3ZnhGTUdsS1B1VkZuQWFkazhmTGdNbklGbEZsTUowelpkOGNHRzhYWDBEcGg3N1hldXQ0UmpVaUdjSXJFZlpNSFQtZnFMRUdBSEVQYVAybzgyNl85UFBqYW81VW1JbmFHVzBQbE9iNnd5cllIRTVtdWIyV0tyd0RvZTB4OW41N0ZHTFkyZGZwcllWOVFTOWUzVXJXYzlmQ3ctZEZDaWJab2dSMjdCY01XNURwSDdrMHdjZjhaUnlkMjJ0LXJvQTNhbjhtV1HSAfwBQVVfeXFMTWhlNGtzLXZRUFZhVFNxZjBJbUk0UlJXMmdQNDdGREw5LVlaZHA1NlpmdjZkVDRhMXhhdmdwWGl4TC1ORURBbU5FQVdaN0pnQ1Y5cXNORHVpWDZRQ01CZ1dwY3N1amNhQ0tCSkdHc3RweGxPSkVEZGdSNHN5YWNuS0VfVmd3UVNZS2lzWlFJZ05rZk9tTWU3OWxhcG1PNmtjMjdpSHRHYXYxMEd5OUlZUllTMVczeWUtcWttTXNQSWlMaHhrYkt3RkF1c2FNRGdqaU1ZaXVzWnRqZmlVaVdXcTRlelZTV2ZybXliY1Q1VXE3NXdsOWk4aFZLOU0y?oc=5",
+   "date": "2026-08-14T18:15:00.000Z"
   }
  ]
 }
