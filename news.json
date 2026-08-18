@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T22:25:43.282Z",
+ "updated": "2026-08-18T22:52:06.213Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Marriage registrations drop 35% across Iraq",
+   "desc": "Shafaq News- Baghdad Iraqi courts registered 18,351 marriage contracts in July, down nearly 35% from 28,085 in June, while divorces edged up 1.6% to 6,352, Supreme Judicial Council data showed on Tuesday. Nineveh recorded 3,412 marriage contracts, while Baghdad registered a combined 4,058 across Al-Karkh and Al-Rusafa. Baghdad also led divorce registrations with 2,620 cases, including 1,407 in Al-",
+   "link": "https://shafaq.com/en/society/Marriage-registrations-drop-35-across-Iraq",
+   "date": "2026-08-18T22:39:44.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Israel condemns Damascus over rising Turkish military presence",
+   "desc": "Shafaq News- Middle East Israel on Tuesday accused Damascus of ignoring Israeli concerns over a growing Turkish military presence in Syria, warning that the deployment poses a threat to Tel Aviv's security. According to the office of Israeli Prime Minister Benjamin Netanyahu, Israel and Syria had previously agreed on security arrangements, with Israel cautioning against any changes to those unders",
+   "link": "https://shafaq.com/en/Middle-East/Israel-condemns-Damascus-over-rising-Turkish-military-presence",
+   "date": "2026-08-18T22:24:39.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Education Ministry first to adopt digital signatures in official transactions",
    "desc": "Shafaq News- Baghdad Iraq's Ministry of Higher Education and Scientific Research has become the first Iraqi ministry to introduce digital signatures for official transactions, signing a contract Tuesday with the Ministry of Communications as part of a broader digital transformation and automation drive. Higher Education Undersecretary for Scientific Research Affairs Haider Abd Dahad said achieving",
    "link": "https://shafaq.com/en/society/Education-Ministry-first-to-adopt-digital-signatures-in-official-transactions",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Abu Dhabi Two ballistic missiles launched from Iran targeted maritime traffic in the United Arab Emirates (UAE), the Emirates&rsquo; Foreign Ministry reported on Tuesday. One missile fell outside UAE territorial waters, while the other came down inside them. The ministry affirmed that air defenses are ready to respond to any threats, pledging firm action against any attempt to undermi",
    "link": "https://shafaq.com/en/Middle-East/UAE-Iranian-missiles-strike-near-maritime-waters",
    "date": "2026-08-18T21:15:10.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US Barrack: US to establish Israel-Turkiye-Syria deconfliction mechanism",
-   "desc": "Shafaq News- Washington Washington is working to establish a deconfliction mechanism among Israel, Turkiye and Syria following Israeli strikes on Syria&rsquo;s Abu al-Duhur airbase, US Special Envoy for Syria and Iraq and Ambassador to Turkiye Tom Barrack said Tuesday. In an interview with Reuters, Barrack noted that Turkiye had not been informed in advance of the Israeli strikes, prompting it to ",
-   "link": "https://shafaq.com/en/World/US-Barrack-US-to-establish-Israel-Turkiye-Syria-deconfliction-mechanism",
-   "date": "2026-08-18T21:04:19.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran envisions broadened economic partnership with Iraq",
-   "desc": "Shafaq News- Ilam Iranian economists and trade experts are calling for a broader economic partnership with Iraq, urging Tehran to strengthen ties in production, investment and job creation, state-run IRNA News reported on Tuesday. The proposals came at a meeting of the Employment Council in Ilam province in western Iran. The province is home to a significant Feyli Kurdish population, shares a 430-",
-   "link": "https://shafaq.com/en/Economy/Iran-envisions-broadened-economic-partnership-with-Iraq",
-   "date": "2026-08-18T20:37:23.000Z"
   },
   {
    "src": "BBC",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Drone Attack Targets US Positions in Erbil",
-   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; IranWire",
+   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; iranwire.com",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3U4T3R3TmJSUmdfYVhhcUxxUENBTzhVZk53SHBfYW9xcG5VampIU3FJRjQ3amk2N0ZzRnlnWW5uaGRQUmZnalJsUHg0WHhGWDZFenlfRUIwQzRLcUE2RTdhUWxhek9WS2Q4RFZMNjVUTVZROVBmV0NyMmZqcmtZdEFXWV9RQQ?oc=5",
    "date": "2026-08-14T15:19:34.000Z"
   },
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture",
-   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; Kurdistan24",
+   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; kurdistan24.net",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ6TUtnVDZvWkVkUW9QRWNwN1F5Qmt5WmxrUjNUbHlDdmgtYTdLYmxGRU9tcVVCRmZoV0ZoZm9PbVBMdERMSGNCM2NOcjRONW1fdEd2TTdiRFRnVGlMOTBqMFZHM3lMSUpsNXJUWFE2TlVfS2NVY2lqcmJzVVFBemtPREFaSUY5cmhqVEZEX2pBVUZhb04wV3ZVaEx1cGZ1RUFRLWE5NGJFWms?oc=5",
    "date": "2026-08-18T09:15:06.000Z"
   },
@@ -341,7 +341,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed",
-   "desc": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed &nbsp;&nbsp; The Times of India",
+   "desc": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed &nbsp;&nbsp; timesofindia.com",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU2FJaGhibHlOQXlYZDVwSk1CWV9FeG5QWHJhbTI3ZnhGTUdsS1B1VkZuQWFkazhmTGdNbklGbEZsTUowelpkOGNHRzhYWDBEcGg3N1hldXQ0UmpVaUdjSXJFZlpNSFQtZnFMRUdBSEVQYVAybzgyNl85UFBqYW81VW1JbmFHVzBQbE9iNnd5cllIRTVtdWIyV0tyd0RvZTB4OW41N0ZHTFkyZGZwcllWOVFTOWUzVXJXYzlmQ3ctZEZDaWJab2dSMjdCY01XNURwSDdrMHdjZjhaUnlkMjJ0LXJvQTNhbjhtV1HSAfwBQVVfeXFMTWhlNGtzLXZRUFZhVFNxZjBJbUk0UlJXMmdQNDdGREw5LVlaZHA1NlpmdjZkVDRhMXhhdmdwWGl4TC1ORURBbU5FQVdaN0pnQ1Y5cXNORHVpWDZRQ01CZ1dwY3N1amNhQ0tCSkdHc3RweGxPSkVEZGdSNHN5YWNuS0VfVmd3UVNZS2lzWlFJZ05rZk9tTWU3OWxhcG1PNmtjMjdpSHRHYXYxMEd5OUlZUllTMVczeWUtcWttTXNQSWlMaHhrYkt3RkF1c2FNRGdqaU1ZaXVzWnRqZmlVaVdXcTRlelZTV2ZybXliY1Q1VXE3NXdsOWk4aFZLOU0y?oc=5",
    "date": "2026-08-14T18:15:00.000Z"
   }
