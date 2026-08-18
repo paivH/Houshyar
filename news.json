@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T19:51:55.637Z",
+ "updated": "2026-08-18T20:26:26.935Z",
  "items": [
   {
    "src": "Rudaw",
@@ -15,7 +15,7 @@
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-08-18T19:04:01.000Z"
+   "date": "2026-08-18T19:12:18.000Z"
   },
   {
    "src": "Rudaw",
@@ -36,42 +36,42 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Canadian MP Condemns Drone Attacks on PM Barzani’s Office",
+   "desc": "He called for the investigation to be conducted “quickly and transparently,” with those responsible held accountable.",
+   "link": "https://www.kurdistan24.net/en/story/933523/canadian-mp-condemns-drone-attacks-on-pm-barzanis-office",
+   "date": "2026-08-18T20:17:19.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Ayad Allawi Condemns Attack on Masrour Barzani’s Office",
+   "desc": "National Coalition leader says the attack threatens the Kurdistan Region’s security and Iraq’s sovereignty and stability, calling for those responsible to be identified and held accountable.",
+   "link": "https://www.kurdistan24.net/en/story/933525/ayad-allawi-condemns-attack-on-masrour-barzanis-office",
+   "date": "2026-08-18T20:16:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Turkish Defense Minister Condemns Drone Attack on PM Barzani’s Office",
+   "desc": "In a message to Prime Minister Barzani, Güler strongly condemned the attack, describing it as “unacceptable” and warning that such acts threaten peace, stability, and security in the region.",
+   "link": "https://www.kurdistan24.net/en/story/933518/turkish-defense-minister-condemns-drone-attack-on-pm-barzanis-office",
+   "date": "2026-08-18T19:53:31.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Maliki Says Coordination Framework Sets Up Committee on State Control of Arms",
+   "desc": "Nouri al-Maliki says the Coordination Framework has established a committee to address state control of weapons, with the body expected to begin work soon.",
+   "link": "https://www.kurdistan24.net/en/story/933521/maliki-says-coordination-framework-sets-up-committee-on-state-control-of-arms",
+   "date": "2026-08-18T19:51:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Araghchi Says Iran Rejected US 15-Point Proposal After 40-Day War",
    "desc": "Iranian Foreign Minister Abbas Araghchi says Tehran rejected an initial 15-point US proposal and later negotiated a 14-point memorandum after three months of difficult talks.",
    "link": "https://www.kurdistan24.net/en/story/933505/araghchi-says-iran-rejected-us-15-point-proposal-after-40-day-war",
    "date": "2026-08-18T19:06:32.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Region Security Forces Arrest Seven Wanted ISIS Members in Sulaimani",
-   "desc": "According to the agency, the arrests were carried out based on intelligence information that led security forces to locate the suspects while they were hiding in Sulaimani and surrounding areas.",
-   "link": "https://www.kurdistan24.net/en/story/933500/kurdistan-region-security-forces-arrest-seven-wanted-isis-members-in-sulaimani",
-   "date": "2026-08-18T18:50:57.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq Condemns Attack on KRG Prime Minister’s Office, Warns of Security Risks",
-   "desc": "Iraq’s National Security Advisory warns that attacks targeting the Kurdistan Region and official institutions could undermine peace efforts.",
-   "link": "https://www.kurdistan24.net/en/story/933492/iraq-condemns-attack-on-krg-prime-ministers-office-warns-of-security-risks",
-   "date": "2026-08-18T17:59:20.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "930 Groundwater Wells Closed: How the Kurdistan Region is Engineering a Water Revolution",
-   "desc": "Emergency water projects have eased shortages across the Kurdistan Region, while major schemes in key urban centers and rural districts continue to advance.",
-   "link": "https://www.kurdistan24.net/en/story/933484/930-groundwater-wells-closed-how-the-kurdistan-region-is-engineering-a-water-revolution",
-   "date": "2026-08-18T17:09:22.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "PM Barzani Speaks by Phone with Sulaimani Governor Over Recent Fires",
-   "desc": "During the call, Prime Minister Barzani expressed deep concern over the incidents and instructed the governor and local authorities to strengthen measures to protect the lives and property of citizens.",
-   "link": "https://www.kurdistan24.net/en/story/933481/pm-barzani-speaks-by-phone-with-sulaimani-governor-over-recent-fires",
-   "date": "2026-08-18T17:06:27.000Z"
   },
   {
    "src": "Shafaq",
@@ -140,10 +140,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Buss trying to block siblings' sale of LA Lakers",
-   "desc": "Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings' sale of the family's remaining stake in the NBA franchise.",
-   "link": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-18T13:39:42.000Z"
+   "title": "Man in doll-mask chases and threatens Philadelphia residents, police say",
+   "desc": "\"It was just weird, like some twisted game.\"",
+   "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-18T20:01:34.000Z"
   },
   {
    "src": "BBC",
