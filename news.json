@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T04:37:23.865Z",
+ "updated": "2026-08-18T05:31:35.935Z",
  "items": [
   {
    "src": "Rudaw",
@@ -15,7 +15,7 @@
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-08-17T21:46:06.000Z"
+   "date": "2026-08-17T21:39:24.000Z"
   },
   {
    "src": "Rudaw",
@@ -76,6 +76,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Gold retreats as oil climbs",
+   "desc": "Shafaq News Gold prices came under pressure on Tuesday from higher &zwnj;Treasury yields and a spike in oil prices, while traders awaited minutes of the U.S. Federal Reserve's July policy meeting for clues on the outlook for interest rates. Spot gold was down &#8203;0.5% at $4,391.14 per ounce, as of 0423 GMT, while U.S. gold futures &#8203;for December delivery dropped 0.6% to $4,446.70. Yields o",
+   "link": "https://shafaq.com/en/Economy/Gold-retreats-as-oil-climbs",
+   "date": "2026-08-18T05:23:43.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Exclusive: SOMO seeks safe Hormuz passage for Iraqi oil exports",
    "desc": "Shafaq News- Baghdad Iraq&rsquo;s State Organization for Marketing of Oil (SOMO) is negotiating with US and German shipping companies to secure passage for crude exports through the Strait of Hormuz using Iraqi-flagged tankers, a government source told Shafaq News on Monday. The source said the US company rejected Baghdad&rsquo;s requirement to fly the Iraqi flag on its tankers, leaving the two si",
    "link": "https://shafaq.com/en/Economy/Exclusive-SOMO-seeks-safe-Hormuz-passage-for-Iraqi-oil-exports",
@@ -93,7 +101,7 @@
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
    "title": "Fuel fire engulfs 38 tankers in Al-Sulaymaniyah",
-   "desc": "Shafaq News- Al-Sulaymaniyah (Updated at 2:12) A large fire at a fuel storage site in Al-Sulaymaniyah&rsquo;s Tanjaro area burned 38 tankers and consumed more than three million liters of gasoline on Tuesday, a source told Shafaq News. The source, who requested anonymity, said 34 tankers loaded with gasoline and four carrying gas oil were burned. He noted that fuel leaked onto the ground and caugh",
+   "desc": "Shafaq News- Al-Sulaymaniyah (Updated at 8:05) A large fire at a fuel storage site in Al-Sulaymaniyah&rsquo;s Tanjaro area burned 38 tankers and consumed more than three million liters of gasoline on Tuesday, a source told Shafaq News. The source, who requested anonymity, said 34 tankers loaded with gasoline and four carrying gas oil were burned. He noted that fuel leaked onto the ground and caugh",
    "link": "https://shafaq.com/en/Kurdistan/Explosion-and-fire-hit-Tanjaro-area-in-Al-Sulaymaniyah",
    "date": "2026-08-17T22:29:21.000Z"
   },
@@ -104,14 +112,6 @@
    "desc": "Shafaq News- Baghdad Kataib Hezbollah set three conditions for any understanding with the Iraqi government over the weapons held by armed factions, including a full withdrawal of US forces from Iraq, according to a statement by the group's security official. Abu Mujahid al-Assaf said the first condition for any agreement on the factions&rsquo; weapons is the complete withdrawal of US forces from I",
    "link": "https://shafaq.com/en/Iraq/Kataib-Hezbollah-sets-conditions-on-Iraq-weapons-talks",
    "date": "2026-08-17T21:48:45.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran FM warns of false-flag ploys after attack on Kurdistan PM’s office",
-   "desc": "Shafaq News- Tehran Iranian Foreign Minister Abbas Araghchi condemned the attack on the office of Kurdistan Region Prime Minister Masrour Barzani. &ldquo;Nothing justifies the reckless attack on PM Barzani's office ,&rdquo; Araghchi said in a statement, urging Kurdish leaders and communities to remain alert to &ldquo;false-flag ploys to sow discord between neighbors.&rdquo; Nothing justifies the r",
-   "link": "https://shafaq.com/en/Kurdistan/Iran-FM-warns-of-false-flag-ploys-after-attack-on-Kurdistan-PM-s-office",
-   "date": "2026-08-17T21:41:24.000Z"
   },
   {
    "src": "BBC",
@@ -292,6 +292,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Drone Attack Targets US Positions in Erbil",
+   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; IranWire",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3U4T3R3TmJSUmdfYVhhcUxxUENBTzhVZk53SHBfYW9xcG5VampIU3FJRjQ3amk2N0ZzRnlnWW5uaGRQUmZnalJsUHg0WHhGWDZFenlfRUIwQzRLcUE2RTdhUWxhek9WS2Q4RFZMNjVUTVZROVBmV0NyMmZqcmtZdEFXWV9RQQ?oc=5",
+   "date": "2026-08-14T15:19:34.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias",
    "desc": "Kurdistan Region attacks expose Iraq’s struggle to control Iran-backed militias &nbsp;&nbsp; The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
@@ -304,14 +312,6 @@
    "desc": "Rare Hulegu-Era Artifact Unearthed at Major Erbil Archaeological Site &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRzQxWkFSZF9iUGtwZ1BVZ2RLVVMwZWVSWE9KZFVodW0ydEdFM0FFOHBwZUVtVl83Y3lvdTdCUm5UVjQyS3VmV3FNVjVxY3N6bkR2N3N3?oc=5",
    "date": "2026-08-16T17:52:19.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters",
-   "desc": "Rocket attack hits Iranian Kurdish opposition camp near Erbil - Reuters &nbsp;&nbsp; iranintl.com",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tX0ZHUDRwZ2l2VFdWNnJkZDl2blFHZnNDb0g3d1dHREpSeGFyZUktaG9BTG1vdGtQbE9IMkhyVURldzFReDVJZTNRX2dZM0V3d3c?oc=5",
-   "date": "2026-08-11T11:27:39.000Z"
   },
   {
    "src": "Tourism",
