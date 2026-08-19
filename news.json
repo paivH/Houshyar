@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T15:33:31.486Z",
+ "updated": "2026-08-19T16:33:46.378Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Integrity Commission arrests five Babil municipal officials",
+   "desc": "Shafaq News- Babil Iraq&rsquo;s Federal Integrity Commission arrested five officials from a municipal directorate in Babil province over alleged manipulation of financial receipts and misuse of public funds, the commission said on Wednesday. The commission said it had received reports of violations at Al-Tali&rsquo;a Municipality, one of Babil&rsquo;s municipal directorates. The alleged violations",
+   "link": "https://shafaq.com/en/society/Integrity-Commission-arrests-five-Babil-municipal-officials",
+   "date": "2026-08-19T16:05:39.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Nasiriyah corruption suspect escapes arrest",
+   "desc": "Shafaq News- Dhi Qar A Nasiriyah municipal employee wanted on corruption charges escaped during an attempt to arrest him on Wednesday, a security source told Shafaq News. Security forces raided his home, but he fled shortly before they arrived, prompting a search across Dhi Qar province. According to the source, the employee, locally nicknamed the &ldquo;Crocodile of Nasiriyah Municipality,&rdquo;",
+   "link": "https://shafaq.com/en/society/Nasiriyah-corruption-suspect-escapes-arrest",
+   "date": "2026-08-19T16:02:14.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "After acquittal, Al-Yaqoubi vows to sue Iraqi Intelligence Service",
    "desc": "Shafaq News- Baghdad A Popular Mobilization Forces (PMF) official, Abbas al-Yaqoubi, on Wednesday vowed to file a lawsuit against the Iraqi National Intelligence Service, claiming he had been imprisoned on &ldquo;malicious&rdquo; charges brought by the agency. In his first public appearance following his release, al-Yaqoubi, the intelligence director for Baghdad Belt Operations Command, accused US",
    "link": "https://shafaq.com/en/Security/After-acquittal-Al-Yaqoubi-vows-to-sue-Iraqi-Intelligence-Service",
@@ -106,28 +122,12 @@
    "date": "2026-08-19T14:44:33.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "KSA, Iraq move to strengthen judicial ties",
-   "desc": "Shafaq News- Riyadh/ Baghdad Iraq&rsquo;s Supreme Judicial Council President Faiq Zidan discussed strengthening judicial and legal cooperation with Saudi Justice Minister and Supreme Judicial Council President Walid bin Mohammed Al-Samaani in Riyadh on Wednesday. Zidan arrived in Riyadh on Wednesday at Al-Samaani&rsquo;s invitation. Earlier this month, Zidan visited Damascus for talks on expanding",
-   "link": "https://shafaq.com/en/Iraq/KSA-Iraq-move-to-strengthen-judicial-ties",
-   "date": "2026-08-19T14:27:34.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi PM, Iran’s Speaker seek broader cooperation",
-   "desc": "Shafaq News- Baghdad Iraqi Prime Minister Ali Falih al-Zaidi and Iranian Parliament Speaker Mohammad Bagher Ghalibaf explored ways to expand cooperation between Iraq and Iran during talks in Baghdad on Wednesday. Al-Zaidi highlighted the historical, geographical and religious ties between the two countries and praised Iran&rsquo;s support for Iraq, particularly during the war against ISIS. Ghaliba",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-PM-Iran-s-Speaker-seek-broader-cooperation",
-   "date": "2026-08-19T14:00:11.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
    "desc": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-19T03:56:35.000Z"
+   "date": "2026-08-19T15:47:31.000Z"
   },
   {
    "src": "BBC",
@@ -140,26 +140,34 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-   "desc": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-   "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-19T03:00:35.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Meta hooked children on Facebook and Instagram, US court hears",
-   "desc": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-   "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-18T22:11:07.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
    "desc": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
    "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-19T09:48:16.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Spared execution eight times, oldest inmate in US dies at 101",
+   "desc": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
+   "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-19T11:22:09.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+   "desc": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+   "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-19T15:01:57.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Why does the U.S. military seem stymied in the war with Iran?",
+   "desc": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
+   "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+   "date": "2026-08-19T16:18:35.000Z"
   },
   {
    "src": "NPR",
@@ -194,20 +202,20 @@
    "date": "2026-08-19T09:29:40.000Z"
   },
   {
-   "src": "NPR",
+   "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires",
-   "desc": "A destructive wildfire season is pushing American firefighting resources to their limits. Australia and New Zealand have sent their largest contingent ever to help out.",
-   "link": "https://www.npr.org/2026/08/19/nx-s1-5931946/australia-and-new-zealand-send-over-240-firefighters-to-help-battle-u-s-wildfires",
-   "date": "2026-08-19T08:46:14.000Z"
+   "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+   "desc": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+   "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-19T15:33:32.000Z"
   },
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-   "desc": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
-   "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-19T13:53:51.000Z"
+   "title": "Israel opens up tenders for controversial West Bank settlement project",
+   "desc": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
+   "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-19T15:50:22.000Z"
   },
   {
    "src": "BBC ME",
@@ -232,14 +240,6 @@
    "desc": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-15T20:21:14.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-   "desc": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-   "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-16T09:27:58.000Z"
   },
   {
    "src": "LFU",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Drone Attack Targets US Positions in Erbil",
-   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; iranwire.com",
+   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; IranWire",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3U4T3R3TmJSUmdfYVhhcUxxUENBTzhVZk53SHBfYW9xcG5VampIU3FJRjQ3amk2N0ZzRnlnWW5uaGRQUmZnalJsUHg0WHhGWDZFenlfRUIwQzRLcUE2RTdhUWxhek9WS2Q4RFZMNjVUTVZROVBmV0NyMmZqcmtZdEFXWV9RQQ?oc=5",
    "date": "2026-08-14T15:19:34.000Z"
   },
@@ -309,23 +309,23 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects",
-   "desc": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects &nbsp;&nbsp; شفق نيوز",
+   "desc": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects &nbsp;&nbsp; shafaq.com",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHlOdkYtSXVrSVpNRXdJWVJEOTVPWGtxdEdCMERYaWwtMEk3OTRFOWZmZFhCbVFrcWRkNnV3NjNEY2I1Yjl4bXFVZmxQeWxXS25NNG1pMFlhdFdlaGRJWktjR2NiRGltNEJKSVhfcjh6YVlSVG5kaFZZVW9ydjFDNk5CdkxxT3c0QTNiRU5n?oc=5",
    "date": "2026-08-19T13:05:28.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iraq: from agricultural knowledge to business",
-   "desc": "Iraq: from agricultural knowledge to business &nbsp;&nbsp; Agroberichten Buitenland",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFJpMnhHeHZVMFNJVVVlR0JzcDBsY293XzQ3WV9tS0NiN1RuVHppdGRKUVdEV2RGdEpCM0lwTnoyS0MyVDFWaVZoeHpvSW9teEtCQkh0X1pjeWNmSC1IblVTM2t0dFJGazRBakNyOUVUZS1tTGVjWGczcHRfRGp3LTA3R3NRelI5VkVITUxyeUNvbW93QlNvSWRjcXEyZTlkb0hYZS12SVRibUo3eEE?oc=5",
-   "date": "2026-08-14T07:17:10.000Z"
+   "title": "Iraq: From agricultural knowledge to business",
+   "desc": "Iraq: From agricultural knowledge to business &nbsp;&nbsp; Hortidaily",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDJOZkZvd3VnWXNXc0V5SDl4azBfd1E4Z0dOenctcmdyVzZVRVZwaTRHV2xLSlRQdWdNNHBITEJVSEp3QXh4M2pUZV9TendOWkRpTFdmTjdzRi0xb01MNzdNTVVzV1k5NWUybERKXzRGTXRGcmpub1pNN0tpd2FTVUxWSDJHOFEzcHJfd0JzLWhfdw?oc=5",
+   "date": "2026-08-18T12:04:32.000Z"
   },
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation",
-   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
+   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; timesofindia.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T10:14:10.000Z"
   },
