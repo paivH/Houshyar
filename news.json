@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T17:28:11.051Z",
+ "updated": "2026-08-19T17:53:07.719Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Al-Sulaymaniyah arrests suspect over burning of 200-year-old tree",
+   "desc": "Shafaq News- Al-Sulaymaniyah Forest and Environment Police in Iraqi Kurdistan&rsquo;s Al-Sulaymaniyah province arrested a suspect accused of burning a more than 200-year-old tree near Alyawa village, the directorate said on Wednesday. Earlier this month, authorities in Al-Sulaymaniyah opened an investigation after a branch broke off a roughly 400-year-old oak tree in Darbaro village. Tree cutting ",
+   "link": "https://shafaq.com/en/Kurdistan/Al-Sulaymaniyah-arrests-suspect-over-burning-of-200-year-old-tree",
+   "date": "2026-08-19T17:37:56.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraqi MP: 50,000 tank shells destroyed at Taji base",
    "desc": "Shafaq News- Baghdad Around 50,000 tank shells were destroyed at Taji military base north of Baghdad by unidentified parties during the Arbaeen pilgrimage, Iraqi lawmaker Jawad Rahim al-Saadi said on Wednesday, warning that the loss could affect the combat readiness of Iraq&rsquo;s tank fleet. Al-Saadi, a member of Parliament&rsquo;s Security and Defense Committee, described the destruction of suc",
    "link": "https://shafaq.com/en/society/Iraqi-MP-50-000-tank-shells-destroyed-at-Taji-base",
@@ -92,8 +100,8 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Two ex-PMs and lawmakers on Iraq corruption list",
-   "desc": "Shafaq News- Baghdad A new list of Iraqi political and government figures suspected of involvement in cases of waste of public funds, corruption, and illicit financial transfers is being prepared, an informed source told Shafaq News on Wednesday, adding that the list is expected to include two former prime ministers, current and former lawmakers, and officials at various levels. The international ",
+   "title": "Exclusive: Iraq corruption review reaches former PMs, lawmakers",
+   "desc": "Shafaq News- Baghdad An international team working with Iraqi authorities is preparing a new list of political and government figures suspected of corruption, misuse of public funds and money smuggling, including two former prime ministers and current and former lawmakers, an informed source told Shafaq News on Wednesday, without identifying them. The team, which includes international experts spe",
    "link": "https://shafaq.com/en/Iraq/Two-ex-PMs-and-lawmakers-on-Iraq-corruption-list",
    "date": "2026-08-19T16:37:00.000Z"
   },
@@ -114,20 +122,12 @@
    "date": "2026-08-19T16:02:14.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "After acquittal, Al-Yaqoubi vows to sue Iraqi Intelligence Service",
-   "desc": "Shafaq News- Baghdad A Popular Mobilization Forces (PMF) official, Abbas al-Yaqoubi, on Wednesday vowed to file a lawsuit against the Iraqi National Intelligence Service, claiming he had been imprisoned on &ldquo;malicious&rdquo; charges brought by the agency. In his first public appearance following his release, al-Yaqoubi, the intelligence director for Baghdad Belt Operations Command, accused US",
-   "link": "https://shafaq.com/en/Security/After-acquittal-Al-Yaqoubi-vows-to-sue-Iraqi-Intelligence-Service",
-   "date": "2026-08-19T15:28:51.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-   "desc": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-   "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-19T15:47:31.000Z"
+   "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+   "desc": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+   "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-19T17:47:52.000Z"
   },
   {
    "src": "BBC",
@@ -309,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects",
-   "desc": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects &nbsp;&nbsp; شفق نيوز",
+   "desc": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects &nbsp;&nbsp; shafaq.com",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHlOdkYtSXVrSVpNRXdJWVJEOTVPWGtxdEdCMERYaWwtMEk3OTRFOWZmZFhCbVFrcWRkNnV3NjNEY2I1Yjl4bXFVZmxQeWxXS25NNG1pMFlhdFdlaGRJWktjR2NiRGltNEJKSVhfcjh6YVlSVG5kaFZZVW9ydjFDNk5CdkxxT3c0QTNiRU5n?oc=5",
    "date": "2026-08-19T13:05:28.000Z"
   },
@@ -328,6 +328,14 @@
    "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T10:14:10.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
+   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
+   "date": "2026-08-05T22:12:16.000Z"
   },
   {
    "src": "Tourism",
