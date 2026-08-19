@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T21:27:03.539Z",
+ "updated": "2026-08-19T21:52:59.097Z",
  "items": [
   {
    "src": "Rudaw",
@@ -31,15 +31,15 @@
    "title": "Iraqi PM Zaidi receives Iran’s Ghalibaf as US-Iran tensions persist, talks stall",
    "desc": "Iraqi PM Zaidi receives Iran’s Ghalibaf as US-Iran tensions persist, talks stall &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQktPbTRteWl6c0RtTUVLcjZOYV9LZFlhNGZsUDZORHdLVC1Xd2FESWJsemdhZGF2T3lvZ2tJTVFWWGlCUXBqTmJVS3VpX2RxZ2oxQnNyakh0NjFrN0E?oc=5",
-   "date": "2026-08-19T15:29:18.000Z"
+   "date": "2026-08-19T16:30:01.000Z"
   },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjRE0wUjJGQVdPT2FPQm1ySUVQNmlFQ25aZWVzYUw4REpqdE5ldVlLWXFIdzFHeTlaRFdsNnpVNkVKbUtxOFNvUl9yaUI5N1BFNjJqb3ItMFlzSGR5clE5R3hKaUo?oc=5",
-   "date": "2026-08-19T06:45:22.000Z"
+   "title": "Iraqi government must deliver on human rights commitments: Amnesty International",
+   "desc": "Iraqi government must deliver on human rights commitments: Amnesty International &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rYTFBeVlnZEZ5T2lpVmI0MFVPMkZRbXdKYWltaW00NU5yYzkwTUp1ODdUUTU5Y1h5NzdkR293RUNJZDd4VV9VZkJTSjdnNVVVS2lJdWNaRDROS0k5SlE?oc=5",
+   "date": "2026-08-18T09:44:01.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Financial crisis puts Iraq’s healthcare system at risk",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s healthcare sector could face a crisis that would become difficult to contain if the country&rsquo;s financial problems persist, the head of Parliament&rsquo;s Health and Anti-Narcotics Committee warned on Wednesday. Adila Hamoud called on the Health Ministry to prioritize maintaining a minimum level of healthcare services and establish a permanent crisis team invo",
+   "link": "https://shafaq.com/en/society/Financial-crisis-puts-Iraq-s-healthcare-system-at-risk",
+   "date": "2026-08-19T21:49:38.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Mossad chief spoke with Syria’s foreign minister before Israeli strikes",
    "desc": "Shafaq News- Damascus Mossad chief Roman Gofman spoke by phone with Syrian Foreign Minister Asaad al-Shaibani on August 14 to discuss Turkiye&rsquo;s military presence in Syria, Reuters reported on Wednesday, citing three sources familiar with the matter. The call came days before Israel carried out airstrikes on Syria&rsquo;s Abu al-Duhur airbase in the country&rsquo;s northwest on Tuesday. The s",
    "link": "https://shafaq.com/en/Middle-East/Mossad-chief-spoke-with-Syria-s-foreign-minister-before-Israeli-strikes",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq&rsquo;s Federal Intelligence and Investigation Agency arrested a suspect in Najaf, southern Iraq, on Wednesday for allegedly promoting the sale of drones, concealed cameras and prohibited GPS tracking devices through a TikTok page, the Interior Ministry said. A specialized team monitored the page and, following field and intelligence operations, carried out an operation t",
    "link": "https://shafaq.com/en/Security/Iraq-arrests-suspect-over-alleged-drone-sales-on-TikTok",
    "date": "2026-08-19T20:17:26.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq presses Iran on Hormuz exports, KRI attacks",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s ruling Shiite Coordination Framework raised the passage of Iraqi oil exports through the Strait of Hormuz and Iranian attacks on the Kurdistan Region during talks with Iranian Parliament Speaker Mohammad Bagher Ghalibaf in Baghdad on Wednesday, an informed source told Shafaq News. The meeting, held at the Government Palace, covered Iraqi-Iranian relations and ways",
-   "link": "https://shafaq.com/en/Iraq/Iraq-presses-Iran-on-Hormuz-exports-KRI-attacks",
-   "date": "2026-08-19T20:09:22.000Z"
   },
   {
    "src": "BBC",
@@ -205,7 +205,7 @@
    "src": "BBC ME",
    "section": "US & World · جیهان",
    "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-   "desc": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+   "desc": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-19T15:33:32.000Z"
   },
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Drone Attack Targets US Positions in Erbil",
-   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; iranwire.com",
+   "desc": "Drone Attack Targets US Positions in Erbil &nbsp;&nbsp; IranWire",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3U4T3R3TmJSUmdfYVhhcUxxUENBTzhVZk53SHBfYW9xcG5VampIU3FJRjQ3amk2N0ZzRnlnWW5uaGRQUmZnalJsUHg0WHhGWDZFenlfRUIwQzRLcUE2RTdhUWxhek9WS2Q4RFZMNjVUTVZROVBmV0NyMmZqcmtZdEFXWV9RQQ?oc=5",
    "date": "2026-08-14T15:19:34.000Z"
   },
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture",
-   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; Kurdistan24",
+   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; kurdistan24.net",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ6TUtnVDZvWkVkUW9QRWNwN1F5Qmt5WmxrUjNUbHlDdmgtYTdLYmxGRU9tcVVCRmZoV0ZoZm9PbVBMdERMSGNCM2NOcjRONW1fdEd2TTdiRFRnVGlMOTBqMFZHM3lMSUpsNXJUWFE2TlVfS2NVY2lqcmJzVVFBemtPREFaSUY5cmhqVEZEX2pBVUZhb04wV3ZVaEx1cGZ1RUFRLWE5NGJFWms?oc=5",
    "date": "2026-08-18T09:15:06.000Z"
   },
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis",
-   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
+   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; jpost.com",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
    "date": "2026-08-16T14:28:53.000Z"
   },
@@ -309,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects",
-   "desc": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects &nbsp;&nbsp; shafaq.com",
+   "desc": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHlOdkYtSXVrSVpNRXdJWVJEOTVPWGtxdEdCMERYaWwtMEk3OTRFOWZmZFhCbVFrcWRkNnV3NjNEY2I1Yjl4bXFVZmxQeWxXS25NNG1pMFlhdFdlaGRJWktjR2NiRGltNEJKSVhfcjh6YVlSVG5kaFZZVW9ydjFDNk5CdkxxT3c0QTNiRU5n?oc=5",
    "date": "2026-08-19T13:05:28.000Z"
   },
@@ -332,8 +332,16 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
+   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; kurdistan24.net",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
+   "date": "2026-08-05T22:12:16.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Iraq’s largest laser fountain to open in Zakho within months",
-   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
+   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; thenewregion.com",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
    "date": "2026-08-07T07:04:14.000Z"
   },
@@ -348,10 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment",
-   "desc": "\"The Sky's the Limit\": Educator Bets on Kurdistan as Diaspora's Next Investment &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52N2g4Y3BKbzhCTmpFckp1Rk15YjJ5UVNHbXZDZTA2d2FyamVRdUY1TEVFZnQyaXNXalI0TDhmeEstY0lJZUtnRjgxd3Q4Qk5PVlVwVUhB?oc=5",
-   "date": "2026-08-05T22:12:16.000Z"
+   "title": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed",
+   "desc": "Trump’s Billion-Pound BBC Case Hit By Bombshell As Real U.S. Viewer Count Is Revealed &nbsp;&nbsp; The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU2FJaGhibHlOQXlYZDVwSk1CWV9FeG5QWHJhbTI3ZnhGTUdsS1B1VkZuQWFkazhmTGdNbklGbEZsTUowelpkOGNHRzhYWDBEcGg3N1hldXQ0UmpVaUdjSXJFZlpNSFQtZnFMRUdBSEVQYVAybzgyNl85UFBqYW81VW1JbmFHVzBQbE9iNnd5cllIRTVtdWIyV0tyd0RvZTB4OW41N0ZHTFkyZGZwcllWOVFTOWUzVXJXYzlmQ3ctZEZDaWJab2dSMjdCY01XNURwSDdrMHdjZjhaUnlkMjJ0LXJvQTNhbjhtV1HSAfwBQVVfeXFMTWhlNGtzLXZRUFZhVFNxZjBJbUk0UlJXMmdQNDdGREw5LVlaZHA1NlpmdjZkVDRhMXhhdmdwWGl4TC1ORURBbU5FQVdaN0pnQ1Y5cXNORHVpWDZRQ01CZ1dwY3N1amNhQ0tCSkdHc3RweGxPSkVEZGdSNHN5YWNuS0VfVmd3UVNZS2lzWlFJZ05rZk9tTWU3OWxhcG1PNmtjMjdpSHRHYXYxMEd5OUlZUllTMVczeWUtcWttTXNQSWlMaHhrYkt3RkF1c2FNRGdqaU1ZaXVzWnRqZmlVaVdXcTRlelZTV2ZybXliY1Q1VXE3NXdsOWk4aFZLOU0y?oc=5",
+   "date": "2026-08-14T18:15:00.000Z"
   }
  ]
 }
