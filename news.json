@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T23:48:05.277Z",
+ "updated": "2026-08-20T01:20:19.863Z",
  "items": [
   {
    "src": "Rudaw",
@@ -31,15 +31,15 @@
    "title": "Iraqi PM Zaidi receives Iran’s Ghalibaf as US-Iran tensions persist, talks stall",
    "desc": "Iraqi PM Zaidi receives Iran’s Ghalibaf as US-Iran tensions persist, talks stall &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQktPbTRteWl6c0RtTUVLcjZOYV9LZFlhNGZsUDZORHdLVC1Xd2FESWJsemdhZGF2T3lvZ2tJTVFWWGlCUXBqTmJVS3VpX2RxZ2oxQnNyakh0NjFrN0E?oc=5",
-   "date": "2026-08-19T16:30:01.000Z"
+   "date": "2026-08-19T15:29:18.000Z"
   },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjRE0wUjJGQVdPT2FPQm1ySUVQNmlFQ25aZWVzYUw4REpqdE5ldVlLWXFIdzFHeTlaRFdsNnpVNkVKbUtxOFNvUl9yaUI5N1BFNjJqb3ItMFlzSGR5clE5R3hKaUo?oc=5",
-   "date": "2026-08-19T06:45:22.000Z"
+   "title": "Iraqi government must deliver on human rights commitments: Amnesty International",
+   "desc": "Iraqi government must deliver on human rights commitments: Amnesty International &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rYTFBeVlnZEZ5T2lpVmI0MFVPMkZRbXdKYWltaW00NU5yYzkwTUp1ODdUUTU5Y1h5NzdkR293RUNJZDd4VV9VZkJTSjdnNVVVS2lJdWNaRDROS0k5SlE?oc=5",
+   "date": "2026-08-18T09:44:01.000Z"
   },
   {
    "src": "K24",
@@ -124,18 +124,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-   "desc": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-   "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-19T23:32:37.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "US national debt passes $40tn after doubling in a decade",
    "desc": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
    "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-19T22:31:46.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+   "desc": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+   "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-20T01:02:51.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+   "desc": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+   "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-20T00:18:01.000Z"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "desc": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
    "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-19T23:11:14.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Watch: Trump leads tour of White House helipad construction site",
-   "desc": "The work is being expedited ahead of Chinese President Xi Jinping’s planned visit to the White House in late September.",
-   "link": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-19T18:30:15.000Z"
   },
   {
    "src": "NPR",
@@ -213,9 +213,9 @@
    "src": "BBC ME",
    "section": "US & World · جیهان",
    "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-   "desc": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
+   "desc": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
    "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-19T17:16:28.000Z"
+   "date": "2026-08-20T00:53:20.000Z"
   },
   {
    "src": "BBC ME",
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "China Becomes Türkiye’s Fastest-Growing Tourism Market",
-   "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
-   "date": "2026-08-10T07:00:00.000Z"
+   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
+   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
+   "date": "2026-08-12T20:05:00.000Z"
   }
  ]
 }
