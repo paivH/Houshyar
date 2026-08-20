@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T14:38:17.300Z",
+ "updated": "2026-08-20T15:35:36.575Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "USS George Washington Carrier Strike Group Arrives in Middle East",
+   "desc": "The USS George Washington Carrier Strike Group entered the US Central Command (CENTCOM) area of responsibility on Wednesday as part of a scheduled deployment, CENTCOM said in a post on X.",
+   "link": "https://www.kurdistan24.net/en/story/933943/uss-george-washington-carrier-strike-group-arrives-in-middle-east",
+   "date": "2026-08-20T15:20:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "KRG Interior Minister: Kurdistan Region Not Part of Regional Conflicts, Seeks Clarification from Iran Over Attacks",
    "desc": "Ahmed also said an agreement had been reached between the KRG, the Iraqi government and oil and gas-producing companies on the deployment of defensive systems to protect oil fields.",
    "link": "https://www.kurdistan24.net/en/story/933928/krg-interior-minister-kurdistan-region-not-part-of-regional-conflicts-seeks-clarification-from-iran-over-attacks",
@@ -74,12 +82,20 @@
    "date": "2026-08-20T10:18:43.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Guards Warn Saudi Arabia Cannot Contain Houthi Attacks",
-   "desc": "Revolutionary Guards say Riyadh will remain vulnerable as Houthis intensify attacks and reportedly plan to advance toward Bab al-Mandab Strait",
-   "link": "https://www.kurdistan24.net/en/story/933874/iran-guards-warn-saudi-arabia-cannot-contain-houthi-attacks",
-   "date": "2026-08-20T09:30:00.000Z"
+   "title": "Iraqi officials skip parliament hearing over PMF strikes",
+   "desc": "Shafaq News- Baghdad Senior Iraqi officials failed to appear before parliament on Thursday for a hearing over the government&rsquo;s response to US-Saudi strikes that killed members of the Popular Mobilization Forces (PMF) last month, lawmaker Saqr al-Mohammadawi told Shafaq News. Al-Mohammadawi, a member of Parliament&rsquo;s Security and Defense Committee, said parliament had formally summoned s",
+   "link": "https://shafaq.com/en/Iraq/Iraqi-officials-skip-parliament-hearing-over-PMF-strikes",
+   "date": "2026-08-20T15:14:16.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq pushes new oil routes beyond Hormuz",
+   "desc": "Shafaq News- Baghdad Expanding the Kirkuk-Ceyhan pipeline offers Iraq the fastest route to diversify its oil exports, alongside planned links toward Syria and western Iraq and temporary use of tanker trucks, oil officials and experts told Shafaq News, as OPEC&rsquo;s second-largest producer steps up efforts to develop alternative outlets and reduce its dependence on the Strait of Hormuz. According",
+   "link": "https://shafaq.com/en/Economy/Iraq-pushes-new-oil-routes-beyond-Hormuz",
+   "date": "2026-08-20T15:00:54.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Thursday&rsquo;s trading mixed in Iraq, hovering around 154,000 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 154,250 dinars per 100 dollars, up from the morning session &rsquo;s 154,150 dinars. In the Iraqi capital, exchange shops sold the dollar at 154,750 di",
    "link": "https://shafaq.com/en/Economy/USD-IQD-gains-in-Baghdad-stays-flat-in-Erbil",
    "date": "2026-08-20T13:37:17.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Yemeni military hits 80+ Houthi positions in 24 hours",
-   "desc": "Shafaq News- Sanaa Forces affiliated with Yemen&rsquo;s internationally recognized government carried out 81 military operations against Houthi (Ansarallah) positions over the past 24 hours, military spokesman Gen. Majid Abdullah Al-Nuzaili said on Thursday. Al-Nuzaili said the operations are a response to Houthi attacks on commercial vessels and civilian facilities, saying they targeted military ",
-   "link": "https://shafaq.com/en/Middle-East/Yemeni-military-hits-80-Houthi-positions-in-24-hours",
-   "date": "2026-08-20T13:25:12.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "FIFA powerhouses prepare unprecedented vote to oust Infantino",
-   "desc": "Shafaq News UEFA, the Asian Football Confederation, and CONCACAF are weighing whether to pursue an unprecedented no-confidence vote against FIFA President Gianni Infantino amid a widening governance dispute, senior figures familiar with the talks told Reuters on Thursday. The discussions follow the collapse of Infantino's proposal to sell private investors a minority stake in a new FIFA commercial",
-   "link": "https://shafaq.com/en/sport/FIFA-powerhouses-prepare-unprecedented-vote-to-oust-Infantino",
-   "date": "2026-08-20T12:55:30.000Z"
   },
   {
    "src": "BBC",
@@ -292,18 +292,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture",
-   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ6TUtnVDZvWkVkUW9QRWNwN1F5Qmt5WmxrUjNUbHlDdmgtYTdLYmxGRU9tcVVCRmZoV0ZoZm9PbVBMdERMSGNCM2NOcjRONW1fdEd2TTdiRFRnVGlMOTBqMFZHM3lMSUpsNXJUWFE2TlVfS2NVY2lqcmJzVVFBemtPREFaSUY5cmhqVEZEX2pBVUZhb04wV3ZVaEx1cGZ1RUFRLWE5NGJFWms?oc=5",
-   "date": "2026-08-18T09:15:06.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis",
    "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
    "date": "2026-08-16T14:28:53.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture",
+   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ6TUtnVDZvWkVkUW9QRWNwN1F5Qmt5WmxrUjNUbHlDdmgtYTdLYmxGRU9tcVVCRmZoV0ZoZm9PbVBMdERMSGNCM2NOcjRONW1fdEd2TTdiRFRnVGlMOTBqMFZHM3lMSUpsNXJUWFE2TlVfS2NVY2lqcmJzVVFBemtPREFaSUY5cmhqVEZEX2pBVUZhb04wV3ZVaEx1cGZ1RUFRLWE5NGJFWms?oc=5",
+   "date": "2026-08-18T09:15:06.000Z"
   },
   {
    "src": "Erbil",
