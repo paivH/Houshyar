@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T11:28:25.256Z",
+ "updated": "2026-08-20T11:55:49.805Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Why Was a Kurdish Nurse Fired for Braiding Hair?",
+   "desc": "A Kurdish nurse in Türkiye has been dismissed from her job after joining a symbolic hair-braiding campaign in solidarity with a Kurdish woman fighter.",
+   "link": "https://www.kurdistan24.net/en/story/933905/why-was-a-kurdish-nurse-fired-for-braiding-hair",
+   "date": "2026-08-20T11:43:21.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Romanian F-16 Destroys Explosives-Laden Drone Near Offshore Gas Project",
    "desc": "Romania intercepts drone near Neptun Deep as Russian strikes kill at least 16 people around Kyiv and trigger air-defense responses across neighboring NATO states",
    "link": "https://www.kurdistan24.net/en/story/933891/romanian-f-16-destroys-explosives-laden-drone-near-offshore-gas-project",
@@ -74,12 +82,20 @@
    "date": "2026-08-20T08:13:06.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq Resumes Direct Flights to Iran as Weekly Routes Expand",
-   "desc": "Iraqi Airways has resumed direct services to Iran, with weekly flights from Baghdad and Najaf to Tehran set to reach 18 as additional routes are restored.",
-   "link": "https://www.kurdistan24.net/en/story/933839/iraq-resumes-direct-flights-to-iran-as-weekly-routes-expand",
-   "date": "2026-08-20T07:31:28.000Z"
+   "title": "Rafidain Bank employee detained over alleged misuse of public funds",
+   "desc": "Shafaq News- Baghdad A Rafidain Bank employee was arrested at one of the Iraqi state lender&rsquo;s Baghdad branches over suspected corruption and waste of public funds, a security source told Shafaq News on Thursday. Security forces raided the branch in coordination with the Federal Integrity Commission after receiving information about suspected corruption. No details were provided on the violat",
+   "link": "https://shafaq.com/en/Security/Rafidain-Bank-employee-detained-over-alleged-misuse-of-public-funds",
+   "date": "2026-08-20T11:49:20.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Basra busts West Qurna ‘fraud network’",
+   "desc": "Shafaq News- Basra Iraq&rsquo;s National Security Service (INSS) arrested three people in Basra province over a suspected forgery and fraud network that obtained billions of dinars through falsified land-compensation claims linked to the West Qurna oil field, the agency announced on Thursday. The investigation began with the arrest of a primary school director accused of forging and processing com",
+   "link": "https://shafaq.com/en/Security/Basra-busts-West-Qurna-fraud-network",
+   "date": "2026-08-20T11:33:35.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraqi authorities detained an employee of the Saladin Traffic Directorate on suspicion of embezzling more than 1.15 billion dinars (about $880,000), a source told Shafaq News on Thursday. The scheme came to light during an internal audit ordered by the directorate's head, and the employee has been referred to the judiciary for prosecution, the source added. The arrest follows ",
    "link": "https://shafaq.com/en/society/Iraq-detains-Saladin-traffic-employee-for-embezzlement",
    "date": "2026-08-20T10:41:52.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi Airways resumes flights to northern Iran",
-   "desc": "Shafaq News- Tehran Iraqi Airways resumed flights to northern Iran with nine weekly services to Rasht, the capital of Gilan province on Caspian coast, Iran's Civil Aviation Organization announced on Thursday. Flights to Tehran will restart next week, bringing the combined schedule from Baghdad and Najaf to the Iranian capital to 18 weekly services, while two weekly flights to Mashhad will also be ",
-   "link": "https://shafaq.com/en/society/Iraqi-Airways-resumes-flights-to-northern-Iran",
-   "date": "2026-08-20T10:20:23.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Nine oil tankers await loading at Basra port",
-   "desc": "Shafaq News- Basra Nine oil tankers are docked at Iraq's Basra port waiting to load crude, one of the largest concentrations of tankers at the southern oil terminals since February, a source in the ports authority told Shafaq News on Thursday. Five of the vessels are berthed at the Basra oil terminal for loading, while the remaining four are waiting their turn. Basra, in southern Iraq, is the coun",
-   "link": "https://shafaq.com/en/Economy/Nine-oil-tankers-await-loading-at-Basra-port",
-   "date": "2026-08-20T09:52:26.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+   "desc": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
+   "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+   "date": "2026-08-20T11:30:18.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "North Korea fires a suspected missile toward the sea, Japan says",
    "desc": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
    "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
@@ -192,14 +200,6 @@
    "desc": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
    "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
    "date": "2026-08-20T05:50:53.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
-   "desc": "More than 1,000 Afghan refugees who fled their homes in 2021 have been stuck in Camp As-Sayliyah, Qatar. They're isolated and unable to leave, despite many having aided U.S. forces during the war.",
-   "link": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
-   "date": "2026-08-19T21:15:06.000Z"
   },
   {
    "src": "BBC ME",
@@ -332,6 +332,14 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "Iraq’s largest laser fountain to open in Zakho within months",
+   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
+   "date": "2026-08-07T07:04:14.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs",
    "desc": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wcG9NeHFReTc2M1pLTU9FX2Vid0FqeEVSTnJlZ080YVVuNTA3QzBPRXdmREN5S2ZxVGNYdlZ1bmtJbmlFZmlXV0Frc3JBWm9BOHVoZ2dSTWF6WndFNEtBaWpmTmxVWk1aZ2c?oc=5",
@@ -344,14 +352,6 @@
    "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
    "date": "2026-08-10T07:00:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
-   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
-   "date": "2026-08-12T20:05:00.000Z"
   }
  ]
 }
