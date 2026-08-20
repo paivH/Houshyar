@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T15:35:36.575Z",
+ "updated": "2026-08-20T16:37:00.290Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,6 +8,14 @@
    "desc": "Surveillance balloon relaunches over Erbil &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yMWZiZFlPdGxaQW0xY0tlVTJPVDRBME1JZkE0c2U0T2xUTEh6VXQ4MEYxSHc5V3pKMFFNWFJOYVpjak1PMXFXSEZXdW05RDk3LUtfSUV0ckhUUjVVMlAwYnNSZDJ3emkzb2c?oc=5",
    "date": "2026-08-18T23:49:09.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNjlTUzdDR0hoQlVqRFg3TVk4Ykp5eDNXVEVSallDanVhcDlsX2R5WmdsVDhQaElQQmxuWHJrYVRCR2dKQTVVaDJDd0xab01iQU9EQTFacFAtQmJfMExj?oc=5",
+   "date": "2026-08-20T09:44:43.000Z"
   },
   {
    "src": "Rudaw",
@@ -28,18 +36,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnMXA2MFpPeFQ2dEI1V0xfWE1yRF9PMmQxOFFxWDJ2Z0tqdEEwX2RXSDdCMm55Um1OQzY4RTdrTXJjU1ZaaEhEdDVYY3ViR3RuRUowM1lIX19VRG4w?oc=5",
-   "date": "2026-08-19T22:01:03.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Iraq reaffirms to Iran's Ghalibaf ban on armed groups threatening other countries",
    "desc": "Iraq reaffirms to Iran's Ghalibaf ban on armed groups threatening other countries &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DUU9fOUlwUHJ5Tzg2amNPblFlZlNrMjNRcFFLV09NTDVObVZtc0l0Wkp3RXdxQUZscVB2TXZqUHpnTEZscWJzdGtMc3FfVzVhdlVZQkRxN1lJVGJLS2c?oc=5",
    "date": "2026-08-20T13:00:13.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "President Barzani Meets Iraqi National Congress Chief to Discuss Iraq’s Political Developments",
+   "desc": "They also stressed the importance of coordination, dialogue, and mutual understanding among Iraq’s political parties to help overcome challenges, resolve outstanding issues, and maintain political stability, the statement said.",
+   "link": "https://www.kurdistan24.net/en/story/933946/president-barzani-meets-iraqi-national-congress-chief-to-discuss-iraqs-political-developments",
+   "date": "2026-08-20T15:45:00.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,20 @@
    "date": "2026-08-20T11:11:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Says Banking Barriers with Iraq Removed",
-   "desc": "Iran's Central Bank governor says banking obstacles between Tehran and Baghdad have been removed, though implementation of cash agreements remains pending.",
-   "link": "https://www.kurdistan24.net/en/story/933883/iran-says-banking-barriers-with-iraq-removed",
-   "date": "2026-08-20T10:18:43.000Z"
+   "title": "Houthis claim drone strikes on Najran airport, Aramco facility",
+   "desc": "Shafaq News- Sanaa Yemen&rsquo;s Houthis (Ansarallah) carried out two drone attacks on Thursday, striking a &ldquo;sensitive target&rdquo; at Najran airport and an Aramco facility in southern Saudi Arabia. &#1578;&#1605;&#1603;&#1606;&#1578; &#1575;&#1604;&#1602;&#1608;&#1575;&#1578; &#1575;&#1604;&#1605;&#1587;&#1604;&#1581;&#1577; &#1575;&#1604;&#1610;&#1605;&#1606;&#1610;&#1577; &#1576;&#1601;&",
+   "link": "https://shafaq.com/en/Middle-East/Houthis-claim-drone-strikes-on-Najran-airport-Aramco-facility",
+   "date": "2026-08-20T16:03:58.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Hind Rajab killing: Israel acknowledges troops opened fire",
+   "desc": "Shafaq News- Gaza Israel&rsquo;s military has acknowledged that its forces opened fire on the car carrying five-year-old Palestinian girl Hind Rajab in Gaza in January 2024, reversing its earlier account. The military said on Wednesday that an internal review by its Fact-Finding Assessment Mechanism found that Israeli troops fired at the vehicle as it approached their position and later fired a sh",
+   "link": "https://shafaq.com/en/Middle-East/Hind-Rajab-killing-Israel-acknowledges-troops-opened-fire",
+   "date": "2026-08-20T15:34:19.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad The Iraq Stock Exchange (ISX) recorded more than 4 billion dinars in trading volume last week &mdash;roughly $3.04 million. According to the recorded data, more than 3 billion shares were traded this week, spanning five sessions. The ISX60 index opened the week at 1033.56 points and closed at 1017.59 points, reflecting a 1.54% decrease. Meanwhile, the ISX15 index started at 12",
    "link": "https://shafaq.com/en/Economy/ISX-reports-3M-in-weekly-trading-4",
    "date": "2026-08-20T14:34:21.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Death toll rises in Gaza, settlers displace West Bank communities",
-   "desc": "Shafaq News- Gaza/ West Bank Israeli attacks killed at least 10 Palestinians and wounded 25 others in the Gaza Strip over the past 24 hours, the Palestinian Health Ministry in Gaza said on Thursday, amid continued reports of ceasefire violations. Palestinian media outlets reported that Israeli artillery shelled Khan Younis in southern Gaza, alongside continued gunfire across the enclave. Reconnais",
-   "link": "https://shafaq.com/en/Middle-East/Death-toll-rises-in-Gaza-settlers-displace-West-Bank-communities",
-   "date": "2026-08-20T14:05:24.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "USD/IQD gains in Baghdad, stays flat in Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Thursday&rsquo;s trading mixed in Iraq, hovering around 154,000 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 154,250 dinars per 100 dollars, up from the morning session &rsquo;s 154,150 dinars. In the Iraqi capital, exchange shops sold the dollar at 154,750 di",
-   "link": "https://shafaq.com/en/Economy/USD-IQD-gains-in-Baghdad-stays-flat-in-Erbil",
-   "date": "2026-08-20T13:37:17.000Z"
   },
   {
    "src": "BBC",
@@ -308,8 +308,8 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects",
-   "desc": "Shafaq News..Erbil launches nearly $763K+ in infrastructure projects &nbsp;&nbsp; شفق نيوز",
+   "title": "Shafaq News..Erbil launches $760K infrastructure projects",
+   "desc": "Shafaq News..Erbil launches $760K infrastructure projects &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHlOdkYtSXVrSVpNRXdJWVJEOTVPWGtxdEdCMERYaWwtMEk3OTRFOWZmZFhCbVFrcWRkNnV3NjNEY2I1Yjl4bXFVZmxQeWxXS25NNG1pMFlhdFdlaGRJWktjR2NiRGltNEJKSVhfcjh6YVlSVG5kaFZZVW9ydjFDNk5CdkxxT3c0QTNiRU5n?oc=5",
    "date": "2026-08-19T13:05:28.000Z"
   },
@@ -332,14 +332,6 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Iraq’s largest laser fountain to open in Zakho within months",
-   "desc": "Iraq’s largest laser fountain to open in Zakho within months &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SalFtVmx3OS1OVkhUOVhvZXNOMDc5Mk5sdVRMaXNQSUlHRVJieWpTMjZfb3BlaUNucVFBN21zX0hmUmxYc0RUOUR2aw?oc=5",
-   "date": "2026-08-07T07:04:14.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs",
    "desc": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wcG9NeHFReTc2M1pLTU9FX2Vid0FqeEVSTnJlZ080YVVuNTA3QzBPRXdmREN5S2ZxVGNYdlZ1bmtJbmlFZmlXV0Frc3JBWm9BOHVoZ2dSTWF6WndFNEtBaWpmTmxVWk1aZ2c?oc=5",
@@ -352,6 +344,14 @@
    "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
    "date": "2026-08-10T07:00:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
+   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
+   "date": "2026-08-12T20:05:00.000Z"
   }
  ]
 }
