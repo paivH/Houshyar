@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T21:30:01.108Z",
+ "updated": "2026-08-20T21:56:23.645Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,14 +8,6 @@
    "desc": "Surveillance balloon relaunches over Erbil &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yMWZiZFlPdGxaQW0xY0tlVTJPVDRBME1JZkE0c2U0T2xUTEh6VXQ4MEYxSHc5V3pKMFFNWFJOYVpjak1PMXFXSEZXdW05RDk3LUtfSUV0ckhUUjVVMlAwYnNSZDJ3emkzb2c?oc=5",
    "date": "2026-08-18T23:49:09.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNjlTUzdDR0hoQlVqRFg3TVk4Ykp5eDNXVEVSallDanVhcDlsX2R5WmdsVDhQaElQQmxuWHJrYVRCR2dKQTVVaDJDd0xab01iQU9EQTFacFAtQmJfMExj?oc=5",
-   "date": "2026-08-20T09:44:43.000Z"
   },
   {
    "src": "Rudaw",
@@ -39,7 +31,15 @@
    "title": "Pro-Kurdish party expects PKK-related law to be implemented in weeks",
    "desc": "Pro-Kurdish party expects PKK-related law to be implemented in weeks &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNNDlQRmdDbU5JN3BSQkJsc2hGWU9fWHdreGFCbVJDaUJLRUJKd2FWQmRDdmNEZkZxWFNKUl9obFotUV91ZVRiWThidDY4c09Yekx1SWpuUWtPcER3UENkTVM4bUQ?oc=5",
-   "date": "2026-08-20T21:01:05.000Z"
+   "date": "2026-08-20T21:00:54.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84TW9TMWk4a3JmSzlQT1pld2lwVUw5MUVLQzNRN0lZRzhDUW9UMXZFTGdDZ1RpOVBsMWZmc3dHajV1S0ZhdzdQeGMxalZMbjdsVklwWVl3aHh0RTE2emJUMnJtRXE?oc=5",
+   "date": "2026-08-20T05:17:16.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "FBI foils ISIS plot to bomb New York Capitol",
+   "desc": "Shafaq News- Washington The FBI thwarted an alleged ISIS-inspired plot to bomb the New York State Capitol and kill lawmakers, FBI Director Kash Patel stated on Thursday. Federal authorities identified the suspect as Jessica Bowie, 35, of Albany, who was arrested and charged with a federal terrorism offense. Prosecutors allege she pledged allegiance to ISIS and planned to use explosives at the Capi",
+   "link": "https://shafaq.com/en/World/FBI-foils-ISIS-plot-to-bomb-New-York-Capitol",
+   "date": "2026-08-20T21:53:30.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Digital leap, analog floor: Iraq traverses the AI divide",
+   "desc": "Shafaq News Iraqis are asking chatbots for homework help and running government errands through their phones&mdash; in a country where the power still cuts out most summer afternoons. Artificial intelligence has arrived well ahead of the infrastructure meant to carry it. As Baghdad pushes its digital transformation forward, AI has become a test of whether Iraq can modernize its institutions fast e",
+   "link": "https://shafaq.com/en/Report/Digital-leap-analog-floor-Iraq-traverses-the-AI-divide",
+   "date": "2026-08-20T21:44:32.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraqi Speaker condemns drone attack on PM Barzani's office",
    "desc": "Shafaq News- Erbil Iraqi Parliament Speaker Haibet al-Halbousi condemned the drone attack that targeted the office of Kurdistan Region Prime Minister Masrour Barzani and the residence of the director of Parastin, the intelligence agency of the Kurdistan Democratic Party (KDP), during a phone call with Barzani on Thursday. Barzani has pressed for stronger defenses since the strike . In a recent int",
    "link": "https://shafaq.com/en/Kurdistan/Iraqi-Speaker-condemns-drone-attack-on-PM-Barzani-s-office",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Washington The United States imposed fresh sanctions on Hezbollah on Thursday under a new designation tied to the group&rsquo;s support for Iran and sanctioned 10 people, including Turkish businesspeople, accused of moving money for the Lebanese group. The Treasury Department said Hezbollah was redesignated over its service to the Iranian government under the command of the Islamic Re",
    "link": "https://shafaq.com/en/World/US-sanctions-10-over-alleged-Hezbollah-money-network",
    "date": "2026-08-20T19:47:23.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "SDF Commander announces Kurdish merger into Syrian State",
-   "desc": "Shafaq News- Qamishli The commander of the Kurdish-led Syrian Democratic Forces (SDF), Mazloum Abdi, said Thursday that the merger of Kurdish civil and military institutions into Syria's state institutions is complete. Speaking at a ceremony marking the centenary of Qamishli, a Kurdish-majority city in northeastern Syria, Abdi said the integration of the region's military, security and administrat",
-   "link": "https://shafaq.com/en/Middle-East/SDF-Commander-announces-Kurdish-Merger-into-Syrian-State",
-   "date": "2026-08-20T19:33:47.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "CMC closes Korek Telecom offices in Baghdad",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Communications and Media Commission (CMC) shut down Korek Telecom&rsquo;s headquarters and three sales centers in Baghdad in coordination with the Iraqi National Security Service (INSS), the commission said on Thursday. The closures were part of measures to enforce regulatory decisions against Korek Telecom, the CMC said, adding that further action would be taken ",
-   "link": "https://shafaq.com/en/society/CMC-closes-Korek-Telecom-offices-in-Baghdad",
-   "date": "2026-08-20T19:32:20.000Z"
   },
   {
    "src": "BBC",
