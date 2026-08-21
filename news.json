@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T05:34:51.329Z",
+ "updated": "2026-08-21T06:50:49.709Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Plane Crash Kills Eight at US Air Force Site in Alaska",
+   "desc": "A civilian-contracted aircraft crashed at Cape Newenham in southwestern Alaska, with rescuers confirming there were no survivors.",
+   "link": "https://www.kurdistan24.net/en/story/934037/plane-crash-kills-eight-at-us-air-force-site-in-alaska",
+   "date": "2026-08-21T06:49:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "US Turns to Sanctions as Trump Seeks to Force Iran to Concede",
+   "desc": "Washington threatens unprecedented financial pressure and secondary sanctions, but decades of sanctions have left Tehran experienced in evading economic isolation.",
+   "link": "https://www.kurdistan24.net/en/story/934026/us-turns-to-sanctions-as-trump-seeks-to-force-iran-to-concede",
+   "date": "2026-08-21T05:28:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Strong 6.7-Magnitude Earthquake Strikes Southern Peru",
    "desc": "The earthquake struck near Ayacucho at a depth of 99 kilometers, damaging homes, schools and medical facilities as emergency teams assess the impact.",
    "link": "https://www.kurdistan24.net/en/story/934020/strong-67-magnitude-earthquake-strikes-southern-peru",
@@ -66,20 +82,20 @@
    "date": "2026-08-20T21:10:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi Parliament Speaker Condemns Drone Attack on PM Barzani’s Office",
-   "desc": "Halbousi reaffirmed his solidarity with the Kurdistan Region and expressed his support for safeguarding the security and stability of both the Kurdistan Region and Iraq.",
-   "link": "https://www.kurdistan24.net/en/story/933996/iraqi-parliament-speaker-condemns-drone-attack-on-pm-barzanis-office",
-   "date": "2026-08-20T20:05:00.000Z"
+   "title": "Israeli strikes hit several areas of south Lebanon",
+   "desc": "Shafaq News- South Lebanon Israeli forces carried out a series of airstrikes and artillery shelling on several towns in south Lebanon on Friday, according to local media outlets. In Nabatieh district, Israeli artillery struck the outskirts of Mayfadoun, while warplanes targeted the Doha area of Kfar Rumman and the Ali al-Taher heights. In Tyre district, an Israeli airstrike hit the town of al-Mans",
+   "link": "https://shafaq.com/en/Middle-East/Israeli-strikes-hit-several-areas-of-south-Lebanon",
+   "date": "2026-08-21T06:38:37.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Mazloum Abdi Calls for Stronger Kurdish Rights Guarantees in Syria’s New Constitution",
-   "desc": "“I call on everyone to work together to make our political efforts more serious and stronger, so that the rights of the Kurdish people are formally enshrined and protected in the Syrian Constitution,” Abdi said.",
-   "link": "https://www.kurdistan24.net/en/story/933985/mazloum-abdi-calls-for-stronger-kurdish-rights-guarantees-in-syrias-new-constitution",
-   "date": "2026-08-20T19:00:00.000Z"
+   "title": "Oil set for second weekly gain on Iran war disruptions",
+   "desc": "Shafaq News Oil prices fell slightly on Friday, but were on track for a second weekly rise as the stalemated U.S.-Iran war &#8203;continues to disrupt supply from the key Middle East producing region. Brent crude futures &zwnj;fell 23 cents, or 0.3%, to $93.55 a barrel by 0142 GMT, after climbing 2.4% in the previous session. U.S. West Texas Intermediate crude futures slipped 33 cents, or 0.4%, to",
+   "link": "https://shafaq.com/en/Economy/Oil-set-for-second-weekly-gain-on-Iran-war-disruptions",
+   "date": "2026-08-21T05:38:45.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Washington The FBI thwarted an alleged ISIS-inspired plot to bomb the New York State Capitol and kill lawmakers, FBI Director Kash Patel stated on Thursday. Federal authorities identified the suspect as Jessica Bowie, 35, of Albany, who was arrested and charged with a federal terrorism offense. Prosecutors allege she pledged allegiance to ISIS and planned to use explosives at the Capi",
    "link": "https://shafaq.com/en/World/FBI-foils-ISIS-plot-to-bomb-New-York-Capitol",
    "date": "2026-08-20T21:53:30.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Digital leap, analog floor: Iraq traverses the AI divide",
-   "desc": "Shafaq News Iraqis are asking chatbots for homework help and running government errands through their phones&mdash; in a country where the power still cuts out most summer afternoons. Artificial intelligence has arrived well ahead of the infrastructure meant to carry it. As Baghdad pushes its digital transformation forward, AI has become a test of whether Iraq can modernize its institutions fast e",
-   "link": "https://shafaq.com/en/Report/Digital-leap-analog-floor-Iraq-traverses-the-AI-divide",
-   "date": "2026-08-20T21:44:32.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi Speaker condemns drone attack on PM Barzani's office",
-   "desc": "Shafaq News- Erbil Iraqi Parliament Speaker Haibet al-Halbousi condemned the drone attack that targeted the office of Kurdistan Region Prime Minister Masrour Barzani and the residence of the director of Parastin, the intelligence agency of the Kurdistan Democratic Party (KDP), during a phone call with Barzani on Thursday. Barzani has pressed for stronger defenses since the strike . In a recent int",
-   "link": "https://shafaq.com/en/Kurdistan/Iraqi-Speaker-condemns-drone-attack-on-PM-Barzani-s-office",
-   "date": "2026-08-20T20:55:56.000Z"
   },
   {
    "src": "BBC",
