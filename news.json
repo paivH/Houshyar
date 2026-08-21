@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T11:28:10.507Z",
+ "updated": "2026-08-21T11:54:50.319Z",
  "items": [
   {
    "src": "Rudaw",
@@ -30,8 +30,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ieDdqT1VkOG45VDBfRTRSM1NNMWExdzVhdi10ZjF3c1U0LU1MVUJuZ1c5bmdXMWMwNWxRdml2bWdteWVzWXdIQ0xLdGo5TE1nMGZLS3R6UmhGWl9RLWc?oc=5",
-   "date": "2026-08-19T20:49:33.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbmRzLXNjaWQ0aVBDNE5tNkhfSHFZcXY3YmFKWHd3WE1zanIzTXp4US1TY0RaQ3lvcktVQ3BhdVU5YzhkOHg0Mmp0MVdEaU51Y1BVYmVQUGdIN2x1V0RV?oc=5",
+   "date": "2026-08-20T23:15:48.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "Unfinished stories: The cost of US military drawdown for Erbil &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16NzBlM3BsWlNHejVjdTNKZFBiWTN2bHE5b3c4QjhWUF83VzFzV3RLcExiSmt6SHRPWmQ0aWlGa2RHNEo5aDhnV19aUUl5Wi00a1k2SVEyTmFRNi1SX3d4VXBHaWc0MWdvQ0E?oc=5",
    "date": "2026-08-19T21:37:02.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iranian President Says Iran Ready to End War with US ‘From Position of Strength’",
+   "desc": "“It is better that we bring the war to an end now as we are in a position of power and dignity,” Pezeshkian said during a meeting with doctors, according to Iranian state media.",
+   "link": "https://www.kurdistan24.net/en/story/934083/iranian-president-says-iran-ready-to-end-war-with-us-from-position-of-strength",
+   "date": "2026-08-21T11:45:00.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,12 @@
    "date": "2026-08-21T08:17:45.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "China Rejects US Pressure, Says Sanctions Will Not Resolve Iran Conflict",
-   "desc": "“Sanctions and pressure will not help resolve the issue,” Chinese Foreign Ministry spokesperson Lin Jian told reporters at a briefing, urging all relevant parties to take responsible measures and resolve the crisis through political and diplomatic channels.",
-   "link": "https://www.kurdistan24.net/en/story/934047/china-rejects-us-pressure-says-sanctions-will-not-resolve-iran-conflict",
-   "date": "2026-08-21T08:06:49.000Z"
+   "title": "State jobs cannot solve Iraq's unemployment",
+   "desc": "Shafaq News- Baghdad Iraq cannot tackle unemployment through government hiring alone or by directing graduates to the private sector without first reforming the business environment, economic and parliamentary experts told Shafaq News, as high youth unemployment and a steady influx of university graduates intensify pressure for jobs. Prime Minister&rsquo;s financial and economic adviser Mudher Moh",
+   "link": "https://shafaq.com/en/society/State-jobs-cannot-solve-Iraq-s-unemployment",
+   "date": "2026-08-21T11:42:42.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad Iranian Parliament Speaker Mohammad Bagher Ghalibaf on Friday called for a &ldquo;clear roadmap&rdquo; to expand trade with Iraq and reduce reliance on the US dollar by using national currencies in bilateral transactions, according to IRNA News Agency. Speaking at a meeting of Iranian and Iraqi business representatives at the Iranian Embassy in Baghdad, Ghalibaf described some",
    "link": "https://shafaq.com/en/Iraq/Ghalibaf-urges-Iraq-Iran-trade-shift-from-dollar",
    "date": "2026-08-21T09:09:10.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Integrity Commission launches Iraq pension audit",
-   "desc": "Shafaq News- Baghdad Iraq's Federal Integrity Commission, the country's anti-corruption watchdog, said on Friday it had begun auditing pensioners' files and cross-checking data held by the National Board of Pensions (NBP) to identify pensions paid without entitlement and recover the money. The work is being carried out by committees the commission chairs, which will match the NBP's data against re",
-   "link": "https://shafaq.com/en/society/Iraq-pension-audit-flags-corruption-as-16-384-deceased-still-listed",
-   "date": "2026-08-21T08:29:28.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,22 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+   "desc": "The Iranian regime has dismissed President Trump's threats to crush the country economically, saying that years of U.S. sanctions have failed.",
+   "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+   "date": "2026-08-21T11:42:10.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+   "desc": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
+   "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+   "date": "2026-08-21T11:25:10.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
    "desc": "Experts warn Trump's transactional approach to alliance will erode political trust",
    "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
@@ -184,22 +200,6 @@
    "desc": "All Thing Considered host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
    "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
    "date": "2026-08-20T20:05:10.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-   "desc": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
-   "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-   "date": "2026-08-20T11:30:18.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "North Korea fires a suspected missile toward the sea, Japan says",
-   "desc": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-   "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-   "date": "2026-08-20T09:24:45.000Z"
   },
   {
    "src": "BBC ME",
