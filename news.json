@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T20:52:57.990Z",
+ "updated": "2026-08-21T21:26:36.765Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Israeli air raids hit Southern Lebanon",
+   "desc": "Shafaq News- Beirut Israel carried out a series of airstrikes on several towns in south Lebanon, local media outlets reported on Friday. Two strikes targeted the Ali al-Taher heights and the outskirts of Kfarreman, while two others struck al-Deir neighborhood in Nabatieh al-Fawqa and another reached al-Dabsha area. There were no immediate reports of casualties, and the extent of the damage remaine",
+   "link": "https://shafaq.com/en/Middle-East/Israeli-air-raid-hit-Southern-Lebanon",
+   "date": "2026-08-21T21:17:06.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Fuel shortage sparks protests over Kirkuk power cuts",
    "desc": "Shafaq News- Kirkuk Residents in two parts of Kirkuk, northern Iraq, took to the streets on Friday after private electricity generators ran out of fuel, cutting a vital source of power as Iraq sweltered under high temperatures. In the Tareq Company area, residents gathered to demand the immediate restart of generators and the supply of kerosene. Abdullah Ahmed, a Kirkuk resident, told Shafaq News ",
    "link": "https://shafaq.com/en/society/Fuel-shortage-sparks-protests-over-Kirkuk-power-cuts",
@@ -114,14 +122,6 @@
    "date": "2026-08-21T18:18:03.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Security operation nets 25+ drug traffickers in Iraq’s Maysan",
-   "desc": "Shafaq News- Maysan Iraqi security forces in Maysan have arrested 28 people and dismantled eight drug distribution networks in a series of operations across the southern province in recent days, the Directorate of Narcotics Affairs said on Friday. The suspects included a foreign national and a &ldquo;highly dangerous&rdquo; Iraqi wanted in several other cases. Authorities also seized 7 kilograms o",
-   "link": "https://shafaq.com/en/Security/Security-operation-nets-25-drug-traffickers-in-Iraq-s-Maysan",
-   "date": "2026-08-21T17:57:14.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
@@ -148,8 +148,8 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "How Penn State students ran an alleged cocaine ring - until it all fell apart",
-   "desc": "As initiation, prospective fraternity members were made to package the drugs, say prosecutors.",
+   "title": "When police stormed a Penn State frat house, one brother thought it was a prank",
+   "desc": "Thirteen current and former students were arrested and accused of running a drug-dealing enterprise.",
    "link": "https://www.bbc.co.uk/news/articles/c39egklv2kwo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-21T14:33:33.000Z"
   },
