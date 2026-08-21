@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T11:54:50.319Z",
+ "updated": "2026-08-21T12:51:46.487Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,6 +8,14 @@
    "desc": "Iraqi PM Zaidi receives Iran’s Ghalibaf as US-Iran tensions persist, talks stall &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQktPbTRteWl6c0RtTUVLcjZOYV9LZFlhNGZsUDZORHdLVC1Xd2FESWJsemdhZGF2T3lvZ2tJTVFWWGlCUXBqTmJVS3VpX2RxZ2oxQnNyakh0NjFrN0E?oc=5",
    "date": "2026-08-19T15:29:18.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "US sanctions network that moved ‘hundreds of millions’ to Hezbollah",
+   "desc": "US sanctions network that moved ‘hundreds of millions’ to Hezbollah &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ia2UwUTQxLS1XZUNIWVktSkVlYW9tMmRXdzNNUXdTNEk2d281cUVGczhTdlRQU2trMHBuY1lpYWpNcVhEMU9feFkxeUxKMmk0T1pMN0V3bXRlZk0yUFM0?oc=5",
+   "date": "2026-08-21T05:57:21.000Z"
   },
   {
    "src": "Rudaw",
@@ -32,14 +40,6 @@
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbmRzLXNjaWQ0aVBDNE5tNkhfSHFZcXY3YmFKWHd3WE1zanIzTXp4US1TY0RaQ3lvcktVQ3BhdVU5YzhkOHg0Mmp0MVdEaU51Y1BVYmVQUGdIN2x1V0RV?oc=5",
    "date": "2026-08-20T23:15:48.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Unfinished stories: The cost of US military drawdown for Erbil",
-   "desc": "Unfinished stories: The cost of US military drawdown for Erbil &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16NzBlM3BsWlNHejVjdTNKZFBiWTN2bHE5b3c4QjhWUF83VzFzV3RLcExiSmt6SHRPWmQ0aWlGa2RHNEo5aDhnV19aUUl5Wi00a1k2SVEyTmFRNi1SX3d4VXBHaWc0MWdvQ0E?oc=5",
-   "date": "2026-08-19T21:37:02.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Barcelona struggle to replace Lewandowski, Ferran up front",
+   "desc": "Shafaq News- Barcelona Barcelona are still searching for a centre-forward after losing Robert Lewandowski and Ferran Torres this summer, with their leading options blocked, unavailable or prohibitively expensive. Julian Alvarez had been the club&rsquo;s priority, but Atletico Madrid have refused to negotiate his departure despite the Argentine&rsquo;s desire to leave. Barcelona then turned to Inte",
+   "link": "https://shafaq.com/en/sport/Barcelona-struggle-to-replace-Lewandowski-Ferran-up-front",
+   "date": "2026-08-21T12:21:03.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "State jobs cannot solve Iraq's unemployment",
    "desc": "Shafaq News- Baghdad Iraq cannot tackle unemployment through government hiring alone or by directing graduates to the private sector without first reforming the business environment, economic and parliamentary experts told Shafaq News, as high youth unemployment and a steady influx of university graduates intensify pressure for jobs. Prime Minister&rsquo;s financial and economic adviser Mudher Moh",
    "link": "https://shafaq.com/en/society/State-jobs-cannot-solve-Iraq-s-unemployment",
@@ -114,12 +122,28 @@
    "date": "2026-08-21T09:15:45.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Ghalibaf urges Iraq-Iran trade shift from dollar",
-   "desc": "Shafaq News- Baghdad Iranian Parliament Speaker Mohammad Bagher Ghalibaf on Friday called for a &ldquo;clear roadmap&rdquo; to expand trade with Iraq and reduce reliance on the US dollar by using national currencies in bilateral transactions, according to IRNA News Agency. Speaking at a meeting of Iranian and Iraqi business representatives at the Iranian Embassy in Baghdad, Ghalibaf described some",
-   "link": "https://shafaq.com/en/Iraq/Ghalibaf-urges-Iraq-Iran-trade-shift-from-dollar",
-   "date": "2026-08-21T09:09:10.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Warning signs flash on US economy as debt spirals",
+   "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T08:38:18.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+   "desc": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+   "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T09:53:47.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+   "desc": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
+   "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T05:02:39.000Z"
   },
   {
    "src": "BBC",
@@ -132,34 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Why the US economy is ringing alarm bells",
-   "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T08:38:18.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "What happened to Harry and Meghan's American dream?",
-   "desc": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
-   "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T02:57:34.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
-   "desc": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
-   "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-20T21:03:30.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "ICE arrests captain in New York Harbor boat accident that killed mother and infant",
-   "desc": "Immigration officials allege the boat operator illegally entered the US from El Salvador and lied about his citizenship.",
-   "link": "https://www.bbc.co.uk/news/articles/cwy45lxry14o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-20T19:07:55.000Z"
+   "title": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
+   "desc": "Agents stopped the Democrat in an airport over the weekend and also searched his home while investigating accusations that he has denied.",
+   "link": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T01:16:43.000Z"
   },
   {
    "src": "NPR",
