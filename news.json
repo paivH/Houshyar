@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-21T06:50:49.709Z",
+ "updated": "2026-08-21T07:44:33.049Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNjlTUzdDR0hoQlVqRFg3TVk4Ykp5eDNXVEVSallDanVhcDlsX2R5WmdsVDhQaElQQmxuWHJrYVRCR2dKQTVVaDJDd0xab01iQU9EQTFacFAtQmJfMExj?oc=5",
-   "date": "2026-08-20T09:44:43.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -16,14 +8,6 @@
    "desc": "Iraqi PM Zaidi receives Iran’s Ghalibaf as US-Iran tensions persist, talks stall &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQktPbTRteWl6c0RtTUVLcjZOYV9LZFlhNGZsUDZORHdLVC1Xd2FESWJsemdhZGF2T3lvZ2tJTVFWWGlCUXBqTmJVS3VpX2RxZ2oxQnNyakh0NjFrN0E?oc=5",
    "date": "2026-08-19T15:29:18.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq reaffirms to Iran's Ghalibaf ban on armed groups threatening other countries",
-   "desc": "Iraq reaffirms to Iran's Ghalibaf ban on armed groups threatening other countries &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DUU9fOUlwUHJ5Tzg2amNPblFlZlNrMjNRcFFLV09NTDVObVZtc0l0Wkp3RXdxQUZscVB2TXZqUHpnTEZscWJzdGtMc3FfVzVhdlVZQkRxN1lJVGJLS2c?oc=5",
-   "date": "2026-08-20T12:58:14.000Z"
   },
   {
    "src": "Rudaw",
@@ -36,10 +20,26 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ieDdqT1VkOG45VDBfRTRSM1NNMWExdzVhdi10ZjF3c1U0LU1MVUJuZ1c5bmdXMWMwNWxRdml2bWdteWVzWXdIQ0xLdGo5TE1nMGZLS3R6UmhGWl9RLWc?oc=5",
+   "date": "2026-08-19T20:49:33.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Unfinished stories: The cost of US military drawdown for Erbil",
    "desc": "Unfinished stories: The cost of US military drawdown for Erbil &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16NzBlM3BsWlNHejVjdTNKZFBiWTN2bHE5b3c4QjhWUF83VzFzV3RLcExiSmt6SHRPWmQ0aWlGa2RHNEo5aDhnV19aUUl5Wi00a1k2SVEyTmFRNi1SX3d4VXBHaWc0MWdvQ0E?oc=5",
    "date": "2026-08-19T21:37:02.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iranian authorities detain Kurdish language activist, protester",
+   "desc": "Iranian authorities detain Kurdish language activist, protester &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRYzl3UWM1U29TcDhHUFJCcDZCY1VJN0toRVFweUZ4RmxHaU5MNEUtWm5jVXNISVZsU3pVSHdNRnBpZGV5OE5UeTVpeUp2ampuSDVnTnhNa0E0XzBFSVE?oc=5",
+   "date": "2026-08-20T08:30:57.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Gold heads for third weekly gain on weaker dollar",
+   "desc": "Shafaq News Gold prices edged higher on &#8203;Friday and were on track for a third consecutive weekly gain, supported by &zwnj;a weaker dollar and the U.S. Treasury's bond buyback move. Spot gold was up 0.4% to $4,537.41 per ounce by 0504 GMT, after hitting its highest since early June in the previous session. Prices have climbed &#8203;3.6% so far this week. U.S. gold futures rose 0.5% to $4,593",
+   "link": "https://shafaq.com/en/Economy/Gold-heads-for-third-weekly-gain-on-weaker-dollar",
+   "date": "2026-08-21T07:25:52.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Israeli strikes hit several areas of south Lebanon",
    "desc": "Shafaq News- South Lebanon Israeli forces carried out a series of airstrikes and artillery shelling on several towns in south Lebanon on Friday, according to local media outlets. In Nabatieh district, Israeli artillery struck the outskirts of Mayfadoun, while warplanes targeted the Doha area of Kfar Rumman and the Ali al-Taher heights. In Tyre district, an Israeli airstrike hit the town of al-Mans",
    "link": "https://shafaq.com/en/Middle-East/Israeli-strikes-hit-several-areas-of-south-Lebanon",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad The Iraqi Wrestling Federation has selected two wrestlers for the 2026 Asian Games in Japan, including Asian medalist Sajjad Ali Mukasr. Federation Vice-President Mehdi Hassan Ismaeel told Shafaq News that Mukasr will compete in the 60kg Greco-Roman division, while Husein Khudhur Jasim will enter the 57kg freestyle event. Mukasr, 25, won silver at the 2025 Asian Championships ",
    "link": "https://shafaq.com/en/sport/Two-Iraqi-wrestlers-set-for-2026-Asian-Games",
    "date": "2026-08-20T22:27:53.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "FBI foils ISIS plot to bomb New York Capitol",
-   "desc": "Shafaq News- Washington The FBI thwarted an alleged ISIS-inspired plot to bomb the New York State Capitol and kill lawmakers, FBI Director Kash Patel stated on Thursday. Federal authorities identified the suspect as Jessica Bowie, 35, of Albany, who was arrested and charged with a federal terrorism offense. Prosecutors allege she pledged allegiance to ISIS and planned to use explosives at the Capi",
-   "link": "https://shafaq.com/en/World/FBI-foils-ISIS-plot-to-bomb-New-York-Capitol",
-   "date": "2026-08-20T21:53:30.000Z"
   },
   {
    "src": "BBC",
@@ -204,6 +204,14 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+   "desc": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+   "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T05:00:57.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
    "desc": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
    "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
@@ -232,14 +240,6 @@
    "desc": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-20T07:33:11.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-   "desc": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-   "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-20T04:17:53.000Z"
   },
   {
    "src": "LFU",
@@ -316,10 +316,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iraq: from agricultural knowledge to business",
-   "desc": "Iraq: from agricultural knowledge to business &nbsp;&nbsp; Agroberichten Buitenland",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFJpMnhHeHZVMFNJVVVlR0JzcDBsY293XzQ3WV9tS0NiN1RuVHppdGRKUVdEV2RGdEpCM0lwTnoyS0MyVDFWaVZoeHpvSW9teEtCQkh0X1pjeWNmSC1IblVTM2t0dFJGazRBakNyOUVUZS1tTGVjWGczcHRfRGp3LTA3R3NRelI5VkVITUxyeUNvbW93QlNvSWRjcXEyZTlkb0hYZS12SVRibUo3eEE?oc=5",
-   "date": "2026-08-14T07:17:10.000Z"
+   "title": "Iraq: From agricultural knowledge to business",
+   "desc": "Iraq: From agricultural knowledge to business &nbsp;&nbsp; Hortidaily",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDJOZkZvd3VnWXNXc0V5SDl4azBfd1E4Z0dOenctcmdyVzZVRVZwaTRHV2xLSlRQdWdNNHBITEJVSEp3QXh4M2pUZV9TendOWkRpTFdmTjdzRi0xb01MNzdNTVVzV1k5NWUybERKXzRGTXRGcmpub1pNN0tpd2FTVUxWSDJHOFEzcHJfd0JzLWhfdw?oc=5",
+   "date": "2026-08-18T12:04:32.000Z"
   },
   {
    "src": "Tourism",
