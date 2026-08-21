@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T10:32:29.400Z",
+ "updated": "2026-08-21T11:28:10.507Z",
  "items": [
   {
    "src": "Rudaw",
@@ -30,8 +30,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWXE3bVZPLU1kd2p0ams2QThfaWc2M2tTVTA1R002RHhFaFUzckgyQlRRT1BkLVpuS0otcTBOT1ljQzdoMndjVXh2RzdmeDRzdWt5MTlhVnJPMXdsZHJQWA?oc=5",
-   "date": "2026-08-20T08:13:05.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ieDdqT1VkOG45VDBfRTRSM1NNMWExdzVhdi10ZjF3c1U0LU1MVUJuZ1c5bmdXMWMwNWxRdml2bWdteWVzWXdIQ0xLdGo5TE1nMGZLS3R6UmhGWl9RLWc?oc=5",
+   "date": "2026-08-19T20:49:33.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Hamas commander killed in Israeli strike in Gaza",
+   "desc": "Shafaq News- Middle East The Israeli military on Friday reported killing Hamas commander Sabahi Sami Mahmoud Shahata in an airstrike in the Gaza Strip two days earlier. It identified Shahata as a platoon commander in Hamas&rsquo;s military wing who took part in the Oct. 7, 2023 attack, helped hold Israeli hostages, and planned operations against troops and civilians, but gave no location for Wedne",
+   "link": "https://shafaq.com/en/Middle-East/Hamas-commander-killed-in-Israeli-strike-in-Gaza",
+   "date": "2026-08-21T10:56:37.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq secures alternative oil export routes amid Hormuz disruptions",
    "desc": "Shafaq News- Baghdad Iraq has secured alternative routes for oil exports and activated border crossings to sustain trade as disruptions through the Strait of Hormuz strain the country&rsquo;s economy, Prime Minister Ali Faleh Al-Zaidi announced on Friday. Speaking at the eighth Baghdad International Dialogue Conference, Al-Zaidi said the government has &ldquo;more than one solution&rdquo; to manag",
    "link": "https://shafaq.com/en/Economy/Iraq-secures-alternative-oil-export-routes-amid-Hormuz-disruptions",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq's Federal Integrity Commission, the country's anti-corruption watchdog, said on Friday it had begun auditing pensioners' files and cross-checking data held by the National Board of Pensions (NBP) to identify pensions paid without entitlement and recover the money. The work is being carried out by committees the commission chairs, which will match the NBP's data against re",
    "link": "https://shafaq.com/en/society/Iraq-pension-audit-flags-corruption-as-16-384-deceased-still-listed",
    "date": "2026-08-21T08:29:28.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Gold heads for third weekly gain on weaker dollar",
-   "desc": "Shafaq News Gold prices edged higher on &#8203;Friday and were on track for a third consecutive weekly gain, supported by &zwnj;a weaker dollar and the U.S. Treasury's bond buyback move. Spot gold was up 0.4% to $4,537.41 per ounce by 0504 GMT, after hitting its highest since early June in the previous session. Prices have climbed &#8203;3.6% so far this week. U.S. gold futures rose 0.5% to $4,593",
-   "link": "https://shafaq.com/en/Economy/Gold-heads-for-third-weekly-gain-on-weaker-dollar",
-   "date": "2026-08-21T07:25:52.000Z"
   },
   {
    "src": "BBC",
@@ -332,14 +332,6 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "China Becomes Türkiye’s Fastest-Growing Tourism Market",
-   "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
-   "date": "2026-08-10T07:00:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs",
    "desc": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wcG9NeHFReTc2M1pLTU9FX2Vid0FqeEVSTnJlZ080YVVuNTA3QzBPRXdmREN5S2ZxVGNYdlZ1bmtJbmlFZmlXV0Frc3JBWm9BOHVoZ2dSTWF6WndFNEtBaWpmTmxVWk1aZ2c?oc=5",
@@ -348,10 +340,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeE16VmR0V3BxMUxhbkNSRDROcWZ4VTlpb2Rydy0wUUVnMi1OTlFxbFdGTXNDVzZzcFFwWEdmdkg2Mjg0UDBWbkQzenlENlp3eExkSWRVNGE4UHJHTS1aUVJHSUM0RTVKT2x0dWUyS1BpSHEtY1JaY1Q4WE1ra29UdVMtYTRsYlN3ZkVJSXIyVEpYLWVwbUJkeTlZNnltR2NYaUE?oc=5",
-   "date": "2026-08-07T12:46:38.000Z"
+   "title": "China Becomes Türkiye’s Fastest-Growing Tourism Market",
+   "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
+   "date": "2026-08-10T07:00:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
+   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
+   "date": "2026-08-12T20:05:00.000Z"
   }
  ]
 }
