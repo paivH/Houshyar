@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-21T16:37:03.040Z",
+ "updated": "2026-08-21T17:30:39.987Z",
  "items": [
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRldFS2k0TFR5RzJQU0xfaWl2V0pvWE10RldZampNdnVjRS1rUHFNNWlKTVI0MURIV1RyQjhEdHpFYk95RkdjcTNXWmo2enpCU182TDZtSDVOek5mUW04SmFzTUs?oc=5",
+   "date": "2026-08-21T14:46:20.000Z"
+  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -8,14 +16,6 @@
    "desc": "US sanctions network that moved ‘hundreds of millions’ to Hezbollah &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ia2UwUTQxLS1XZUNIWVktSkVlYW9tMmRXdzNNUXdTNEk2d281cUVGczhTdlRQU2trMHBuY1lpYWpNcVhEMU9feFkxeUxKMmk0T1pMN0V3bXRlZk0yUFM0?oc=5",
    "date": "2026-08-21T05:57:21.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YSHAyRXl4NmZVc0lkeDhLeGJtdS1fSWN4a05jdzFwRW5iUzN2dDZIZmctYm92a0dvM3czR2o0bXBjZVMwOUdPQkM3S2lQMncxU1BzMUVqUm1faVg3cmtiVlA3VS0?oc=5",
-   "date": "2026-08-21T11:02:31.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "Unfinished stories: The cost of US military drawdown for Erbil &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16NzBlM3BsWlNHejVjdTNKZFBiWTN2bHE5b3c4QjhWUF83VzFzV3RLcExiSmt6SHRPWmQ0aWlGa2RHNEo5aDhnV19aUUl5Wi00a1k2SVEyTmFRNi1SX3d4VXBHaWc0MWdvQ0E?oc=5",
    "date": "2026-08-20T05:37:02.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Türkiye Issues Arrest Warrant for Netanyahu Over Gaza Aid Blockade",
+   "desc": "Türkiye has issued an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and another Israeli national over alleged obstruction of humanitarian aid to Gaza, with Ankara seeking to pursue the warrant internationally.",
+   "link": "https://www.kurdistan24.net/en/story/934138/t%C3%BCrkiye-issues-arrest-warrant-for-netanyahu-over-gaza-aid-blockade",
+   "date": "2026-08-21T16:41:22.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,12 @@
    "date": "2026-08-21T14:49:15.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Syrian Foreign Minister Says Perpetrators of Chemical Weapons Massacres Will Be Brought to Trial as Stockpile Destruction Begins",
-   "desc": "Damascus signals a decisive break with the Assad era's chemical weapons legacy as OPCW-verified destruction operations commence and accountability processes are launched in coordination with international bodies",
-   "link": "https://www.kurdistan24.net/en/story/934108/syrian-foreign-minister-says-perpetrators-of-chemical-weapons-massacres-will-be-brought-to-trial-as-stockpile-destruction-begins",
-   "date": "2026-08-21T14:06:33.000Z"
+   "title": "10+ nations slam Israel over Syrian base strike",
+   "desc": "Shafaq News- Damascus Foreign ministers from 12 countries on Friday condemned an Israeli strike on Syria's Abu al-Duhur military air base, warning that the attack could deepen regional tensions and undermine efforts to stabilize the country. In a joint statement, the foreign ministers of Turkiye, Algeria, Indonesia, Jordan, Lebanon, Malaysia, Mauritania, Pakistan, Palestine, Qatar, Saudi Arabia an",
+   "link": "https://shafaq.com/en/World/10-nations-slam-Israel-over-Syrian-base-strike",
+   "date": "2026-08-21T17:16:19.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,14 +122,6 @@
    "date": "2026-08-21T15:27:45.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq military intelligence upholds media restrictions for personnel",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Military Intelligence Directorate on Friday reaffirmed restrictions on media appearances by its personnel, directing them to raise complaints through the chain of command instead. The Directorate&rsquo;s chief, Staff Lieutenant General Hassan Jawad Al-Silawi , said military orders prohibit personnel from appearing in the media, arguing that such appearances harm t",
-   "link": "https://shafaq.com/en/society/Iraq-military-intelligence-upholds-media-restrictions-for-personnel",
-   "date": "2026-08-21T15:13:41.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Warning signs flash on US economy as debt spirals",
@@ -148,18 +148,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-   "desc": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-   "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T16:05:09.000Z"
+   "title": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
+   "desc": "Jeffries was declared \"mentally incompetent\" by a court last year and said to be suffering with dementia and late onset of Alzheimer's disease.",
+   "link": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T14:23:22.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-   "desc": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
-   "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T05:02:39.000Z"
+   "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+   "desc": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+   "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T16:05:09.000Z"
   },
   {
    "src": "NPR",
