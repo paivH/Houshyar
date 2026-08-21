@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T01:24:34.421Z",
+ "updated": "2026-08-21T02:45:55.629Z",
  "items": [
   {
    "src": "Rudaw",
@@ -124,10 +124,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-   "desc": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-   "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-20T19:52:48.000Z"
+   "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+   "desc": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+   "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-20T23:16:45.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Why the US economy is ringing alarm bells",
+   "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-20T23:15:15.000Z"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "desc": "Agents stopped the Democrat in an airport over the weekend and also searched his home while investigating accusations that he has denied.",
    "link": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-21T01:16:43.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US national debt passes $40tn after doubling in a decade",
-   "desc": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-   "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-20T06:23:23.000Z"
   },
   {
    "src": "NPR",
@@ -200,6 +200,14 @@
    "desc": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
    "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
    "date": "2026-08-20T06:17:42.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+   "desc": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+   "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-20T19:52:48.000Z"
   },
   {
    "src": "BBC ME",
