@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T20:27:58.602Z",
+ "updated": "2026-08-21T20:52:57.990Z",
  "items": [
   {
    "src": "Rudaw",
@@ -38,8 +38,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XLTBCQmRlemxyU3pFSkJPNkx3c0hhWUpOd1V3QWpVUktUN1NmdFk1UlY3aTJ6U1NrSUM5R2hUMjdpT0dfRmJ5Q3ZhejV5NWMzTS13MXU0Wk5wMlgtYVVIMUk5cw?oc=5",
-   "date": "2026-08-20T22:17:54.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9INHB4QWFfUTg0X3BBUV81d2REMnVwUmJ4X3BUNWIxMldMbXl4bzRJOWE0bnBETEIyZVRJNDRUdFBOeXVYbDhRY2hYYlVZbDJjZmxmMHg5VWVMWDJ1NXRNaXRfdWt5QWJYWVE?oc=5",
+   "date": "2026-08-21T11:11:02.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Fuel shortage sparks protests over Kirkuk power cuts",
+   "desc": "Shafaq News- Kirkuk Residents in two parts of Kirkuk, northern Iraq, took to the streets on Friday after private electricity generators ran out of fuel, cutting a vital source of power as Iraq sweltered under high temperatures. In the Tareq Company area, residents gathered to demand the immediate restart of generators and the supply of kerosene. Abdullah Ahmed, a Kirkuk resident, told Shafaq News ",
+   "link": "https://shafaq.com/en/society/Fuel-shortage-sparks-protests-over-Kirkuk-power-cuts",
+   "date": "2026-08-21T20:32:05.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Armed attacks kill two in Basra and Maysan",
    "desc": "Shafaq News- Basra/Maysan Gunmen traveling in a vehicle killed a resident in central Basra on Friday, a security source told Shafaq News. Separately, gunmen killed a retired police officer in the al-Aitha area of al-Maymouna district in Maysan province, another security source reported. Preliminary investigations indicate that the victim's cousins carried out the attack, the source noted. Authorit",
    "link": "https://shafaq.com/en/Security/Armed-attacks-kill-two-in-Basra-and-Maysan",
@@ -114,14 +122,6 @@
    "date": "2026-08-21T17:57:14.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "10+ nations slam Israel over Syrian base strike",
-   "desc": "Shafaq News- Damascus Foreign ministers from 12 countries on Friday condemned an Israeli strike on Syria's Abu al-Duhur military air base, warning that the attack could deepen regional tensions and undermine efforts to stabilize the country. In a joint statement, the foreign ministers of Turkiye, Algeria, Indonesia, Jordan, Lebanon, Malaysia, Mauritania, Pakistan, Palestine, Qatar, Saudi Arabia an",
-   "link": "https://shafaq.com/en/World/10-nations-slam-Israel-over-Syrian-base-strike",
-   "date": "2026-08-21T17:16:19.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
@@ -135,15 +135,15 @@
    "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
    "desc": "The temporary order will allow the $400m (£297m) to continue while the high court mulls a final decision on the case.",
    "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T19:52:48.000Z"
+   "date": "2026-08-21T20:49:24.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Warning signs flash on US economy as debt spirals",
-   "desc": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T08:38:18.000Z"
+   "title": "Watch: How does the US national debt affect consumers around the world?",
+   "desc": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
+   "link": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-21T20:28:12.000Z"
   },
   {
    "src": "BBC",
