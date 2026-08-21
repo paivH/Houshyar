@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T13:47:27.837Z",
+ "updated": "2026-08-21T14:37:20.737Z",
  "items": [
   {
    "src": "Rudaw",
@@ -38,8 +38,16 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbmRzLXNjaWQ0aVBDNE5tNkhfSHFZcXY3YmFKWHd3WE1zanIzTXp4US1TY0RaQ3lvcktVQ3BhdVU5YzhkOHg0Mmp0MVdEaU51Y1BVYmVQUGdIN2x1V0RV?oc=5",
-   "date": "2026-08-20T23:15:48.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XLTBCQmRlemxyU3pFSkJPNkx3c0hhWUpOd1V3QWpVUktUN1NmdFk1UlY3aTJ6U1NrSUM5R2hUMjdpT0dfRmJ5Q3ZhejV5NWMzTS13MXU0Wk5wMlgtYVVIMUk5cw?oc=5",
+   "date": "2026-08-20T22:17:55.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Syrian Foreign Minister Says Perpetrators of Chemical Weapons Massacres Will Be Brought to Trial as Stockpile Destruction Begins",
+   "desc": "Damascus signals a decisive break with the Assad era's chemical weapons legacy as OPCW-verified destruction operations commence and accountability processes are launched in coordination with international bodies",
+   "link": "https://www.kurdistan24.net/en/story/934108/syrian-foreign-minister-says-perpetrators-of-chemical-weapons-massacres-will-be-brought-to-trial-as-stockpile-destruction-begins",
+   "date": "2026-08-21T14:06:33.000Z"
   },
   {
    "src": "K24",
@@ -48,6 +56,14 @@
    "desc": "The British ambassador to Iraq says armed groups refusing to surrender their weapons could push the country toward armed confrontation, while corruption remains a wider challenge within Iraq’s political system.",
    "link": "https://www.kurdistan24.net/en/story/934102/british-ambassador-says-corruption-is-embedded-in-iraqs-political-system",
    "date": "2026-08-21T13:32:01.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "US Congressman Don Bacon Condemns Iranian Drone Strike on KRG Prime Minister's Office",
+   "desc": "Co-Chair of the Kurdish-American Caucus calls the attack reckless and unacceptable, warning that Iran's targeting of senior KRG officials represents a dangerous escalation threatening regional stability",
+   "link": "https://www.kurdistan24.net/en/story/934105/us-congressman-don-bacon-condemns-iranian-drone-strike-on-krg-prime-ministers-office",
+   "date": "2026-08-21T13:31:49.000Z"
   },
   {
    "src": "K24",
@@ -66,20 +82,12 @@
    "date": "2026-08-21T10:21:50.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi PM Al-Zaidi Says Salaries Guaranteed, Seeks Alternative Oil Export Routes",
-   "desc": "“The closure of the Strait of Hormuz presents a significant challenge, but the government has multiple solutions to our economic problems,” he said.",
-   "link": "https://www.kurdistan24.net/en/story/934064/iraqi-pm-al-zaidi-says-salaries-guaranteed-seeks-alternative-oil-export-routes",
-   "date": "2026-08-21T09:30:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Sidakan Villager Turns Stone Into a Living Kurdish Heritage",
-   "desc": "In Duramelk village, Omar Bazid Qadir has turned an old stonecraft tradition into a livelihood while keeping tools of Kurdish rural life alive.",
-   "link": "https://www.kurdistan24.net/en/story/934061/sidakan-villager-turns-stone-into-a-living-kurdish-heritage",
-   "date": "2026-08-21T09:20:00.000Z"
+   "title": "Iraq oil exports hold near 2M bpd amid Hormuz talks",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s crude exports have averaged about two million barrels per day in August, while Baghdad continues talks with the United States and Iran to secure passage for oil tankers through the Strait of Hormuz, a senior oil official said on Friday. Midland Oil Company Director General Mohammed Yassin told Shafaq News that the Oil Ministry is working to raise exports further b",
+   "link": "https://shafaq.com/en/Economy/Iraq-oil-exports-hold-near-2M-bpd-amid-Hormuz-talks",
+   "date": "2026-08-21T14:20:06.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,14 +122,6 @@
    "date": "2026-08-21T12:21:03.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "State jobs cannot solve Iraq's unemployment",
-   "desc": "Shafaq News- Baghdad Iraq cannot tackle unemployment through government hiring alone or by directing graduates to the private sector without first reforming the business environment, economic and parliamentary experts told Shafaq News, as high youth unemployment and a steady influx of university graduates intensify pressure for jobs. Prime Minister&rsquo;s financial and economic adviser Mudher Moh",
-   "link": "https://shafaq.com/en/society/State-jobs-cannot-solve-Iraq-s-unemployment",
-   "date": "2026-08-21T11:42:42.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Warning signs flash on US economy as debt spirals",
@@ -140,7 +140,7 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+   "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
    "desc": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
    "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-21T05:02:39.000Z"
@@ -292,18 +292,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis",
-   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
-   "date": "2026-08-16T14:28:53.000Z"
+   "title": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture",
+   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ6TUtnVDZvWkVkUW9QRWNwN1F5Qmt5WmxrUjNUbHlDdmgtYTdLYmxGRU9tcVVCRmZoV0ZoZm9PbVBMdERMSGNCM2NOcjRONW1fdEd2TTdiRFRnVGlMOTBqMFZHM3lMSUpsNXJUWFE2TlVfS2NVY2lqcmJzVVFBemtPREFaSUY5cmhqVEZEX2pBVUZhb04wV3ZVaEx1cGZ1RUFRLWE5NGJFWms?oc=5",
+   "date": "2026-08-18T09:15:06.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "930 Groundwater Wells Closed: How the Kurdistan Region is Engineering a Water Revolution",
-   "desc": "930 Groundwater Wells Closed: How the Kurdistan Region is Engineering a Water Revolution &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNTl1UmF1STR0OUVHR3lZclNlN1ptU0VuR0M0WUlxcC1NU01lS19VREZab2VoR0dCZUNsWllYS3d3OW1uMFU1Ml91N0drMlFnYkV5Y0hR?oc=5",
-   "date": "2026-08-19T06:32:36.000Z"
+   "title": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis",
+   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
+   "date": "2026-08-16T14:28:53.000Z"
   },
   {
    "src": "Erbil",
@@ -328,14 +328,6 @@
    "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T10:14:10.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture",
-   "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ6TUtnVDZvWkVkUW9QRWNwN1F5Qmt5WmxrUjNUbHlDdmgtYTdLYmxGRU9tcVVCRmZoV0ZoZm9PbVBMdERMSGNCM2NOcjRONW1fdEd2TTdiRFRnVGlMOTBqMFZHM3lMSUpsNXJUWFE2TlVfS2NVY2lqcmJzVVFBemtPREFaSUY5cmhqVEZEX2pBVUZhb04wV3ZVaEx1cGZ1RUFRLWE5NGJFWms?oc=5",
-   "date": "2026-08-18T09:15:06.000Z"
   },
   {
    "src": "Tourism",
