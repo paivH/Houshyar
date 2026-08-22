@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T12:41:59.117Z",
+ "updated": "2026-08-22T13:33:04.365Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Latin-Inscribed Artifacts Found in Afrin Village Site",
+   "desc": "Archaeologists found ancient artifacts bearing Latin inscriptions in Afrin's Bilbile Sub-district, later transferred to the Aleppo National Museum for preservation.",
+   "link": "https://www.kurdistan24.net/en/story/934291/latin-inscribed-artifacts-found-in-afrin-village-site",
+   "date": "2026-08-22T12:39:54.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Russian Voters Seek Peace, Better Services Ahead of Duma Elections",
    "desc": "Russian voters are calling for peace, stronger public services and better living standards as 11 parties prepare to contest September's State Duma elections.",
    "link": "https://www.kurdistan24.net/en/story/934285/russian-voters-seek-peace-better-services-ahead-of-duma-elections",
@@ -74,12 +82,20 @@
    "date": "2026-08-22T10:56:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi Parliament to Review Iraq-France Strategic Pact",
-   "desc": "Iraq's parliament will hold first readings for four draft laws Sunday, including the Iraq-France strategic partnership agreement signed in 2023.",
-   "link": "https://www.kurdistan24.net/en/story/934256/iraqi-parliament-to-review-iraq-france-strategic-pact",
-   "date": "2026-08-22T09:51:33.000Z"
+   "title": "Iraq probes PMF warning delay before US-Saudi strikes",
+   "desc": "Shafaq News- Baghdad Iraqi Parliament First Deputy Speaker Adnan Feyhan stated on Saturday that senior officials had received confirmed information about impending US-Saudi strikes on Popular Mobilization Forces (PMF) sites &ldquo;six hours&rdquo; before the July 29 attacks, raising questions over &ldquo;why personnel were not evacuated earlier.&rdquo; Speaking at the eighth Baghdad Dialogue confe",
+   "link": "https://shafaq.com/en/Iraq/Iraq-probes-PMF-warning-delay-before-US-Saudi-strikes",
+   "date": "2026-08-22T13:29:41.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq reports nationwide decline in crime rates",
+   "desc": "Shafaq News- Baghdad Iraq has recorded a &ldquo;clear decline&rdquo; in crime rates nationwide, with Baghdad leading the provinces in improved security indicators, Interior Ministry spokesperson Maj. Gen. Muqdad Miri said on Saturday. Earlier ministry data showed Baghdad&rsquo;s al-Karkh district recorded the sharpest decline in crime, at 51%, while Basra registered the highest number of criminal ",
+   "link": "https://shafaq.com/en/Security/Iraq-reports-nationwide-decline-in-crime-rates",
+   "date": "2026-08-22T12:59:38.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,28 +122,28 @@
    "date": "2026-08-22T11:22:10.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "One injured in Israeli drone strike in southwestern Syria",
-   "desc": "Shafaq News- Damascus An Israeli drone strike targeted a vehicle in Beit Jinn Farm in southwestern Syria on Saturday, injuring one person, a Shafaq News correspondent reported. The person&rsquo;s identity and condition were not immediately known. Beit Jinn Farm lies about 35 kilometers southwest of Damascus, near the Israeli-occupied Golan Heights. Earlier this month, Israeli aircraft hit the runw",
-   "link": "https://shafaq.com/en/Middle-East/One-injured-in-Israeli-drone-strike-in-southwestern-Syria",
-   "date": "2026-08-22T10:56:21.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Tehran: Qatar-held Iranian pilots in ‘poor health’",
-   "desc": "Shafaq News- Tehran Three Iranian pilots held by Qatar are in poor physical condition, military official Mohammad Bagherzadeh said on Saturday, calling for their transfer to a hospital on land. Bagherzadeh, head of the Iranian Armed Forces' Missing Persons Search Committee, told Iranian state media that the pilots were being held offshore in unsuitable conditions. Qatar's Foreign Ministry has deni",
-   "link": "https://shafaq.com/en/World/Tehran-Qatar-held-Iranian-pilots-in-poor-health",
-   "date": "2026-08-22T10:37:50.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
    "desc": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
    "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-22T12:20:46.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Laptop catches fire on US flight, with passenger treated at airport",
+   "desc": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+   "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-22T10:27:25.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "US rapper BigXthaPlug arrested on drug and gun charges",
+   "desc": "The rapper, who has faced similar charges in the past, had been due to perform at the Country Rising Festival.",
+   "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-22T11:30:52.000Z"
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "desc": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
    "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-21T22:36:12.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Two injured in stabbing attack at Canada Sikh temple",
-   "desc": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
-   "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T22:45:01.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Mother suffering 'command hallucination' when she killed children, court hears",
-   "desc": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-   "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T03:43:26.000Z"
   },
   {
    "src": "NPR",
@@ -284,6 +284,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "KRG announces $27.7 million road project in Erbil",
+   "desc": "KRG announces $27.7 million road project in Erbil &nbsp;&nbsp; The New Region",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMOTQ2TzZnVzJRS05CRWw1TFVxMl90a1drNDNyN2l5RzRaaDRiM0pWSklWOEs2c1hNMTJxWEtKYzRlSDk1eW1NRk9iYw?oc=5",
+   "date": "2026-08-22T12:52:33.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture",
    "desc": "Iraqi Kurdistan: When a First Visit Changes the Entire Picture &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjJ6TUtnVDZvWkVkUW9QRWNwN1F5Qmt5WmxrUjNUbHlDdmgtYTdLYmxGRU9tcVVCRmZoV0ZoZm9PbVBMdERMSGNCM2NOcjRONW1fdEd2TTdiRFRnVGlMOTBqMFZHM3lMSUpsNXJUWFE2TlVfS2NVY2lqcmJzVVFBemtPREFaSUY5cmhqVEZEX2pBVUZhb04wV3ZVaEx1cGZ1RUFRLWE5NGJFWms?oc=5",
@@ -312,14 +320,6 @@
    "desc": "Iraq: From agricultural knowledge to business &nbsp;&nbsp; Hortidaily",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDJOZkZvd3VnWXNXc0V5SDl4azBfd1E4Z0dOenctcmdyVzZVRVZwaTRHV2xLSlRQdWdNNHBITEJVSEp3QXh4M2pUZV9TendOWkRpTFdmTjdzRi0xb01MNzdNTVVzV1k5NWUybERKXzRGTXRGcmpub1pNN0tpd2FTVUxWSDJHOFEzcHJfd0JzLWhfdw?oc=5",
    "date": "2026-08-18T12:04:32.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Drone attack strikes Kurdistan Prime Minister's office in Erbil",
-   "desc": "Drone attack strikes Kurdistan Prime Minister's office in Erbil &nbsp;&nbsp; thenationalnews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWU4UEViUTJ2d215STVDSDc2MzJVb2JINEZndWItQUFKY3hZWWVXbjhfUnN0ek1fT1VDZUJWbGJrQnNVb0Fmd2tmOE44S2paSDRmTTZKejVtTmdoMmhjeVctQjcxbXNDZXQ0WXpLNW5rNHNEMWZwMi1MVm5tM3RhX1EwRTRSaDZMYjBId3U1U0thZlhhUlFZREo0Tzg5bVJYdG9kTERIOHFkbjZFOFJEcEd3MHF3VkJqZUFIY0lSWWQ?oc=5",
-   "date": "2026-08-17T14:53:56.000Z"
   },
   {
    "src": "Tourism",
