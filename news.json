@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-22T17:22:31.152Z",
+ "updated": "2026-08-22T17:47:39.310Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wQkpjbDZmLXkwalBGNm4zOHJyT1pETDJLVnhzZU9pb3J1RTh0SnpySFNaazNhSFNNRF9ESGdfSTUwR1BOY3FxZmtncmp2Zk5Ud2stZGJKYldDbF8zSHIw?oc=5",
-   "date": "2026-08-22T09:05:26.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdHVodVRMM3ZIMHEzUXA5Z1hMak5zaWg3eWRWUUZWT1VWSUlQM1I5ZGF4VVJSZGV0TTVBYVJBUktRLXAxZXBuY1ViUkc2N0RNZmJjdFctNDZWYi1OZkFz?oc=5",
+   "date": "2026-08-22T10:11:04.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Russia Returns Specialists to Iran's Bushehr Nuclear Plant as Situation Stabilizes",
+   "desc": "Rosatom confirms 42 Russian personnel have returned to the facility months after evacuating more than 600 staff during US-Israeli strikes on Iran, with plans to expand to 100 by autumn",
+   "link": "https://www.kurdistan24.net/en/story/934343/russia-returns-specialists-to-irans-bushehr-nuclear-plant-as-situation-stabilizes",
+   "date": "2026-08-22T17:11:08.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Macron Announces New French Interceptor Missiles for Ukraine",
    "desc": "France to strengthen Ukraine’s air defenses as Kyiv faces shortages following deadly Russian attacks ahead of Coalition of the Willing meeting",
    "link": "https://www.kurdistan24.net/en/story/934330/macron-announces-new-french-interceptor-missiles-for-ukraine",
@@ -74,12 +82,12 @@
    "date": "2026-08-22T15:41:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Barrack Reveals Secret Israel-Syria Talks, Warns Small Military Mistake Could Spark World War III",
-   "desc": "US Special Envoy discloses five rounds of formal US-mediated negotiations between Israel and Syria's new government, flags 9,400 ISIS detainees as a ticking regional threat, and warns against Iran's continued influence on Hezbollah disarmament",
-   "link": "https://www.kurdistan24.net/en/story/934317/barrack-reveals-secret-israel-syria-talks-warns-small-military-mistake-could-spark-world-war-iii",
-   "date": "2026-08-22T15:16:22.000Z"
+   "title": "Media regulator imposed at least 18 bans in 2026",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Communications and Media Commission (CMC) issued at least 18 orders barring journalists, analysts, and public figures from media appearances in 2026, a Shafaq News review of the regulator&rsquo;s published decisions found. The restrictions accompanied program suspensions, warnings, and fines against broadcasters. Eight measures came within three days between Aug. ",
+   "link": "https://shafaq.com/en/society/Media-regulator-imposed-at-least-18-bans-in-2026",
+   "date": "2026-08-22T17:42:34.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,14 +122,6 @@
    "date": "2026-08-22T15:31:26.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Al-Sulaymaniyah police extinguish wildfire on Mount Azmar",
-   "desc": "Shafaq News- Al-Sulaymaniyah A wildfire on Mount Azmar near the district of Sitak has been fully brought under control, the Forest and Environment Police Directorate in Al-Sulaymaniyah said on Saturday, adding that an investigation into the damage is underway. The fire started on Friday night and expanded quickly because of strong winds in the area. The extent of the damage has not yet been determ",
-   "link": "https://shafaq.com/en/Kurdistan/Al-Sulaymaniyah-police-extinguish-wildfire-on-Mount-Azmar-2",
-   "date": "2026-08-22T15:28:27.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -140,6 +140,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "US military newspaper editor voices censorship fears after being fired",
+   "desc": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+   "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-22T16:57:19.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Laptop catches fire on US flight, with passenger treated at airport",
    "desc": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
    "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "desc": "The rapper, who has faced similar charges in the past, had been due to perform at the Country Rising Festival.",
    "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-22T11:30:52.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Mother suffering 'command hallucination' when she killed children, court hears",
-   "desc": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-   "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T03:43:26.000Z"
   },
   {
    "src": "NPR",
