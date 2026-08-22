@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T10:50:25.177Z",
+ "updated": "2026-08-22T11:22:09.065Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Intelligence Seizes Drones, Weapons in Maysan",
+   "desc": "Iraq's Military Intelligence Directorate seized drones, mortar shells, rockets and grenades in Maysan province, citing precise intelligence information.",
+   "link": "https://www.kurdistan24.net/en/story/934267/iraqi-intelligence-seizes-drones-weapons-in-maysan",
+   "date": "2026-08-22T11:12:19.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraqi Parliament to Review Iraq-France Strategic Pact",
    "desc": "Iraq's parliament will hold first readings for four draft laws Sunday, including the Iraq-France strategic partnership agreement signed in 2023.",
    "link": "https://www.kurdistan24.net/en/story/934256/iraqi-parliament-to-review-iraq-france-strategic-pact",
@@ -74,19 +82,19 @@
    "date": "2026-08-22T08:34:38.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Allows Iraqi Oil Tankers Through Hormuz After Baghdad Request",
-   "desc": "Iran has allowed several Iraqi oil tankers through the Strait of Hormuz, offering Baghdad limited relief as disrupted exports strain state revenues.",
-   "link": "https://www.kurdistan24.net/en/story/934226/iran-allows-iraqi-oil-tankers-through-hormuz-after-baghdad-request",
-   "date": "2026-08-22T07:43:14.000Z"
+   "title": "One injured in Israeli drone strike in southwestern Syria",
+   "desc": "Shafaq News- Damascus An Israeli drone strike targeted a vehicle in Beit Jinn Farm in southwestern Syria on Saturday, injuring one person, a Shafaq News correspondent reported. The person&rsquo;s identity and condition were not immediately known. Beit Jinn Farm lies about 35 kilometers southwest of Damascus, near the Israeli-occupied Golan Heights. Earlier this month, Israeli aircraft hit the runw",
+   "link": "https://shafaq.com/en/Middle-East/One-injured-in-Israeli-drone-strike-in-southwestern-Syria",
+   "date": "2026-08-22T10:56:21.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
    "title": "Tehran: Qatar-held Iranian pilots in ‘poor health’",
    "desc": "Shafaq News- Tehran Three Iranian pilots held by Qatar are in poor physical condition, military official Mohammad Bagherzadeh said on Saturday, calling for their transfer to a hospital on land. Bagherzadeh, head of the Iranian Armed Forces' Missing Persons Search Committee, told Iranian state media that the pilots were being held offshore in unsuitable conditions. Qatar's Foreign Ministry has deni",
-   "link": "https://shafaq.com/en/Middle-East/Tehran-Qatar-held-Iranian-pilots-in-poor-health",
+   "link": "https://shafaq.com/en/World/Tehran-Qatar-held-Iranian-pilots-in-poor-health",
    "date": "2026-08-22T10:37:50.000Z"
   },
   {
@@ -114,20 +122,12 @@
    "date": "2026-08-22T09:22:24.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran: No preemptive strikes under new offensive doctrine",
-   "desc": "Shafaq News- Tehran Iran&rsquo;s shift from a defensive to an offensive military doctrine does not mean Tehran has adopted preemptive strikes, army spokesman Brig. Gen. Mohammad Akraminia said on Saturday. Speaking to state-run media, Akraminia clarified that Iran would respond to any attack immediately and on a broader scale after the country rebuilt military systems damaged during the conflict a",
-   "link": "https://shafaq.com/en/Middle-East/Iran-No-preemptive-strikes-under-new-offensive-doctrine",
-   "date": "2026-08-22T08:50:02.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
    "desc": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
    "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T04:46:33.000Z"
+   "date": "2026-08-22T11:21:05.000Z"
   },
   {
    "src": "BBC",
@@ -316,10 +316,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "US dollar exchange rate rises in Baghdad, stabilizes in Erbil",
-   "desc": "US dollar exchange rate rises in Baghdad, stabilizes in Erbil &nbsp;&nbsp; IraqiNews",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGhvU3FKUy1TVm8xWTVjNzdhQTlOWHhTMkpKMlIxSk12VW5ObzNoN25HRzdkTGlQTFMtRVo3TGNYbXVTSU1mWmpwQkNtTWFhSWluNk9OOFNOTXIyZHY1aURMcUE5UTcxb2dVekFkQnRnVFZNS3pzcGZhbVhNV1R1N0x3Q2N6Wks3d3VPRWx3VFpleVFCOFBn?oc=5",
-   "date": "2026-08-20T17:43:13.000Z"
+   "title": "Drone attack strikes Kurdistan Prime Minister's office in Erbil",
+   "desc": "Drone attack strikes Kurdistan Prime Minister's office in Erbil &nbsp;&nbsp; thenationalnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWU4UEViUTJ2d215STVDSDc2MzJVb2JINEZndWItQUFKY3hZWWVXbjhfUnN0ek1fT1VDZUJWbGJrQnNVb0Fmd2tmOE44S2paSDRmTTZKejVtTmdoMmhjeVctQjcxbXNDZXQ0WXpLNW5rNHNEMWZwMi1MVm5tM3RhX1EwRTRSaDZMYjBId3U1U0thZlhhUlFZREo0Tzg5bVJYdG9kTERIOHFkbjZFOFJEcEd3MHF3VkJqZUFIY0lSWWQ?oc=5",
+   "date": "2026-08-17T14:53:56.000Z"
   },
   {
    "src": "Tourism",
@@ -328,6 +328,14 @@
    "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T10:14:10.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Drones target Erbil as attacks fuel fears of regional spillover",
+   "desc": "Drones target Erbil as attacks fuel fears of regional spillover &nbsp;&nbsp; The New Arab",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkQ4YUgxZEhWWS0tQkJwaXJod0FoMWtKVEpjaEdmRjBpWEpNYVVucUZXX1JlMEpkMUdyY3l5eDhHUkJvaXhoTDlQOUFkemJVZEo1T0ZFQWpKelVUaEc5eGFxTnJsdDZNenhMeXVjQmRYcmZRd2l0d0c1VVVyZjUwVjhkc3FLRzFFWU9jdGd0ONIBlAFBVV95cUxQRmFQWTI1YnR2RkdabDU2M1EzNE5KTWlOQ0hwbXpCZmQ2eXdFS29oWG5nMHlnQmJndzdEd1o2VnB3VWx2Q2RJenZ4NTQ2Wkp6X3N1dEY4Z2VJcmM1ajVGZXFMZk90amJfV1VkTV9oY1pCcWhkeGhTeWRTdmo3Y0w5bW9sZDU4bDlJZ01yRXo1a1ZpaEpP?oc=5",
+   "date": "2026-08-14T14:42:39.000Z"
   },
   {
    "src": "Tourism",
@@ -344,14 +352,6 @@
    "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
    "date": "2026-08-10T07:00:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Kurdistan Region Moves to Register 45 Protected Areas",
-   "desc": "Kurdistan Region Moves to Register 45 Protected Areas &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWU5bGRJRzQwS2JhaGI2VWtqWGQxZnNPNzlzY0RlalVZWWtQeklpX1lYQTJTR0UzLXJfazVPbGFVZ1EwbUhmYmhvdEJ3SjQxN21VUWxvTTdVM2MzbkhtX1hvNlp4aTFoLUFKbXp4NXRjbjhBTnNHdjJlQWRPSDl5MjNRa2NpQllVVFhRdFQ4TWdnc1BrWVZOdzBidlZqQQ?oc=5",
-   "date": "2026-08-12T20:05:00.000Z"
   }
  ]
 }
