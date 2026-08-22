@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T17:47:39.310Z",
+ "updated": "2026-08-22T18:32:59.779Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Explosive Device Targets Security Forces Bus Near Damascus, Injuring Several",
+   "desc": "Attack comes amid persistent security challenges facing Syria’s new authorities following the overthrow of Bashar al-Assad",
+   "link": "https://www.kurdistan24.net/en/story/934352/explosive-device-targets-security-forces-bus-near-damascus-injuring-several",
+   "date": "2026-08-22T17:55:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Russia Returns Specialists to Iran's Bushehr Nuclear Plant as Situation Stabilizes",
    "desc": "Rosatom confirms 42 Russian personnel have returned to the facility months after evacuating more than 600 staff during US-Israeli strikes on Iran, with plans to expand to 100 by autumn",
    "link": "https://www.kurdistan24.net/en/story/934343/russia-returns-specialists-to-irans-bushehr-nuclear-plant-as-situation-stabilizes",
@@ -74,12 +82,20 @@
    "date": "2026-08-22T15:48:25.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Says Health of Captured Pilots in Qatar Is Deteriorating",
-   "desc": "Iran urges Qatar to transfer three detained pilots to a hospital on land as Doha rejects Tehran’s claims that its nationals are being held",
-   "link": "https://www.kurdistan24.net/en/story/934320/iran-says-health-of-captured-pilots-in-qatar-is-deteriorating",
-   "date": "2026-08-22T15:41:00.000Z"
+   "title": "School closures disrupt Kurdish-language education in Syria",
+   "desc": "Shafaq News- Damascus Thousands of students in Kurdish-language schools in Syria&rsquo;s Aleppo, Al-Shahba, and Afrin areas face uncertainty over their education after schools and institutes using the Kurdish curriculum closed following recent fighting , the Syrian Observatory for Human Rights (SOHR) said on Saturday. Despite integration efforts and agreements announced since the beginning of the ",
+   "link": "https://shafaq.com/en/Kurdistan/School-closures-disrupt-Kurdish-language-education-in-Syria",
+   "date": "2026-08-22T18:21:02.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Baghdad police seize weapons, grenades in security operation",
+   "desc": "Shafaq News- Baghdad Baghdad police seized a cache of weapons and ammunition, including nine rifles, 13 offensive grenades and a rocket-propelled grenade, during a security operation in the capital&rsquo;s Hay al-Kufa area on Saturday. The seized weapons included Kalashnikov and Degtyaryov rifles, three pistols, 11 grenade detonators and 13 rifle magazines, Baghdad&rsquo;s Al-Rusafa Police Command",
+   "link": "https://shafaq.com/en/Security/Baghdad-police-seize-weapons-grenades-in-security-operation",
+   "date": "2026-08-22T18:05:01.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,28 +122,12 @@
    "date": "2026-08-22T16:15:44.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Gaza strike killed Hamas commander",
-   "desc": "Shafaq News- Gaza The Israeli army said on Saturday that it killed a Hamas company commander in an airstrike on Deir al-Balah in central Gaza a day earlier. &#128308;ELIMINATED: Sharif al-Hasanat, a company commander in Hamas.Throughout the war, he took part in leading efforts to restore Hamas&rsquo; underground infrastructure & recently continued to advance terror attacks against IDF troops and I",
-   "link": "https://shafaq.com/en/Middle-East/Gaza-strike-killed-Hamas-commander",
-   "date": "2026-08-22T15:44:42.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Earthlink backs Starlink for remote internet access in Iraq",
-   "desc": "Shafaq News- Baghdad Starlink can help bring internet access to remote areas of Iraq, Earthlink said on Saturday. Speaking at the eighth Baghdad International Dialogue Conference, Alaa Jassim stated fiber-optic networks now cover most Iraqi provinces, with work delayed in Mosul, Al-Anbar, and Wasit due to difficulties securing approvals. He said political factors had also prevented network expansi",
-   "link": "https://shafaq.com/en/society/Earthlink-backs-Starlink-for-remote-internet-access-in-Iraq",
-   "date": "2026-08-22T15:31:26.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
    "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T16:45:02.000Z"
+   "date": "2026-08-22T18:20:36.000Z"
   },
   {
    "src": "BBC",
