@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T16:52:10.964Z",
+ "updated": "2026-08-22T17:22:31.152Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Roadside bomb hits Internal Security bus near Damascus",
+   "desc": "Shafaq News- Damascus A roadside bomb targeted a bus carrying Internal Security Forces personnel in the Damascus countryside (Rif Dimashq) on Saturday, injuring several officers, a Shafaq News correspondent reported. The device detonated as the bus traveled along the Maarounah-Al-Tall road. No group claimed responsibility, and the type of explosive used remained unclear. Maarounah lies in the Al-T",
+   "link": "https://shafaq.com/en/Middle-East/Roadside-bomb-hits-Internal-Security-bus-near-Damascus",
+   "date": "2026-08-22T16:50:18.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "30K books sold as Kurdish Fair extends run",
    "desc": "Shafaq News- Al-Sulaymaniyah The Kurdish Book Fair in Iraqi Kurdistan&rsquo;s Al-Sulaymaniyah province has been extended by three days until Aug. 25 following strong visitor turnout, with more than 30,000 books sold during its first 10 days, organizers announced on Saturday. Fair supervisor Rawaz Hama Salih told a press conference that the event , held at Family Mall under the slogan &ldquo;Kurdis",
    "link": "https://shafaq.com/en/Kurdistan/30K-books-sold-as-Kurdish-Fair-extends-run",
@@ -114,14 +122,6 @@
    "date": "2026-08-22T15:28:27.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi President backs state monopoly on weapons",
-   "desc": "Shafaq News- Baghdad Iraqi President Nizar Amedi said Saturday that only the state should hold weapons, and that this must be pursued responsibly, without foreign interference or armed confrontation. Speaking on a panel at the eighth Baghdad International Dialogue, Amedi said the drive to bring weapons under state control has the backing of the constitution, the Shiite religious authority in Najaf",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-President-backs-state-monopoly-on-weapons",
-   "date": "2026-08-22T15:09:32.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -133,7 +133,7 @@
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Carney faces crucial test after walking away from Trump's deal",
-   "desc": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+   "desc": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
    "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-22T16:20:51.000Z"
   },
