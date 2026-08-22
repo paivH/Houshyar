@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-22T09:53:04.044Z",
+ "updated": "2026-08-22T10:25:30.102Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRldFS2k0TFR5RzJQU0xfaWl2V0pvWE10RldZampNdnVjRS1rUHFNNWlKTVI0MURIV1RyQjhEdHpFYk95RkdjcTNXWmo2enpCU182TDZtSDVOek5mUW04SmFzTUs?oc=5",
-   "date": "2026-08-21T14:46:20.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wQkpjbDZmLXkwalBGNm4zOHJyT1pETDJLVnhzZU9pb3J1RTh0SnpySFNaazNhSFNNRF9ESGdfSTUwR1BOY3FxZmtncmp2Zk5Ud2stZGJKYldDbF8zSHIw?oc=5",
+   "date": "2026-08-22T09:05:26.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Parliament to Review Iraq-France Strategic Pact",
+   "desc": "Iraq's parliament will hold first readings for four draft laws Sunday, including the Iraq-France strategic partnership agreement signed in 2023.",
+   "link": "https://www.kurdistan24.net/en/story/934256/iraqi-parliament-to-review-iraq-france-strategic-pact",
+   "date": "2026-08-22T09:51:33.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran Cuts Little Zab Flow, Disrupting Water Supply in Qaladze",
    "desc": "Parts of Qaladze lost water service after Iran restricted the Little Zab River, forcing crews to rebuild a barrier supplying the key Khas Water Project.",
    "link": "https://www.kurdistan24.net/en/story/934251/iran-cuts-little-zab-flow-disrupting-water-supply-in-qaladze",
@@ -74,12 +82,20 @@
    "date": "2026-08-22T07:43:14.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US Economic Pressure Deepens Iran's Cost-of-Living Crisis",
-   "desc": "Iranian families are cutting food and other spending as inflation, job losses, war and sanctions deepen economic pressure while Washington plans tougher measures.",
-   "link": "https://www.kurdistan24.net/en/story/934221/us-economic-pressure-deepens-irans-cost-of-living-crisis",
-   "date": "2026-08-22T07:06:38.000Z"
+   "title": "Communications Ministry denies direct Starlink agreement",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Communications Ministry has not signed a direct agreement with US satellite internet provider Starlink despite the service&rsquo;s recent launch in the country, Minister Mustafa Jabbar Sanad clarified on Saturday. Speaking at the eighth Baghdad International Dialogue Conference, Sanad said Earthlink and other companies remain the ministry&rsquo;s current partners,",
+   "link": "https://shafaq.com/en/society/Communications-Ministry-denies-direct-Starlink-agreement",
+   "date": "2026-08-22T10:23:58.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi trucks join TIR transit routes for first time",
+   "desc": "Shafaq News- Baghdad Iraqi trucks have begun operating under the international TIR transit system for the first time, joining cross-border routes that had previously been handled exclusively by foreign carriers inside Iraq, the General Company for Land Transportation announced on Saturday. Company Director Murtadha Al-Shahmani put the number of TIR journeys across Iraqi territory since the system ",
+   "link": "https://shafaq.com/en/Economy/Iraqi-trucks-join-TIR-transit-routes-for-first-time",
+   "date": "2026-08-22T09:50:37.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad Only two or three ministerial posts remain unresolved in Iraq&rsquo;s government, with political forces already reaching agreement on some of the outstanding portfolios, President Nizar Amedi announced on Saturday. Speaking at the eighth Baghdad International Dialogue Conference, Amedi expected the remaining posts to be filled soon but gave no deadline. &ldquo;Political forces",
    "link": "https://shafaq.com/en/Iraq/Iraq-cabinet-nears-completion-only-2-3-ministries-unresolved",
    "date": "2026-08-22T08:34:57.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Lebanon reports Israeli phosphorus shelling in south",
-   "desc": "Shafaq News- Beirut Israeli forces used phosphorus shells during overnight attacks on southern Lebanon, the country&rsquo;s National News Agency (NNA) said on Saturday, amid airstrikes, artillery fire, and widespread demolitions. NNA reported phosphorus shelling around Dawhat Kfar Rumman and Al-Dabsha Hill in the Nabatieh district, followed by airstrikes on the Ali Al-Taher heights near Nabatieh A",
-   "link": "https://shafaq.com/en/Middle-East/Lebanon-reports-Israeli-phosphorus-shelling-in-south",
-   "date": "2026-08-22T08:14:46.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US Dollar rises against dinar in Baghdad and Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar edged higher against the Iraqi dinar on Saturday, hovering around 154,000 dinars per $100 in Baghdad and Erbil, the capital of the Kurdistan Region. At the Al-Kifah and Al-Harithiya exchanges in Baghdad, the dollar traded at 154,300 dinars per $100, up from 154,150 dinars on Thursday , according to a Shafaq News market survey. In Baghdad's local exchange s",
-   "link": "https://shafaq.com/en/Economy/US-Dollar-rises-against-dinar-in-Baghdad-and-Erbil",
-   "date": "2026-08-22T07:47:26.000Z"
   },
   {
    "src": "BBC",
