@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T09:28:35.705Z",
+ "updated": "2026-08-22T09:53:04.044Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iran Cuts Little Zab Flow, Disrupting Water Supply in Qaladze",
+   "desc": "Parts of Qaladze lost water service after Iran restricted the Little Zab River, forcing crews to rebuild a barrier supplying the key Khas Water Project.",
+   "link": "https://www.kurdistan24.net/en/story/934251/iran-cuts-little-zab-flow-disrupting-water-supply-in-qaladze",
+   "date": "2026-08-22T09:25:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran Army Says US Regional Influence Is Receding",
    "desc": "Iran's army spokesperson says the Mecca Agreement between Saudi Arabia, Türkiye and Pakistan signals declining US influence in the region.",
    "link": "https://www.kurdistan24.net/en/story/934241/iran-army-says-us-regional-influence-is-receding",
@@ -72,14 +80,6 @@
    "desc": "Iranian families are cutting food and other spending as inflation, job losses, war and sanctions deepen economic pressure while Washington plans tougher measures.",
    "link": "https://www.kurdistan24.net/en/story/934221/us-economic-pressure-deepens-irans-cost-of-living-crisis",
    "date": "2026-08-22T07:06:38.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "12 Nations Condemn Israeli Strike on Syria Air Base",
-   "desc": "Twelve Arab and Muslim nations condemned Israel's airstrike on Syria's Abu Zuhour air base, calling it a dangerous violation of Syrian sovereignty.",
-   "link": "https://www.kurdistan24.net/en/story/934215/12-nations-condemn-israeli-strike-on-syria-air-base",
-   "date": "2026-08-22T07:00:30.000Z"
   },
   {
    "src": "Shafaq",
@@ -164,8 +164,8 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
-   "desc": "Trade negotiations between the United States and Canada fell apart on Friday night, shortly before a midnight deadline for 50% tariffs to take effect on $20 billion worth of Canadian products.",
+   "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+   "desc": "The midnight deadline means that U.S. will impose 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
    "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
    "date": "2026-08-22T04:36:27.000Z"
   },
