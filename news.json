@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-22T20:24:43.212Z",
+ "updated": "2026-08-22T20:49:56.822Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xWGVUYWxCMlY4aVdtVjkyV2VOVFNwblNKQmt3NTdVUks1SjFDU3hfX0FuSFRWWHhRLUNPbjZqLTZkR1N3Uk03czNSWjI5ZU9DUDBVU0w0NWYxRWE0bklMeE1B?oc=5",
-   "date": "2026-08-22T15:16:18.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HZnlfZzRPTGtacGw0S0dxTk5qbmxOZUxpVEpndkVaS1FvVVN2NXhHNHZpNFpxLUROOVR4bHJTMHFnaUZsZDJBQUlHdnJBejY0cDFid2tKT3E1T2JmakE?oc=5",
+   "date": "2026-08-22T17:25:56.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Maliki Office Denies Reports of Agreement to Relinquish Iraq’s Interior Ministry",
+   "desc": "State of Law Coalition says claims about Nouri al-Maliki stepping aside from Interior Ministry are baseless as coalition submits nominees for key ministerial posts",
+   "link": "https://www.kurdistan24.net/en/story/934375/maliki-office-denies-reports-of-agreement-to-relinquish-iraqs-interior-ministry",
+   "date": "2026-08-22T20:36:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran's Top Security Chief Threatens Countries Backing US Economic War",
    "desc": "Rezaei says Iran will target the interests of nations supporting Washington's economic campaign, while declaring the strait's management belongs exclusively to Tehran, regardless of the Iran-Oman route deal",
    "link": "https://www.kurdistan24.net/en/story/934373/irans-top-security-chief-threatens-countries-backing-us-economic-war",
@@ -74,12 +82,12 @@
    "date": "2026-08-22T17:55:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Russia Returns Specialists to Iran's Bushehr Nuclear Plant as Situation Stabilizes",
-   "desc": "Rosatom confirms 42 Russian personnel have returned to the facility months after evacuating more than 600 staff during US-Israeli strikes on Iran, with plans to expand to 100 by autumn",
-   "link": "https://www.kurdistan24.net/en/story/934343/russia-returns-specialists-to-irans-bushehr-nuclear-plant-as-situation-stabilizes",
-   "date": "2026-08-22T17:11:08.000Z"
+   "title": "Al-Maliki’s office denies deal over Interior Ministry",
+   "desc": "Shafaq News- Baghdad State of Law Coalition leader Nouri Al-Maliki has not reached any agreement to give up the Interior Ministry, the director of his media office said on Thursday. Media reports claiming Al-Maliki had agreed to relinquish the ministry &ldquo;were not based on accurate information,&rdquo; Hisham Al-Rikabi stated. &#1578;&#1606;&#1608;&#1610;&#1607; &hellip;&#1604;&#1575; &#1589;&#",
+   "link": "https://shafaq.com/en/Iraq/Al-Maliki-s-office-denies-deal-over-Interior-Ministry",
+   "date": "2026-08-22T20:28:13.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Damascus Thousands of students in Kurdish-language schools in Syria&rsquo;s Aleppo, Al-Shahba, and Afrin areas face uncertainty over their education after schools and institutes using the Kurdish curriculum closed following recent fighting , the Syrian Observatory for Human Rights (SOHR) said on Saturday. Despite integration efforts and agreements announced since the beginning of the ",
    "link": "https://shafaq.com/en/Kurdistan/School-closures-disrupt-Kurdish-language-education-in-Syria",
    "date": "2026-08-22T18:21:02.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Baghdad police seize weapons, grenades in security operation",
-   "desc": "Shafaq News- Baghdad Baghdad police seized a cache of weapons and ammunition, including nine rifles, 13 offensive grenades and a rocket-propelled grenade, during a security operation in the capital&rsquo;s Hay al-Kufa area on Saturday. The seized weapons included Kalashnikov and Degtyaryov rifles, three pistols, 11 grenade detonators and 13 rifle magazines, Baghdad&rsquo;s Al-Rusafa Police Command",
-   "link": "https://shafaq.com/en/Security/Baghdad-police-seize-weapons-grenades-in-security-operation",
-   "date": "2026-08-22T18:05:01.000Z"
   },
   {
    "src": "BBC",
