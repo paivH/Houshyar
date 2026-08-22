@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T14:49:00.156Z",
+ "updated": "2026-08-22T15:22:53.685Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Federal Judge Strikes Down Trump's Immigrant Visa Ban, Iraq Among 75 Affected Countries",
+   "desc": "Manhattan court rules the State Department policy exceeded Secretary Rubio's statutory authority and conflicted with federal immigration law, in a major legal defeat for the administration's immigration crackdown",
+   "link": "https://www.kurdistan24.net/en/story/934313/federal-judge-strikes-down-trumps-immigrant-visa-ban-iraq-among-75-affected-countries",
+   "date": "2026-08-22T14:50:14.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Syria Condemns Israeli Strike Near Damascus That Wounded One",
    "desc": "Syria says Israeli drone strike near Beit Jinn violates its sovereignty as Israel says it targeted a militant preparing an attack",
    "link": "https://www.kurdistan24.net/en/story/934308/syria-condemns-israeli-strike-near-damascus-that-wounded-one",
@@ -74,12 +82,12 @@
    "date": "2026-08-22T11:43:26.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi Intelligence Seizes Drones, Weapons in Maysan",
-   "desc": "Iraq's Military Intelligence Directorate seized drones, mortar shells, rockets and grenades in Maysan province, citing precise intelligence information.",
-   "link": "https://www.kurdistan24.net/en/story/934267/iraqi-intelligence-seizes-drones-weapons-in-maysan",
-   "date": "2026-08-22T11:12:19.000Z"
+   "title": "Iraqi President backs state monopoly on weapons",
+   "desc": "Shafaq News- Baghdad Iraqi President Nizar Amedi said Saturday that only the state should hold weapons, and that this must be pursued responsibly, without foreign interference or armed confrontation. Speaking on a panel at the eighth Baghdad International Dialogue, Amedi said the drive to bring weapons under state control has the backing of the constitution, the Shiite religious authority in Najaf",
+   "link": "https://shafaq.com/en/Iraq/Iraqi-President-backs-state-monopoly-on-weapons",
+   "date": "2026-08-22T15:09:32.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,20 +122,20 @@
    "date": "2026-08-22T14:04:04.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "USD/IQD exchange rates edge lower in Baghdad, Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar declined against the Iraqi dinar in Baghdad and Erbil on Saturday, hovering around 154,000 dinars per $100 at the close of the week&rsquo;s first trading session. In Baghdad, the dollar fell to 154,100 dinars per $100 at the Al-Kifah and Al-Harithiya central exchanges, down from 154,300 dinars in morning trading, according to Shafaq News&rsquo; market surv",
-   "link": "https://shafaq.com/en/Economy/USD-IQD-exchange-rates-edge-lower-in-Baghdad-Erbil-1",
-   "date": "2026-08-22T13:36:15.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
    "desc": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
    "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-22T12:20:46.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Carney faces crucial test after walking away from Trump's deal",
+   "desc": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+   "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-22T15:00:27.000Z"
   },
   {
    "src": "BBC",
@@ -148,18 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-   "desc": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case.",
-   "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T22:02:10.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-   "desc": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-   "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-21T22:36:12.000Z"
+   "title": "Mother suffering 'command hallucination' when she killed children, court hears",
+   "desc": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+   "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-22T03:43:26.000Z"
   },
   {
    "src": "NPR",
