@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T16:26:48.405Z",
+ "updated": "2026-08-22T16:52:10.964Z",
  "items": [
   {
    "src": "Rudaw",
@@ -52,6 +52,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Putin Warns Ukraine Has Opened \"Pandora's Box\" by Striking Russian Economic Targets",
+   "desc": "Russian president tells state media Moscow has responded with more effective strikes on Ukraine's economy as Ukrainian drone attacks on oil refineries and Wildberries warehouses impose growing costs on Russian civilians",
+   "link": "https://www.kurdistan24.net/en/story/934331/putin-warns-ukraine-has-opened-pandoras-box-by-striking-russian-economic-targets",
+   "date": "2026-08-22T16:19:01.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran's President Claims \"The World Approved Our Victory\" Over the US",
    "desc": "Pezeshkian tells state media the war should end because Tehran has won, as Trump announces the \"most crushing economic operation ever\" against Iran and demands all allies join a total isolation campaign",
    "link": "https://www.kurdistan24.net/en/story/934326/irans-president-claims-the-world-approved-our-victory-over-the-us",
@@ -72,14 +80,6 @@
    "desc": "US Special Envoy discloses five rounds of formal US-mediated negotiations between Israel and Syria's new government, flags 9,400 ISIS detainees as a ticking regional threat, and warns against Iran's continued influence on Hezbollah disarmament",
    "link": "https://www.kurdistan24.net/en/story/934317/barrack-reveals-secret-israel-syria-talks-warns-small-military-mistake-could-spark-world-war-iii",
    "date": "2026-08-22T15:16:22.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Federal Judge Strikes Down Trump's Immigrant Visa Ban, Iraq Among 75 Affected Countries",
-   "desc": "Manhattan court rules the State Department policy exceeded Secretary Rubio's statutory authority and conflicted with federal immigration law, in a major legal defeat for the administration's immigration crackdown",
-   "link": "https://www.kurdistan24.net/en/story/934313/federal-judge-strikes-down-trumps-immigrant-visa-ban-iraq-among-75-affected-countries",
-   "date": "2026-08-22T14:50:14.000Z"
   },
   {
    "src": "Shafaq",
@@ -125,9 +125,9 @@
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-   "desc": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+   "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T16:05:04.000Z"
+   "date": "2026-08-22T16:45:02.000Z"
   },
   {
    "src": "BBC",
@@ -164,8 +164,8 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
-   "desc": "The midnight deadline means the U.S. has imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
+   "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+   "desc": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month.",
    "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
    "date": "2026-08-22T04:36:27.000Z"
   },
