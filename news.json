@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T05:31:20.656Z",
+ "updated": "2026-08-23T06:43:31.842Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Canada Hits Back at US With Retaliatory Tariffs After Carney Rejects ‘Unfair’ Trade Deal",
+   "desc": "Ottawa says Washington introduced last-minute demands that threatened Canada’s trade ties with other countries and challenged protections for Quebec’s French language and culture",
+   "link": "https://www.kurdistan24.net/en/story/934402/canada-hits-back-at-us-with-retaliatory-tariffs-after-carney-rejects-unfair-trade-deal",
+   "date": "2026-08-23T05:30:12.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Maliki Office Denies Reports of Agreement to Relinquish Iraq’s Interior Ministry",
    "desc": "State of Law Coalition says claims about Nouri al-Maliki stepping aside from Interior Ministry are baseless as coalition submits nominees for key ministerial posts",
    "link": "https://www.kurdistan24.net/en/story/934375/maliki-office-denies-reports-of-agreement-to-relinquish-iraqs-interior-ministry",
@@ -74,12 +82,28 @@
    "date": "2026-08-22T18:44:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Explosive Device Targets Security Forces Bus Near Damascus, Injuring Several",
-   "desc": "Attack comes amid persistent security challenges facing Syria’s new authorities following the overthrow of Bashar al-Assad",
-   "link": "https://www.kurdistan24.net/en/story/934352/explosive-device-targets-security-forces-bus-near-damascus-injuring-several",
-   "date": "2026-08-22T17:55:00.000Z"
+   "title": "Israel: Secret channels with Turkiye to prevent Syria clash",
+   "desc": "Shafaq News- Middle East Israel and Turkiye are using secret channels to prevent military friction over Syria, Israeli media reported on Sunday, warning that Israel would &ldquo;act&rdquo; against Turkish deployments it considers a threat. Citing a security official, one Israeli outlet said Israel does not want to turn Turkiye into an enemy, but has set &ldquo;red lines&rdquo; against air-defense ",
+   "link": "https://shafaq.com/en/Middle-East/Israel-Secret-channels-with-Turkiye-to-prevent-Syria-clash",
+   "date": "2026-08-23T06:30:06.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "ISIS fighters attack PMF position in Iraq’s Saladin",
+   "desc": "Shafaq News- Saladin Popular Mobilization Forces (PMF) fighters repelled an ISIS attack on a security position in Tuz Khurmatu district in Iraq&rsquo;s eastern Saladin province on Sunday, prompting a joint Iraqi Army-PMF operation to pursue the attackers. The PMF&rsquo;s 63rd Brigade said its forces forced the attackers to retreat into rugged terrain. No casualties were reported. A security source",
+   "link": "https://shafaq.com/en/Security/ISIS-fighters-attack-PMF-position-in-Iraq-s-Saladin",
+   "date": "2026-08-23T06:00:11.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Mourinho starts Real Madrid return with late win",
+   "desc": "Shafaq News- Madrid Real Madrid opened their LaLiga campaign with a dramatic 2-1 win at Espanyol on Saturday as Carlo Espi scored a 90th-minute winner on his competitive debut. &#127897;&#65039; Mourinho &#127897;&#65039; pic.twitter.com/MnOh2J74Ao &mdash; Real Madrid C.F. &#127468;&#127463;&#127482;&#127480; (@realmadriden) August 22, 2026 Jude Bellingham headed Madrid in front from Arda Guler&rs",
+   "link": "https://shafaq.com/en/sport/Mourinho-starts-Real-Madrid-return-with-late-win",
+   "date": "2026-08-23T05:29:42.000Z"
   },
   {
    "src": "Shafaq",
@@ -98,36 +122,12 @@
    "date": "2026-08-22T22:31:42.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Bayern Munich win German Super Cup",
-   "desc": "Shafaq News- Dortmund Bayern Munich won the German Super Cup on Saturday after beating Borussia Dortmund 2-1 at Signal Iduna Park stadium. Nathanael Brown opened the scoring after combining with Michael Olise, breaking through on goal and finishing low to put Bayern ahead. Olise made it 2-0 a minute later, working his way into the penalty area before firing into the bottom-left corner. Fabio Silva",
-   "link": "https://shafaq.com/en/sport/Bayern-Munich-win-German-Super-Cup",
-   "date": "2026-08-22T22:03:25.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Strikes hit areas in southern Lebanon",
-   "desc": "Shafaq News- Beirut Israeli forces carried out airstrikes, artillery shelling, and demolition operations across several areas in southern Lebanon on Saturday evening. Lebanese media outlets reported that Israeli warplanes launched two strikes on Al-Mansouri in the Tyre district and Srebbine in the Bint Jbeil district. In the Nabatieh district, Israeli artillery heavily shelled the outskirts of Kfa",
-   "link": "https://shafaq.com/en/Middle-East/Strikes-hit-areas-in-southern-Lebanon",
-   "date": "2026-08-22T21:41:51.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq to launch operation against terrorism, drug suspects",
-   "desc": "Shafaq News- Baghdad Iraqi security forces are preparing to launch a nationwide operation targeting suspects wanted in connection with terrorism, drug trafficking, murder, and theft, a security source told Shafaq News. The operation, named \"Shadow of Justice,\" was announced by Iraq's National Security Service, which said it would be carried out starting Sunday in Baghdad and several provinces, wit",
-   "link": "https://shafaq.com/en/Security/Iraq-to-launch-operation-against-terrorism-drug-suspects",
-   "date": "2026-08-22T21:05:40.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
+   "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
    "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T20:10:00.000Z"
+   "date": "2026-08-23T05:46:43.000Z"
   },
   {
    "src": "BBC",
