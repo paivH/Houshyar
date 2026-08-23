@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:54:35.034Z",
+ "updated": "2026-08-23T17:22:01.271Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HeHFjcHFPcjc3RnkxSU9xMm54ME5wYzQ5WmZrNTVKTk9GRzQwYndMcTFBMWV6WXdEZ2JoQ3JYNGVFYngyRmtJbTQ5cnVrREQ1X1RadVJWeDVvZ2FuSXNla01KRUQ?oc=5",
-   "date": "2026-08-23T10:31:53.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzckNnaExoUjJibWFuTkIyRERyczZEemxGZkxXaWFWR1VzZFFsd1ZmSHJ5QXN4V1pMTkF2ZUJtSG5NSGc0R21WaDJpcjJ4dkpJVU5IeHNZVFdUODhtRzU4Mg?oc=5",
+   "date": "2026-08-22T19:56:08.000Z"
   },
   {
    "src": "Rudaw",
@@ -23,7 +23,7 @@
    "title": "Iran says Pakistan’s army chief to visit Tehran Monday",
    "desc": "Iran says Pakistan’s army chief to visit Tehran Monday &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9heEhtSl8tLVhkRDBDamN5VThRVUgwUnNkNExybmhwZUlTS3ZHUjFDZ3phV2dqdXB1ZDhZNEJIN2wwRzZXVW1XOUpqbXFQa3VKNXhiRmJISXFBTkpJVEROaVo1UQ?oc=5",
-   "date": "2026-08-23T11:19:22.000Z"
+   "date": "2026-08-23T12:19:22.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "Iran warns neighbors against joining US economic sanctions &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URExZX3ZHMXI2X243MVpqcVNhaE1melZwbE5qeDZPVE41NmYzUml6UEhZcVpUekljRXBSNEJjSXRIeENHMlZqSy1nX3VyX2J6bGRoeWt1SmNaYTJPNHlzUE41MW01ZkhsS0FJ?oc=5",
    "date": "2026-08-23T07:04:13.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdish Child Laborers Attacked in Turkey’s Zonguldak Province",
+   "desc": "On Sunday, Ekinci, Kurdistan24’s correspondent in Turkey, reported that a group of individuals attacked several Kurdish children working as laborers in Alaplı.",
+   "link": "https://www.kurdistan24.net/en/story/934578/kurdish-child-laborers-attacked-in-turkeys-zonguldak-province",
+   "date": "2026-08-23T17:01:11.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,12 @@
    "date": "2026-08-23T14:17:53.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "China's Tiangong Ultra Robot Beats Usain Bolt's 100-Meter Record",
-   "desc": "Humanoid robots broke sprint records, boxed and played football at Beijing's World Robot Games, showcasing China's rapidly advancing robotics industry.",
-   "link": "https://www.kurdistan24.net/en/story/934523/chinas-tiangong-ultra-robot-beats-usain-bolts-100-meter-record",
-   "date": "2026-08-23T12:56:00.000Z"
+   "title": "Syria, Israel de-escalate airbase attack tensions",
+   "desc": "Shafaq News- Damascus Syria and Israel held high-level contacts on Sunday as the two sides sought to ease tensions following an Israeli strike on the Abu al-Duhur air base, Axios reported. Citing sources familiar with the matter, the outlet detailed a meeting between Syrian Foreign Minister Asaad al-Shaibani and Mossad chief Roman Gofman. No further details were disclosed. The Israeli prime minist",
+   "link": "https://shafaq.com/en/World/Syria-Israel-de-escalate-airbase-attack-tensions",
+   "date": "2026-08-23T17:03:40.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,14 +122,6 @@
    "date": "2026-08-23T15:00:43.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Al-Zaidi at 100 days: Iraq's toughest tests still ahead",
-   "desc": "Shafaq News Iraqi Prime Minister Ali Al-Zaidi reached the 100-day mark on Friday, August 21, facing a series of longstanding crises that successive governments have struggled to resolve, from weapons control and corruption to oil exports, water shortages and public finances. The milestone offers an early test of whether the government's stated priorities can translate into measurable results. His ",
-   "link": "https://shafaq.com/en/Report/Al-Zaidi-at-100-days-Iraq-s-toughest-tests-still-ahead",
-   "date": "2026-08-23T14:51:21.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -148,18 +148,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-   "desc": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-   "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T23:45:01.000Z"
+   "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+   "desc": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+   "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-23T16:57:05.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Golf brand apologises for advert that shows woman being pushed over",
-   "desc": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-   "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-23T12:25:40.000Z"
+   "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+   "desc": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+   "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-22T23:45:01.000Z"
   },
   {
    "src": "NPR",
@@ -316,10 +316,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
-   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
-   "date": "2026-08-23T09:53:33.000Z"
+   "title": "US dollar exchange rate rises in Baghdad, stabilizes in Erbil",
+   "desc": "US dollar exchange rate rises in Baghdad, stabilizes in Erbil &nbsp;&nbsp; IraqiNews",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGhvU3FKUy1TVm8xWTVjNzdhQTlOWHhTMkpKMlIxSk12VW5ObzNoN25HRzdkTGlQTFMtRVo3TGNYbXVTSU1mWmpwQkNtTWFhSWluNk9OOFNOTXIyZHY1aURMcUE5UTcxb2dVekFkQnRnVFZNS3pzcGZhbVhNV1R1N0x3Q2N6Wks3d3VPRWx3VFpleVFCOFBn?oc=5",
+   "date": "2026-08-20T17:43:13.000Z"
   },
   {
    "src": "Tourism",
@@ -336,6 +336,14 @@
    "desc": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics &nbsp;&nbsp; IndexBox",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTW96cWs2ekdIM1d6VGpXNUt1RVppVGFQcDNuSFM4YzdBNUFVQWdUTnBKbS1rSkwzVFdmSjhwQUpFNFZid0ZHdDhEdlRNZm44TGk0OUtTQ0lGU245Q3dxOUM3QlVXYVl5TnNEdnFJSWtJZnRIUEJHQkdRc01ja0NQNEQyZTdrS2FOQVFTb2dLXzZSSFlYR1E?oc=5",
    "date": "2026-08-23T10:51:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
+   "date": "2026-08-23T09:09:09.000Z"
   },
   {
    "src": "Tourism",
