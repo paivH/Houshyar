@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T14:25:32.911Z",
+ "updated": "2026-08-23T14:50:43.502Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzckNnaExoUjJibWFuTkIyRERyczZEemxGZkxXaWFWR1VzZFFsd1ZmSHJ5QXN4V1pMTkF2ZUJtSG5NSGc0R21WaDJpcjJ4dkpJVU5IeHNZVFdUODhtRzU4Mg?oc=5",
-   "date": "2026-08-22T19:56:08.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HZnlfZzRPTGtacGw0S0dxTk5qbmxOZUxpVEpndkVaS1FvVVN2NXhHNHZpNFpxLUROOVR4bHJTMHFnaUZsZDJBQUlHdnJBejY0cDFid2tKT3E1T2JmakE?oc=5",
+   "date": "2026-08-22T17:25:56.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraqi MP disputes September 30 deadline for weapons control",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s efforts to bring weapons under state control remain unresolved, and September 30 is not a firm deadline, State of Law Coalition member Zuhair Al-Chalabi told Shafaq News on Sunday. The issue could be addressed differently after US and Turkish forces withdraw from Iraq, including those stationed at the Zilkan camp in Nineveh province, and no foreign forces remain i",
+   "link": "https://shafaq.com/en/Iraq/Iraqi-MP-disputes-September-30-deadline-for-weapons-control",
+   "date": "2026-08-23T14:45:48.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "KRG introduces new public safety rules after fires in Al-Sulaymaniyah",
    "desc": "Shafaq News- Erbil The Kurdistan Regional Government (KRG) introduced new public safety rules following several fires in Al-Sulaymaniyah over the past week, with stricter requirements for liquefied petroleum gas (LPG) systems in residential and commercial properties and at fuel stations among the key measures. Under the new regulations, LPG installations must include mandatory early-warning and fi",
    "link": "https://shafaq.com/en/Kurdistan/KRG-introduces-new-public-safety-rules-after-fires-in-Al-Sulaymaniyah",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Duhok Authorities in Iraq&rsquo;s Duhok province are preparing the return of 410 displaced families to Sinjar, with registration opening in September, an official told Shafaq News on Sunday. Duhok Migration, Displacement, and Crisis Response Director Pir Dayan Jaafar said registration will run through June 2027 in coordination with the International Organization for Migration (IOM), w",
    "link": "https://shafaq.com/en/Kurdistan/IOM-backed-return-to-Sinjar-opens-for-400-families",
    "date": "2026-08-23T13:07:04.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "PMF law heads to Iraq parliament this week",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Popular Mobilization Forces (PMF) Service and Retirement Law will reach parliament this week, lawmaker Dhia Al-Zaidi said on Sunday. Read more: Iraq's PMF Service and Retirement Law: Is political exploitation inevitable? During a news conference at parliament, Al-Zaidi, a member of former premier Mohammed Al-Sudani&rsquo;s Reconstruction and Development Coalition,",
-   "link": "https://shafaq.com/en/Iraq/PMF-law-heads-to-Iraq-parliament-this-week",
-   "date": "2026-08-23T12:50:43.000Z"
   },
   {
    "src": "BBC",
@@ -300,14 +300,6 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis",
-   "desc": "Recent Kurdistan Region attacks expose Baghdad’s struggle with Iran-backed militias - analysis &nbsp;&nbsp; The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNmFBaTU4TnVrVUNZbjh2Q2J4Q2E1MnhvRk5iNlh3c2NHSnpxSnRqejVmYUhZaUx3a3RWYWdIdnlKTEIzQXk4MFd0UnVDTVNpaHRQaUxMYVdua2Ju?oc=5",
-   "date": "2026-08-16T14:28:53.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Shafaq News..Erbil launches $760K infrastructure projects",
    "desc": "Shafaq News..Erbil launches $760K infrastructure projects &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHlOdkYtSXVrSVpNRXdJWVJEOTVPWGtxdEdCMERYaWwtMEk3OTRFOWZmZFhCbVFrcWRkNnV3NjNEY2I1Yjl4bXFVZmxQeWxXS25NNG1pMFlhdFdlaGRJWktjR2NiRGltNEJKSVhfcjh6YVlSVG5kaFZZVW9ydjFDNk5CdkxxT3c0QTNiRU5n?oc=5",
@@ -320,6 +312,14 @@
    "desc": "Iraq: From agricultural knowledge to business &nbsp;&nbsp; Hortidaily",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDJOZkZvd3VnWXNXc0V5SDl4azBfd1E4Z0dOenctcmdyVzZVRVZwaTRHV2xLSlRQdWdNNHBITEJVSEp3QXh4M2pUZV9TendOWkRpTFdmTjdzRi0xb01MNzdNTVVzV1k5NWUybERKXzRGTXRGcmpub1pNN0tpd2FTVUxWSDJHOFEzcHJfd0JzLWhfdw?oc=5",
    "date": "2026-08-18T12:04:32.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "US dollar exchange rate rises in Baghdad, stabilizes in Erbil",
+   "desc": "US dollar exchange rate rises in Baghdad, stabilizes in Erbil &nbsp;&nbsp; IraqiNews",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGhvU3FKUy1TVm8xWTVjNzdhQTlOWHhTMkpKMlIxSk12VW5ObzNoN25HRzdkTGlQTFMtRVo3TGNYbXVTSU1mWmpwQkNtTWFhSWluNk9OOFNOTXIyZHY1aURMcUE5UTcxb2dVekFkQnRnVFZNS3pzcGZhbVhNV1R1N0x3Q2N6Wks3d3VPRWx3VFpleVFCOFBn?oc=5",
+   "date": "2026-08-20T17:43:13.000Z"
   },
   {
    "src": "Tourism",
