@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T08:32:31.308Z",
+ "updated": "2026-08-23T09:29:17.905Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xWGVUYWxCMlY4aVdtVjkyV2VOVFNwblNKQmt3NTdVUks1SjFDU3hfX0FuSFRWWHhRLUNPbjZqLTZkR1N3Uk03czNSWjI5ZU9DUDBVU0w0NWYxRWE0bklMeE1B?oc=5",
-   "date": "2026-08-22T15:16:18.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HZnlfZzRPTGtacGw0S0dxTk5qbmxOZUxpVEpndkVaS1FvVVN2NXhHNHZpNFpxLUROOVR4bHJTMHFnaUZsZDJBQUlHdnJBejY0cDFid2tKT3E1T2JmakE?oc=5",
+   "date": "2026-08-22T17:25:56.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Crude Oil Exports to the United States Resume After Seven Consecutive Weeks at Zero",
+   "desc": "US Energy Information Administration confirms 6,000 barrels per day of Iraqi crude reached American refineries last week, marking the first Iraqi oil shipment to the US since the conflict disrupted Gulf energy flows",
+   "link": "https://www.kurdistan24.net/en/story/934467/iraqi-crude-oil-exports-to-the-united-states-resume-after-seven-consecutive-weeks-at-zero",
+   "date": "2026-08-23T08:49:43.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kirkuk Court Fines Kurdish Farmer Mohammed Amin One Million Dinars",
+   "desc": "Kirkuk court fined Kurdish farmer Mohammed Amin one million dinars while his complaints against Iraqi military personnel remain frozen and subject to dispute.",
+   "link": "https://www.kurdistan24.net/en/story/934466/kirkuk-court-fines-kurdish-farmer-mohammed-amin-one-million-dinars",
+   "date": "2026-08-23T08:48:10.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "ISIS Attacks PMF Post as Iraq's Disarmament Debate Intensifies",
    "desc": "An ISIS attack on a PMF post in Khurmatu comes as Baghdad faces a Sept. 30 deadline to bring weapons held by armed factions under state control.",
    "link": "https://www.kurdistan24.net/en/story/934450/isis-attacks-pmf-post-as-iraqs-disarmament-debate-intensifies",
@@ -66,20 +82,28 @@
    "date": "2026-08-23T07:51:21.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iranian Hackers Force UK Power Generator Offline for Four Days",
-   "desc": "The Telegraph reveals the unprecedented cyber breach alongside a wave of Iranian-linked attacks on US water systems across 12 states, as Tehran expands its cyber warfare campaign to critical infrastructure across Western nations",
-   "link": "https://www.kurdistan24.net/en/story/934435/iranian-hackers-force-uk-power-generator-offline-for-four-days-in-first-successful-attack-on-british-energy-infrastructure",
-   "date": "2026-08-23T07:26:23.000Z"
+   "title": "Gold prices stabilize in Baghdad, decline in Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil On Sunday, gold prices hovered around 1 million IQD per mithqal in Baghdad and Erbil markets, according to Shafaq News Agency market survey. Gold prices on Baghdad's Al-Nahr Street recorded a selling price of 1,006,000 IQD per mithqal (equivalent to five grams) for 21-carat gold, including Gulf, Turkish, and European varieties, with a buying price of 1,002,000 IQD. The ",
+   "link": "https://shafaq.com/en/Economy/Gold-prices-stabilize-in-Baghdad-decline-in-Erbil-9",
+   "date": "2026-08-23T09:18:48.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kirkuk Farmer Faces 30th Court Appearance Amid Land Rights Dispute",
-   "desc": "Mohammed Amin returned to a Kirkuk court for his 29th and 30th hearings as Kurdish farmers continue pursuing land rights rooted in Ba'ath-era disputes.",
-   "link": "https://www.kurdistan24.net/en/story/934431/kirkuk-farmer-faces-30th-court-appearance-amid-land-rights-dispute",
-   "date": "2026-08-23T07:07:25.000Z"
+   "title": "Financial hurdle halts Baghdad hospital construction projects",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Federal Integrity Commission on Sunday urged the government to speed up work on two long-delayed hospitals in Baghdad, warning that the stalled projects are limiting the capital&rsquo;s public health capacity. The Commission&rsquo;s field team found that construction at Al-Shaala Hospital was 92.7% complete, while Al-Hurriya Hospital had reached 73%. At Al-Shaala,",
+   "link": "https://shafaq.com/en/society/Financial-hurdle-halts-Baghdad-hospital-construction-projects",
+   "date": "2026-08-23T08:50:40.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Dollar falls against dinar in Baghdad and Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil The US dollar fell against the Iraqi dinar on Sunday, hovering around 154,000 dinars per $100 in Baghdad and Erbil, the capital of the Kurdistan Region. At the Al-Kifah and Al-Harithiya exchanges in Baghdad, the dollar traded at 154,100 dinars per $100, down from 154,300 dinars on Saturday , according to a Shafaq News market survey. In Baghdad's local exchange shops, th",
+   "link": "https://shafaq.com/en/Economy/Dollar-falls-against-dinar-in-Baghdad-and-Erbil-6",
+   "date": "2026-08-23T08:39:29.000Z"
   },
   {
    "src": "Shafaq",
@@ -96,30 +120,6 @@
    "desc": "Shafaq News- Erbil Erbil is preparing for Mawlid celebrations marking Prophet Muhammad&rsquo;s birthday, with hundreds of thousands of residents and visitors from across Iraq expected to attend. Lights and decorations are installed around the city's historic center, while shops in the Qaysari Bazaar are stocking up with food traditionally distributed during Mawlid . The area around the Citadel wil",
    "link": "https://shafaq.com/en/Kurdistan/Erbil-gears-up-for-Mawlid-festivities",
    "date": "2026-08-23T08:05:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US imports 6K bpd of Iraqi crude after seven-week gap",
-   "desc": "Shafaq News- Baghdad/ Washington US crude oil imports from Iraq resumed at 6,000 barrels per day (bpd) after seven consecutive weeks at zero, according to the latest US Energy Information Administration (EIA) data. The week ending August 14 marked the first Iraqi crude shipments to the United States since late June, well below the 71,000 bpd recorded in the week ending June 19. Canada led US crude",
-   "link": "https://shafaq.com/en/Economy/US-imports-6K-bpd-of-Iraqi-crude-after-seven-week-gap",
-   "date": "2026-08-23T07:11:05.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Israel: Secret channels with Turkiye to prevent Syria clash",
-   "desc": "Shafaq News- Middle East Israel and Turkiye are using secret channels to prevent military friction over Syria, Israeli media reported on Sunday, warning that Israel would &ldquo;act&rdquo; against Turkish deployments it considers a threat. Citing a security official, one Israeli outlet said Israel does not want to turn Turkiye into an enemy, but has set &ldquo;red lines&rdquo; against air-defense ",
-   "link": "https://shafaq.com/en/Middle-East/Israel-Secret-channels-with-Turkiye-to-prevent-Syria-clash",
-   "date": "2026-08-23T06:30:06.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "ISIS fighters attack PMF position in Iraq’s Saladin",
-   "desc": "Shafaq News- Saladin Popular Mobilization Forces (PMF) fighters repelled an ISIS attack on a security position in Tuz Khurmatu district in Iraq&rsquo;s eastern Saladin province on Sunday, prompting a joint Iraqi Army-PMF operation to pursue the attackers. The PMF&rsquo;s 63rd Brigade said its forces forced the attackers to retreat into rugged terrain. No casualties were reported. A security source",
-   "link": "https://shafaq.com/en/Security/ISIS-fighters-attack-PMF-position-in-Iraq-s-Saladin",
-   "date": "2026-08-23T06:00:11.000Z"
   },
   {
    "src": "BBC",
@@ -159,7 +159,7 @@
    "title": "US rapper BigXthaPlug arrested on drug and gun charges",
    "desc": "The rapper, who has faced similar charges in the past, had been due to perform at the Country Rising Festival.",
    "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T11:30:52.000Z"
+   "date": "2026-08-23T09:16:22.000Z"
   },
   {
    "src": "NPR",
@@ -332,6 +332,14 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
+   "date": "2026-08-23T09:09:09.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage",
    "desc": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage &nbsp;&nbsp; باسنیوز",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HOWVkYWJEUjNyOVBsYllsQXRmSjJrNWgzNVo5WncwRlFPX1RndFhRWklydFdQX3o0cm41RmxtOEZiQVlYdGs5NG5leFdRTHFK?oc=5",
@@ -344,14 +352,6 @@
    "desc": "Kurdistan Region records 6,500 archaeological sites, new Parthian-era tombs &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wcG9NeHFReTc2M1pLTU9FX2Vid0FqeEVSTnJlZ080YVVuNTA3QzBPRXdmREN5S2ZxVGNYdlZ1bmtJbmlFZmlXV0Frc3JBWm9BOHVoZ2dSTWF6WndFNEtBaWpmTmxVWk1aZ2c?oc=5",
    "date": "2026-08-17T16:31:25.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "China Becomes Türkiye’s Fastest-Growing Tourism Market",
-   "desc": "China Becomes Türkiye’s Fastest-Growing Tourism Market &nbsp;&nbsp; teleSUR English",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjlIWnRoSkFGVTgxcHdjcWNOMVc4cTAzd2RSc1pwWEpib2pNUWVMZWlScmVfQld6SkVtdFBpOHM0cEhZQnV6Y0ZVekRlQTZEQXVtS1NQUUJlVUtteEF2dXZXWnAyUjJQb2hncGRTQjVFTm1NOS1hdG1NVGhFUjQzZTJJck43SllxcHZSMUR3?oc=5",
-   "date": "2026-08-10T07:00:00.000Z"
   }
  ]
 }
