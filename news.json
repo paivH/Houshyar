@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T20:25:13.538Z",
+ "updated": "2026-08-23T20:50:25.550Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iran Announces Major Gas Discovery Amid War-Hit Energy Sector",
+   "desc": "Iranian Petroleum Minister Mohsen Paknejad said the field contains more than 7.5 trillion cubic feet (Tcf) of gas, of which about 161 billion cubic meters (5.7 Tcf) is estimated to be recoverable, based on a recovery rate of more than 72 percent.",
+   "link": "https://www.kurdistan24.net/en/story/934622/iran-announces-major-gas-discovery-amid-war-hit-energy-sector",
+   "date": "2026-08-23T20:30:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran Official Warns No Oil Will Pass Through Hormuz",
    "desc": "Iran's Mohsen Rezaei warns that if the US economic war continues, no oil will be exported through the Strait of Hormuz or the Persian Gulf.",
    "link": "https://www.kurdistan24.net/en/story/934616/iran-official-warns-no-oil-will-pass-through-hormuz",
@@ -72,14 +80,6 @@
    "desc": "Speaking to Kurdistan24, Barzani described the CMC’s actions as “a clear injustice,” saying it was unacceptable for a telecommunications company serving millions of subscribers to be shut down.",
    "link": "https://www.kurdistan24.net/en/story/934585/korek-telecom-owner-says-iraq-regulators-pressure-is-political-vows-to-continue-operations",
    "date": "2026-08-23T17:53:39.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "US Forces Redirect 70 Vessels in Iran Sanctions Push",
-   "desc": "CENTCOM says US forces have redirected 70 commercial vessels, disabled three, and boarded two since July as Iran sanctions enforcement continues in the Arabian Sea.",
-   "link": "https://www.kurdistan24.net/en/story/934587/us-forces-redirect-70-vessels-in-iran-sanctions-push",
-   "date": "2026-08-23T17:49:58.000Z"
   },
   {
    "src": "Shafaq",
@@ -140,7 +140,7 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+   "title": "Frustration builds in Indiana town struggling without power for 12 days",
    "desc": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
    "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-23T15:54:32.000Z"
@@ -148,7 +148,7 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+   "title": "Trump waves green flag to start IndyCar race through Washington streets",
    "desc": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
    "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-23T20:19:36.000Z"
