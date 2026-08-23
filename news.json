@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T22:23:47.045Z",
+ "updated": "2026-08-23T22:49:33.095Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Police arrest three convicted murderers in Iraq’s Diyala",
+   "desc": "Shafaq News- Diyala Three men convicted of killing several people, including women, in Diyala province were arrested after four years on the run, a security source told Shafaq News on Sunday. The Diyala Criminal Court issued rulings against the three on September 19, 2023, sentencing one to death and the other two to life imprisonment. The attack took place in Al-Jayayla village, on February 20, w",
+   "link": "https://shafaq.com/en/Security/Police-arrest-three-convicted-murderers-in-Iraq-s-Diyala",
+   "date": "2026-08-23T22:47:01.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Agricultural Week exhibition hosts 209 companies in Baghdad",
+   "desc": "Shafaq News- Baghdad 209 local and international companies on Sunday took part in Iraq&rsquo;s 17th Agricultural Week exhibition in Baghdad, showcasing agricultural machinery, crop and livestock production, and food products. The exhibition, held at the Baghdad International Fair under the slogan &ldquo;Supporting Agriculture for a Sustainable Future,&rdquo; opened on August 22 and includes both p",
+   "link": "https://shafaq.com/en/society/Agricultural-Week-exhibition-hosts-209-companies-in-Baghdad",
+   "date": "2026-08-23T22:25:37.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Fewer children signal shift in Iraq’s family model",
    "desc": "Shafaq News- Baghdad Rising living costs and changing attitudes toward marriage and parenthood are leading more Iraqis to favor smaller families, as women weigh childcare expenses, work demands, health concerns, and the ability to provide a stable life for their children, experts and parents told Shafaq News. United Nations Population Fund (UNFPA) adviser Mahdi Al-Alaq put Iraq&rsquo;s current pop",
    "link": "https://shafaq.com/en/society/Fewer-children-signal-shift-in-Iraq-s-family-model",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Tehran Iran&rsquo;s currency fell to a record low on Sunday, with the US dollar crossing 200,000 tomans on the free market for the first time as Tehran braces for a new round of US sanctions. One toman is equivalent to 10 Iranian rials. The dollar reached 200,050 tomans in evening trading, while the euro climbed to a record 233,700 tomans, according to Iranian currency-tracking channe",
    "link": "https://shafaq.com/en/Economy/Iran-s-rial-hits-record-low-as-dollar-tops-200-000-tomans",
    "date": "2026-08-23T21:13:09.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Police arrest seven over alleged corruption in Iraq’s Nasiriyah",
-   "desc": "Shafaq News- Dhi Qar Security forces busted seven municipal employees and intermediaries in Nasiriyah as part of an anti-corruption campaign, a source at the Dhi Qar provincial administration told Shafaq News on Sunday. The raids targeted several locations in Nasiriyah. According to the source, &ldquo;the detainees forged official documents and caused significant losses to public funds.&rdquo; Ear",
-   "link": "https://shafaq.com/en/Security/Police-arrest-seven-over-alleged-corruption-Iraq-s-in-Nasiriyah",
-   "date": "2026-08-23T21:07:08.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq’s highest bridge takes shape on Erbil-Koy Sanjaq road",
-   "desc": "Shafaq News- Erbil Construction has begun on the Shorsh Bridge, a 48-meter-high structure on the Erbil-Koy Sanjaq dual carriageway that project engineers say will be the highest of its kind in the Kurdistan Region and Iraq. Project engineer Kaifi Faris told Shafaq News that the bridge is being built at the spillway of Dgala Dam, near Kani Darband village, as part of the Kurdistan Regional Governme",
-   "link": "https://shafaq.com/en/Kurdistan/Iraq-s-highest-bridge-takes-shape-on-Erbil-Koy-Sanjaq-road",
-   "date": "2026-08-23T20:55:39.000Z"
   },
   {
    "src": "BBC",
@@ -340,10 +340,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
-   "date": "2026-08-23T09:09:09.000Z"
+   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
+   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
+   "date": "2026-08-23T09:53:33.000Z"
   },
   {
    "src": "Tourism",
