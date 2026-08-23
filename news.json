@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-23T20:50:25.550Z",
+ "updated": "2026-08-23T21:23:34.593Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdish family deported from Germany, separated from 3 children",
-   "desc": "Kurdish family deported from Germany, separated from 3 children &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54ZDZ2Tld6YUdVZ1lJamVpSlA0ajNMQ21fck52UjBFaC0wYXR1TTMwTXNqYzUyOG9pRUxPdy16bTVPSW85am5tWl9yWTVSdEY3WUxtdmItb3htZ1Z3dnVDOGUxN0V2QQ?oc=5",
-   "date": "2026-08-21T21:08:36.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -40,6 +32,14 @@
    "desc": "Iraq plans to extradite nearly 6,000 ISIS prisoners: Official &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90QWpCOUljenBXdWpNYWh5OFZzV3ViS1lfQXhXNE5lTGYybk96YWN1TE9YQkp4MUtXRFQxdXlrQVB4MEtxQzh3YkpVbjUwZWVGcGJUdGdBWFB5UEwtY1lKeWVCdw?oc=5",
    "date": "2026-08-23T10:09:05.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran warns neighbors against joining US economic sanctions",
+   "desc": "Iran warns neighbors against joining US economic sanctions &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URExZX3ZHMXI2X243MVpqcVNhaE1melZwbE5qeDZPVE41NmYzUml6UEhZcVpUekljRXBSNEJjSXRIeENHMlZqSy1nX3VyX2J6bGRoeWt1SmNaYTJPNHlzUE41MW01ZkhsS0FJ?oc=5",
+   "date": "2026-08-23T07:04:13.000Z"
   },
   {
    "src": "K24",
@@ -84,42 +84,42 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Gas leak reported at Kirkuk’s Khabaz oil field",
+   "desc": "Shafaq News- Kirkuk A gas leak was reported from Well 46 at the Khabaz oil field in Kirkuk on Sunday, prompting safety officials to advise residents of nearby villages to remain indoors while technical teams work to contain it, a source told Shafaq News. The source did not specify the type or scale of the gas leak, and no casualties or health effects were immediately reported.",
+   "link": "https://shafaq.com/en/society/Gas-leak-reported-at-Kirkuk-s-Khabaz-oil-field",
+   "date": "2026-08-23T21:18:29.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran’s rial hits record low as dollar tops 200,000 tomans",
+   "desc": "Shafaq News- Tehran Iran&rsquo;s currency fell to a record low on Sunday, with the US dollar crossing 200,000 tomans on the free market for the first time as Tehran braces for a new round of US sanctions. One toman is equivalent to 10 Iranian rials. The dollar reached 200,050 tomans in evening trading, while the euro climbed to a record 233,700 tomans, according to Iranian currency-tracking channe",
+   "link": "https://shafaq.com/en/Economy/Iran-s-rial-hits-record-low-as-dollar-tops-200-000-tomans",
+   "date": "2026-08-23T21:13:09.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Police arrest seven over alleged corruption Iraq’s in Nasiriyah",
+   "desc": "Shafaq News- Dhi Qar Security forces busted seven municipal employees and intermediaries in Nasiriyah as part of an anti-corruption campaign, a source at the Dhi Qar provincial administration told Shafaq News on Sunday. Security forces raided several locations during the operation. &ldquo;The detainees forged official documents and caused significant losses to public funds,&rdquo; according to the",
+   "link": "https://shafaq.com/en/Security/Police-arrest-seven-over-alleged-corruption-Iraq-s-in-Nasiriyah",
+   "date": "2026-08-23T21:07:08.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq’s highest bridge takes shape on Erbil-Koy Sanjaq road",
+   "desc": "Shafaq News- Erbil Construction has begun on the Shorsh Bridge, a 48-meter-high structure on the Erbil-Koy Sanjaq dual carriageway that project engineers say will be the highest of its kind in the Kurdistan Region and Iraq. Project engineer Kaifi Faris told Shafaq News that the bridge is being built at the spillway of Dgala Dam, near Kani Darband village, as part of the Kurdistan Regional Governme",
+   "link": "https://shafaq.com/en/Kurdistan/Iraq-s-highest-bridge-takes-shape-on-Erbil-Koy-Sanjaq-road",
+   "date": "2026-08-23T20:55:39.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Syria’s road freight rebounds as Iraq route reopens",
    "desc": "Shafaq News- Damascus/ Baghdad Syria&rsquo;s road freight sector is seeing a strong recovery in trade with Iraq, Lebanon and Turkiye, with the reopening of the Rabia border crossing giving a particular boost to traffic with Iraq, Syrian National Shipping and Logistics Association Chairman Mohammad Riyad al-Sairafi told Shafaq News on Sunday. Al-Sairafi said freight traffic has generally increased ",
    "link": "https://shafaq.com/en/Middle-East/Syria-s-road-freight-rebounds-as-Iraq-route-reopens",
    "date": "2026-08-23T20:15:59.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Tikrit tribal leaders back Iraq’s anti-corruption drive",
-   "desc": "Shafaq News- Saladin Tribal leaders and community figures in Tikrit, Saladin province, on Sunday voiced support for the Iraqi government&rsquo;s anti-corruption campaign and called for disputes to be settled through state institutions rather than tribal confrontation. In a statement, the leaders backed Prime Minister Ali al-Zaidi&rsquo;s efforts to pursue those suspected of stealing public funds a",
-   "link": "https://shafaq.com/en/society/Tikrit-tribal-leaders-back-Iraq-s-anti-corruption-drive",
-   "date": "2026-08-23T19:48:38.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Constitution key to resolving Baghdad-Erbil disputes, KRI Presidency official says",
-   "desc": "Shafaq News- Baghdad Relations between Baghdad and Erbil have faced repeated disputes in recent years over differing interpretations of several shared issues, a member of the Kurdistan Region of Iraq&rsquo;s (KRI) Presidency office said on Sunday. Speaking at a panel organized by the Al-Farahidi Foundation for Dialogue and Development in Baghdad, Kaifi Abdullah said Iraq is a &ldquo;strategic dept",
-   "link": "https://shafaq.com/en/Kurdistan/Baghdad-Erbil-relations-require-dialogue-not-escalation",
-   "date": "2026-08-23T19:18:28.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Zakho records 10+ drowning deaths in 2026",
-   "desc": "Shafaq News- Zakho The number of drowning deaths recorded in the Kurdistan Region&rsquo;s Zakho Independent Administration has risen to 11 since the beginning of 2026, after a man in his 20s drowned in the Khabur River on Sunday, a security source told Shafaq News. The source said the man had gone with friends to the Chamsirmo area to escape the heat when he entered a deep section of the river wit",
-   "link": "https://shafaq.com/en/Kurdistan/Zakho-records-10-drowning-deaths-in-2026",
-   "date": "2026-08-23T18:13:08.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq, Libya settle longstanding diplomatic property issues",
-   "desc": "Shafaq News- Baghdad Iraq and Libya have resolved longstanding issues involving properties belonging to each country in Baghdad and Tripoli, Iraqi Foreign Minister Fuad Hussein said on Sunday during talks with Libya&rsquo;s acting Foreign Minister Al-Taher Salem Al-Baour. Hussein welcomed Libya&rsquo;s completion of procedures concerning Iraqi-owned properties in Tripoli, saying that Baghdad had c",
-   "link": "https://shafaq.com/en/Iraq/Iraq-Libya-settle-longstanding-diplomatic-property-issues",
-   "date": "2026-08-23T17:37:23.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,22 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Learning to live in a post-American world",
+   "desc": "In a recent article for Foregin Affairs , Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
+   "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+   "date": "2026-08-23T21:21:23.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "A Ukrainian baker has been watching war unfold from his cafe",
+   "desc": "Stanislav Zavertailo is co-owner of a popular Kyiv-based cafe. He tells NPR's Danielle Kurtzleben what it's like to live through airstrikes and keep a cafe operating amid a war.",
+   "link": "https://www.npr.org/2026/08/23/nx-s1-5938119/a-ukrainian-baker-has-been-watching-war-unfold-from-his-cafe",
+   "date": "2026-08-23T21:17:12.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
    "desc": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8.",
    "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
@@ -184,22 +200,6 @@
    "desc": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed.",
    "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
    "date": "2026-08-21T11:42:10.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-   "desc": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
-   "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-   "date": "2026-08-21T11:25:10.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-   "desc": "Experts warn that President Trump's transactional approach to an alliance will erode political trust.",
-   "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-   "date": "2026-08-21T09:00:00.000Z"
   },
   {
    "src": "BBC ME",
@@ -300,10 +300,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Shafaq News..Erbil launches $760K infrastructure projects",
-   "desc": "Shafaq News..Erbil launches $760K infrastructure projects &nbsp;&nbsp; شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHlOdkYtSXVrSVpNRXdJWVJEOTVPWGtxdEdCMERYaWwtMEk3OTRFOWZmZFhCbVFrcWRkNnV3NjNEY2I1Yjl4bXFVZmxQeWxXS25NNG1pMFlhdFdlaGRJWktjR2NiRGltNEJKSVhfcjh6YVlSVG5kaFZZVW9ydjFDNk5CdkxxT3c0QTNiRU5n?oc=5",
-   "date": "2026-08-19T13:05:28.000Z"
+   "title": "Shafaq News..Iraq’s highest bridge takes shape on Erbil-Koy Sanjaq road",
+   "desc": "Shafaq News..Iraq’s highest bridge takes shape on Erbil-Koy Sanjaq road &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTl9zNUtXQm5fX1FEdVdERHZHdUZSRnBQanduOWI1V3VORWFWOG9qenBFT1FoOTIwYjJrLXlzdUV2YmpicGpvd0RGcGZDUFNuckxGaWZ3WW8xUVVENGVtLVZOVmVaRUJYSGZxeG4tUFlxcUhKTkhyT0JsY0w3TnUzbVNWek50TFRrZVBYUVNLV094SGpW?oc=5",
+   "date": "2026-08-23T20:57:42.000Z"
   },
   {
    "src": "Erbil",
@@ -340,10 +340,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
-   "date": "2026-08-23T09:09:09.000Z"
+   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
+   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
+   "date": "2026-08-23T09:53:33.000Z"
   },
   {
    "src": "Tourism",
