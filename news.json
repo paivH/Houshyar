@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T11:22:41.606Z",
+ "updated": "2026-08-23T11:46:45.639Z",
  "items": [
   {
    "src": "Rudaw",
@@ -60,7 +60,7 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Reportedly Invited to Join Makkah Joint Defence Agreement Signed by Saudi Arabia, Pakistan, and Türkiye",
+   "title": "Iran Reportedly Invited to Join Mecca Joint Defence Agreement Signed by Saudi Arabia, Pakistan, and Türkiye",
    "desc": "Iranian parliamentary news agency head tells Al-Mayadeen Tehran received an invitation currently under consideration, though no confirmation has come from Iran's Foreign Ministry, senior leadership, or any of the three signatory states",
    "link": "https://www.kurdistan24.net/en/story/934497/iran-reportedly-invited-to-join-makkah-joint-defence-agreement-signed-by-saudi-arabia-pakistan-and-t%C3%BCrkiye",
    "date": "2026-08-23T10:43:30.000Z"
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Four arrested in Iraq’s Najaf over alleged pension theft, bribery",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Federal Commission of Integrity, the country's anti-corruption watchdog, on Sunday detained four public employees in Najaf in separate cases involving alleged pension embezzlement and a bribe to close a criminal case. Two Rasheed Bank employees were detained after investigators found pension payments issued in the name of a deceased retiree had been embezzled over",
+   "link": "https://shafaq.com/en/society/Four-arrested-in-Iraq-s-Najaf-over-alleged-pension-theft-bribery",
+   "date": "2026-08-23T11:34:10.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Historic Asian debut tests Iraq women’s volleyball team",
    "desc": "Shafaq News- Baghdad Iraq's women's volleyball team suffered a second straight defeat at the 2026 AVC Women's Volleyball Continental Championship on Sunday, losing 3-0 to Chinese Taipei in their first appearance in the competition. The result followed a 3-0 opening defeat to hosts China, who won 25-4, 25-6, 25-6. Iraq are the only Arab team in the 12-nation championship and are competing in the to",
    "link": "https://shafaq.com/en/sport/Historic-Asian-debut-tests-Iraq-women-s-volleyball-team",
@@ -100,8 +108,8 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Unpaid personnel stage protests in Baghdad and Babil",
-   "desc": "Shafaq News- Baghdad/ Babil Employees took to the streets in Baghdad and Babil province, seeking overdue salaries, permanent jobs and better living conditions, Shafaq News learned on Sunday. In Baghdad, workers at the General Company for Construction Materials Trading, which operates under the Ministry of Trade, demanded a resolution to months-long delays in salaries and financial entitlements. Th",
+   "title": "Protests spread across Iraq over jobs, unpaid salaries",
+   "desc": "Shafaq News- Baghdad/ Babil/ Kirkuk (Updated at 14:40) Employees and contract workers protested in Baghdad, Babil and Kirkuk, demanding overdue salaries, permanent jobs and action on long-running labor grievances, Shafaq News learned on Sunday. In Baghdad, workers at the General Company for Construction Materials Trading, part of the Ministry of Trade, staged a demonstration over months-long salar",
    "link": "https://shafaq.com/en/society/Unpaid-personnel-stage-protests-in-Baghdad-and-Babil",
    "date": "2026-08-23T10:32:16.000Z"
   },
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq&rsquo;s security forces detained a man in Baghdad who allegedly posed as a National Security Service member while selling drugs from his vehicle, the General Directorate of Traffic said on Sunday. The suspect was arrested in the New Baghdad district on the eastern side of the capital after traffic patrols tried to stop his vehicle and he attempted to flee. Officers found ",
    "link": "https://shafaq.com/en/Security/Fake-security-officer-arrested-selling-drugs-in-Baghdad",
    "date": "2026-08-23T10:02:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Syria to revive security talks with Israel",
-   "desc": "Shafaq News- Damascus Syria expects security negotiations with Israel to resume soon despite &ldquo;deep mistrust,&rdquo; Foreign Minister Asaad Al-Shaibani said, tying progress to an end to Israeli attacks and withdrawal from Syrian territory seized after former President Bashar Al-Assad&rsquo;s fall. Al-Shaibani told Reuters on Saturday that the two sides had agreed &ldquo;on paper to almost eve",
-   "link": "https://shafaq.com/en/Middle-East/Syria-to-revive-security-talks-with-Israel",
-   "date": "2026-08-23T09:32:31.000Z"
   },
   {
    "src": "BBC",
@@ -340,18 +340,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Iran reportedly hit Erbil with drones overnight",
-   "desc": "Iran reportedly hit Erbil with drones overnight &nbsp;&nbsp; Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3dpT1dUUnhNcGVmQWhrT3FYcVRKMUE4bVFYSHItd0pTNHc3aXAwMGVPRHphMjVMbkFfcDl4Nldzc2JfeFljczVzYjBtRWpzOXRtR09vZFN1V216Vk5zbk5rU1VLbHpQMm9iaXU3SDNEOUctNWIyUE0yMDU3ZXViMw?oc=5",
-   "date": "2026-08-14T07:16:43.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Travel & Tourism News Middle East",
    "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
    "date": "2026-08-23T09:09:09.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage",
+   "desc": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage &nbsp;&nbsp; باسنیوز",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HOWVkYWJEUjNyOVBsYllsQXRmSjJrNWgzNVo5WncwRlFPX1RndFhRWklydFdQX3o0cm41RmxtOEZiQVlYdGs5NG5leFdRTHFK?oc=5",
+   "date": "2026-08-22T19:48:00.000Z"
   }
  ]
 }
