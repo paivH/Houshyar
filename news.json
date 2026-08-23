@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T12:42:58.006Z",
+ "updated": "2026-08-23T13:33:30.434Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "China's Tiangong Ultra Robot Beats Usain Bolt's 100-Meter Record",
+   "desc": "Humanoid robots broke sprint records, boxed and played football at Beijing's World Robot Games, showcasing China's rapidly advancing robotics industry.",
+   "link": "https://www.kurdistan24.net/en/story/934523/chinas-tiangong-ultra-robot-beats-usain-bolts-100-meter-record",
+   "date": "2026-08-23T12:56:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Ukraine Hits Ozon Warehouse as Drone Campaign Targets Russian Retailers",
    "desc": "Ukraine struck an Ozon warehouse for a second day as Kyiv expanded its drone campaign from Wildberries to major Russian logistics infrastructure.",
    "link": "https://www.kurdistan24.net/en/story/934509/ukraine-hits-ozon-warehouse-as-drone-campaign-targets-russian-retailers",
@@ -74,12 +82,20 @@
    "date": "2026-08-23T10:43:30.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Korek CEO Says Baghdad Court Suspends CMC Decision Against Telecom Firm",
-   "desc": "BREAKING: Korek Telecom CEO Sirwan Barzani says Baghdad's Rusafa Court has issued a stay suspending a CMC decision against the company.",
-   "link": "https://www.kurdistan24.net/en/story/934491/korek-ceo-says-baghdad-court-suspends-cmc-decision-against-telecom-firm",
-   "date": "2026-08-23T10:30:25.000Z"
+   "title": "IOM-backed return to Sinjar opens for 400+ families",
+   "desc": "Shafaq News- Duhok Authorities in Iraq&rsquo;s Duhok province are preparing the return of 410 displaced families to Sinjar, with registration opening in September, an official told Shafaq News on Sunday. Duhok Migration, Displacement, and Crisis Response Director Pir Dayan Jaafar said registration will run through June 2027 in coordination with the International Organization for Migration (IOM), w",
+   "link": "https://shafaq.com/en/Kurdistan/IOM-backed-return-to-Sinjar-opens-for-400-families",
+   "date": "2026-08-23T13:07:04.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "PMF law heads to Iraq parliament this week",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Popular Mobilization Forces (PMF) Service and Retirement Law will reach parliament this week, lawmaker Dhia Al-Zaidi said on Sunday. Read more: Iraq's PMF Service and Retirement Law: Is political exploitation inevitable? During a news conference at parliament, Al-Zaidi, a member of former premier Mohammed Al-Sudani&rsquo;s Reconstruction and Development Coalition,",
+   "link": "https://shafaq.com/en/Iraq/PMF-law-heads-to-Iraq-parliament-this-week",
+   "date": "2026-08-23T12:50:43.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq&rsquo;s Federal Commission of Integrity, the country's anti-corruption watchdog, on Sunday detained four public employees in Najaf in separate cases involving alleged pension embezzlement and a bribe to close a criminal case. Two Rasheed Bank employees were detained after investigators found pension payments issued in the name of a deceased retiree had been embezzled over",
    "link": "https://shafaq.com/en/society/Four-arrested-in-Iraq-s-Najaf-over-alleged-pension-theft-bribery",
    "date": "2026-08-23T11:34:10.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Historic Asian debut tests Iraq women’s volleyball team",
-   "desc": "Shafaq News- Baghdad Iraq's women's volleyball team suffered a second straight defeat at the 2026 AVC Women's Volleyball Continental Championship on Sunday, losing 3-0 to Chinese Taipei in their first appearance in the competition. The result followed a 3-0 opening defeat to hosts China, who won 25-4, 25-6, 25-6. Iraq are the only Arab team in the 12-nation championship and are competing in the to",
-   "link": "https://shafaq.com/en/sport/Historic-Asian-debut-tests-Iraq-women-s-volleyball-team",
-   "date": "2026-08-23T11:15:04.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Top Iraqi court delays hearing on disputed Nineveh land",
-   "desc": "Shafaq News- Nineveh Iraq&rsquo;s Federal Supreme Court postponed until September 7 a hearing on a lawsuit challenging a Nineveh Provincial Council land decision after lawmakers who brought the case requested more time to respond to the council&rsquo;s defense, legal adviser Humam Al-Salim told Shafaq News on Sunday. The dispute concerns land where construction had been prohibited in Qaza Fakhra a",
-   "link": "https://shafaq.com/en/society/Top-Iraqi-court-delays-hearing-on-disputed-Nineveh-land",
-   "date": "2026-08-23T10:43:20.000Z"
   },
   {
    "src": "BBC",
@@ -148,18 +148,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US military newspaper editor voices censorship fears after being fired",
-   "desc": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-   "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T16:57:19.000Z"
+   "title": "Golf brand apologises for advert that shows woman being pushed over",
+   "desc": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
+   "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-23T12:25:40.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Laptop catches fire on US flight, with passenger treated at airport",
-   "desc": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
-   "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T10:27:25.000Z"
+   "title": "US military newspaper editor voices censorship fears after being fired",
+   "desc": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+   "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-22T16:57:19.000Z"
   },
   {
    "src": "NPR",
