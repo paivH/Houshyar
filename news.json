@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T19:46:02.207Z",
+ "updated": "2026-08-23T20:25:13.538Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iran Official Warns No Oil Will Pass Through Hormuz",
+   "desc": "Iran's Mohsen Rezaei warns that if the US economic war continues, no oil will be exported through the Strait of Hormuz or the Persian Gulf.",
+   "link": "https://www.kurdistan24.net/en/story/934616/iran-official-warns-no-oil-will-pass-through-hormuz",
+   "date": "2026-08-23T20:10:07.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "DEM Party Condemns Attacks on Kurdish Workers in Türkiye",
    "desc": "Türkiye's DEM Party has condemned attacks on Kurdish workers in Zonguldak and Düzce, warning that no party has the right to endanger Kurdish citizens' lives.",
    "link": "https://www.kurdistan24.net/en/story/934603/dem-party-condemns-attacks-on-kurdish-workers-in-t%C3%BCrkiye",
@@ -74,18 +82,26 @@
    "date": "2026-08-23T17:49:58.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdish Child Laborers Attacked in Turkey’s Zonguldak Province",
-   "desc": "On Sunday, Ekinci, Kurdistan24’s correspondent in Turkey, reported that a group of individuals attacked several Kurdish children working as laborers in Alaplı.",
-   "link": "https://www.kurdistan24.net/en/story/934578/kurdish-child-laborers-attacked-in-turkeys-zonguldak-province",
-   "date": "2026-08-23T17:01:11.000Z"
+   "title": "Syria’s road freight rebounds as Iraq route reopens",
+   "desc": "Shafaq News- Damascus/ Baghdad Syria&rsquo;s road freight sector is seeing a strong recovery in trade with Iraq, Lebanon and Turkiye, with the reopening of the Rabia border crossing giving a particular boost to traffic with Iraq, Syrian National Shipping and Logistics Association Chairman Mohammad Riyad al-Sairafi told Shafaq News on Sunday. Al-Sairafi said freight traffic has generally increased ",
+   "link": "https://shafaq.com/en/Middle-East/Syria-s-road-freight-rebounds-as-Iraq-route-reopens",
+   "date": "2026-08-23T20:15:59.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Baghdad-Erbil relations require dialogue not escalation",
-   "desc": "Shafaq News- Baghdad Relations between Baghdad and Erbil have faced repeated disputes and crises in recent years over differing interpretations of several shared issues, a member of the Kurdistan Region of Iraq&rsquo;s (KRI) Presidency office said on Sunday. Speaking at a panel organized by the Al-Farahidi Foundation for Dialogue and Development in Baghdad, Kaifi Abdullah said the Iraq is a &ldquo",
+   "title": "Tikrit tribal leaders back Iraq’s anti-corruption drive",
+   "desc": "Shafaq News- Saladin Tribal leaders and community figures in Tikrit, Saladin province, on Sunday voiced support for the Iraqi government&rsquo;s anti-corruption campaign and called for disputes to be settled through state institutions rather than tribal confrontation. In a statement, the leaders backed Prime Minister Ali al-Zaidi&rsquo;s efforts to pursue those suspected of stealing public funds a",
+   "link": "https://shafaq.com/en/society/Tikrit-tribal-leaders-back-Iraq-s-anti-corruption-drive",
+   "date": "2026-08-23T19:48:38.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Constitution key to resolving Baghdad-Erbil disputes, KRI Presidency official says",
+   "desc": "Shafaq News- Baghdad Relations between Baghdad and Erbil have faced repeated disputes in recent years over differing interpretations of several shared issues, a member of the Kurdistan Region of Iraq&rsquo;s (KRI) Presidency office said on Sunday. Speaking at a panel organized by the Al-Farahidi Foundation for Dialogue and Development in Baghdad, Kaifi Abdullah said Iraq is a &ldquo;strategic dept",
    "link": "https://shafaq.com/en/Kurdistan/Baghdad-Erbil-relations-require-dialogue-not-escalation",
    "date": "2026-08-23T19:18:28.000Z"
   },
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Baghdad Iraq and Libya have resolved longstanding issues involving properties belonging to each country in Baghdad and Tripoli, Iraqi Foreign Minister Fuad Hussein said on Sunday during talks with Libya&rsquo;s acting Foreign Minister Al-Taher Salem Al-Baour. Hussein welcomed Libya&rsquo;s completion of procedures concerning Iraqi-owned properties in Tripoli, saying that Baghdad had c",
    "link": "https://shafaq.com/en/Iraq/Iraq-Libya-settle-longstanding-diplomatic-property-issues",
    "date": "2026-08-23T17:37:23.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Yazidis oppose changes to 2021 Survivors Law",
-   "desc": "Shafaq News- Baghdad Yazidi survivors of ISIS crimes on Sunday rejected any amendment that would weaken the core protections of Iraq&rsquo;s Yazidi Female Survivors Law, while stressing their support for the rights of other communities subjected to abuses by the group. In a statement, the survivors described the law as an important recognition by the Iraqi state of the suffering caused by the ISIS",
-   "link": "https://shafaq.com/en/society/Yazidis-oppose-changes-to-2021-Survivors-Law",
-   "date": "2026-08-23T17:30:40.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Oil Ministry to represent Iraq at Gastech 2026",
-   "desc": "Shafaq News- Baghdad Iraq will participate in the Gastech 2026 exhibition in Bangkok next month, with Deputy Oil Minister for Gas Affairs Ezat Saber Esmaeel attending at the invitation of US energy technology company Baker Hughes, a source from the ministry told Shafaq News on Sunday. The source said the event , &ldquo;the world&rsquo;s largest exhibition for natural gas and liquefied natural gas ",
-   "link": "https://shafaq.com/en/Economy/Oil-Ministry-to-represent-Iraq-at-Gastech-2026",
-   "date": "2026-08-23T17:25:59.000Z"
   },
   {
    "src": "BBC",
@@ -151,7 +151,7 @@
    "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
    "desc": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
    "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-23T18:17:34.000Z"
+   "date": "2026-08-23T20:19:36.000Z"
   },
   {
    "src": "BBC",
@@ -340,10 +340,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
-   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
-   "date": "2026-08-23T09:53:33.000Z"
+   "title": "Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
+   "date": "2026-08-23T09:09:09.000Z"
   },
   {
    "src": "Tourism",
