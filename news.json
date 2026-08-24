@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T23:46:51.977Z",
+ "updated": "2026-08-24T01:24:36.798Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,14 +8,6 @@
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yT1VoSzZhczJnb0dFRXBPRjhaOXpoYmI4WV85Vk1DamcxN1paNno3V1JNcHRSOXdaTVYwTEdnUUFTdThhS0k5amZZVTJmVE9rdnh4UU1kVVkwRVJXVWc?oc=5",
    "date": "2026-08-22T17:31:49.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi environmental watchdog identifies 500 Tigris pollution sources",
-   "desc": "Iraqi environmental watchdog identifies 500 Tigris pollution sources &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LNWZYbkIwNzh2UVA1a2NENkJITUNYSEpDdUVkQUp5bFowWnh3VC12TjFWZzNZNS1mMHZqaE1HTWY5UzB4WlBTQkF1dkk0alN3dGg5SFhfZjBycUlrSXJ0NzJPdw?oc=5",
-   "date": "2026-08-23T15:56:10.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +32,14 @@
    "desc": "Iran warns neighbors against joining US economic sanctions &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URExZX3ZHMXI2X243MVpqcVNhaE1melZwbE5qeDZPVE41NmYzUml6UEhZcVpUekljRXBSNEJjSXRIeENHMlZqSy1nX3VyX2J6bGRoeWt1SmNaYTJPNHlzUE41MW01ZkhsS0FJ?oc=5",
    "date": "2026-08-23T07:04:13.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi environmental watchdog identifies 500 Tigris pollution sources",
+   "desc": "Iraqi environmental watchdog identifies 500 Tigris pollution sources &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55M1pCZlIzS2sxUDc1ME16Q2l4dVdfdHhZYWRpWi1DUUxCQk5fZ0tfNEprOU9Bc1piWWNrZDJEaTZOelNKSkNfakVyVWkzWW10NW4waW9FX2tKQnU3cXc?oc=5",
+   "date": "2026-08-23T14:45:21.000Z"
   },
   {
    "src": "K24",
@@ -332,6 +332,14 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage",
+   "desc": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage &nbsp;&nbsp; باسنیوز",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HOWVkYWJEUjNyOVBsYllsQXRmSjJrNWgzNVo5WncwRlFPX1RndFhRWklydFdQX3o0cm41RmxtOEZiQVlYdGs5NG5leFdRTHFK?oc=5",
+   "date": "2026-08-22T19:48:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics",
    "desc": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics &nbsp;&nbsp; IndexBox",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTW96cWs2ekdIM1d6VGpXNUt1RVppVGFQcDNuSFM4YzdBNUFVQWdUTnBKbS1rSkwzVFdmSjhwQUpFNFZid0ZHdDhEdlRNZm44TGk0OUtTQ0lGU245Q3dxOUM3QlVXYVl5TnNEdnFJSWtJZnRIUEJHQkdRc01ja0NQNEQyZTdrS2FOQVFTb2dLXzZSSFlYR1E?oc=5",
@@ -344,14 +352,6 @@
    "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
    "date": "2026-08-23T09:53:33.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage",
-   "desc": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage &nbsp;&nbsp; باسنیوز",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HOWVkYWJEUjNyOVBsYllsQXRmSjJrNWgzNVo5WncwRlFPX1RndFhRWklydFdQX3o0cm41RmxtOEZiQVlYdGs5NG5leFdRTHFK?oc=5",
-   "date": "2026-08-22T19:48:00.000Z"
   }
  ]
 }
