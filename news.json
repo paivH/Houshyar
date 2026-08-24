@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-24T01:24:36.798Z",
+ "updated": "2026-08-24T02:46:46.100Z",
  "items": [
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Nearly 20,000 Iraqi electricity ministry employees illiterate: Education official",
+   "desc": "Nearly 20,000 Iraqi electricity ministry employees illiterate: Education official &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HQlkyMnBHUDZxS25XVUF5WFU4WEhNZ0JaRkVLSkQtc1JRcnBQSmFVcXRhLV9NNGd4UGNKVG5oVVVtQ1hzTmQ5WEFraUctc0ZvbnBPRDcxWWM3UWNDTVE?oc=5",
+   "date": "2026-08-22T10:21:23.000Z"
+  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -32,14 +40,6 @@
    "desc": "Iran warns neighbors against joining US economic sanctions &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URExZX3ZHMXI2X243MVpqcVNhaE1melZwbE5qeDZPVE41NmYzUml6UEhZcVpUekljRXBSNEJjSXRIeENHMlZqSy1nX3VyX2J6bGRoeWt1SmNaYTJPNHlzUE41MW01ZkhsS0FJ?oc=5",
    "date": "2026-08-23T07:04:13.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi environmental watchdog identifies 500 Tigris pollution sources",
-   "desc": "Iraqi environmental watchdog identifies 500 Tigris pollution sources &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55M1pCZlIzS2sxUDc1ME16Q2l4dVdfdHhZYWRpWi1DUUxCQk5fZ0tfNEprOU9Bc1piWWNrZDJEaTZOelNKSkNfakVyVWkzWW10NW4waW9FX2tKQnU3cXc?oc=5",
-   "date": "2026-08-23T14:45:21.000Z"
   },
   {
    "src": "K24",
@@ -332,14 +332,6 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage",
-   "desc": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage &nbsp;&nbsp; باسنیوز",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HOWVkYWJEUjNyOVBsYllsQXRmSjJrNWgzNVo5WncwRlFPX1RndFhRWklydFdQX3o0cm41RmxtOEZiQVlYdGs5NG5leFdRTHFK?oc=5",
-   "date": "2026-08-22T19:48:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics",
    "desc": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics &nbsp;&nbsp; IndexBox",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTW96cWs2ekdIM1d6VGpXNUt1RVppVGFQcDNuSFM4YzdBNUFVQWdUTnBKbS1rSkwzVFdmSjhwQUpFNFZid0ZHdDhEdlRNZm44TGk0OUtTQ0lGU245Q3dxOUM3QlVXYVl5TnNEdnFJSWtJZnRIUEJHQkdRc01ja0NQNEQyZTdrS2FOQVFTb2dLXzZSSFlYR1E?oc=5",
@@ -348,10 +340,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
-   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
-   "date": "2026-08-23T09:53:33.000Z"
+   "title": "Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
+   "date": "2026-08-23T09:09:09.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage",
+   "desc": "Kurdistan Tourism Board Tightens Oversight to Promote Local Culture and Heritage &nbsp;&nbsp; باسنیوز",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HOWVkYWJEUjNyOVBsYllsQXRmSjJrNWgzNVo5WncwRlFPX1RndFhRWklydFdQX3o0cm41RmxtOEZiQVlYdGs5NG5leFdRTHFK?oc=5",
+   "date": "2026-08-22T19:48:00.000Z"
   }
  ]
 }
