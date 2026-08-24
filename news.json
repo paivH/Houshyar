@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-24T16:39:51.768Z",
+ "updated": "2026-08-24T17:32:30.330Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yT1VoSzZhczJnb0dFRXBPRjhaOXpoYmI4WV85Vk1DamcxN1paNno3V1JNcHRSOXdaTVYwTEdnUUFTdThhS0k5amZZVTJmVE9rdnh4UU1kVVkwRVJXVWc?oc=5",
-   "date": "2026-08-22T17:31:49.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMHRSV0hWSHFzdWJIbDUxYnNobVQ4UjFnWHlVQzRZWHpsX18zWVNaYmZMaHhSdFcwSkhfU1d2Mm1vZlRsVkVJZzAwQXVLOXFJMWRodkZCNzRkNDBqS1FRNTZGR2xUTzlHTEE?oc=5",
+   "date": "2026-08-23T20:41:48.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Trump Spoke with Pakistan Army Chief Ahead of Tehran Mediation Visit",
+   "desc": "The call, which has not been publicly acknowledged by the White House, came as Munir traveled to Tehran on Monday with a Pakistani delegation as part of Islamabad’s efforts to promote regional peace and revive stalled negotiations.",
+   "link": "https://www.kurdistan24.net/en/story/934825/trump-spoke-with-pakistan-army-chief-ahead-of-tehran-mediation-visit",
+   "date": "2026-08-24T17:13:14.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Houthis Claim Missile Strike on Saudi Oil Tanker in Red Sea",
    "desc": "“The strike was accurate and direct,” the Houthis said in a statement, claiming that the attack caused a fire aboard the vessel and prompted other ships in the area to flee.",
    "link": "https://www.kurdistan24.net/en/story/934802/houthis-claim-missile-strike-on-saudi-oil-tanker-in-red-sea",
@@ -74,12 +82,12 @@
    "date": "2026-08-24T13:40:50.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Duhok's Nizarke Fortress to Become Genocide Museum",
-   "desc": "Duhok plans to transform the Baath-era Nizarke Fortress into a genocide museum documenting Anfal and atrocities against Kurdish, Ezidi Kurds, and Christian communities.",
-   "link": "https://www.kurdistan24.net/en/story/934775/duhoks-nizarke-fortress-to-become-genocide-museum",
-   "date": "2026-08-24T13:04:00.000Z"
+   "title": "Rising water levels revive livelihoods in Iraq’s Babil",
+   "desc": "Shafaq News- Babil Buffalo herds and fishermen are returning to waterways in Iraq&rsquo;s Babil province after improved rainfall and higher river levels brought relief from years of drought that damaged agriculture, livestock, and fisheries across central and southern Iraq. Along Shatt Al-Hilla, a major historical branch of the Euphrates River, Shafaq News observed buffalo swimming with their herd",
+   "link": "https://shafaq.com/en/society/Rising-water-levels-revive-livelihoods-in-Iraq-s-Babil",
+   "date": "2026-08-24T17:00:44.000Z"
   },
   {
    "src": "Shafaq",
@@ -112,14 +120,6 @@
    "desc": "Shafaq News- Basra An Iraqi media figure and activist has been detained until August 26 after the Border Ports Authority filed a complaint over social-media posts about procedures at the Shalamcheh crossing with Iran, an informed source told Shafaq News on Monday. The Publication and Media Court ordered Mustafa Abdul Razzaq Reda Al-Mayahi held while investigators question him over posts calling fo",
    "link": "https://shafaq.com/en/society/Basra-media-figure-held-over-Shalamcheh-crossing-posts",
    "date": "2026-08-24T15:15:03.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Security forces seize rare antiquities across Iraq",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s National Security Service (INSS) recovered hundreds of rare antiquities in separate operations across six provinces, the agency said on Monday. In Baghdad, the recovered collection included five statues, five pottery pieces, a cylinder seal, and ancient coins. The INSS said authorities began legal procedures to confiscate the items before handing them over to the ",
-   "link": "https://shafaq.com/en/Security/Security-forces-seize-rare-antiquities-across-Iraq",
-   "date": "2026-08-24T14:44:29.000Z"
   },
   {
    "src": "BBC",
@@ -164,7 +164,7 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran",
+   "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
    "desc": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
    "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
    "date": "2026-08-24T12:26:00.000Z"
@@ -340,10 +340,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
-   "date": "2026-08-23T09:09:09.000Z"
+   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
+   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
+   "date": "2026-08-23T09:53:33.000Z"
   },
   {
    "src": "Tourism",
