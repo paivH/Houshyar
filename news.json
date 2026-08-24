@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:53:34.384Z",
+ "updated": "2026-08-24T14:44:07.476Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "IRGC Pledges Cooperation With Government to Counter US Economic Pressure",
+   "desc": "According to Iran’s Tasnim News Agency, the IRGC said coordination and cooperation with the government were key to helping the country overcome sanctions and strengthen national resilience.",
+   "link": "https://www.kurdistan24.net/en/story/934788/irgc-pledges-cooperation-with-government-to-counter-us-economic-pressure",
+   "date": "2026-08-24T14:12:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Trump Says Iran Is ‘Completely Collapsing’ as US Unveils New Economic Pressure Campaign",
    "desc": "The comments came hours after US Treasury Secretary Scott Bessent declared that an “economic D-Day” had begun against Tehran in a Financial Times column. He warned that countries continuing to support Iran could become “global pariahs.”",
    "link": "https://www.kurdistan24.net/en/story/934781/trump-says-iran-is-completely-collapsing-as-us-unveils-new-economic-pressure-campaign",
@@ -74,12 +82,20 @@
    "date": "2026-08-24T11:36:42.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Presses Iraq Against Disarming Armed Groups, Sources Say",
-   "desc": "Iranian officials reportedly urged Baghdad not to disarm allied factions as Iraq shifts toward integrating armed groups into the state-recognized PMF.",
-   "link": "https://www.kurdistan24.net/en/story/934749/iran-presses-iraq-against-disarming-armed-groups-sources-say",
-   "date": "2026-08-24T10:45:00.000Z"
+   "title": "Dollar climbs in Baghdad and Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Monday&rsquo;s trading higher in Iraq, hovering around 154,000 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 154,400 dinars per 100 dollars, up from the morning session &rsquo;s 154,300 dinars. In the Iraqi capital, exchange shops sold the dollar at 155,000 din",
+   "link": "https://shafaq.com/en/Economy/Dollar-climbs-in-Baghdad-and-Erbil-7-8",
+   "date": "2026-08-24T14:23:20.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Security presence at Green Zone as detainees handed to PMF",
+   "desc": "Shafaq News- Baghdad Security tightens at Green Zone as detainees handed to PMF Shafaq News- Baghdad Security forces deployed at Baghdad&rsquo;s Green Zone entrances on Monday as authorities handed a Popular Mobilization Forces (PMF) commander and several members to the PMF&rsquo;s security department, while supporters prepared for a protest later in the day. Earlier today, a PMF commander and thr",
+   "link": "https://shafaq.com/en/Security/Security-presence-at-Green-Zone-as-detainees-handed-to-PMF",
+   "date": "2026-08-24T13:50:00.000Z"
   },
   {
    "src": "Shafaq",
@@ -104,22 +120,6 @@
    "desc": "Shafaq News- Samarra Iraq's state-owned General Company for the Pharmaceutical Industry and Medical Supplies in Samarra has added the antibiotic moxifloxacin to its locally produced medicines for the first time. The company's director general, Mohammed Abdul Qader al-Nuaimi, said in a statement that the drug is a broad-spectrum antibiotic used to treat several bacterial infections in adults, inclu",
    "link": "https://shafaq.com/en/society/Samarra-drug-plant-produces-antibiotic-moxifloxacin-for-first-time",
    "date": "2026-08-24T12:52:27.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Senior Iraq electricity official jailed for bribery",
-   "desc": "Shafaq News- Baghdad The director general of Iraq&rsquo;s state-owned Middle Euphrates Electricity Distribution Company received a six-year prison sentence for allegedly accepting a bribe in exchange for releasing payments owed to a company, the Federal Integrity Commission announced on Monday. The Central Anti-Corruption Criminal Court issued the sentence and handed the same term to an employee a",
-   "link": "https://shafaq.com/en/society/Senior-Iraq-electricity-official-jailed-for-bribery",
-   "date": "2026-08-24T12:17:58.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Bomb blast kills one in Palmyra",
-   "desc": "Shafaq News- Palmyra A bomb killed one civilian and wounded two others on Monday near the district directorate in Palmyra, in the eastern countryside of Syria's Homs province, field sources told Shafaq News. The device exploded after a woman collecting scrap metal came across it, the sources said. The man killed was identified as Mohammed Nader al-Taha, 40. One of the wounded was identified as Gha",
-   "link": "https://shafaq.com/en/Middle-East/Bomb-blast-kills-one-in-Palmyra",
-   "date": "2026-08-24T11:52:05.000Z"
   },
   {
    "src": "BBC",
@@ -204,6 +204,14 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+   "desc": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+   "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-24T13:56:22.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "Syria says Israeli strike near Damascus violation of international law",
    "desc": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
    "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
    "desc": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
    "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-21T05:00:57.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-   "desc": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-   "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-20T19:52:48.000Z"
   },
   {
    "src": "LFU",
@@ -287,7 +287,7 @@
    "title": "Erbil-Koya Highway Bridge Marks New Phase in KRG 'Road Revolution'",
    "desc": "Erbil-Koya Highway Bridge Marks New Phase in KRG 'Road Revolution' &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEE3NUpGZ2daSEFDcDVHQ0dlemZqc3FzZmhzYllnRDYtYXVkOENSVDF3Y3ZxQW43TEdDNXFtbjBZMXo4UFZ3ckJpVGpwWm5ranpTeV9TbnNXbHNSOHloQ0pqWFFveEZ4bmd6QUw5WVNPOTlsWFpHcnN0QTl6RHp3bDZleF95ZkZkLW51QWFWOF9sYUdJdzJPOFJlNWNUaERPTjl1Qk5CRGNwcE5B?oc=5",
-   "date": "2026-08-24T08:12:00.000Z"
+   "date": "2026-08-24T14:12:00.000Z"
   },
   {
    "src": "Erbil",
