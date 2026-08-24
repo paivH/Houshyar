@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T14:44:07.476Z",
+ "updated": "2026-08-24T15:41:18.260Z",
  "items": [
   {
    "src": "Rudaw",
@@ -44,6 +44,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Houthis Claim Missile Strike on Saudi Oil Tanker in Red Sea",
+   "desc": "“The strike was accurate and direct,” the Houthis said in a statement, claiming that the attack caused a fire aboard the vessel and prompted other ships in the area to flee.",
+   "link": "https://www.kurdistan24.net/en/story/934802/houthis-claim-missile-strike-on-saudi-oil-tanker-in-red-sea",
+   "date": "2026-08-24T15:35:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "President Barzani, Saladin Council Discuss Coordination, Iraq’s Political and Administrative Issues",
+   "desc": "President Barzani reiterated that the Iraqi Constitution provides an appropriate roadmap for resolving the country’s outstanding issues and disputes.",
+   "link": "https://www.kurdistan24.net/en/story/934793/president-barzani-saladin-council-discuss-coordination-iraqs-political-and-administrative-issues",
+   "date": "2026-08-24T14:48:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "IRGC Pledges Cooperation With Government to Counter US Economic Pressure",
    "desc": "According to Iran’s Tasnim News Agency, the IRGC said coordination and cooperation with the government were key to helping the country overcome sanctions and strengthen national resilience.",
    "link": "https://www.kurdistan24.net/en/story/934788/irgc-pledges-cooperation-with-government-to-counter-us-economic-pressure",
@@ -66,20 +82,36 @@
    "date": "2026-08-24T13:04:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Safeen Dizayee: Iraq Must Punish Groups Attacking Kurdistan Region",
-   "desc": "Kurdistan Region's foreign relations chief Safeen Dizayee urged Baghdad to punish armed groups attacking the Kurdistan Region, saying Iraq must protect sovereignty and prevent strikes from its territory.",
-   "link": "https://www.kurdistan24.net/en/story/934762/safeen-dizayee-iraq-must-punish-groups-attacking-kurdistan-region",
-   "date": "2026-08-24T11:58:27.000Z"
+   "title": "Houthis missiles strike on Saudi tanker, military positions",
+   "desc": "Shafaq News- Sanaa Yemen&rsquo;s Houthis (Ansarallah) on Monday claimed responsibility for a missile strike on the Saudi-flagged oil tanker Amzan off the coast of Yanbu in the northern Red Sea, alleging that the attack set the vessel on fire. Military spokesperson Brig. Gen. Yahya Saree reported that a ballistic missile struck the tanker, while other vessels in the area departed after the incident",
+   "link": "https://shafaq.com/en/Middle-East/Houthis-missiles-strike-on-Saudi-tanker-military-positions",
+   "date": "2026-08-24T15:39:19.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US Treasury Sanctions Hezbollah Cash Network Run by Turkish Businessman",
-   "desc": "OFAC designates a courier ring moving hundreds of millions of dollars to Hezbollah on commercial flights, and re-designates Hezbollah itself as an IRGC-controlled terrorist organization",
-   "link": "https://www.kurdistan24.net/en/story/934758/us-treasury-sanctions-hezbollah-cash-network-run-by-turkish-businessman",
-   "date": "2026-08-24T11:36:42.000Z"
+   "title": "Foreign reserves drop 11.6% in H1 2026",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s foreign reserves fell by $11.257 billion, or 11.6%, in the first half of 2026, reaching $86.175 billion at the end of June from $97.432 billion at the end of 2025 , the Central Bank of Iraq (CBI) said on Monday. The reserves initially rose to $101.082 billion in January and $102.131 billion in February before declining to $100.341 billion in March, $97.809 billion",
+   "link": "https://shafaq.com/en/Economy/Foreign-reserves-drop-11-6-in-H1-2026",
+   "date": "2026-08-24T15:26:51.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Basra media figure held over Shalamcheh crossing posts",
+   "desc": "Shafaq News- Basra An Iraqi media figure and activist has been detained until August 26 after the Border Ports Authority filed a complaint over social-media posts about procedures at the Shalamcheh crossing with Iran, an informed source told Shafaq News on Monday. The Publication and Media Court ordered Mustafa Abdul Razzaq Reda Al-Mayahi held while investigators question him over posts calling fo",
+   "link": "https://shafaq.com/en/society/Basra-media-figure-held-over-Shalamcheh-crossing-posts",
+   "date": "2026-08-24T15:15:03.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Security forces seize rare antiquities across Iraq",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s National Security Service (INSS) recovered hundreds of rare antiquities in separate operations across six provinces, the agency said on Monday. In Baghdad, the recovered collection included five statues, five pottery pieces, a cylinder seal, and ancient coins. The INSS said authorities began legal procedures to confiscate the items before handing them over to the ",
+   "link": "https://shafaq.com/en/Security/Security-forces-seize-rare-antiquities-across-Iraq",
+   "date": "2026-08-24T14:44:29.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,38 +120,6 @@
    "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Monday&rsquo;s trading higher in Iraq, hovering around 154,000 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchanges at 154,400 dinars per 100 dollars, up from the morning session &rsquo;s 154,300 dinars. In the Iraqi capital, exchange shops sold the dollar at 155,000 din",
    "link": "https://shafaq.com/en/Economy/Dollar-climbs-in-Baghdad-and-Erbil-7-8",
    "date": "2026-08-24T14:23:20.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Security presence at Green Zone as detainees handed to PMF",
-   "desc": "Shafaq News- Baghdad Security tightens at Green Zone as detainees handed to PMF Shafaq News- Baghdad Security forces deployed at Baghdad&rsquo;s Green Zone entrances on Monday as authorities handed a Popular Mobilization Forces (PMF) commander and several members to the PMF&rsquo;s security department, while supporters prepared for a protest later in the day. Earlier today, a PMF commander and thr",
-   "link": "https://shafaq.com/en/Security/Security-presence-at-Green-Zone-as-detainees-handed-to-PMF",
-   "date": "2026-08-24T13:50:00.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Three Barcelona players face exits, including Balde",
-   "desc": "Shafaq News Barcelona could part with Alejandro Balde, Marc Casado, and Hector Fort before the summer transfer window closes after all three were omitted from Sunday's 5-0 LaLiga win over Elche. Spanish newspaper AS reported that Hansi Flick allowed the trio to remain in Barcelona while their futures are resolved, placing all three among the players who could leave during the final week of the mar",
-   "link": "https://shafaq.com/en/sport/Three-Barcelona-players-face-exits-including-Balde",
-   "date": "2026-08-24T13:33:47.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Duhok mine agency clears 43 artillery shells from village",
-   "desc": "Shafaq News- Duhok Duhok&rsquo;s General Directorate of Mine Affairs on Monday recovered 43 100mm artillery shells from the Mangesh district of the province and transferred them to a disposal site. Riker Bisfki, the directorate&rsquo;s media officer, said a report about several explosive remnants in the Basi village prompted a mine and explosives clearance team to immediately deploy to the site. O",
-   "link": "https://shafaq.com/en/Kurdistan/Duhok-mine-agency-clears-43-artillery-shells-from-village",
-   "date": "2026-08-24T13:19:49.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Samarra drug plant produces antibiotic moxifloxacin for first time",
-   "desc": "Shafaq News- Samarra Iraq's state-owned General Company for the Pharmaceutical Industry and Medical Supplies in Samarra has added the antibiotic moxifloxacin to its locally produced medicines for the first time. The company's director general, Mohammed Abdul Qader al-Nuaimi, said in a statement that the drug is a broad-spectrum antibiotic used to treat several bacterial infections in adults, inclu",
-   "link": "https://shafaq.com/en/society/Samarra-drug-plant-produces-antibiotic-moxifloxacin-for-first-time",
-   "date": "2026-08-24T12:52:27.000Z"
   },
   {
    "src": "BBC",
@@ -340,10 +340,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
-   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
-   "date": "2026-08-23T09:53:33.000Z"
+   "title": "Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0s2QklOYWgyTWx4QkFSZ3BjSVluMlhVY1JhdXZoNXdyek1LY3dVNE5oM2k5VDAxZHZTSF90NFhaeDdsME1lRzk3UXNxODFkZkZHTzM4SVY2VUwzaDhMd2JWTUFRNllUcER2aFJwUFpXWWtpME5BU0J3N2V2aklRczRrTHk0Ty0zUU12Wm9jbUFKOThmbXJycVBxeHk4cG13X0UwSjlJZzNTSW5nM2FfbmNpVUtQcktIcWw4?oc=5",
+   "date": "2026-08-23T09:09:09.000Z"
   },
   {
    "src": "Tourism",
