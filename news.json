@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T17:56:44.159Z",
+ "updated": "2026-08-25T18:48:08.568Z",
  "items": [
   {
    "src": "Rudaw",
@@ -36,6 +36,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Syrian Democratic Forces Dissolve After Decade of Fighting ISIS",
+   "desc": "SDF Commander Mazloum Abdi announced the dissolution of the Syrian Democratic Forces as an independent military force, marking a shift toward peace and Kurdish rights.",
+   "link": "https://www.kurdistan24.net/en/story/935069/syrian-democratic-forces-dissolve-after-decade-of-fighting-isis",
+   "date": "2026-08-25T18:28:09.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran, Oman Agree on Framework for Temporary Strait of Hormuz Corridor",
    "desc": "Omani Foreign Minister Badr al-Busaidi and his Iranian counterpart, Abbas Araghchi, discussed a phased framework in Tehran that would provide a “practical and implementable basis” for advancing navigation arrangements.",
    "link": "https://www.kurdistan24.net/en/story/935057/iran-oman-agree-framework-for-temporary-strait-of-hormuz-corridor",
@@ -66,12 +74,20 @@
    "date": "2026-08-25T16:08:17.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Beijing Warns Washington as US Pressure on Iran Risks New Tensions",
-   "desc": "Beijing has warned Washington that it will take “all necessary measures” to protect its interests if US sanctions on Iran are extended to Chinese companies and banks.",
-   "link": "https://www.kurdistan24.net/en/story/935042/beijing-warns-washington-as-us-pressure-on-iran-risks-new-tensions",
-   "date": "2026-08-25T15:33:35.000Z"
+   "title": "Mazloum Abdi announces dissolution of SDF, AANES",
+   "desc": "Shafaq News- Damascus Syrian Democratic Forces (SDF) commander Mazloum Abdi on Tuesday announced the formal dissolution of the SDF and the Kurdish-led Autonomous Administration of North and East Syria (AANES), confirming that their forces and institutions would be integrated into the Syrian state. This is a breaking story...",
+   "link": "https://shafaq.com/en/Middle-East/Mazloum-Abdi-announces-dissolution-of-SDF-AANES",
+   "date": "2026-08-25T18:25:29.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Erbil boosts subsidized gasoline supply 80%+",
+   "desc": "Shafaq News- Erbil Authorities in Erbil, the capital of the Kurdistan Region, will increase its daily supply of subsidized gasoline by about 82% to 1.44 million liters to ease a fuel shortage that has affected the region since mid-July. In a press conference, Erbil Governor Omed Khoshnaw explained that the province&rsquo;s allocation would rise from 22 tankers to 40 per day, each carrying 36,000 l",
+   "link": "https://shafaq.com/en/Kurdistan/Erbil-boosts-subsidized-gasoline-supply-80",
+   "date": "2026-08-25T18:13:49.000Z"
   },
   {
    "src": "Shafaq",
@@ -96,22 +112,6 @@
    "desc": "Shafaq News- Damascus Syria on Tuesday condemned Israeli Defense Minister Israel Katz&rsquo;s entry into southern Syrian territory as an illegal crossing and a violation of the country&rsquo;s sovereignty and territorial integrity. The Foreign Ministry said the entry also breached international law, the UN Charter, and the 1974 disengagement agreement. Damascus demanded Israeli forces withdraw fro",
    "link": "https://shafaq.com/en/Middle-East/Damascus-condemns-Israeli-DM-s-visit-to-southern-Syria",
    "date": "2026-08-25T16:34:18.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "President Barzani links Syria’s terrorism-list removal to closer Iraq ties",
-   "desc": "Shafaq News- Erbil Kurdistan Region President Nechirvan Barzani on Tuesday welcomed the US removal of Syria from its list of State Sponsors of Terrorism, calling it an important step toward the country's recovery, stability and stronger ties with Iraq, including the Kurdistan Region. Barzani said the move could help Damascus regain its &ldquo;natural role in the region and the world&rdquo; and bui",
-   "link": "https://shafaq.com/en/Kurdistan/President-Barzani-links-Syria-s-terrorism-list-removal-to-closer-Iraq-ties",
-   "date": "2026-08-25T15:59:41.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Duhok celebrates Prophet Muhammad’s Mawlid",
-   "desc": "Shafaq News- Duhok Residents across Duhok province, Kurdistan Region of Iraq (KRI), celebrated the Prophet Muhammad&rsquo;s Mawlid (birthday) on Tuesday, with religious gatherings, community festivities, and the free distribution of sweets, food, and drinks, particularly to children. Mosques across the province hosted religious gatherings featuring devotional poetry and readings highlighting the P",
-   "link": "https://shafaq.com/en/Kurdistan/Duhok-celebrates-Prophet-Muhammad-s-Mawlid",
-   "date": "2026-08-25T15:39:15.000Z"
   },
   {
    "src": "BBC",
@@ -301,7 +301,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation",
-   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; The Times of India",
+   "desc": "Iranian Drone Attack Targets Erbil Hotel Hosting American Soldiers Amid Hormuz Escalation &nbsp;&nbsp; timesofindia.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZEFiQWczT2hZUTFrSk5hRHBaRm9hRTh4NVBVRjV5MlB2cG93WVFfQVRMemloWHF6cW9QOTB1Q2E2UUo2a1duUno1eFd2S2VEb0xZWXlwNXk0ajVBTFNXY0VlcXJUOU5TQjRtdXNvcWtTMlFhU3BOTkxCcWI4cDNQOWUxQXVOYlcwRzNUUGIwV3Y1MDQwMTgySTcyanhzeTc2OTdncXMyU1JNRUJzd1JNZmtMR09LS3hNRmFGQmQtYUZURmVmQTVxYzFfM2pMMk5IMU01M3VBY1dfYmhpOVFOc1IxNHhrY3NlYnlybDVYQk1USEkyQjBpandxT003Zk3SAYQCQVVfeXFMTm82ZTJ0YTMzeWZUYmcyRUsyNDVUblBxT1pscWhIc2ZyVWpfdGY0dzJaeUdhcDE2X2ZxWTlzTml6RDROVm5xbmZLODBrcmJ2T2xFTUN3Q2JneWd2UnNlblRpdnFpWDV5eVJSLUhOQzJESnFjbU5faTJXek04cE1zOFZkQk1YWjA5TVo0cVBST0dVYlpSbTRlcDhtZnUtSUpyR0pfN0dKbGh2QXVFYy1pejAyTTc2UTZBTGtuWU9PeU96TTBYb0poOGVVbktWM2VRZmlVSFFLWWp0U2RmY0t6Nmk1N0tKY1J5cE9HRFFCR2p1Znc2TmJpZGZhMl9jMGwydTk0T2Y?oc=5",
    "date": "2026-08-14T07:00:00.000Z"
   },
@@ -324,10 +324,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Lalezar: One year on, Lahur Sheikh Jangi's trial remains stalled",
-   "desc": "Lalezar: One year on, Lahur Sheikh Jangi's trial remains stalled &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWjQwNUg4V3MtMXVHVmpWUzJHc0ZmSzRha0RUQktlRlpNVDBmRWxuSWNwWmpOZkloWEwyQnQ3T1ZabWxOUWNkWVJGOA?oc=5",
-   "date": "2026-08-23T11:31:49.000Z"
+   "title": "Iran, KRG Stress Security Coordination",
+   "desc": "Iran, KRG Stress Security Coordination &nbsp;&nbsp; تسنیم",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmJoVjEyUXNBOTlJcXpaYW9MOG1ydUZsU2VSVkdkcVZ3MXdiQmVtUThTdmo5TW1icS1xQy13R0p3LWpzRnk5V01xMm5WRzRkTDVDb3V6b1pFZEQtUjVZNHlSbUhzdHpOZzd2dU5kSVNOOElOb2E2aVdYNkdqYzBxT0EtSW5FX25XaWdSX0N4UlQtU2dm0gGaAUFVX3lxTE0xOGNIQ3pDaHpwNUtoY2ZBTFVQX01rRlBrYm1LWGFydTRTSHFfSnBTeWxiaE5EeWgteDVvWnhnMU96MEwyQnR1VWpaSFVkRU1TTE91OE90S0tnTkkzcmlpYllsTlF3SGpFZjJwYm9wdl9tNFZkMVYxSDFXUEZqeWZMdkxhRnhMaUFRbXh0TXBvWGY1UzExaVRyLXc?oc=5",
+   "date": "2026-08-12T05:08:33.000Z"
   }
  ]
 }
