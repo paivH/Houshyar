@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T04:40:37.512Z",
+ "updated": "2026-08-25T05:33:35.308Z",
  "items": [
   {
    "src": "Rudaw",
@@ -76,6 +76,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Oil prices rise as Iran sanctions take focus",
+   "desc": "Shafaq News Oil prices recovered ground on &#8203;Tuesday after settling down more than 2% in the previous session, with investors assessing the impact of &zwnj;the latest U.S. sanctions against Iran. Brent crude futures rose 27 cents, or 0.3%, to $92.44 a barrel by 0330 GMT, while U.S. West Texas Intermediate crude was up 37 cents, or 0.4%, at $85.38. Both contracts settled lower on Monday, with ",
+   "link": "https://shafaq.com/en/Economy/Oil-prices-rise-as-Iran-sanctions-take-focus",
+   "date": "2026-08-25T05:15:27.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Graham Arnold targets World Cup, higher Asian ranking",
    "desc": "Shafaq News- Baghdad Iraq national team coach Graham Arnold renewed his contract through the 2027 AFC Asian Cup on Monday. According to Arnold, the Iraqi Football Association (IFA) had offered him a four-year deal but he opted for a contract running through the Asian Cup &ldquo;I returned early to watch and identify new players ahead of the Gulf Cup and Asian Cup and to build the team for the futu",
    "link": "https://shafaq.com/en/sport/Graham-Arnold-targets-World-Cup-higher-Asian-ranking",
@@ -106,17 +114,9 @@
    "date": "2026-08-24T21:56:32.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi journalists struggle to access official information",
-   "desc": "Shafaq News Iraqi journalists are facing growing difficulties in obtaining official information as several ministries and government institutions lack designated spokespersons and some officials decline to comment, forcing reporters to rely on leaks and information circulating on social media. A draft Right of Access to Information Law, approved by the Council of Ministers and referred to parliame",
-   "link": "https://shafaq.com/en/Report/Iraqi-journalists-struggle-to-access-official-information",
-   "date": "2026-08-24T21:18:05.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US-Canada trade war escalates as Trump threatens tariff hike on automobiles",
+   "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
    "desc": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
    "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-25T02:51:53.000Z"
@@ -156,6 +156,22 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+   "desc": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.",
+   "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+   "date": "2026-08-25T05:24:16.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+   "desc": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
+   "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+   "date": "2026-08-25T05:14:03.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
    "desc": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
    "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
@@ -176,22 +192,6 @@
    "desc": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
    "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
    "date": "2026-08-24T12:26:00.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-   "desc": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
-   "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-   "date": "2026-08-24T11:27:44.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "These American doctors treated Gaza's wounded. Then they came home to bear witness",
-   "desc": "The director of American Doctor and two physicians in the film discuss the challenges of treating Gaza's wounded civilians and why they believe the world must see what is happening there.",
-   "link": "https://www.npr.org/2026/08/24/nx-s1-5928030/american-doctor-documentary-gaza-healthcare",
-   "date": "2026-08-24T08:45:40.000Z"
   },
   {
    "src": "BBC ME",
@@ -279,7 +279,7 @@
    "title": "Erbil-Koya Highway Bridge Marks New Phase in KRG 'Road Revolution'",
    "desc": "Erbil-Koya Highway Bridge Marks New Phase in KRG 'Road Revolution' &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEE3NUpGZ2daSEFDcDVHQ0dlemZqc3FzZmhzYllnRDYtYXVkOENSVDF3Y3ZxQW43TEdDNXFtbjBZMXo4UFZ3ckJpVGpwWm5ranpTeV9TbnNXbHNSOHloQ0pqWFFveEZ4bmd6QUw5WVNPOTlsWFpHcnN0QTl6RHp3bDZleF95ZkZkLW51QWFWOF9sYUdJdzJPOFJlNWNUaERPTjl1Qk5CRGNwcE5B?oc=5",
-   "date": "2026-08-24T14:12:00.000Z"
+   "date": "2026-08-24T18:00:00.000Z"
   },
   {
    "src": "Erbil",
