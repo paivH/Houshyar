@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T11:57:33.843Z",
+ "updated": "2026-08-25T13:02:40.537Z",
  "items": [
   {
    "src": "Rudaw",
@@ -36,8 +36,16 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "US Diplomats Returning to Middle East Embassies This Week",
+   "desc": "Internal State Department document reveals restaffing of evacuated missions in Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq, and Kuwait, signaling Washington does not anticipate a return to full-scale conflict with Iran",
+   "link": "https://www.kurdistan24.net/en/story/935001/us-diplomats-returning-to-middle-east-embassies-this-week",
+   "date": "2026-08-25T12:05:52.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "President Barzani Marks 38th Anniversary of Badinan Anfal, Calls on Iraq to Compensate Kurdish Victims",
-   "desc": "The Kurdish leader says Saddam Hussein’s regime sought to alter Kurdistan’s demographics and break the will of its people, but ultimately failed",
+   "desc": "The Kurdish leader says the former Iraqi regime sought to alter Kurdistan’s demographics and break the will of its people, but ultimately failed",
    "link": "https://www.kurdistan24.net/en/story/934998/president-barzani-marks-38th-anniversary-of-badinan-anfal-calls-on-iraq-to-compensate-kurdish-victims",
    "date": "2026-08-25T11:46:44.000Z"
   },
@@ -66,12 +74,20 @@
    "date": "2026-08-25T10:24:02.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "UN, Red Cross Warn World ‘Dangerously Close’ to Era of Killer Robots",
-   "desc": "Guterres and Red Cross chief urge countries to establish urgent limits on autonomous weapons as AI-driven warfare rapidly advances",
-   "link": "https://www.kurdistan24.net/en/story/934975/un-red-cross-warn-world-dangerously-close-to-era-of-killer-robots",
-   "date": "2026-08-25T10:02:00.000Z"
+   "title": "Iraqi social-media figure arrested in Turkiye over military defamation",
+   "desc": "Shafaq News- Baghdad/ Ankara Zaid al-Muharib, an Iraqi social-media figure, has been arrested in Turkiye over accusations of defaming military officers and institutions in a special intelligence operation carried out under established legal procedures, a security source told Shafaq News on Tuesday. Al-Muharib had for years published material on social media targeting military and security officers",
+   "link": "https://shafaq.com/en/Security/Iraqi-social-media-figure-arrested-in-Turkiye-over-military-defamation",
+   "date": "2026-08-25T12:54:43.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "China, Qatar criticize new US sanctions on Iran",
+   "desc": "Shafaq News- Beijing/ Doha China on Tuesday rejected Washington&rsquo;s expanded sanctions on Iran, insisting that its economic dealings with Tehran comply with international law. Chinese Foreign Ministry spokesperson Lin Jian told reporters in Beijing that the country opposes unilateral sanctions lacking a basis in international law or authorization from the UN Security Council and would protect ",
+   "link": "https://shafaq.com/en/World/China-Qatar-criticize-new-US-sanctions-on-Iran",
+   "date": "2026-08-25T12:12:20.000Z"
   },
   {
    "src": "Shafaq",
@@ -98,22 +114,6 @@
    "date": "2026-08-25T10:38:26.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Region marks Prophet Muhammad's birthday",
-   "desc": "Shafaq News- Erbil/ Al-Sulaymaniyah Cities across Iraqi Kurdistan held religious ceremonies and public gatherings on Tuesday to mark the Prophet Muhammad's birthday, known as Mawlid, featuring Quran recitations, devotional chanting, and the free distribution of thousands of meals and sweets. In Erbil, streets and older districts were decorated with green flags and lights. Large crowds gathered at ",
-   "link": "https://shafaq.com/en/Kurdistan/Kurdistan-Region-marks-Prophet-Muhammad-s-birthday",
-   "date": "2026-08-25T10:17:36.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Scoop: CF presses Al-Zaidi on PMF arrests before Khamenei envoy",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Coordination Framework (CF) urged Prime Minister Ali Falih Al-Zaidi to prevent a repeat of security operations targeting senior figures in the Popular Mobilization Forces (PMF) during a meeting partly attended by Mohsen Qomi, the new representative of Iran&rsquo;s Supreme Leader, an informed source told Shafaq News on Tuesday. The meeting, held yesterday evening a",
-   "link": "https://shafaq.com/en/Iraq/Scoop-CF-presses-Al-Zaidi-on-PMF-arrests-before-Khamenei-envoy",
-   "date": "2026-08-25T09:41:01.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
@@ -132,14 +132,6 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'Absolutely ridiculous': Canadians react to new tariff tensions with the US",
-   "desc": "Many voiced frustration at the escalating trade war, warning it risks damaging the deep economic and cultural ties between the two neighbours.",
-   "link": "https://www.bbc.co.uk/news/videos/c20973ylx94o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-24T20:20:11.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
    "desc": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
@@ -152,6 +144,14 @@
    "desc": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-25T11:54:03.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Brain disease in dead NFL players 'higher than previously shown'",
+   "desc": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+   "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T11:54:40.000Z"
   },
   {
    "src": "NPR",
@@ -196,6 +196,14 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "Trump may hope sanctions will pressure Iran's regime, its leaders are betting otherwise",
+   "desc": "The US says new sanctions ar an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+   "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T12:37:53.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "US removes Syria from list of state sponsors of terrorism",
    "desc": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
    "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
    "desc": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
    "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-24T13:56:22.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Syria says Israeli strike near Damascus violation of international law",
-   "desc": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-   "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-22T21:42:42.000Z"
   },
   {
    "src": "LFU",
@@ -300,10 +300,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iraq: From agricultural knowledge to business",
-   "desc": "Iraq: From agricultural knowledge to business &nbsp;&nbsp; Hortidaily",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTDJOZkZvd3VnWXNXc0V5SDl4azBfd1E4Z0dOenctcmdyVzZVRVZwaTRHV2xLSlRQdWdNNHBITEJVSEp3QXh4M2pUZV9TendOWkRpTFdmTjdzRi0xb01MNzdNTVVzV1k5NWUybERKXzRGTXRGcmpub1pNN0tpd2FTVUxWSDJHOFEzcHJfd0JzLWhfdw?oc=5",
-   "date": "2026-08-18T12:04:32.000Z"
+   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
+   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
+   "date": "2026-08-23T09:53:33.000Z"
   },
   {
    "src": "Tourism",
@@ -336,14 +336,6 @@
    "desc": "Iran, KRG Stress Security Coordination &nbsp;&nbsp; تسنیم",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmJoVjEyUXNBOTlJcXpaYW9MOG1ydUZsU2VSVkdkcVZ3MXdiQmVtUThTdmo5TW1icS1xQy13R0p3LWpzRnk5V01xMm5WRzRkTDVDb3V6b1pFZEQtUjVZNHlSbUhzdHpOZzd2dU5kSVNOOElOb2E2aVdYNkdqYzBxT0EtSW5FX25XaWdSX0N4UlQtU2dm0gGaAUFVX3lxTE0xOGNIQ3pDaHpwNUtoY2ZBTFVQX01rRlBrYm1LWGFydTRTSHFfSnBTeWxiaE5EeWgteDVvWnhnMU96MEwyQnR1VWpaSFVkRU1TTE91OE90S0tnTkkzcmlpYllsTlF3SGpFZjJwYm9wdl9tNFZkMVYxSDFXUEZqeWZMdkxhRnhMaUFRbXh0TXBvWGY1UzExaVRyLXc?oc=5",
    "date": "2026-08-12T05:08:33.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
-   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
-   "date": "2026-08-23T09:53:33.000Z"
   }
  ]
 }
