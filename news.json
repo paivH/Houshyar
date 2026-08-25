@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T11:29:34.403Z",
+ "updated": "2026-08-25T11:57:33.843Z",
  "items": [
   {
    "src": "Rudaw",
@@ -36,6 +36,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "President Barzani Marks 38th Anniversary of Badinan Anfal, Calls on Iraq to Compensate Kurdish Victims",
+   "desc": "The Kurdish leader says Saddam Hussein’s regime sought to alter Kurdistan’s demographics and break the will of its people, but ultimately failed",
+   "link": "https://www.kurdistan24.net/en/story/934998/president-barzani-marks-38th-anniversary-of-badinan-anfal-calls-on-iraq-to-compensate-kurdish-victims",
+   "date": "2026-08-25T11:46:44.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Syrian Airlines to Fly Direct to Vienna and Copenhagen From September 21",
+   "desc": "Damascus resumes European air links as Syria's civil aviation authority announces the new routes as part of a broader push to expand the national carrier's international network",
+   "link": "https://www.kurdistan24.net/en/story/934997/syrian-airlines-to-fly-direct-to-vienna-and-copenhagen-from-september-21",
+   "date": "2026-08-25T11:44:36.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "China Warns US Its Cooperation With Iran Must Not Be Disrupted",
    "desc": "Beijing's Foreign Ministry says ties with Tehran operate within international law and that Washington's new restrictions risk escalating tensions and expanding the crisis",
    "link": "https://www.kurdistan24.net/en/story/934990/china-warns-us-its-cooperation-with-iran-must-not-be-disrupted",
@@ -58,20 +74,12 @@
    "date": "2026-08-25T10:02:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan President Renews Call for Compensation on Badinan Anfal Anniversary",
-   "desc": "Kurdistan Region President Nechirvan Barzani urged Baghdad to provide material and moral compensation to Anfal victims' families on the 38th anniversary of the Badinan campaign.",
-   "link": "https://www.kurdistan24.net/en/story/934969/kurdistan-president-renews-call-for-compensation-on-badinan-anfal-anniversary",
-   "date": "2026-08-25T09:47:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "KRG to Declare New Protected Areas in Erbil Governorate",
-   "desc": "Erbil plans new protected areas as the KRG expands wildlife protection, hunting controls and international conservation efforts across the Kurdistan Region.",
-   "link": "https://www.kurdistan24.net/en/story/934959/krg-to-declare-new-protected-areas-in-erbil-governorate",
-   "date": "2026-08-25T09:20:00.000Z"
+   "title": "Hormuz maritime incidents kill 20+ in six months",
+   "desc": "Shafaq News- Gulf At least 20 seafarers or port workers have been killed in 68 maritime incidents across the Gulf and neighboring waters near the Strait of Hormuz during six months of war involving Iran, the United States and Israel, according to data from the International Maritime Organization (IMO). The incidents averaged one every 2.6 days, leaving at least 35 people wounded and one missing. T",
+   "link": "https://shafaq.com/en/World/Hormuz-maritime-incidents-kill-20-in-six-months",
+   "date": "2026-08-25T11:35:50.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,14 +114,6 @@
    "date": "2026-08-25T09:41:01.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Gold prices steady in Baghdad, fall in Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil Gold prices were stable in Baghdad on Tuesday but fell in Erbil, the capital of the Kurdistan Region. According to a Shafaq News survey, wholesale prices on Baghdad&rsquo;s Al-Nahr Street were unchanged from Monday , with 21-carat Gulf, Turkish and European gold selling at 1.012 million dinars per mithqal (about five grams) and buying at 1.008 million dinars. Iraqi 21-c",
-   "link": "https://shafaq.com/en/Economy/Gold-prices-steady-in-Baghdad-fall-in-Erbil-0",
-   "date": "2026-08-25T09:38:50.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
@@ -140,18 +140,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-   "desc": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-   "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-24T09:47:22.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
    "desc": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-25T08:08:26.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Lockerbie bombing trial postponed days before it was due to start",
+   "desc": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+   "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T11:54:03.000Z"
   },
   {
    "src": "NPR",
@@ -332,18 +332,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
-   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
-   "date": "2026-08-23T09:53:33.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Iran, KRG Stress Security Coordination",
    "desc": "Iran, KRG Stress Security Coordination &nbsp;&nbsp; تسنیم",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmJoVjEyUXNBOTlJcXpaYW9MOG1ydUZsU2VSVkdkcVZ3MXdiQmVtUThTdmo5TW1icS1xQy13R0p3LWpzRnk5V01xMm5WRzRkTDVDb3V6b1pFZEQtUjVZNHlSbUhzdHpOZzd2dU5kSVNOOElOb2E2aVdYNkdqYzBxT0EtSW5FX25XaWdSX0N4UlQtU2dm0gGaAUFVX3lxTE0xOGNIQ3pDaHpwNUtoY2ZBTFVQX01rRlBrYm1LWGFydTRTSHFfSnBTeWxiaE5EeWgteDVvWnhnMU96MEwyQnR1VWpaSFVkRU1TTE91OE90S0tnTkkzcmlpYllsTlF3SGpFZjJwYm9wdl9tNFZkMVYxSDFXUEZqeWZMdkxhRnhMaUFRbXh0TXBvWGY1UzExaVRyLXc?oc=5",
    "date": "2026-08-12T05:08:33.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Rotana elevates guest experience across Erbil properties: Cluster GM",
+   "desc": "Rotana elevates guest experience across Erbil properties: Cluster GM &nbsp;&nbsp; TradeArabia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUZ2YVp5dWVXdUlOSjNpV0o0ZFZLX2pPMzgzVmgtWGl4dTcxUUdrdWo5N3Z2bS10dVl5ZFVtMmhCdmhaNXZPdVNsOENoS3h4eDA1a2ZOdnVGRGpQSkt0dS1mc1RxV0RWY2FpTFNrYXVjVDRSLUtCYUI4VWRfblZqekE3V1EyTnMzbFhlUGlKSWEyYWRldkZKUlZNanFOMEFHRFFiN2NZelV2bnM?oc=5",
+   "date": "2026-08-23T09:53:33.000Z"
   }
  ]
 }
