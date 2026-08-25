@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T10:34:59.421Z",
+ "updated": "2026-08-25T11:29:34.403Z",
  "items": [
   {
    "src": "Rudaw",
@@ -36,6 +36,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "China Warns US Its Cooperation With Iran Must Not Be Disrupted",
+   "desc": "Beijing's Foreign Ministry says ties with Tehran operate within international law and that Washington's new restrictions risk escalating tensions and expanding the crisis",
+   "link": "https://www.kurdistan24.net/en/story/934990/china-warns-us-its-cooperation-with-iran-must-not-be-disrupted",
+   "date": "2026-08-25T11:09:08.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "KRG Prime Minister's Office Urges People With Disabilities to Register for My Account Project",
    "desc": "Nearly 7,000 beneficiaries have yet to complete registration as 8,000 cards are already distributed, and legal representatives can register on behalf of those unable to attend in person",
    "link": "https://www.kurdistan24.net/en/story/934980/krg-prime-ministers-office-urges-people-with-disabilities-to-register-for-my-account-project",
@@ -66,12 +74,20 @@
    "date": "2026-08-25T09:20:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Saudi Arabia Scraps Neom After Burning $50 Billion in the Desert",
-   "desc": "The Wall Street Journal reveals Riyadh is spending billions more to wind down contracts, leaving half-built structures to gather sand as MBS pivots from sci-fi city to AI data centers",
-   "link": "https://www.kurdistan24.net/en/story/934968/saudi-arabia-scraps-neom-after-burning-50-billion-in-the-desert",
-   "date": "2026-08-25T09:18:23.000Z"
+   "title": "Iraq's chief justice condemns \"Economic Terrorism\" targeting Iran",
+   "desc": "Shafaq News- Tehran The head of Iraq's Supreme Judicial Council, Faiq Zaidan, said Tuesday that Iraq stands with Iran against the \"criminal American and Israeli aggression\" during a visit to Tehran, according to Iran's Tasnim news agency. During his meeting with the head of Iran's judiciary, Gholam-Hossein Mohseni-Ejei, Tasnim quoted Zaidan as condemning &ldquo;economic terrorism&rdquo; against Ir",
+   "link": "https://shafaq.com/en/Iraq/Iraq-s-Zaidan-condemns-Economic-Terrorism-targeting-Iran",
+   "date": "2026-08-25T11:21:19.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Russia names new ambassador to Iraq",
+   "desc": "Shafaq News- Baghdad/ Moscow Russian President Vladimir Putin appointed Timur Pechatkin as Russia&rsquo;s new ambassador to Iraq on Tuesday, succeeding Elbrus Kutrashev, according to a presidential decree. Pechatkin, who holds a Candidate of Historical Sciences degree with research focused on Soviet-Saudi and Russian-Saudi relations from 1924 to 2011, served as deputy director of the Russian Forei",
+   "link": "https://shafaq.com/en/Iraq/Russia-names-new-ambassador-to-Iraq",
+   "date": "2026-08-25T10:38:26.000Z"
   },
   {
    "src": "Shafaq",
@@ -96,22 +112,6 @@
    "desc": "Shafaq News- Baghdad/ Erbil Gold prices were stable in Baghdad on Tuesday but fell in Erbil, the capital of the Kurdistan Region. According to a Shafaq News survey, wholesale prices on Baghdad&rsquo;s Al-Nahr Street were unchanged from Monday , with 21-carat Gulf, Turkish and European gold selling at 1.012 million dinars per mithqal (about five grams) and buying at 1.008 million dinars. Iraqi 21-c",
    "link": "https://shafaq.com/en/Economy/Gold-prices-steady-in-Baghdad-fall-in-Erbil-0",
    "date": "2026-08-25T09:38:50.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Water reaches 40 Diyala villages after increased river flows",
-   "desc": "Shafaq News- Diyala Water supplies have reached around 40 villages south of Bahraz in Iraq&rsquo;s Diyala province after increased releases into the Kharisan River, a provincial council member said on Tuesday. Nizar al-Luhaibi told Shafaq News that higher flows and the removal of obstructions along waterways had allowed water to reach many villages that had been struggling with shortages and droug",
-   "link": "https://shafaq.com/en/society/Water-reaches-40-Diyala-villages-after-increased-river-flows",
-   "date": "2026-08-25T09:28:08.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "One desert, many maps inside the Iraqi Badia",
-   "desc": "Shafaq News The Iraqi Badia &mdash;the arid steppe that fringes the country's western and southern deserts&mdash; is one of the largest tracts of ground the state has to keep watch over, and one of the emptiest. It runs unbroken across three provinces, from Rutba in the far west of Al-Anbar, through the desert of Najaf, down to Nuqrat al-Salman in Al-Muthanna. Paved roads are few, and the security",
-   "link": "https://shafaq.com/en/Report/One-desert-many-maps-inside-the-Iraqi-Badia",
-   "date": "2026-08-25T09:24:37.000Z"
   },
   {
    "src": "BBC",
@@ -156,6 +156,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+   "desc": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
+   "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+   "date": "2026-08-25T11:09:01.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
    "desc": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
    "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
@@ -172,7 +180,7 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+   "title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
    "desc": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
    "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
    "date": "2026-08-25T05:14:03.000Z"
@@ -180,18 +188,10 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+   "title": "6 months on, U.S. Navy families who evacuated Bahrain remain in limbo",
    "desc": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
    "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
    "date": "2026-08-24T22:22:13.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "The view from Canada after U.S. trade negotiations collapse",
-   "desc": "NPR's Adrian Florido speaks with The Globe and Mail columnist Andrew Coyne about the reaction in Canada to Prime Minister Mark Carney rejecting a U.S. trade deal.",
-   "link": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse",
-   "date": "2026-08-24T20:40:32.000Z"
   },
   {
    "src": "BBC ME",
