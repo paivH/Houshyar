@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T18:48:08.568Z",
+ "updated": "2026-08-25T19:33:17.648Z",
  "items": [
   {
    "src": "Rudaw",
@@ -36,6 +36,14 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Pezeshkian Says US Turned to Economic Warfare After Military Failure",
+   "desc": "Iranian President Masoud Pezeshkian said US economic pressure is aimed at forcing Iran to surrender, while Esmail Baghaei condemned Washington’s policies as a threat to national sovereignty and international law.",
+   "link": "https://www.kurdistan24.net/en/story/935076/pezeshkian-says-us-turned-to-economic-warfare-after-military-failure",
+   "date": "2026-08-25T18:46:08.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Syrian Democratic Forces Dissolve After Decade of Fighting ISIS",
    "desc": "SDF Commander Mazloum Abdi announced the dissolution of the Syrian Democratic Forces as an independent military force, marking a shift toward peace and Kurdish rights.",
    "link": "https://www.kurdistan24.net/en/story/935069/syrian-democratic-forces-dissolve-after-decade-of-fighting-isis",
@@ -66,18 +74,26 @@
    "date": "2026-08-25T17:03:50.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq to Use National Card for Future Elections",
-   "desc": "Iraqi Prime has directed the use of the national card in future elections to facilitate voting and strengthen transparency.",
-   "link": "https://www.kurdistan24.net/en/story/935046/iraq-to-use-national-card-for-future-elections",
-   "date": "2026-08-25T16:08:17.000Z"
+   "title": "Al-Nujaba accuses US of ‘double standards’ on armed groups",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Harakat Al-Nujaba*, one of the country&rsquo;s most hardline Iran-backed factions, accused the United States on Tuesday of applying &ldquo;double standards&rdquo; to armed groups across the Middle East, arguing that Washington selectively pressures factions in Iraq, Lebanon, and Yemen while overlooking others in the region. Speaking at a National Civil Dialogue Co",
+   "link": "https://shafaq.com/en/Iraq/Al-Nujaba-accuses-US-of-double-standards-on-armed-groups",
+   "date": "2026-08-25T19:28:02.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Israeli strikes hit southern Lebanon, no casualties reported",
+   "desc": "Shafaq News- Beirut Israeli aircraft and artillery struck several areas in southern Lebanon on Tuesday, with no casualties reported so far, according to Lebanese media reports. Israeli forces fired more than 10 artillery shells at Ali al-Taher Hill in the Nabatieh district, while warplanes carried out strikes on the Mansouri area in the Tyre district and Wadi Saluki in the Bint Jbeil district. Isr",
+   "link": "https://shafaq.com/en/Middle-East/Israeli-strikes-hit-southern-Lebanon-no-casualties-reported",
+   "date": "2026-08-25T19:15:03.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
    "title": "Mazloum Abdi announces dissolution of SDF, AANES",
-   "desc": "Shafaq News- Damascus Syrian Democratic Forces (SDF) commander Mazloum Abdi on Tuesday announced the formal dissolution of the SDF and the Kurdish-led Autonomous Administration of North and East Syria (AANES), confirming that their forces and institutions would be integrated into the Syrian state. This is a breaking story...",
+   "desc": "Shafaq News- Damascus Syrian Democratic Forces (SDF) commander Mazloum Abdi on Tuesday announced the formal dissolution of the SDF and the Kurdish-led Autonomous Administration of North and East Syria (AANES), bringing their military and civilian institutions under state authority. Speaking at a press conference, Abdi framed the move as a transition from armed conflict to participation in rebuildi",
    "link": "https://shafaq.com/en/Middle-East/Mazloum-Abdi-announces-dissolution-of-SDF-AANES",
    "date": "2026-08-25T18:25:29.000Z"
   },
@@ -98,28 +114,20 @@
    "date": "2026-08-25T17:29:06.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdish enters Syrian schools for first time",
-   "desc": "Shafaq News- Damascus Syria will introduce Kurdish as an optional school subject for the first time starting in the 2026-2027 academic year, with two classes per week, the state-run Syrian Arab News Agency (SANA) reported on Tuesday, citing the Education Ministry. The measure follows Decree No. 13, issued by transitional President Ahmed al-Sharaa on Jan. 16, 2026, which recognizes Kurdish as a nat",
-   "link": "https://shafaq.com/en/Middle-East/Kurdish-enters-Syrian-schools-for-first-time",
-   "date": "2026-08-25T17:09:25.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Damascus condemns Israeli DM’s ‘visit’ to southern Syria",
-   "desc": "Shafaq News- Damascus Syria on Tuesday condemned Israeli Defense Minister Israel Katz&rsquo;s entry into southern Syrian territory as an illegal crossing and a violation of the country&rsquo;s sovereignty and territorial integrity. The Foreign Ministry said the entry also breached international law, the UN Charter, and the 1974 disengagement agreement. Damascus demanded Israeli forces withdraw fro",
-   "link": "https://shafaq.com/en/Middle-East/Damascus-condemns-Israeli-DM-s-visit-to-southern-Syria",
-   "date": "2026-08-25T16:34:18.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Dolly Parton: Life of the music legend whose songs touched millions",
+   "desc": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+   "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T18:14:13.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-   "desc": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-   "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-25T11:53:36.000Z"
+   "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+   "desc": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+   "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T17:54:03.000Z"
   },
   {
    "src": "BBC",
@@ -132,14 +140,6 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
-   "desc": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail.",
-   "link": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-25T14:38:57.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "Relief may be near for Indiana city after days without power",
    "desc": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
    "link": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
@@ -148,10 +148,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Target apologises for 'offensive' children Halloween costume after backlash",
-   "desc": "The retailer says the costume is \"hurtful for Black guests, team members and partners\", without providing further details.",
-   "link": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-25T15:24:06.000Z"
+   "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+   "desc": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+   "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T11:53:36.000Z"
   },
   {
    "src": "NPR",
