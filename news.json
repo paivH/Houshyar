@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-25T17:05:57.180Z",
+ "updated": "2026-08-25T17:56:44.159Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HQ0ZJTFpPeEVlSE84eEFHOEV2WFBxVlJnU2pqRU9fMnFDdndLNVRhZnBLbFRmMmduX0RjUndLbmlWSTBxX2p6dTVsMERzVGZ4NG5XZFJKejlxdEdkSVpzQQ?oc=5",
-   "date": "2026-08-25T09:40:37.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtcVg4MFp3OTE5Q0t1X0ZwTncwZHZPS0M4cGw1NFpiQmowYTRWQ1pmSnpONk1FZDFDUGV0STNacmdzaXhGYUNHNTFwRlphdVV2eW52VlRsNWEzTXk5R3hNaXJPUDM?oc=5",
+   "date": "2026-08-24T02:03:09.000Z"
   },
   {
    "src": "Rudaw",
@@ -20,26 +20,34 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "Kajer 8 01012026",
+   "desc": "Kajer 8 01012026 &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TSEZvajBKblVuYzZOdmhoUHFEQ21jVk1rUGxEbmVwQXM5bmQ1WGZzZHF5dGZHdmlzZmEwQXV0OVhTdjQ1QXN5NGdySmpBNER4N1RrWmtVNVlZZDVESHdCUWwyazlQYVJvakJHby11NDJfU0k?oc=5",
+   "date": "2026-08-24T01:37:24.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran warns neighbors against joining US economic sanctions",
    "desc": "Iran warns neighbors against joining US economic sanctions &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5URExZX3ZHMXI2X243MVpqcVNhaE1melZwbE5qeDZPVE41NmYzUml6UEhZcVpUekljRXBSNEJjSXRIeENHMlZqSy1nX3VyX2J6bGRoeWt1SmNaYTJPNHlzUE41MW01ZkhsS0FJ?oc=5",
    "date": "2026-08-24T06:19:54.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Syria confirms high-level meeting with Israel under US mediation",
-   "desc": "Syria confirms high-level meeting with Israel under US mediation &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05MVBwaTREQzdjQmdFdWp6OFZKV2Jfd1M0NWVNNW92TlY5dUJBejBFZnhQVi1wczZ5cDBOVV9GZVdrOVpHVnpxMlJCZEo0b3IzUEQtRzhaWlhWWm44VU9WRWoyVzJscmszYkpvbQ?oc=5",
-   "date": "2026-08-24T09:34:33.000Z"
+   "title": "Iran, Oman Agree on Framework for Temporary Strait of Hormuz Corridor",
+   "desc": "Omani Foreign Minister Badr al-Busaidi and his Iranian counterpart, Abbas Araghchi, discussed a phased framework in Tehran that would provide a “practical and implementable basis” for advancing navigation arrangements.",
+   "link": "https://www.kurdistan24.net/en/story/935057/iran-oman-agree-framework-for-temporary-strait-of-hormuz-corridor",
+   "date": "2026-08-25T17:35:00.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "SDF chief heads to Damascus to discuss integration process: Source",
-   "desc": "SDF chief heads to Damascus to discuss integration process: Source &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByU0VOMVhZdmNaZHVFbHFzOEJFb29rSUFXUnhFbnhiWDNvQlFDeWpwNUhnUjB2aG9Ua0lyYlBINWg2QnJKa3ppeU00Ql9KeWh1c183NGpfYUZXbVRCZ2NjZ002Nmg?oc=5",
-   "date": "2026-08-24T09:04:08.000Z"
+   "title": "US State Department Tells Kurdistan24 of Staffing Adjustments at Iraq Mission",
+   "desc": "“The Department continuously reviews the security posture at our diplomatic missions around the world,” a State Department spokesperson said in a response provided to Kurdistan24 on background.",
+   "link": "https://www.kurdistan24.net/en/story/935054/us-state-department-tells-kurdistan24-of-staffing-adjustments-at-iraq-mission",
+   "date": "2026-08-25T17:07:36.000Z"
   },
   {
    "src": "K24",
@@ -66,20 +74,20 @@
    "date": "2026-08-25T15:33:35.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "CIA Director John Ratcliffe Makes Secret Trip to Moscow",
-   "desc": "CIA Director John Ratcliffe is in Moscow for meetings, according to sources familiar with the situation, as US-mediated peace talks with Ukraine remain largely stalled.",
-   "link": "https://www.kurdistan24.net/en/story/935034/cia-director-john-ratcliffe-makes-secret-trip-to-moscow",
-   "date": "2026-08-25T15:09:14.000Z"
+   "title": "Tottenham sign Savio in $110M+ deal from Manchester City",
+   "desc": "Shafaq News- London Tottenham Hotspur signed Brazilian winger Savio from Manchester City on Tuesday in a deal worth up to $116 million, taking the club's summer spending to about $439 million. Tottenham confirmed the transfer without disclosing financial terms. Sky Sports reported that Spurs will pay about $102.3 million, with a further $13.6 million in add-ons, including about $6.8 million in bon",
+   "link": "https://shafaq.com/en/sport/Tottenham-sign-Savio-in-110M-deal-from-Manchester-City",
+   "date": "2026-08-25T17:29:06.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump Says All Mines Cleared from Strait of Hormuz",
-   "desc": "“I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Strait of Hormuz,” Trump wrote.",
-   "link": "https://www.kurdistan24.net/en/story/935032/trump-says-all-mines-cleared-from-strait-of-hormuz",
-   "date": "2026-08-25T15:08:00.000Z"
+   "title": "Kurdish enters Syrian schools for first time",
+   "desc": "Shafaq News- Damascus Syria will introduce Kurdish as an optional school subject for the first time starting in the 2026-2027 academic year, with two classes per week, the state-run Syrian Arab News Agency (SANA) reported on Tuesday, citing the Education Ministry. The measure follows Decree No. 13, issued by transitional President Ahmed al-Sharaa on Jan. 16, 2026, which recognizes Kurdish as a nat",
+   "link": "https://shafaq.com/en/Middle-East/Kurdish-enters-Syrian-schools-for-first-time",
+   "date": "2026-08-25T17:09:25.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,28 +114,20 @@
    "date": "2026-08-25T15:39:15.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Israel seizes UNRWA center as Gaza attacks kill nine Palestinians",
-   "desc": "Shafaq News- Gaza/ West Bank Israeli forces seized a UNRWA vocational training center north of occupied East Jerusalem on Tuesday, while Israeli attacks killed at least nine Palestinians in Gaza and violence wounded at least six across the occupied West Bank, Palestinian media reported. West Bank More than 50 Israeli security personnel, accompanied by at least four armored vehicles, &ldquo;forcibl",
-   "link": "https://shafaq.com/en/Middle-East/Israel-seizes-UNRWA-center-as-Gaza-attacks-kill-nine-Palestinians",
-   "date": "2026-08-25T15:00:12.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Katz: Israel will remain in southern Syria",
-   "desc": "Shafaq News- Damascus Israeli Defense Minister Israel Katz toured areas of southern Syria on Tuesday, reaffirming that his forces will not withdraw from &ldquo;Mount Hermon&rdquo; or its &ldquo;security zone&rdquo; in Syria as long as threats against Israel persist, Israeli media reported. Speaking during the tour, Katz also said Israel had acted against &ldquo;Turkish efforts to establish a prese",
-   "link": "https://shafaq.com/en/Middle-East/Katz-Israel-will-remain-in-southern-Syria",
-   "date": "2026-08-25T14:40:06.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
    "desc": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-25T11:53:36.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Trump says all mines cleared from Strait of Hormuz",
+   "desc": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+   "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T17:32:50.000Z"
   },
   {
    "src": "BBC",
@@ -140,18 +140,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Target apologises for 'offensive' children Halloween costume after backlash",
-   "desc": "The retailer says the costume is \"hurtful for Black guests, team members and partners\", without providing further details.",
-   "link": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-25T15:24:06.000Z"
+   "title": "Relief may be near for Indiana city after days without power",
+   "desc": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+   "link": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T16:33:34.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Two unvaccinated people die of measles in Pennsylvania",
-   "desc": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-   "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-25T16:43:08.000Z"
+   "title": "Target apologises for 'offensive' children Halloween costume after backlash",
+   "desc": "The retailer says the costume is \"hurtful for Black guests, team members and partners\", without providing further details.",
+   "link": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-25T15:24:06.000Z"
   },
   {
    "src": "NPR",
