@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-26T07:49:02.292Z",
+ "updated": "2026-08-26T08:46:33.528Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iMlVwYWVnV1NCb01tRVZRWm1NN21aZnczM3hLb3p1VkNUbWNGNFpSMlhXT3Ryc1VkbnZ4VG9tcmdJVUJIb3FRVzN5dlJsWVBIMk5YUjlSaGllUDVXUVRHVg?oc=5",
-   "date": "2026-08-25T10:08:33.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54eTdqdHhRa2ZBbDhRMDBkVjVtTGI3bV9jZVo3QlVNM1dheWxVenFXbnktb2VWUWdDdFhTbG9Palc0UzY4bFNIQmZhSU9NMGd5TnZIQ25hZWFpdE5UU0pRd3JKR0E?oc=5",
+   "date": "2026-08-26T00:15:30.000Z"
   },
   {
    "src": "Rudaw",
@@ -36,6 +36,22 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraq Summons Iranian Ambassador Over Diplomatic Posts Featuring Regional Maps",
+   "desc": "Baghdad seeks clarification over posts published by Iranian diplomatic missions, stressing that regional disputes must be addressed through dialogue and diplomatic channels",
+   "link": "https://www.kurdistan24.net/en/story/935161/iraq-summons-iranian-ambassador-over-diplomatic-posts-featuring-regional-maps",
+   "date": "2026-08-26T08:34:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Pezeshkian to Meet Putin Next Week on Sidelines of SCO Summit in Bishkek",
+   "desc": "Meeting between Iranian and Russian presidents comes as Washington's Operation Economic Outcast targets Moscow's financial ties with Tehran, and CIA Director Ratcliffe visits Russia for unannounced talks",
+   "link": "https://www.kurdistan24.net/en/story/935165/pezeshkian-to-meet-putin-next-week-on-sidelines-of-sco-summit-in-bishkek",
+   "date": "2026-08-26T08:28:58.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "US Has No Plans for New Military Strikes on Iran, Focusing Solely on Economic Pressure",
    "desc": "Report confirms Washington has shifted entirely to financial warfare as Operation Economic Outcast takes effect, with no fresh military action under consideration as CIA Director Ratcliffe meets Russian officials in Moscow",
    "link": "https://www.kurdistan24.net/en/story/935141/us-has-no-plans-for-new-military-strikes-on-iran-focusing-solely-on-economic-pressure",
@@ -58,20 +74,36 @@
    "date": "2026-08-26T06:08:20.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Russia Says No Putin Meeting Planned During CIA Director's Moscow Visit",
-   "desc": "The Kremlin says the CIA director’s talks in Moscow focused on coordination between US and Russian intelligence agencies, while no meeting with President Vladimir Putin was planned.",
-   "link": "https://www.kurdistan24.net/en/story/935121/russia-says-no-putin-meeting-planned-during-cia-directors-moscow-visit",
-   "date": "2026-08-26T05:52:57.000Z"
+   "title": "Kirkuk surgeons remove malformed lung lobe from newborn",
+   "desc": "Shafaq News- Kirkuk Surgeons in Kirkuk in northern Iraq removed a malformed section in the lower lobe of a newborn's right lung after the child was born, the hospital that carried out the operation said Wednesday, calling it a rare procedure for an infant so young. Ahmed Nour al-Din, a thoracic and vascular surgeon who oversaw the operation, said scans during pregnancy showed the fetus had congeni",
+   "link": "https://shafaq.com/en/society/Kirkuk-surgeons-remove-malformed-lung-lobe-from-newborn",
+   "date": "2026-08-26T08:25:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Ghalibaf Says US Will Fail in Economic War as It Did Militarily",
-   "desc": "Iran’s parliament speaker says Tehran and Baghdad are moving toward a new regional system, while Iran’s foreign policy officials outline diplomatic efforts over regional stability and the future of the Strait of Hormuz.",
-   "link": "https://www.kurdistan24.net/en/story/935112/ghalibaf-says-us-will-fail-in-economic-war-as-it-did-militarily",
-   "date": "2026-08-26T05:20:39.000Z"
+   "title": "CoI arrests 3+ over Al-Muthanna hospital project",
+   "desc": "Shafaq News- Al-Muthanna Iraq&rsquo;s Federal Integrity Commission (CoI) has arrested several people linked to the Al-Muthanna Health Directorate over alleged irregularities in a project to rehabilitate Al-Hussein Teaching Hospital in Samawah, a security source told Shafaq News on Wednesday. The source said between three and five suspects had been detained, without identifying them or detailing th",
+   "link": "https://shafaq.com/en/society/CoI-arrests-3-over-Al-Muthanna-hospital-project",
+   "date": "2026-08-26T07:57:17.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Nasiriyah airport 68% complete, handover expected in early 2027",
+   "desc": "Shafaq News- Baghdad Construction of Nasiriyah International Airport has reached 68%, with the project expected to be handed over in early 2027 if work continues on schedule, the head of Iraq&rsquo;s General Company for Airports Management and Air Navigation Services said at a press conference. Ihab Saad said progress was expected to accelerate once new ground-handling equipment arrived, adding th",
+   "link": "https://shafaq.com/en/society/Nasiriyah-airport-68-complete-handover-expected-in-early-2027",
+   "date": "2026-08-26T07:46:11.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "US dollar edges lower in Baghdad and Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil The US dollar edged lower against the Iraqi dinar in Baghdad and Erbil on Wednesday, hovering around 154,000 dinars per $100. In Baghdad, the dollar fell to 154,250 dinars per $100 at the al-Kifah and al-Harithiya central exchanges, down slightly from 154,350 dinars on Tuesday , according to a Shafaq News market survey. At currency exchange shops in Baghdad, the dollar ",
+   "link": "https://shafaq.com/en/Economy/US-dollar-edges-lower-in-Baghdad-and-Erbil-2",
+   "date": "2026-08-26T07:46:05.000Z"
   },
   {
    "src": "Shafaq",
@@ -80,38 +112,6 @@
    "desc": "Shafaq News- Baghdad Iraqi crude oil prices fell by more than 6% on Wednesday, in tandem with a broader decline in global oil markets. Basrah Heavy crude dropped to $77.92 a barrel, down $5.27 or 6.34%, while Basrah Medium fell to $81.22, a loss of $5.27 or 6.09%. Internationally , Brent crude slipped to $86.80 a barrel, down $1.78, or 2.0%, while West Texas Intermediate fell to $80.87, down $1.49",
    "link": "https://shafaq.com/en/Economy/Iraqi-crude-prices-fall-more-than-6",
    "date": "2026-08-26T07:13:00.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "High-altitude contraband: Iraq’s desert smugglers take to the skies",
-   "desc": "Shafaq News The last stars were still visible when Imad Al-Khafaji noticed something moving across the sky. It was just before dawn. The 41-year-old had set out with a group of nomadic Bedouin friends on a hunting trip in the Iraqi desert. They had stopped their vehicle on higher ground to watch the sunrise and were preparing breakfast when the object appeared, drifting about 300 meters away. Al-K",
-   "link": "https://shafaq.com/en/Report/High-altitude-contraband-Iraq-s-desert-smugglers-take-to-the-skies",
-   "date": "2026-08-26T07:00:25.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Gold retreats from three-month high ahead Fed clues",
-   "desc": "Shafaq News Gold eased on Wednesday after scaling a more than three-month &zwnj;high in the previous session, as investors awaited a key U.S. inflation report to gauge the Federal Reserve's interest-rate path. Spot gold eased 0.3% to $4,642.74 per ounce, by 0410 GMT. Prices climbed to their &#8203;highest since mid-May on Tuesday after last week's sharp gains following the U.S. &#8203;Treasury's b",
-   "link": "https://shafaq.com/en/Economy/Gold-retreats-from-three-month-high-ahead-Fed-clues",
-   "date": "2026-08-26T06:20:10.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Fire kills fourteen newborns at Pakistan hospital",
-   "desc": "Shafaq News- Islamabad At least fourteen newborns were killed when a fire swept through the nursery of a maternity ward at Islamabad's largest public hospital early Wednesday, according to the city's district administration. The blaze started on the third floor of the Mother and Child Health Ward at the Pakistan Institute of Medical Sciences (PIMS). One baby was pulled out alive, according to hosp",
-   "link": "https://shafaq.com/en/World/Fire-kills-fourteen-newborns-at-Pakistan-hospital",
-   "date": "2026-08-26T06:03:43.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Oil falls as Iran-Oman talks fuel Hormuz hopes",
-   "desc": "Shafaq News Oil prices dropped about 2% on Wednesday, adding to the previous session's losses, on fresh hopes &zwnj;the Strait of Hormuz could reopen after Iran said it had resumed talks with neighbour Oman on managing the strategic waterway. Brent crude futures fell $1.78, or 2.0%, to $86.80 a barrel by 0027 GMT, while U.S. West Texas Intermediate crude futures were down $1.49, &#8203;or 1.8%, at",
-   "link": "https://shafaq.com/en/Economy/Oil-falls-as-Iran-Oman-talks-fuel-Hormuz-hopes",
-   "date": "2026-08-26T05:17:26.000Z"
   },
   {
    "src": "BBC",
@@ -196,6 +196,14 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+   "desc": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+   "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-26T08:17:45.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
    "desc": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
    "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
    "desc": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-25T11:53:36.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Israeli attacks kill five in Gaza, including two children, medics say",
-   "desc": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics and relatives.",
-   "link": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-25T14:07:50.000Z"
   },
   {
    "src": "LFU",
