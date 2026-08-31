@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T23:16:48.424Z",
+ "updated": "2026-08-31T01:29:51.203Z",
  "items": [
   {
    "src": "Rudaw",
@@ -92,7 +92,7 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Missile strikes hit US targets in the ME",
+   "title": "Iran launches missiles toward US targets",
    "desc": "Shafaq News- Tehran Iran launched missiles on Monday toward targets across the region, Iranian media outlets said, hours after US strikes hit Larak island in the Strait of Hormuz. The strikes reportedly targeted Muwaffaq Salti Air Base in Jordan, Qatar&rsquo;s Al Udeid Air Base and US vessels in the Strait of Hormuz. Fox News cited a US official as saying the Iranian attacks targeted US forces in ",
    "link": "https://shafaq.com/en/Middle-East/Missile-strikes-hit-US-targets-in-the-ME",
    "date": "2026-08-30T22:46:28.000Z"
@@ -124,10 +124,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-30T04:01:02.000Z"
+   "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+   "desc": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+   "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-30T23:53:03.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+   "desc": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+   "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-30T23:52:27.000Z"
   },
   {
    "src": "BBC",
@@ -140,26 +148,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+   "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-08-30T04:01:02.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "US plans to cut off military aid to key Middle East ally, BBC told",
    "desc": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-28T19:45:39.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-   "desc": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-   "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-29T17:52:42.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Tennessee governor plans to name Nashville airport after Dolly Parton",
-   "desc": "Thousands of fans have signed an online petition asking the airport to be named after her.",
-   "link": "https://www.bbc.co.uk/news/articles/c8e3k37gry6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-28T23:06:11.000Z"
+   "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
+   "desc": "Four days after catastrophic floods wiped out villages along the Nepal-China border, thousands are still missing. Families look for answers but hear nothing.",
+   "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
+   "date": "2026-08-30T23:32:39.000Z"
   },
   {
    "src": "NPR",
@@ -192,14 +200,6 @@
    "desc": "What happens when Russia arrests civilians in the Ukrainian territories it occupies? New Yorker writer Joshua Yaffa followed a group of women through the Russian prison system.",
    "link": "https://www.npr.org/2026/08/30/nx-s1-5945115/the-ukrainian-women-disappearing-into-russian-prisons",
    "date": "2026-08-30T21:01:08.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-   "desc": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario — Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
-   "link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-   "date": "2026-08-30T14:36:44.000Z"
   },
   {
    "src": "BBC ME",
