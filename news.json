@@ -1,14 +1,6 @@
 {
- "updated": "2026-09-01T00:44:30.507Z",
+ "updated": "2026-09-01T06:05:52.993Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fOVJzS1BoaGg4SmJ6dzhCdXZQMF9ZaEJfUEgxQ0w2T1NqZjNVblFpdGN6VWltdmNkUlpWXzlDaFRLV0lKSGRoVGtfWnNYTGtlYmNnUmFLcGd5N05IekFtYk5hcw?oc=5",
-   "date": "2026-08-31T13:43:19.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -28,6 +20,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEVFNiY2pibWE0bnhnVFVQN1VUNW9FbmwycTQwTHI3cTQ3ODlDdDMxQW5JTGdLaGdvSnUzWjlKUFUxeVNxdmxTMEtja0NVVlN5QnJpQWdpaTAwNWtQX1p4Y1BfZFU?oc=5",
+   "date": "2026-08-31T19:54:35.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Two killed in explosion while handling artillery shell in Halabja: Police",
    "desc": "Two killed in explosion while handling artillery shell in Halabja: Police &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OMVYyc3FYSVlLRnM4MEY0Qkh6X3JkVFpJRFRCZ1VtOWtxR1NJOGltcGVBblBidVJ3elRwZ3Q5NnVmOEdod2JVd0ZEMGpObU9kcXJoLUNmZmI5bTVOYlh6UEo2MS0?oc=5",
@@ -40,6 +40,14 @@
    "desc": "Iran expels a quarter million ‘undocumented’ school children &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kLVUxY2RIZGRHTU1CV0ExckNaYnp0Sjd3b1FEeXVUTFVSd1ptS2tWQUdxYUczQVFhdFNmZVBOSTlyaU0xc0VWR05ERE1RMU5aRE5NWXl5UU4tYkdQSVE?oc=5",
    "date": "2026-08-30T15:29:24.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Clashes in Syria’s Sweida Wound 10 Government Security Personnel",
+   "desc": "Renewed fighting with Druze armed groups underscores the fragile security situation in the southern province, where local factions continue to challenge Damascus’ authority",
+   "link": "https://www.kurdistan24.net/en/story/936400/clashes-in-syrias-sweida-wound-10-government-security-personnel",
+   "date": "2026-09-01T05:29:00.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,20 @@
    "date": "2026-08-31T15:48:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq Sentences Kataeb Hezbollah Member to 15 Years for Kidnapping US Journalist",
-   "desc": "According to a court document shared by local media, the Criminal Court on Sunday sentenced Amir Rahim Jabbar to 15 years in prison under Iraq’s anti-terrorism law for the kidnapping of Kittleson.",
-   "link": "https://www.kurdistan24.net/en/story/936319/iraq-sentences-kataeb-hezbollah-member-to-15-years-for-kidnapping-us-journalist",
-   "date": "2026-08-31T15:00:00.000Z"
+   "title": "US clears $800M helicopter sale to Iraq",
+   "desc": "Shafaq News- Washington/ Baghdad The United States has approved a possible $800 million foreign military sale to Iraq involving Bell 412EPX and Bell 407M helicopters, the US State Department said on Monday, enhancing Iraq&rsquo;s rotary-wing transport, reconnaissance and air-to-surface targeting capabilities. The proposed package includes helicopters, GAU-19 three-barrel machine guns, rocket syste",
+   "link": "https://shafaq.com/en/Security/US-clears-800M-helicopter-sale-to-Iraq",
+   "date": "2026-09-01T05:41:25.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Oil prices climb above $91 on renewed US-Iran strikes",
+   "desc": "Shafaq News Oil prices gained around $1 on Tuesday as the resumption of fighting between the U.S. and Iran in the Middle East renewed fears of supply disruptions from the world's key crude-producing region. Brent crude futures were up $1.05, or 1.2%, to $91.54 a barrel at 0455 GMT, while U.S. West Texas Intermediate crude was up $1.27, or 1.5%, to $87.03. In the previous session, Brent closed up 2",
+   "link": "https://shafaq.com/en/Economy/Oil-prices-climb-above-91-on-renewed-US-Iran-strikes",
+   "date": "2026-09-01T05:16:43.000Z"
   },
   {
    "src": "Shafaq",
@@ -106,20 +122,12 @@
    "date": "2026-08-31T22:30:17.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Attacks reported in Suwayda as Druze National Guard accuses Damascus",
-   "desc": "Shafaq News- Damascus/ Suwayda Syrian internal security forces responded to attacks by groups described by state media as &ldquo;outlaws&rdquo; targeting security positions in the Suwayda countryside on Monday, while the Druze National Guard accused government forces of shelling an area west of Suwayda city and injuring a child. The Syrian News Agency reported that two security personnel were woun",
-   "link": "https://shafaq.com/en/Middle-East/Attacks-reported-in-Suwayda-as-Druze-National-Guard-accuses-Damascus",
-   "date": "2026-08-31T21:38:42.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq sets next week for vote on remaining cabinet posts",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s political forces aim to finalize negotiations over the remaining cabinet posts this week and send the nominees to parliament next week for a confidence vote, Prime Minister Ali Al-Zaidi announced on Monday. Al-Zaidi outlined the timetable during the Shiite Coordination Framework&rsquo;s 292nd regular meeting at the office of Badr Organization Secretary-General Had",
-   "link": "https://shafaq.com/en/Iraq/Iraq-sets-next-week-for-vote-on-remaining-cabinet-posts",
-   "date": "2026-08-31T21:18:15.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur",
+   "desc": "Duane \"Keffe D\" Davis's conviction ends decades of mystery as to who was behind the rapper's death.",
+   "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-01T04:20:17.000Z"
   },
   {
    "src": "BBC",
@@ -128,6 +136,14 @@
    "desc": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
    "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-31T22:38:24.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "US army secretary resigns after months of tension",
+   "desc": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+   "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-01T01:01:03.000Z"
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "desc": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
    "date": "2026-08-31T20:47:38.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Festival honouring Dolly Parton set for Nashville and London",
-   "desc": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
-   "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-31T18:58:35.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Ex-congressman George Santos banned from betting platform for life",
-   "desc": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.",
-   "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-08-31T18:15:12.000Z"
   },
   {
    "src": "NPR",
@@ -292,14 +292,6 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Chinese Consul General in Erbil Liu Jun Meets with Governor of Erbil",
-   "desc": "Chinese Consul General in Erbil Liu Jun Meets with Governor of Erbil &nbsp;&nbsp; mfa.gov.cn",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfNEhTakxSRTJucHNhNUhGZ3kwSmhoZVRiZjMtWXhnOXFuaW1ZM1VZTGNFdkRtQ1g2QVVCaUVaQkpOdTdIQW1FUkhfZWRNQ1hWeGoxakg1aWxmTDFJZlhmSHhiUk5nYTNub3NpMDhNTHdCbVk?oc=5",
-   "date": "2026-08-26T15:37:00.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Iraq's housing boom is leaving its aspirational class behind",
    "desc": "Iraq's housing boom is leaving its aspirational class behind &nbsp;&nbsp; Amwaj.media",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdKaUk0WkI1ei14eWdFMUFFYmpxSWx0LVdPcDN6d2I2TXdwYkpMS1BnU3FWUnhSLTdkSHBYa1pUX2F0QkZtTGljQ1ZOcjB3WS1xV1pxRGJ1R3lmbEpWYmdIcElWZUloWTd2U0xkVXRTS2tfNFVKd2R2ZVB6NjlwWWZhX1FTYkJQOFcwcnY2UVJhRU5l?oc=5",
@@ -320,6 +312,14 @@
    "desc": "Erbil Build Expo 2026 concludes after bringing together international industry representatives &nbsp;&nbsp; SteelRadar",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZl84MlU1bk14dHh3TGNTeVdIaDhITDRQdm12VFNFWkYyXzh4MVlBNVFyN2dYRHp5N1JmZzFjZ3IyOHJxNzJlSEYwZlZGR28tWUVJN2pRTzBPeU9nblJXeVZIZDlSenZmXzhFZmVncDF0ZWl1cFlfRmJUalNVczNuZkIxeTd2N2U4dUxTQ29XLTFSVmpEd3lpUXh3OTdlaFNheE1YbVhCTXF3YzlyUTVPMktGZDEtUDNITUVISkRiOHhnX2RoYTlmRHhFTQ?oc=5",
    "date": "2026-08-31T13:12:44.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Erbil construction, energy exhibition concludes with hundreds of deals",
+   "desc": "Erbil construction, energy exhibition concludes with hundreds of deals &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qWmRrMndGZ1N4b1J6aUhNdG9QMk1VZmtOSW5mN1J5ZzJuSFRqRjd3Sm5zeWRHSkJSRWtmeXU3bEh2WUtCYVltQXpJR0J5WkpVZFRtNjBKSDR5NWZ3clFXVUZjLUpzV2Nvdnc?oc=5",
+   "date": "2026-08-31T07:13:16.000Z"
   },
   {
    "src": "Tourism",
