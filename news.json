@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-01T23:58:06.182Z",
+ "updated": "2026-09-02T04:15:32.525Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
-   "date": "2026-09-01T10:03:14.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qMXVzd3BWdXFwM3FWUUpZQjdWcDF3ZzdwSWRXNVFZb2FJQjczMi1IVDFfRjNOc3FreVNfblN1eXlLdnpIZG1fU254ZGtQbG10NTZ3cjlZWldkb2tnQy1XeEFHYkVpMDFNbmc?oc=5",
+   "date": "2026-09-01T09:04:43.000Z"
   },
   {
    "src": "Rudaw",
@@ -32,6 +32,14 @@
    "desc": "Syrian interior ministry forces deployed across Hasaka province, include Asayish personnel: Official &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SZGltdW5pN0VpX2lUbXR0UjU2bVNaR0hRdjhPS28xcldWT0pIeE9DQ1pGNXpWMTZyNHZRYVFaSGhVenllMW5zcnF5X2ZsVDg4dVFRZ3kydS1Ra2lJRGg2b0FRMzc?oc=5",
    "date": "2026-09-01T16:05:09.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Two killed in explosion while handling artillery shell in Halabja: Police",
+   "desc": "Two killed in explosion while handling artillery shell in Halabja: Police &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OMVYyc3FYSVlLRnM4MEY0Qkh6X3JkVFpJRFRCZ1VtOWtxR1NJOGltcGVBblBidVJ3elRwZ3Q5NnVmOEdod2JVd0ZEMGpObU9kcXJoLUNmZmI5bTVOYlh6UEo2MS0?oc=5",
+   "date": "2026-08-31T10:29:12.000Z"
   },
   {
    "src": "K24",
@@ -116,10 +124,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-   "desc": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
-   "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-01T18:06:58.000Z"
+   "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+   "desc": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+   "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-02T01:59:10.000Z"
   },
   {
    "src": "BBC",
@@ -132,6 +140,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Pennsylvania officer charged in death of student who knocked at wrong door",
+   "desc": "The police officer shot Glenwood Earl Pysher, 22, as he walked towards him with hands up, say prosecutors.",
+   "link": "https://www.bbc.co.uk/news/articles/clyk3351mj5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-02T01:52:48.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
    "desc": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
    "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
@@ -140,18 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "How a small island in Canada appeared, vanished, and was found again",
-   "desc": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
-   "link": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-01T17:36:44.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-   "desc": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.",
-   "link": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-01T05:11:23.000Z"
+   "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+   "desc": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+   "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-01T18:06:58.000Z"
   },
   {
    "src": "NPR",
@@ -196,10 +204,10 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-   "desc": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+   "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+   "desc": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-01T23:56:44.000Z"
+   "date": "2026-09-02T03:19:44.000Z"
   },
   {
    "src": "BBC ME",
@@ -285,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq's housing boom is leaving its aspirational class behind",
-   "desc": "Iraq's housing boom is leaving its aspirational class behind &nbsp;&nbsp; Amwaj.media",
+   "desc": "Iraq's housing boom is leaving its aspirational class behind &nbsp;&nbsp; amwaj.media",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdKaUk0WkI1ei14eWdFMUFFYmpxSWx0LVdPcDN6d2I2TXdwYkpMS1BnU3FWUnhSLTdkSHBYa1pUX2F0QkZtTGljQ1ZOcjB3WS1xV1pxRGJ1R3lmbEpWYmdIcElWZUloWTd2U0xkVXRTS2tfNFVKd2R2ZVB6NjlwWWZhX1FTYkJQOFcwcnY2UVJhRU5l?oc=5",
    "date": "2026-08-27T03:15:02.000Z"
   },
@@ -332,16 +340,8 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Seven ancient Parthian tombs unearthed in Iraq’s Kurdistan region amid survey of 6,500 sites",
-   "desc": "Seven ancient Parthian tombs unearthed in Iraq’s Kurdistan region amid survey of 6,500 sites &nbsp;&nbsp; jpost.com",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSUlRleG5VcW1XZUpmQXpiWG03Ukh0Z01iX0lUUnNRZ0FOQlZOUUJKajBJY1FCSi0xWlVvWXdtWXdsV3Z0YWF6UTRDVFJidGM4ck9FaThwT1BpVmpE?oc=5",
-   "date": "2026-08-29T01:49:31.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics",
-   "desc": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics &nbsp;&nbsp; IndexBox",
+   "desc": "Erbil Rotana and Arjaan by Rotana Focus on Guest Wellbeing and Safety - News and Statistics &nbsp;&nbsp; indexbox.io",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTW96cWs2ekdIM1d6VGpXNUt1RVppVGFQcDNuSFM4YzdBNUFVQWdUTnBKbS1rSkwzVFdmSjhwQUpFNFZid0ZHdDhEdlRNZm44TGk0OUtTQ0lGU245Q3dxOUM3QlVXYVl5TnNEdnFJSWtJZnRIUEJHQkdRc01ja0NQNEQyZTdrS2FOQVFTb2dLXzZSSFlYR1E?oc=5",
    "date": "2026-08-23T10:51:00.000Z"
   },
@@ -352,6 +352,14 @@
    "desc": "Iraq Reopens Airspace After 40 Days of War &nbsp;&nbsp; MiGFlug",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFc5UklSTWZzSWNRZHBVaHFDTVgzV29mQzFtdndYcVBFc1VZRlpqU0sxQWU4b3A3Z3dMZmhaeE1NNHZUMDZublk4ZmFCQndCM1lWVzlqWWVmOTlvdjdWTFlhMjZEanpLLXhBNFlyaTRvS2ZOZmxiX0RYSlQ1ZlliTzUwdTA?oc=5",
    "date": "2026-08-29T05:42:39.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Seven ancient Parthian tombs unearthed in Iraq’s Kurdistan region amid survey of 6,500 sites",
+   "desc": "Seven ancient Parthian tombs unearthed in Iraq’s Kurdistan region amid survey of 6,500 sites &nbsp;&nbsp; Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0h2RjdCX0V5TWQ4bjVtbFRVRllDTkFKY3VHVVhUT0hMUE40OVRLemZsQ2hQTHZia1BRal9GNHpnS05CTHZTYWwxeF9jZzB1RVR3NHlKdFZTTThZWlFfa1JKcnlYTVdxeGxLQjBoTUhzLUxkVmZSQWlOS1J6ak9FTEsxZmRUY2trSHBNc29oYUlDWndwT3hEV29icw?oc=5",
+   "date": "2026-08-29T04:49:00.000Z"
   }
  ]
 }
