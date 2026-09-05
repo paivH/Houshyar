@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T23:47:52.581Z",
+ "updated": "2026-09-05T03:31:39.681Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,18 +12,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Syria begins internationally-verified destruction of Assad-era chemical materials",
-   "desc": "Syria begins internationally-verified destruction of Assad-era chemical materials &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAteXJYNTBKQXE3TXNqU1NRM2J2RXBKWG5jU0hfemdxRVpvb1J0Tmk0Q3o4dnBOY0NnYWpMc2tfZmlDVW1ETmlDb0U4NmhybUxZV1RvMDJENEljQkMxSTBWZUdGX00?oc=5",
-   "date": "2026-09-04T07:56:58.000Z"
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92NEk3blVJVDNTcTNxSXJWek1HUTJENHdqcEREendhVlg0SEYtb3hlMEdyX1FxbGNad2tRc0FWSU9oTmcycUtfM05sUUpucXVjX2RpQmZQdUlmdzU1MWtHYjRiMA?oc=5",
+   "date": "2026-09-05T00:52:50.000Z"
   },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SQS1RR3psQTFTZFQ4cGZwdlR4Y0k4S3lWajNPR0xxWHZNdlNtc2taUVhGMEVEeTN4VFRuSHg5UjkxOFJvUVU1ZkF6MzV2czhXc1h6dWc2UnI5MFkzQkhxSk9SS0k?oc=5",
-   "date": "2026-09-03T23:10:37.000Z"
+   "title": "Syria begins internationally-verified destruction of Assad-era chemical materials",
+   "desc": "Syria begins internationally-verified destruction of Assad-era chemical materials &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAteXJYNTBKQXE3TXNqU1NRM2J2RXBKWG5jU0hfemdxRVpvb1J0Tmk0Q3o4dnBOY0NnYWpMc2tfZmlDVW1ETmlDb0U4NmhybUxZV1RvMDJENEljQkMxSTBWZUdGX00?oc=5",
+   "date": "2026-09-04T07:56:58.000Z"
   },
   {
    "src": "Rudaw",
@@ -124,10 +124,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+   "desc": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+   "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-04T22:48:38.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
    "desc": "The US mother accused of murder is likely to remain in a mental health facility as lawyers weigh their next steps.",
    "link": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-04T20:31:03.000Z"
+   "date": "2026-09-05T03:25:58.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
+   "desc": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
+   "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-05T01:26:29.000Z"
   },
   {
    "src": "BBC",
@@ -140,26 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Examining US official's claim that data centres 'don't use water'",
-   "desc": "US Commerce Secretary Howard Lutnick falsely suggested that data centres don't use water.",
-   "link": "https://www.bbc.co.uk/news/videos/ced7yj7564zo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-04T20:06:56.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US diesel prices hit an all-time-high",
-   "desc": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-   "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-04T10:52:56.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-   "desc": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-   "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-04T20:03:52.000Z"
+   "title": "How much can Canada fight back in its trade war with the US?",
+   "desc": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+   "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-05T02:13:21.000Z"
   },
   {
    "src": "NPR",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "New tripartite Social Dialogue Forum strengthens labour governance in the Kurdistan Region of Iraq",
-   "desc": "New tripartite Social Dialogue Forum strengthens labour governance in the Kurdistan Region of Iraq &nbsp;&nbsp; International Labour Organization",
+   "desc": "New tripartite Social Dialogue Forum strengthens labour governance in the Kurdistan Region of Iraq &nbsp;&nbsp; ilo.org",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzlsX1Y0Z25nNW01V1lhMGc2LTZNbEFkUU55R1ZtR3FfR29uNW9JYzM1aTBOR1ZkVXczTFd5WFZjSFV3TGttSERBNmV4NXNqd0RZcVJGcGl4S0tuMFhEaHhaNVkwQWZScm1ucXlaWVByNGs1Nkxzc1VfTmw4UlFJMXhNa25MM2dxb1c2NURpbnRwS2QyR3NHOXFfbmdqM1hQa1E?oc=5",
    "date": "2026-09-01T07:00:00.000Z"
   },
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq Explores Micro-Credentials to Expand Skills and Employment Opportunities for Youth",
-   "desc": "Iraq Explores Micro-Credentials to Expand Skills and Employment Opportunities for Youth &nbsp;&nbsp; unicef.org",
+   "desc": "Iraq Explores Micro-Credentials to Expand Skills and Employment Opportunities for Youth &nbsp;&nbsp; UNICEF",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XSXMwQ3RIQ3ItYzAxa3VIVERvdFl6b1FkRVFPOTBfMTFlVDJ3NlBKNDZreWJlMXppUHNuVjRWRXNBcTdpSHBPOGV6YVhUMEFCejRpbE5KYmFjZmh0VW1GNXZoZWszZjczejFHcmZITDFrLUptU3lyU0ZB?oc=5",
    "date": "2026-09-02T15:51:10.000Z"
   },
@@ -341,7 +341,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Lalezar: One year on, Lahur Sheikh Jangi's trial remains stalled",
-   "desc": "Lalezar: One year on, Lahur Sheikh Jangi's trial remains stalled &nbsp;&nbsp; thenewregion.com",
+   "desc": "Lalezar: One year on, Lahur Sheikh Jangi's trial remains stalled &nbsp;&nbsp; The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWjQwNUg4V3MtMXVHVmpWUzJHc0ZmSzRha0RUQktlRlpNVDBmRWxuSWNwWmpOZkloWEwyQnQ3T1ZabWxOUWNkWVJGOA?oc=5",
    "date": "2026-08-23T07:00:00.000Z"
   },
@@ -356,10 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "SalamAir Adds Erbil as Second Destination in Iraq",
-   "desc": "SalamAir Adds Erbil as Second Destination in Iraq &nbsp;&nbsp; Biz Today",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmFZQnphLVRiQ2w5NkNiMS1uRmtUTEQxY0w5WHoxSTlpSDlsSXJjQlUzU1lpVVpPR0xiYjlYMklzTjF4QUZiX1V1a0FKbVJ1cXUzbmNiUnV2cnpHME5rZVJaTkJmSTlRN2dGbWtSb0dKV2RpQkNWYXJCdmkyOExlWVpORUNYTmFUOW9oZnBxaXA?oc=5",
-   "date": "2026-08-23T09:45:35.000Z"
+   "title": "Shafaq News..Lahur Sheikh Jangi trial postponed until further notice",
+   "desc": "Shafaq News..Lahur Sheikh Jangi trial postponed until further notice &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ1Z6bkRwblZxd1RoQncwYUJVZERrdkliUmFlOWhMVDFnejlFWGRHeDhoRUUyZ18xYmNsMFhLWS1nZFV1SDJkZUVWck5ENmJsZnU3MU81MVNWWXpyVFdFdXQ0dHN0MElrOGZoOTkySXNIdmdIMjNFdUtBNTR1WmNtQXZqNk1yR1NhbHlqeHRYSy0?oc=5",
+   "date": "2026-09-03T10:59:17.000Z"
   }
  ]
 }
