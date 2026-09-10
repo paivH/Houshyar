@@ -1,14 +1,6 @@
 {
- "updated": "2026-09-10T16:01:12.296Z",
+ "updated": "2026-09-10T19:11:38.041Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zOTBDZXYyTElNUDNEV1lNRHFWVmMyWUdqY3NUVUtPYVN1a3NLM0YtZVVaMXM5RnRqcDY2dVlmTjdoNzY0VHU1WTRzM2R5YWJraVBGOGxxZktMalVKZW1VSmc4TVU?oc=5",
-   "date": "2026-09-09T14:16:44.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -28,6 +20,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "Three Peshmerga detained in Kirkuk over death of PMF member: Source",
+   "desc": "Three Peshmerga detained in Kirkuk over death of PMF member: Source &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4REhPTkN2anJUcDVEcGNYZW1LLTBabGl1LU85UmNoQVF1RVUyRnpoUUMzV3NSV1lLUTh4UUJUb3gwSWNMMnNGYV9NZmkwYWtSZUtvS25rQmNtRUxRb1FHUmptZw?oc=5",
+   "date": "2026-09-10T17:21:08.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Return to Sari Kani brings hope, fear for displaced Kurdish families",
    "desc": "Return to Sari Kani brings hope, fear for displaced Kurdish families &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90ZmlsaDNBQWtQRTZLMzNvbVpPd19ZU3lsdy1RVlh3TEZSVEpfTHFtb0M2N0lNVVNxMTRtbXFOOUtUS2pYdmwtdXdFd0RvWnFQMzdmbWtZQ1d2Uk5nMXk0?oc=5",
@@ -40,6 +40,22 @@
    "desc": "Overnight explosions heard in southern Iran as regional tensions escalate &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HcXZ6VUdDZ2JIY0o1c1laNl80cjRfTDk5WTFYdTV5OHBFN3NvWkhRZm8zRUVjZEUzSk1oZDN5aGppUXNlUlR4Wmd5OVhpT2NQdmhTZ1FydWdxVTB1YlZCaFVLRQ?oc=5",
    "date": "2026-09-10T05:11:12.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "KRG Announces Full Unification of Peshmerga Forces Under Ministry",
+   "desc": "He said the ministry had mobilized all available resources to advance the national initiative, resulting in the complete integration of Units 70 and 80 through a carefully planned military and strategic process.",
+   "link": "https://www.kurdistan24.net/en/story/938589/krg-announces-full-unification-of-peshmerga-forces-under-ministry",
+   "date": "2026-09-10T17:50:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "PM Barzani, Iraqi Parliament Speaker Discuss Security, Economy, 2027 Budget",
+   "desc": "The two sides underscored the importance of preserving security, peace, and stability in Iraq and the Kurdistan Region.",
+   "link": "https://www.kurdistan24.net/en/story/938575/pm-barzani-iraqi-parliament-speaker-discuss-security-economy-2027-budget",
+   "date": "2026-09-10T16:07:00.000Z"
   },
   {
    "src": "K24",
@@ -66,60 +82,44 @@
    "date": "2026-09-10T14:00:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "PM Barzani, British Military Delegation Discuss Security, KRG-British Relations",
-   "desc": "The meeting, attended by the British Consul General to the Kurdistan Region Holly Fair, focused on the latest security developments in the Kurdistan Region, Iraq, and the wider region.",
-   "link": "https://www.kurdistan24.net/en/story/938531/pm-barzani-british-military-delegation-discuss-security-krg-british-relations",
-   "date": "2026-09-10T13:23:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Houthis Seize Mocha as Yemen Fighting Threatens Bab al-Mandab Shipping Route",
-   "desc": "Houthi forces advance toward strategic Red Sea chokepoint as Saudi Arabia reports renewed attacks and hundreds are killed in renewed conflict",
-   "link": "https://www.kurdistan24.net/en/story/938518/houthis-seize-mocha-as-yemen-fighting-threatens-bab-al-mandab-shipping-route",
-   "date": "2026-09-10T12:21:00.000Z"
+   "title": "IRGC says it struck US vessel near Hormuz",
+   "desc": "Shafaq News- Tehran Iran&rsquo;s Islamic Revolutionary Guard Corps (IRGC) Navy said on Thursday that it struck a US unmanned surface vessel at the entrance to the Strait of Hormuz and &ldquo;thwarted its hostile mission.&rdquo; According to Iran&rsquo;s Tasnim News Agency, the roughly seven-meter Saildrone Explorer can remain at sea for extended periods and carries cameras, communications equipmen",
+   "link": "https://shafaq.com/en/Middle-East/IRGC-says-it-struck-US-vessel-near-Hormuz",
+   "date": "2026-09-10T18:56:00.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Houthi gains raise pressure near Bab el-Mandeb",
-   "desc": "Shafaq News- Sanaa Yemen&rsquo;s Houthis (Ansarallah) said on Thursday they had regained control along the Hays-Al-Khokha axis on the country&rsquo;s western coast, advancing from Al-Jarrahi after forces aligned with Yemen&rsquo;s internationally recognized government had earlier announced retaking the areas and pushing toward Al-Jarrahi. Reuters separately verified footage showing armed Houthi fi",
-   "link": "https://shafaq.com/en/Middle-East/Houthi-gains-raise-pressure-near-Bab-el-Mandeb",
-   "date": "2026-09-10T15:40:23.000Z"
+   "title": "President Barzani backs bringing weapons under state control",
+   "desc": "Shafaq News- Erbil Kurdistan Region President Nechirvan Barzani renewed his support for bringing weapons under state control through dialogue and understanding during talks with Iraqi Parliament Speaker Haibet al-Halbousi. The two agreed that the security and stability of Iraq and the Kurdistan Region (KRI) are bound together. Barzani reaffirmed the KRI's support for Prime Minister Ali al-Zaidi's ",
+   "link": "https://shafaq.com/en/Kurdistan/President-Barzani-backs-bringing-weapons-under-state-control",
+   "date": "2026-09-10T18:55:58.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Syria targets 1.5M cubic meters at Al-Tabiya field",
-   "desc": "Shafaq News- Damascus Syria&rsquo;s Al-Tabiya gas field in Deir ez-Zor has entered a new production phase, with output expected to reach about 1.5 million cubic meters after a third well is brought online, Syrian Petroleum Company Deputy CEO for Gas Hisham Al-Saleh told Shafaq News on Thursday. Al-Saleh said the current operation remains experimental because equipment and pipelines had been idle f",
-   "link": "https://shafaq.com/en/Economy/Syria-targets-1-5M-cubic-meters-at-Al-Tabiya-field",
-   "date": "2026-09-10T15:06:10.000Z"
+   "title": "Lake Habbaniyah tourism increases after water releases",
+   "desc": "Shafaq News- Al-Anbar Habbaniyah Tourist City recorded an increase in visitor numbers following a moderate rise in Lake Habbaniyah&rsquo;s water level, the resort&rsquo;s director told Shafaq News on Thursday. Moayad Al-Mashouh said that &ldquo;water releases are continuing to raise the lake&rsquo;s level,&rdquo; expressing hope that authorities would increase the releases by mid-October. In mid-A",
+   "link": "https://shafaq.com/en/society/Lake-Habbaniyah-tourism-increases-after-water-releases",
+   "date": "2026-09-10T18:11:07.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi parliament forms committee to standardize drug prices",
-   "desc": "Shafaq News- Baghdad Iraq's parliament has formed a committee to standardize medicine prices in pharmacies across the country and to require doctors to write prescriptions clearly, a member of the parliamentary Health and Environment Committee said Thursday. The committee aims to set uniform drug prices, require electronic prescriptions, and expose corruption in the sector, Ghaith Shaba said in a ",
-   "link": "https://shafaq.com/en/society/Iraqi-parliament-forms-committee-to-standardize-drug-prices",
-   "date": "2026-09-10T14:59:34.000Z"
+   "title": "Saudi jets strike four Yemeni provinces, Houthis say",
+   "desc": "Shafaq News- Sanaa (Updated 21:29) Saudi warplanes carried out 64 airstrikes across the Yemeni provinces of Taiz, Hodeidah, Marib and Al-Jawf over the past 24 hours, the Houthi-run armed forces said Thursday. The Houthi military spokesman said F-15 and Typhoon jets flew the strikes from the King Fahd base in Taif and the King Khalid base in Khamis Mushait, and that Houthi forces had driven off a f",
+   "link": "https://shafaq.com/en/World/Saudi-jets-strike-four-Yemeni-provinces-Houthis-say",
+   "date": "2026-09-10T17:25:51.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Qamishli protesters demand Kurdish as official language",
-   "desc": "Shafaq News- Qamishli Dozens of students and teachers rallied in Qamishli on Thursday, demanding that Syria recognize Kurdish as an official language alongside Arabic and allow full Kurdish-language instruction across all school levels. Protesters carried signs reading &ldquo;Our language is our identity and existence&rdquo; and &ldquo;We do not want only three or four Kurdish classes,&rdquo; whil",
-   "link": "https://shafaq.com/en/Kurdistan/Qamishli-protesters-demand-Kurdish-as-official-language",
-   "date": "2026-09-10T14:14:37.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Lalezar defense claims pressure on detainees",
-   "desc": "Shafaq News- Al-Sulaymaniyah Detainees in Al-Sulaymaniyah&rsquo;s Lalezar Hotel case may be facing pressure in custody, defense team spokesperson Dana Taqi Al-Din said on Thursday, as the trial scheduled for today was postponed, with the date of the next hearing to be set on Sept. 13. At a press conference, Taqi Al-Din noted that one defendant&rsquo;s testimony had changed &ldquo;180 degrees&rdquo",
-   "link": "https://shafaq.com/en/Kurdistan/Lalezar-defense-claims-pressure-on-detainees",
-   "date": "2026-09-10T14:04:33.000Z"
+   "title": "CENTCOM reroutes 96 vessels under blockade",
+   "desc": "Shafaq News- Washington US Central Command (CENTCOM) said on Thursday that forces had redirected 96 commercial vessels since the naval blockade against Iran resumed on July 14 to ensure compliance with its restrictions. More than 50 vessels carrying humanitarian aid, CENTCOM added, had been allowed to pass. A U.S. Navy MH-60R Sea Hawk helicopter launches from the flight deck of USS Rafael Peralta ",
+   "link": "https://shafaq.com/en/World/CENTCOM-reroutes-96-vessels-under-blockade",
+   "date": "2026-09-10T17:01:36.000Z"
   },
   {
    "src": "BBC",
@@ -132,26 +132,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Iran war won't end until after crucial November elections, says Trump",
-   "desc": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-   "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-10T10:43:53.000Z"
+   "title": "Can Trump really pay $5,000 to every American adult?",
+   "desc": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+   "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-10T16:48:37.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Four takeaways from Republican midterms convention",
-   "desc": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
-   "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-10T04:07:44.000Z"
+   "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+   "desc": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
+   "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-10T17:13:53.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Watch: Do Republicans blame Trump for high oil prices?",
-   "desc": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-   "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-10T01:37:31.000Z"
+   "title": "A Canadian town's famous warm welcome doesn't extend to US ambassador on 9/11 anniversary",
+   "desc": "Gander hosted stranded flyers on 9/11. Now some don't want Trump's envoy at their commemoration.",
+   "link": "https://www.bbc.co.uk/news/articles/cm27vpe7z7lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-10T01:39:15.000Z"
   },
   {
    "src": "BBC",
@@ -188,18 +188,18 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
-   "desc": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
-   "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
-   "date": "2026-09-09T13:56:23.000Z"
+   "title": "After 900 years, the Bayeux Tapestry returns to England and goes on display in London",
+   "desc": "The nearly 230-foot long Bayeux Tapestry is back in England for the first time in 900 years. It depicts the 1066 Battle of Hastings, a turning point in English history that ended Anglo-Saxon rule.",
+   "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/bayeux-tapestry-british-museum-opening",
+   "date": "2026-09-09T21:43:51.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-   "desc": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
-   "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
-   "date": "2026-09-09T11:12:27.000Z"
+   "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+   "desc": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
+   "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+   "date": "2026-09-09T13:56:23.000Z"
   },
   {
    "src": "BBC ME",
@@ -207,7 +207,7 @@
    "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
    "desc": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
    "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-10T15:38:56.000Z"
+   "date": "2026-09-10T18:15:47.000Z"
   },
   {
    "src": "BBC ME",
@@ -224,6 +224,14 @@
    "desc": "The Algerian foreign ministry did not give a reason for the move but said it had exhausted all means.",
    "link": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-09-10T15:47:43.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "Iran war won't end until after crucial November elections, says Trump",
+   "desc": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+   "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-10T10:43:53.000Z"
   },
   {
    "src": "BBC ME",
@@ -292,6 +300,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "The Kurdistan Museum Studio Libeskind - World-Architects",
+   "desc": "The Kurdistan Museum Studio Libeskind &nbsp;&nbsp; World-Architects",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BWV81U3VNQ3YzSkRmZzVWZldSVzl2b1EyX2hCUF9OVkVWVzk5VWs5YzVLM2U5SUxPYS04dmc3bF9HTVVDY2k2MDYyMGcyNW5aaTM2VU1zdDh2WUUwYmRVeG1CMGl2bmJQblpOQnhUWkE0YmpE?oc=5",
+   "date": "2026-09-03T23:59:02.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Can Iraq turn a 10 million bpd oil ambition into economic power?",
    "desc": "Can Iraq turn a 10 million bpd oil ambition into economic power? &nbsp;&nbsp; The Arab Weekly",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0dDMzhMc3lzMDJ5OWc2TVRRUVFCU3dyMXh0djJEZG5PWnFQT2JUTWNBVmVBTUxNcE5qbXNZOTRLd1hYZHNYRFIxY2o4ZVZXaENXYkh5YVBsa19vY1Jwa0VKaTdwQVFPbGNZb2pYdDYxMXgzZEM4V24yRXJVdnJ6Z21YTUhMallMZEE?oc=5",
@@ -306,14 +322,6 @@
    "date": "2026-09-09T20:40:23.000Z"
   },
   {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Shafaq News..KRG project tally exceeds 860 across key sectors",
-   "desc": "Shafaq News..KRG project tally exceeds 860 across key sectors &nbsp;&nbsp; شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmJsdl94TWh5ZDFxSnVwWk03VTAwZDg3elBiTTJWNXZYYmladmpSb2xCWnZCRjhFYzZGeUFlbU5PekR5ZXdzM3ZFOTlxbmNUdXJYNzhnS2dIbmZWblpyd284ZnJkZl9MTkw4NjZUQ2FDbEMwZHRnZEVsNFpjODg4N2JDMm1VQU0?oc=5",
-   "date": "2026-09-08T13:04:01.000Z"
-  },
-  {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Kurdistan Region Wins First Place at UAE’s 2026 AIM Investment Awards",
@@ -325,7 +333,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Shafaq News..Iran, KRI boost border transport and tourism ties",
-   "desc": "Shafaq News..Iran, KRI boost border transport and tourism ties &nbsp;&nbsp; شفق نيوز",
+   "desc": "Shafaq News..Iran, KRI boost border transport and tourism ties &nbsp;&nbsp; shafaq.com",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkItS1lEZG9CTnJPLWxrcU5XeVpDMG1RRWdFSW9HSi1rUEx4X0hTRE4wcjJuODZaMU00ZzdaYW8xelgyWk1uTzlYQmRCbmpNQV9HOG9ZcGkwUmk1YWUyc2FOLWhYME9QNmVjVGVidk9na3VOTVBmQmtQdFF5UklpVE1fcl93b3M?oc=5",
    "date": "2026-09-05T12:37:13.000Z"
   },
@@ -340,18 +348,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Rawanduz Tourism Plan Targets Visitors in All Four Seasons",
-   "desc": "Rawanduz Tourism Plan Targets Visitors in All Four Seasons &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yWmZnSUNMRG1CWENHdnF2bzloSklzZ2xIY0t4M094aXRCRzlRd1ZURUNQRklfTldMYm1QLXMxV3V6WVFYSjBVUGVoYms1UWtkUVZjTEV3?oc=5",
-   "date": "2026-09-07T12:56:00.000Z"
+   "title": "Personalities and organizations in South Kurdistan write to Gabriel Revel, call for Öcalan's release",
+   "desc": "Personalities and organizations in South Kurdistan write to Gabriel Revel, call for Öcalan's release &nbsp;&nbsp; ANF | Articles",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkhBN1Vwa3RaVmw0eEZINDd1TnRJc09aclRoS25lc3dIcFptYldtUDZ6UXpMUWpPZFAzcUdubjhsRFZHRmlDZUxhN2diXzlDLWp1SFNXQWp2SXpVQ1BocE9RVTZXS1RsTFZQNVBQZk1fcmdPbnRSbHFhTXM1NWRPMERKOThrN2x5d2RsWm9qWkM5SmYyTVJTYXFFZkxHZmNubWdVZDdqbTdqZVY2amhLWU5fVW1VdkNDcmc?oc=5",
+   "date": "2026-09-10T10:04:50.000Z"
   },
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Personalities and organizations in South Kurdistan write to Gabriel Revel",
-   "desc": "Personalities and organizations in South Kurdistan write to Gabriel Revel &nbsp;&nbsp; ANF | Articles",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkhBN1Vwa3RaVmw0eEZINDd1TnRJc09aclRoS25lc3dIcFptYldtUDZ6UXpMUWpPZFAzcUdubjhsRFZHRmlDZUxhN2diXzlDLWp1SFNXQWp2SXpVQ1BocE9RVTZXS1RsTFZQNVBQZk1fcmdPbnRSbHFhTXM1NWRPMERKOThrN2x5d2RsWm9qWkM5SmYyTVJTYXFFZkxHZmNubWdVZDdqbTdqZVY2amhLWU5fVW1VdkNDcmc?oc=5",
-   "date": "2026-09-10T10:04:38.000Z"
+   "title": "Rawanduz Tourism Plan Targets Visitors in All Four Seasons",
+   "desc": "Rawanduz Tourism Plan Targets Visitors in All Four Seasons &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yWmZnSUNMRG1CWENHdnF2bzloSklzZ2xIY0t4M094aXRCRzlRd1ZURUNQRklfTldMYm1QLXMxV3V6WVFYSjBVUGVoYms1UWtkUVZjTEV3?oc=5",
+   "date": "2026-09-07T12:56:00.000Z"
   }
  ]
 }
