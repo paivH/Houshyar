@@ -1,14 +1,6 @@
 {
- "updated": "2026-09-10T23:49:49.286Z",
+ "updated": "2026-09-11T03:38:44.248Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMX0t0Szdac3dHQjV1NUVZd002SFVGOUdCOTFZWlE5UDRvbl9iYUtfSW0wRHU1NHhBZkk0OV9lcEktVHVZV1ZEb2EyM2dqRWlCc214QW5sZ1ZZLVA4bVM1Wg?oc=5",
-   "date": "2026-09-10T01:49:08.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -40,6 +32,14 @@
    "desc": "Return to Sari Kani brings hope, fear for displaced Kurdish families &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90ZmlsaDNBQWtQRTZLMzNvbVpPd19ZU3lsdy1RVlh3TEZSVEpfTHFtb0M2N0lNVVNxMTRtbXFOOUtUS2pYdmwtdXdFd0RvWnFQMzdmbWtZQ1d2Uk5nMXk0?oc=5",
    "date": "2026-09-09T06:31:37.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Overnight explosions heard in southern Iran as regional tensions escalate",
+   "desc": "Overnight explosions heard in southern Iran as regional tensions escalate &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HcXZ6VUdDZ2JIY0o1c1laNl80cjRfTDk5WTFYdTV5OHBFN3NvWkhRZm8zRUVjZEUzSk1oZDN5aGppUXNlUlR4Wmd5OVhpT2NQdmhTZ1FydWdxVTB1YlZCaFVLRQ?oc=5",
+   "date": "2026-09-10T05:11:12.000Z"
   },
   {
    "src": "K24",
@@ -132,10 +132,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Can Trump really pay $5,000 to every American adult?",
-   "desc": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-   "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-10T16:48:37.000Z"
+   "title": "Is Trump's $5,000 pledge a sign of panic?",
+   "desc": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
+   "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-11T01:38:51.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Jimmy Kimmel says interview with Democrat won't air on TV, cites regulator 'threats'",
+   "desc": "The White House denies Kimmel's allegations regarding his interview with James Talarico, accusing the TV host of \"play acting\".",
+   "link": "https://www.bbc.co.uk/news/articles/cvgyrv39n4eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-10T23:04:15.000Z"
   },
   {
    "src": "BBC",
@@ -152,14 +160,6 @@
    "desc": "Eligible Americans in 30 states would begin receiving payments in October, funded by a surplus of fees, the White House said.",
    "link": "https://www.bbc.co.uk/news/articles/c62jlgrj506o?at_medium=RSS&at_campaign=rss",
    "date": "2026-09-10T18:05:34.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Year after Charlie Kirk's death, conservative students struggle to fill void he left",
-   "desc": "The assassination sent shockwaves through the conservative youth movement, which students say has lost momentum and a vital figurehead.",
-   "link": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-10T11:41:59.000Z"
   },
   {
    "src": "NPR",
@@ -300,14 +300,6 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "The Kurdistan Museum Studio Libeskind - World-Architects",
-   "desc": "The Kurdistan Museum Studio Libeskind &nbsp;&nbsp; World-Architects",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BWV81U3VNQ3YzSkRmZzVWZldSVzl2b1EyX2hCUF9OVkVWVzk5VWs5YzVLM2U5SUxPYS04dmc3bF9HTVVDY2k2MDYyMGcyNW5aaTM2VU1zdDh2WUUwYmRVeG1CMGl2bmJQblpOQnhUWkE0YmpE?oc=5",
-   "date": "2026-09-03T23:59:02.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Can Iraq turn a 10 million bpd oil ambition into economic power?",
    "desc": "Can Iraq turn a 10 million bpd oil ambition into economic power? &nbsp;&nbsp; The Arab Weekly",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0dDMzhMc3lzMDJ5OWc2TVRRUVFCU3dyMXh0djJEZG5PWnFQT2JUTWNBVmVBTUxNcE5qbXNZOTRLd1hYZHNYRFIxY2o4ZVZXaENXYkh5YVBsa19vY1Jwa0VKaTdwQVFPbGNZb2pYdDYxMXgzZEM4V24yRXJVdnJ6Z21YTUhMallMZEE?oc=5",
@@ -320,6 +312,14 @@
    "desc": "Prime Minister Masrour Barzani Opens Seventh International Real Estate Investment Exhibition in Erbil &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBRDUtUW5BV3l2cGhDMDM0M25wUVdtNlg1Q25IZ2kybDFNQ2dCNEFyclJSSzROS2NEdXJzRlpDSmUtcTd0dTFkdWNLem9PYng3RUxnSzNB?oc=5",
    "date": "2026-09-09T20:40:23.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Shafaq News..KRG project tally exceeds 860 across key sectors",
+   "desc": "Shafaq News..KRG project tally exceeds 860 across key sectors &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmJsdl94TWh5ZDFxSnVwWk03VTAwZDg3elBiTTJWNXZYYmladmpSb2xCWnZCRjhFYzZGeUFlbU5PekR5ZXdzM3ZFOTlxbmNUdXJYNzhnS2dIbmZWblpyd284ZnJkZl9MTkw4NjZUQ2FDbEMwZHRnZEVsNFpjODg4N2JDMm1VQU0?oc=5",
+   "date": "2026-09-08T13:04:01.000Z"
   },
   {
    "src": "Tourism",
