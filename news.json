@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-11T19:56:51.623Z",
+ "updated": "2026-09-11T22:23:54.413Z",
  "items": [
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdish member of Syrian army killed in Hasaka: Sources",
+   "desc": "Kurdish member of Syrian army killed in Hasaka: Sources &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yQ1RkLWZYUjVMNFpPR3EzaE9BU0h6QkNPeHY2cUFOT3FzLWdHU1dDZEhheTlRRzRkYTM4YXVGSzRjQXFEMWpSbWRvOU44djl1Q1J2R3o0WHFRMGhFYWpr?oc=5",
+   "date": "2026-09-10T22:32:12.000Z"
+  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -34,12 +42,20 @@
    "date": "2026-09-10T21:30:04.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Women comprise 88% of blackmail cases as Iraq grapples with outdated harassment law",
-   "desc": "Women comprise 88% of blackmail cases as Iraq grapples with outdated harassment law &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNHdkb2gwVjFaMnlUUnBzU1YzTUZjUXh4NEJ3bmY4ZHZyXy1GRzVpbHVrUF92TVA1cEJEWFJnSXlKajVLQ1Npd1U1NUFraEtmR2pMTERlSnpnbDlKSFJ1TFVEbw?oc=5",
-   "date": "2026-09-10T06:23:31.000Z"
+   "title": "Iraq Condemns Drone Attacks on Saudi Arabia and Orders Urgent Investigation to Identify Perpetrators",
+   "desc": "Prime Minister al-Zaidi issues immediate investigation order as Baghdad stresses Iraqi soil will never be a launchpad for attacks against any state, praises Saudi restraint, and vows legal action against those responsible",
+   "link": "https://www.kurdistan24.net/en/story/938778/iraq-condemns-drone-attacks-on-saudi-arabia-and-orders-urgent-investigation-to-identify-perpetrators",
+   "date": "2026-09-11T20:34:42.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Saudi Arabia Condemns Iraq-Launched Drone Strikes on Its Oil Pipeline",
+   "desc": "Riyadh suspends East-West pipeline operations after drones from Iraqi territory strike Riyadh and Medina sections, injuring personnel and causing material damage, but declines military retaliation to give Baghdad time to act, while reserving all rights to defend itself",
+   "link": "https://www.kurdistan24.net/en/story/938774/saudi-arabia-condemns-iraq-launched-drone-strikes-on-its-oil-pipeline",
+   "date": "2026-09-11T20:23:23.000Z"
   },
   {
    "src": "K24",
@@ -66,60 +82,44 @@
    "date": "2026-09-11T16:37:58.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump on September 11 Anniversary: Iran Will Never Have a Nuclear Weapon and We Will Never Forget",
-   "desc": "President uses the 25th anniversary of the September 11 attacks to declare Iran the world's largest state sponsor of terrorism and reaffirm America's commitment to preventing it from acquiring nuclear weapons",
-   "link": "https://www.kurdistan24.net/en/story/938734/trump-on-september-11-anniversary-iran-will-never-have-a-nuclear-weapon-and-we-will-never-forget",
-   "date": "2026-09-11T15:11:43.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "US Targets 85 Percent of Iran's Tankers and Warships",
-   "desc": "Bessent tells reporters two thirds of Hormuz traffic is now moving freely as Saudi Arabia announces it will cut oil prices, while Iran's foreign ministry announces Monday's coastal states meeting in Oman to discuss Hormuz shipping safety",
-   "link": "https://www.kurdistan24.net/en/story/938731/us-targets-85-percent-of-irans-tankers-and-warships-as-treasury-secretary-warns-no-exceptions",
-   "date": "2026-09-11T14:47:43.000Z"
+   "title": "PM Al-Zaidi removes Maysan chief over Saudi attack",
+   "desc": "Shafaq News- Baghdad Iraq has dismissed the commander of Maysan Operations Command after an investigation found that recent attacks on Saudi oil facilities were launched from inside the southern province, Maj. Gen. Sabah Al-Numan, spokesman for the Commander-in-Chief of the Armed Forces, said on Saturday. Al-Numan added that Prime Minister Ali Al-Zaidi had previously ordered an investigative panel",
+   "link": "https://shafaq.com/en/Iraq/PM-Al-Zaidi-removes-Maysan-chief-over-Saudi-attack",
+   "date": "2026-09-11T22:18:33.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Al-Maliki calls for restraint in political discourse",
-   "desc": "Shafaq News- Baghdad Former Iraqi Prime Minister Nouri Al-Maliki on Friday called on politicians, media figures and bloggers to avoid circulating what he described as fabricated or manipulated accusations and material, urging greater restraint in public and political discourse. In a statement, Al-Maliki, who heads the State of Law Coalition, warned that airing political &ldquo;dirty laundry&rdquo;",
-   "link": "https://shafaq.com/en/Iraq/Al-Maliki-calls-for-restraint-in-political-discourse",
-   "date": "2026-09-11T19:44:50.000Z"
+   "title": "Iran defends Hormuz shutdown ahead of regional summit",
+   "desc": "Shafaq News- Tehran Iran on Friday said its closure of the Strait of Hormuz was a defensive measure under international law, as Tehran prepares to join talks in Oman on the strategic waterway amid a continuing US blockade and rising tensions with Washington. Iranian Foreign Ministry spokesperson Esmaeil Baqaei noted that Tehran remains open to diplomacy but cannot negotiate with an opponent unwill",
+   "link": "https://shafaq.com/en/World/Iran-defends-Hormuz-shutdown-ahead-of-regional-summit",
+   "date": "2026-09-11T21:48:08.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Suleiman Al-Assad arrested in Lebanon drug raid",
-   "desc": "Shafaq News- Beirut Lebanese security forces raided a suspected drug warehouse in the Beqaa region on Friday and arrested several people, including Suleiman Hilal Al-Assad, a relative of former Syrian President Bashar Al-Assad and the son of his cousin Hilal Al-Assad, according to Al Arabiya and Al Hadath. The outlets cited sources saying Syrian authorities had asked Lebanon to hand over Al-Assad ",
-   "link": "https://shafaq.com/en/Middle-East/Suleiman-Al-Assad-arrested-in-Lebanon-drug-raid",
-   "date": "2026-09-11T19:26:04.000Z"
+   "title": "Qatar backs Saudi restraint after drone attacks from Iraq",
+   "desc": "Shafaq News- Doha Qatar on Friday praised Saudi Arabia&rsquo;s &ldquo;responsible approach&rdquo; in supporting Iraqi government efforts to prevent its territory from being used to attack the Kingdom and neighboring countries, after Riyadh said drones launched from Iraq targeted its East-West oil pipeline. Qatar&rsquo;s Foreign Ministry said Doha stood in full solidarity with Saudi Arabia and supp",
+   "link": "https://shafaq.com/en/Middle-East/Qatar-backs-Saudi-restraint-after-drone-attacks-from-Iraq",
+   "date": "2026-09-11T21:09:56.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "PM Al-Zaidi to visit France on September 13",
-   "desc": "Shafaq News- Baghdad Iraqi Prime Minister Ali Falih Al-Zaidi will begin an official visit to France on September 13 at the invitation of President Emmanuel Macron, the PM&rsquo;s media office said on Friday evening. Al-Zaidi and Macron will discuss regional and international issues of mutual interest and ways to strengthen relations between Iraq and France. Both leaders will chair expanded talks b",
-   "link": "https://shafaq.com/en/Iraq/PM-Al-Zaidi-to-visit-France-on-September-13",
-   "date": "2026-09-11T18:59:07.000Z"
+   "title": "Babil police arrest defamatory pages operator",
+   "desc": "Shafaq News- Babil Iraqi security forces arrested a social media administrator in Babil province accused of running fake pages that targeted public figures with defamatory and insulting content, the Interior Ministry said on Friday. The arrest followed several complaints in Kutha district over pages targeting provincial officials and social figures, as well as businessmen and wealthy individuals. ",
+   "link": "https://shafaq.com/en/society/Babil-police-arrest-defamatory-pages-operator",
+   "date": "2026-09-11T21:01:50.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Sinjar Resistance Units set to disarm",
-   "desc": "Shafaq News- Baghdad Iraq's Sinjar Resistance Units (YB&#350;) will begin handing over their weapons to the state, Prime Minister Ali Al-Zaidi said on Friday, bringing Mount Sinjar under the full authority of the government and its security and administrative institutions. During a meeting with a delegation from the Yazidi Cause Alliance, led by its parliamentary bloc chief, lawmaker Murad Ismail,",
-   "link": "https://shafaq.com/en/Iraq/Sinjar-Resistance-Units-set-to-disarm",
-   "date": "2026-09-11T18:26:43.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Thousands protest Kurdish fighter’s killing in northeast Syria",
-   "desc": "Shafaq News- Al-Hasakah Thousands rallied across northeastern Syria&rsquo;s Al-Hasakah province on Friday, demanding accountability for the abduction and killing of former Syrian Democratic Forces (SDF) fighter Sami Sheikhmus Hasso, known as &ldquo;Siban,&rdquo; who had recently joined the Syrian Defense Ministry&rsquo;s Al-Hasakah Brigade. Demonstrations were held in Qamishli, Al-Hasakah, Amuda, ",
-   "link": "https://shafaq.com/en/World/Thousands-protest-Kurdish-fighter-s-killing-in-northeast-Syria",
-   "date": "2026-09-11T17:33:05.000Z"
+   "title": "Saudi suspends Hormuz-bypass oil pipeline",
+   "desc": "Shafaq News- Riyadh Saudi Arabia&rsquo;s Energy Ministry said on Friday it was suspending operations on the East-West oil pipeline as a precaution after &ldquo;multiple targeting incidents.&rdquo; The pipeline is Saudi Arabia&rsquo;s main crude export route that bypasses the Strait of Hormuz, carrying oil from the Kingdom&rsquo;s eastern production areas to the Red Sea port of Yanbu. The 1,200-kil",
+   "link": "https://shafaq.com/en/Middle-East/Saudi-suspends-Hormuz-bypass-oil-pipeline",
+   "date": "2026-09-11T20:52:52.000Z"
   },
   {
    "src": "BBC",
@@ -127,7 +127,7 @@
    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
    "desc": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-11T19:16:32.000Z"
+   "date": "2026-09-11T20:12:01.000Z"
   },
   {
    "src": "BBC",
@@ -140,10 +140,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "In 9/11 remarks, Trump links war with Iran",
-   "desc": "At the Pentagon 9/11 commemorations, President Trump praised the military and highlighted how their work is continuing with the war in Iran.",
-   "link": "https://www.bbc.co.uk/news/videos/c5yjkj438eeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-11T15:19:39.000Z"
+   "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
+   "desc": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
+   "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-11T19:53:54.000Z"
   },
   {
    "src": "BBC",
@@ -164,8 +164,16 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "The other side of 9/11: Afghans reckon with America's long shadow",
+   "desc": "It's been nearly 25 years since the start of the U.S- led invasion of Afghanistan. NPR returns to Kabul to see how Afghans, now back under Taliban rule, are coping with the legacy of that 20 year war.",
+   "link": "https://www.npr.org/2026/09/11/nx-s1-5949270/the-other-side-of-9-11-afghans-reckon-with-americas-long-shadow",
+   "date": "2026-09-11T21:36:20.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-   "desc": "Many Iranians lost their jobs because of the war and the US blockade. Now some are even losing their back-up jobs as sanctions tighten",
+   "desc": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
    "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
    "date": "2026-09-11T19:39:35.000Z"
   },
@@ -194,20 +202,12 @@
    "date": "2026-09-11T06:42:04.000Z"
   },
   {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
-   "desc": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
-   "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
-   "date": "2026-09-11T05:40:21.000Z"
-  },
-  {
    "src": "BBC ME",
    "section": "US & World · جیهان",
    "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
    "desc": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
    "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-11T16:58:34.000Z"
+   "date": "2026-09-11T22:17:45.000Z"
   },
   {
    "src": "BBC ME",
@@ -348,10 +348,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Armenia, Kurdistan Region of Iraq discuss trade and economic ties",
-   "desc": "Armenia, Kurdistan Region of Iraq discuss trade and economic ties &nbsp;&nbsp; Armenpress",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPcFNjaUFVaG9XQWVXUFh6VVl2bG9VcjNWcHAxbjZIWml1UEZyWVR2UXpaN3VVb3lVajNoV2pZY1VGNmUyZ0thdE9tWUQ3anQyaGfSAVdBVV95cUxQdzBpbmpoVDNhY3E5ZnpVVnhCY203SGg3aDJ2VVhyb05WOUFQQjdkb2tSdXk3bGxhMG5EY3pfM1NBTU5jc2lGb0lRb0dSbXBDSi1UN3U2cjA?oc=5",
-   "date": "2026-09-11T06:38:00.000Z"
+   "title": "Armenia discussed opportunities to develop trade and economic ties with Iraqi Kurdistan",
+   "desc": "Armenia discussed opportunities to develop trade and economic ties with Iraqi Kurdistan &nbsp;&nbsp; 1Lurer",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRl9CSjQxM2pidkdBRV95U2xfNlJodVB4cGFpVVgxOUxfMEFoNjYyQnQwU2JsdHVSWk9LbW5VVnJOWXdPMl9mdlR0c3lJazI0YjZXSnlzekM4Q05xdkNucTlNaXB3QllvclVZZ2o4Y0xXNkg4eUYxQ012QTNRMTJKejZhYTl2ZWJ4R0Z0WnB6b0tCRkNWSlF2TjdBQ0JLd2FMWjNQSkNCcXZCRWljVDl2N2NTd2RJMGFMVTRIY1RVMGdjWDQzemxUMzlDbw?oc=5",
+   "date": "2026-09-11T07:22:40.000Z"
   },
   {
    "src": "Tourism",
