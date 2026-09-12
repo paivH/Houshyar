@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T18:37:46.403Z",
+ "updated": "2026-09-12T21:17:47.248Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,6 +8,14 @@
    "desc": "Three IRGC members killed in clashes with Baloch militants in southeast Iran &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IMmZfLVFxNXNSWUJzaC1TUjlWdFpXanlCOFFqSUR6VTNLRzdCa1hMaVVPaVRsV0lJMVdENllqUmhiWjI5eDg3d1dBbnloUEItMXROeGZVYmNDQkZydWZwZmlKYw?oc=5",
    "date": "2026-09-12T13:00:13.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Syrian Kurdish parties demand probe into Kobane prison deaths",
+   "desc": "Syrian Kurdish parties demand probe into Kobane prison deaths &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pODV2RVpiblBORWo5WGo5VDBvZk9WQk1INHdnVE82RnFubHJTVlluckZNTXJuRXM2NkZDMVBtUFpTS2otOWJadkVSVWpKNGZLVmhVTmpUTkRoZzJTYXRF?oc=5",
+   "date": "2026-09-12T20:48:41.000Z"
   },
   {
    "src": "Rudaw",
@@ -34,12 +42,28 @@
    "date": "2026-09-12T11:35:12.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq confirms attack on Saudi Arabia launched from its territory",
-   "desc": "Iraq confirms attack on Saudi Arabia launched from its territory &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zVzZmdm45dkxqU1pXX0hfTXNwbjJMNzlzaWMteTBhZWVNMmJOZFNkb1lXSnZobTlxSnlydWliZnZ1ek82cEJqTjBsZ3kwRnFRX3FFSHg2aTJLTUV5Zjc3M2VBbUhYUQ?oc=5",
-   "date": "2026-09-12T07:39:41.000Z"
+   "title": "Suyana Bloc Rejects Outside Interference in Christian Political Affairs",
+   "desc": "Iraqi parliamentary bloc says Christian representation should be determined by Christian voters and rejects Qais al-Khazali’s remarks",
+   "link": "https://www.kurdistan24.net/en/story/939002/suyana-bloc-rejects-outside-interference-in-christian-political-affairs",
+   "date": "2026-09-12T20:37:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Zelensky Offers to Meet Putin at G20 as Kremlin Rejects Proposal",
+   "desc": "Ukrainian president says he is ready for talks with Russia’s leader in Miami, but Moscow insists any face-to-face meeting must take place in the Russian capital",
+   "link": "https://www.kurdistan24.net/en/story/938995/zelensky-offers-to-meet-putin-at-g20-as-kremlin-rejects-proposal",
+   "date": "2026-09-12T19:36:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Houthis Say More Than 200 Fighters Freed as Yemen Offensive Intensifies",
+   "desc": "The Iran-backed group says 210 detainees were released after its forces captured territory along Yemen’s Red Sea coast, as government forces report fresh strikes near Mocha",
+   "link": "https://www.kurdistan24.net/en/story/938983/houthis-say-more-than-200-fighters-freed-as-yemen-offensive-intensifies",
+   "date": "2026-09-12T18:41:00.000Z"
   },
   {
    "src": "K24",
@@ -58,68 +82,44 @@
    "date": "2026-09-12T16:50:36.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "CENTCOM: Zero Vessels Passed Blockade Without Permission",
-   "desc": "American military says every commercial vessel transiting the blockade zone has done so only with US authorization as service members remain focused on enforcing the steel wall against Iran",
-   "link": "https://www.kurdistan24.net/en/story/938949/centcom-zero-vessels-passed-blockade-without-permission",
-   "date": "2026-09-12T15:34:54.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "KRG Delegation Meets KDP Parliamentary Bloc on 2027 Federal Budget",
-   "desc": "Kurdistan Region negotiating team briefs KDP bloc on Baghdad talks with federal ministries and pushes for constitutional financial rights, salary payments, and unified Kurdish parliamentary stance",
-   "link": "https://www.kurdistan24.net/en/story/938946/krg-delegation-meets-kdp-parliamentary-bloc-on-2027-federal-budget",
-   "date": "2026-09-12T15:18:24.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi Forces Find Drone Launchers Near Iran Border After Saudi Pipeline Attack",
-   "desc": "Security forces discover drone launchers in Maysan as Baghdad investigates attacks on Saudi Arabia launched from Iraqi territory",
-   "link": "https://www.kurdistan24.net/en/story/938941/iraqi-forces-find-drone-launchers-near-iran-border-after-saudi-pipeline-attack",
-   "date": "2026-09-12T14:50:00.000Z"
+   "title": "Six speakers take stage at TEDx Slemani",
+   "desc": "Shafaq News- Al-Sulaymaniyah TEDx Slemani in Al-Sulaymaniyah opened on Saturday evening, drawing a large audience and participants from across the Kurdistan Region of Iraq (KRI) and beyond. Shkar Atta, the event&rsquo;s organizer, told Shafaq News that six speakers from the KRI were selected for this year&rsquo;s edition based on their experiences and achievements in their respective fields. Each ",
+   "link": "https://shafaq.com/en/Kurdistan/Six-speakers-take-stage-at-TEDx-Slemani",
+   "date": "2026-09-12T21:06:50.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Twin explosions strike Iran’s Qeshm Island",
-   "desc": "Shafaq News- Tehran Two explosions were heard on Iran&rsquo;s Qeshm Island in the southern Hormozgan province, the state-run IRNA news agency reported on Saturday. There was no immediate information on the cause of the explosions or whether they caused any damage or casualties. This is a breaking story...",
-   "link": "https://shafaq.com/en/Middle-East/Twin-explosions-strike-Iran-s-Qeshm-Island",
-   "date": "2026-09-12T18:33:07.000Z"
+   "title": "Chelsea ready $140M move for Fermin Lopez",
+   "desc": "Shafaq News- Barcelona/ London Chelsea are reportedly prepared to offer more than $140 million for Barcelona midfielder Fermin Lopez, according to Spanish media. No formal bid has been confirmed. El Nacional reports that Chelsea head coach Xabi Alonso has been given approval to pursue the 23-year-old and views him as a priority midfield target. Fermin has opened the season with four goals and two ",
+   "link": "https://shafaq.com/en/sport/Chelsea-ready-140M-move-for-Fermin-Lopez",
+   "date": "2026-09-12T20:52:46.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US dollar tops 236,000 Iranian tomans",
-   "desc": "Shafaq News- Tehran The US dollar climbed above 236,000 Iranian tomans in Iran's free market on Saturday, reaching a new high, according to Tejarat News, a website that tracks free-market exchange rates. The euro also rose about 5.6% over the past week to around 274,760 tomans, while the British pound gained about 5.8% to top 319,000 tomans. US Treasury Secretary Scott Bessent unveiled &ldquo;Oper",
-   "link": "https://shafaq.com/en/Economy/US-dollar-tops-236-000-Iranian-tomans",
-   "date": "2026-09-12T18:08:07.000Z"
+   "title": "Airstrike hits three ISIS positions in Diyala",
+   "desc": "Shafaq News- Diyala An airstrike targeted three ISIS positions in the Hamrin Mountains* in Iraq&rsquo;s Diyala province on Saturday, a security source told Shafaq News. Security forces closed Lake Hamrin to fishing after ISIS militants were spotted using boats in the area and attempted to abduct three fishermen, who managed to escape, according to the source. No immediate information was available",
+   "link": "https://shafaq.com/en/Security/Airstrike-hits-three-ISIS-positions-in-Diyala",
+   "date": "2026-09-12T20:48:11.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Al-Anbar factory to produce 27 types of pesticides",
-   "desc": "Shafaq News- Al-Anbar Iraqi Industry and Minerals Minister Muhammad Nouri Ahmad inaugurated the Al-Tariq agricultural pesticide plant in Al-Anbar province, with four production lines capable of producing up to 5,000 liters and five tons of various pesticides per day. The facility also includes a production line for plastic containers and specialized laboratories for quality control and research, p",
-   "link": "https://shafaq.com/en/Economy/Al-Anbar-factory-to-produce-27-types-of-pesticides",
-   "date": "2026-09-12T17:46:22.000Z"
+   "title": "Five possible successors emerge for Baghdad governor",
+   "desc": "Shafaq News- Baghdad Five possible successors have emerged amid uncertainty over the future of Baghdad Governor Atwan Al-Atwani, whose potential referral to retirement remains under review, an informed source told Shafaq News on Saturday. The source said the Al-Bashaer Movement, which is affiliated with the State of Law Coalition (SLC), won about 20 provincial council seats across Iraq. Under an e",
+   "link": "https://shafaq.com/en/Iraq/Five-possible-successors-emerge-for-Baghdad-governor",
+   "date": "2026-09-12T20:11:28.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US-Iraq ties set for major shift",
-   "desc": "Shafaq News- Baghdad/ Washington US-Iraq relations are set for a major shift, with Washington and Baghdad seeking to expand trade and economic ties, US Charg&eacute; d'Affaires in Iraq Steven Fagin said on Saturday at a press conference. Fagin separately outlined support for Iraq&rsquo;s sovereignty and stronger bilateral ties as key priorities, while describing the country as having a &ldquo;vibr",
-   "link": "https://shafaq.com/en/Iraq/US-Iraq-ties-set-for-major-shift",
-   "date": "2026-09-12T17:30:52.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US blockade reroutes 100 ships near Hormuz",
-   "desc": "Shafaq News- Washington The United States has diverted 100 commercial vessels over the past 60 days, resuming &ldquo;the steel wall blockade against Iran,&rdquo; the US Central Command (CENTCOM) said on Saturday. No vessel had crossed the blockade without US authorization, CENTCOM added, noting that &ldquo;American service members remain laser-focused on this mission.&rdquo; CENTCOM forces have re",
-   "link": "https://shafaq.com/en/World/US-blockade-reroutes-100-ships-near-Hormuz",
-   "date": "2026-09-12T16:57:59.000Z"
+   "title": "Ajeel field targets 122% increase in gas production",
+   "desc": "Shafaq News- Saladin Iraq plans to more than double gas production at the Ajeel oil field in Saladin, from about 135 million to 300 million standard cubic feet per day, under a new 25-year development contract aimed at supplying more domestic fuel to power plants and industry. Signed by the state-run North Oil Company and KEPT under the sponsorship of Prime Minister Ali Al-Zaidi, the contract also",
+   "link": "https://shafaq.com/en/Economy/Ajeel-field-targets-122-increase-in-gas-production",
+   "date": "2026-09-12T19:55:14.000Z"
   },
   {
    "src": "BBC",
@@ -127,7 +127,7 @@
    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
    "desc": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-12T17:42:38.000Z"
+   "date": "2026-09-12T21:16:47.000Z"
   },
   {
    "src": "BBC",
@@ -285,7 +285,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "PM Barzani opens Erbil real estate investment expo",
-   "desc": "PM Barzani opens Erbil real estate investment expo &nbsp;&nbsp; The New Region",
+   "desc": "PM Barzani opens Erbil real estate investment expo &nbsp;&nbsp; thenewregion.com",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hT3lLeGl0NHgtUWpBY2FFVGMxWE5KblJMRnJZSGNPbG1OeHlxZ25GWnpPVVJ3Q05feVhkSUtCamRpMXllUThaN3gzNA?oc=5",
    "date": "2026-09-09T09:16:20.000Z"
   },
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Shafaq News..KRG project tally exceeds 860 across key sectors",
-   "desc": "Shafaq News..KRG project tally exceeds 860 across key sectors &nbsp;&nbsp; shafaq.com",
+   "desc": "Shafaq News..KRG project tally exceeds 860 across key sectors &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmJsdl94TWh5ZDFxSnVwWk03VTAwZDg3elBiTTJWNXZYYmladmpSb2xCWnZCRjhFYzZGeUFlbU5PekR5ZXdzM3ZFOTlxbmNUdXJYNzhnS2dIbmZWblpyd284ZnJkZl9MTkw4NjZUQ2FDbEMwZHRnZEVsNFpjODg4N2JDMm1VQU0?oc=5",
    "date": "2026-09-08T13:04:01.000Z"
   },
@@ -309,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
-   "desc": "Iraq faces sovereignty test as US-led military coalition exit nears &nbsp;&nbsp; aljazeera.com",
+   "desc": "Iraq faces sovereignty test as US-led military coalition exit nears &nbsp;&nbsp; Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDBHNEhRYUdKN05XYmdSTlZ3R3dsZXlacVhGbllMeDVXYVNsYlNNdXdfZ2xCbjRYeWFwb2ZfOUFVYkl0enozZU55ZW50dzMzSDBuc096SDFPVWJENi0ydXVJOUVjWTU3OVh6eU9nODFMUHcxbENlWU84aTVQSFFidnZ2c20zcF9SMUEtYVJPVEpEMmllb21sZFg5ZUYzYndONDdmUFRfbmkxRmPSAbABQVVfeXFMUDF5X3VCWGZEUFFUTUF6N0pMXzF4a3ZBSDlveEQwRGhZVVdQOHE4TXFCTUxjcFVvUGNraHpMVVl4RmN0SFdIeDQ5bUJGSkNCSjFfX01mU1pzYnE2YjhGRTNPTDhTYlJyOXdPcmt4Z2VUSUl2U3lZMzI1dHhuaEtGaTNrSzc4SEUzbmxZb3pFNGFvdjg0QnhtUkJwOVJkM3FnQkRmeHktOGVpYmRtYTlGaHg?oc=5",
    "date": "2026-09-07T13:35:56.000Z"
   },
@@ -325,7 +325,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Shafaq News..Iran, KRI boost border transport and tourism ties",
-   "desc": "Shafaq News..Iran, KRI boost border transport and tourism ties &nbsp;&nbsp; shafaq.com",
+   "desc": "Shafaq News..Iran, KRI boost border transport and tourism ties &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkItS1lEZG9CTnJPLWxrcU5XeVpDMG1RRWdFSW9HSi1rUEx4X0hTRE4wcjJuODZaMU00ZzdaYW8xelgyWk1uTzlYQmRCbmpNQV9HOG9ZcGkwUmk1YWUyc2FOLWhYME9QNmVjVGVidk9na3VOTVBmQmtQdFF5UklpVE1fcl93b3M?oc=5",
    "date": "2026-09-05T12:37:13.000Z"
   },
