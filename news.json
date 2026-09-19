@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-18T23:06:34.967Z",
+ "updated": "2026-09-19T01:26:31.850Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EdUJMR0JGN3ViR3RvRXZidm9ySjRnVGhCenBSd2tmQkRzWk90NDNOWU5BTjZ1MFRPREJUd1dkVGpVWXgwcllqTHBURzFIUDFTZW9tV3djMmtqbzdObjRPZmdKQjM?oc=5",
-   "date": "2026-09-17T09:52:35.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBweWxUdHIwcGdpTU5OV3BMd3JlM0xuNDQ4TU16Q2JtekNmMXV1TmhmaXQ0X09acHpjVFl1ZUhrcmFVOHEtYmZOalR0cWFXbFB4cFZQQVdUNnRvcnl3cUdQNURyQQ?oc=5",
+   "date": "2026-09-18T18:02:15.000Z"
   },
   {
    "src": "Rudaw",
@@ -23,7 +23,7 @@
    "title": "Tehran rally draws 300,000 as Basij leader touts ‘defense’ readiness underway",
    "desc": "Tehran rally draws 300,000 as Basij leader touts ‘defense’ readiness underway &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uanBRdVR0RC1JZkJXR2JXa3BHcjh6cWlaMURFRDhzNS03WW00WlJaODhyUWgyNnpfeXJZajhZOHhKXzZ3alhGODZQNVhMN0ZISVlFSGJmVzBxV0JlTGxJZTdScw?oc=5",
-   "date": "2026-09-18T11:33:20.000Z"
+   "date": "2026-09-18T12:33:34.000Z"
   },
   {
    "src": "Rudaw",
@@ -135,7 +135,7 @@
    "title": "Trump says he is banning CNN and Politico from White House",
    "desc": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
    "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-18T21:45:19.000Z"
+   "date": "2026-09-18T23:26:48.000Z"
   },
   {
    "src": "BBC",
@@ -160,6 +160,14 @@
    "desc": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
    "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
    "date": "2026-09-18T18:56:17.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Russians head to the polls to choose lawmakers for their parliament",
+   "desc": "Russians head to the polls to choose lawmakers for their parliament, the Duma. It's Russia's first nationwide parliamentary race since launching its full scale invasion of Ukraine in 2022.",
+   "link": "https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament",
+   "date": "2026-09-18T23:04:57.000Z"
   },
   {
    "src": "NPR",
@@ -192,14 +200,6 @@
    "desc": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
    "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
    "date": "2026-09-18T11:09:24.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Ms. Rachel has entered her album era, and she is so happy about it",
-   "desc": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
-   "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-   "date": "2026-09-18T11:00:00.000Z"
   },
   {
    "src": "BBC ME",
@@ -300,6 +300,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Iraq condemns drone attack in Erbil",
+   "desc": "Iraq condemns drone attack in Erbil &nbsp;&nbsp; Ednews.net",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZ3FCS1psWUxrcFp1UEJHQjdwYVdXUnVROVc3QmZmU0ZlUDFjWWtqZFpjd3BvenZMV0s4c3dNNjRPNUFScW1RUm5TVnpYakcxUmk0SFUyRFFzSGY0eURwczlDS3cwTmYzd3c?oc=5",
+   "date": "2026-09-16T21:46:26.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Shafaq News..KDP launches 11-book project on September Revolution",
    "desc": "Shafaq News..KDP launches 11-book project on September Revolution &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2x5VkJrNlBVVGNHU1dvM1hHNXdfbWtaeGFCX2c1eXZOQVhWd3pIdkdzR3BGbGNaUTg2eWN1QUIza19wdFhXcHZMTldOQ3BoSE1BRWtkOVRzcDBVUlN4dGNCZUo5TEV0eURsc0RvRVFEOGVZQ3AxcTFIeDFueXlGSXVwT1JqWWFQLWhtbQ?oc=5",
@@ -312,14 +320,6 @@
    "desc": "Iraq, French companies discuss four major energy projects: Minister &nbsp;&nbsp; The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YZDlIaEpPb3RremZLNlJoajBjeUF1YlVKTUc4b2UwY3NWU1ZiLWhLTlhYSE1vRTVFdktvLWJ5U25WZWlZVE10S21Mdw?oc=5",
    "date": "2026-09-15T08:19:58.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Erbil Removed From Global List of Polluted Cities, Governor Says",
-   "desc": "Erbil Removed From Global List of Polluted Cities, Governor Says &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VbXVFcFFoWEFmV05FaE9fVDFGWVBwWFd3cDNtTnAtMjBpZG5YOGNVdlJkYUFOS045U2R0dXFJZXhfeXNMNmlHMHZDRFJyeV94NmVKTjN3?oc=5",
-   "date": "2026-09-12T20:37:00.000Z"
   },
   {
    "src": "Tourism",
