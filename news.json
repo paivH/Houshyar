@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T00:41:44.500Z",
+ "updated": "2026-09-25T05:56:39.693Z",
  "items": [
   {
    "src": "Rudaw",
@@ -22,8 +22,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBENmRpYW5BUFFDZ0ZWM2lfM011bThyMUY0RXJCenV4bTY0V3ZJaEM4M01OaFRFOUdhS0c2UzQ1YmpWM2Y2RmYxendaVHR6ckZmUmg4TU4wdHY3d1pQNjUyZ21vODR3NWVFVmpn?oc=5",
-   "date": "2026-09-24T13:22:48.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhelotZnZfNFMwQWFNdEVyQmV4dWh0dHN5VmZWR01KU3VaRzFvdEdZQ29nUWtUeWUwNXR0a191d2o5RWtIUC1EZW9RMm1HX0VHcnFiTzk4WXE2WWxGY3A3LUM0RDM5OGItYkE?oc=5",
+   "date": "2026-09-24T07:38:15.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "Over 50 arrested in Iraq on terror charges in nationwide campaign &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fV3J2OGU2NkNOc2dqY3BlNDZhZVA4NlFIMGJHdWFFXzl6SzFENzd4NVdPMm9LNTdOOE9YQWlMRTRBWUJkbjlDWUNZcjZ2STJtc1pUX2JVaUFWQVRTM20tdTdvbw?oc=5",
    "date": "2026-09-24T18:08:54.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Region Marks Ninth Anniversary of Independence Referendum",
+   "desc": "The referendum followed a decision reached on June 7, 2017, when senior representatives of Kurdish political parties and the KRG, together with President Masoud Barzani and other senior officials, agreed to hold the vote and established a High Council to oversee the process.",
+   "link": "https://www.kurdistan24.net/en/story/941737/kurdistan-region-marks-ninth-anniversary-of-independence-referendum",
+   "date": "2026-09-25T05:21:00.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,12 @@
    "date": "2026-09-24T16:09:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Soran Antiquities Directorate Completes Survey for New Museum and Archaeological Park",
-   "desc": "On Thursday, Abdulwahab Suleiman, Director of Antiquities and Heritage of the Soran Independent Administration, told Kurdistan24 that the survey was the first and a crucial step toward detailed scientific planning for the project.",
-   "link": "https://www.kurdistan24.net/en/story/941645/soran-antiquities-directorate-completes-survey-for-new-museum-and-archaeological-park",
-   "date": "2026-09-24T15:08:00.000Z"
+   "title": "Oil slips as war risks test markets",
+   "desc": "Shafaq News Oil prices fell slightly &#8203;on Friday as markets weighed the possibility of a truce between the US and Iran against &zwnj;the bombing of Saudi Arabia by Houthi rebels after a week of price spikes. Brent was down 87 cents, or 0.82%, at $105.73 a barrel at 0212 GMT, while West Texas Intermediate (WTI) was down $1.56, or 1.65%, at $93.05 a barrel. The sluggish opening was a contrast t",
+   "link": "https://shafaq.com/en/Economy/Oil-slips-as-war-risks-test-markets",
+   "date": "2026-09-25T05:17:57.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,20 +122,12 @@
    "date": "2026-09-24T21:44:08.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Hormuz oil flow hits 22M barrels in day",
-   "desc": "Shafaq News- Hormuz Around 60 commercial vessels transited the Strait of Hormuz on Wednesday, carrying about 22 million barrels of oil out of the waterway &mdash;the highest daily volume since early July, a US official told Reuters. The official said around 40 of the vessels coordinated with the US military for protection during their transit. The Strait of Hormuz has become a central issue in eff",
-   "link": "https://shafaq.com/en/World/Hormuz-oil-flow-hits-22M-barrels-in-day",
-   "date": "2026-09-24T21:30:25.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Xi visit to Washington all pomp but little progress so far",
-   "desc": "The summit so far has focused on \"positive vibes\", says one analyst, with several pressing issues awaiting discussion.",
-   "link": "https://www.bbc.co.uk/news/articles/c539me79z1yno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-24T21:57:25.000Z"
+   "title": "The world’s two most powerful men just met. How did it go?",
+   "desc": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+   "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-25T01:27:10.000Z"
   },
   {
    "src": "BBC",
@@ -207,7 +207,7 @@
    "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
    "desc": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-24T23:32:51.000Z"
+   "date": "2026-09-25T00:44:04.000Z"
   },
   {
    "src": "BBC ME",
@@ -293,7 +293,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "The Iraqi Development Road: A Promising Corridor amid Unresolved Fault Lines",
-   "desc": "The Iraqi Development Road: A Promising Corridor amid Unresolved Fault Lines &nbsp;&nbsp; Middle East Council on Global Affairs",
+   "desc": "The Iraqi Development Road: A Promising Corridor amid Unresolved Fault Lines &nbsp;&nbsp; mecouncil.org",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVdUS1ZRQ1NrNklJengxQUlvclQxUHFURVlIZG1QOUI3LXJkR1dIbU5TTEQtc3g2aEk2UTJzRm9veGk3V3FKT25sbU93bFZJc3hBRzFVTkE1RGlNSGNNWXpuTjZ0YWlsdjUxNVJKWHVRVFFrakxVUTgxQl9BY19HMnJjNTBxa0hENmFabGhvQVVjMXhLeUxha2xqVUlNZFZOT3RxNWV4SXpzcUFSRlNN?oc=5",
    "date": "2026-09-23T14:40:05.000Z"
   },
