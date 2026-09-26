@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T19:35:24.200Z",
+ "updated": "2026-09-26T22:29:01.705Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,14 +8,6 @@
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eXlfS3BTb3NEbERiQWViSzk4SFdtaFREaGNWc2JURDloZmJXSG9CMmxmZm5vaVVWUlVuQXpZYS1nd1ZtZjlUSHdQM3licHNkMldNZ0t6aTBSNmFDTE5zLVFLb20?oc=5",
    "date": "2026-09-25T19:46:01.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Turkey imposes travel ban on Kurdish writer following detention",
-   "desc": "Turkey imposes travel ban on Kurdish writer following detention &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95bXJmTmVIWm1QMDU1QkpPUnQ5MWUzYVg5S0tnODlPUTFoU1hNQ2ZjMzhXclVUWHE2RU1ISWNZRlp6MGdtdXhsd0o4MHhYeWVkV0UwRHh5Ty1EdzhrOG5TQg?oc=5",
-   "date": "2026-09-24T19:39:42.000Z"
   },
   {
    "src": "Rudaw",
@@ -32,6 +24,22 @@
    "desc": "UAE suspends Iran flights amid US sanctions squeeze &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PTXliWDM0TUNZbGpaMUNZV2M4Um05dHNnYkRyMThib21rbDdXMVh2S3JqNUFSdnJBX3d6T1ZSd1RZREFGb3NSM3g5THU0clloYU8xVmJPU2dzblozTVRKeUtuR3ZPUQ?oc=5",
    "date": "2026-09-25T13:25:47.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Trump rejects Tehran proposal to reopen Hormuz within week",
+   "desc": "Trump rejects Tehran proposal to reopen Hormuz within week &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZ2dBejlLNGVEeTAtTHhfcUFzMHF3Ykl2aXcyMklQZkt2T1FtWm9wcW9OSmtpcml3RzNGOGxPMHRaNFhjMU9RYmplS2xrTk85ZzZRcGZ0VFhGeVpCZjk4?oc=5",
+   "date": "2026-09-26T16:53:35.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq’s 2027 Budget Nears Final Draft as Erbil-Baghdad Disputes Persist",
+   "desc": "Budget estimated at nearly 200 trillion dinars with a deficit of up to 70 trillion as Erbil seeks a larger share and removal of the actual-spending condition",
+   "link": "https://www.kurdistan24.net/en/story/942115/iraqs-2027-budget-nears-final-draft-as-erbil-baghdad-disputes-persist",
+   "date": "2026-09-26T19:57:00.000Z"
   },
   {
    "src": "K24",
@@ -66,60 +74,52 @@
    "date": "2026-09-26T17:05:25.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Saudi FM: Hormuz must return to pre-war status without tolls, Iran attacked us unjustly",
-   "desc": "Saudi foreign minister delivers comprehensive regional security vision at UNGA covering Iran, Hormuz, Houthis, Yemen, Palestine, Syria, Sudan, and Iraq's sovereignty in one of the most sweeping Gulf statements of the conflict",
-   "link": "https://www.kurdistan24.net/en/story/942090/saudi-fm-hormuz-must-return-to-pre-war-status-without-tolls-iran-attacked-us-unjustly",
-   "date": "2026-09-26T16:57:39.000Z"
+   "title": "What Manchester City guilty verdict means",
+   "desc": "Shafaq News- Manchester Manchester City has reportedly been found guilty of 114 of 115 Premier League charges in its long-running financial case, but the ruling has not been officially published and no punishment has yet been announced. The Athletic and The Times reported on September 25 that an independent commission upheld all but one charge. The Premier League declined to comment, citing confid",
+   "link": "https://shafaq.com/en/sport/What-Manchester-City-guilty-verdict-means",
+   "date": "2026-09-26T22:03:33.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Houthis claim 27 Saudi airstrikes in 24 hours",
-   "desc": "Shafaq News- Sanaa Saudi Arabia carried out 27 airstrikes across six Yemeni provinces over the previous 24 hours, the Houthi military spokesman Yahya Saree said on Saturday. Aircraft operating from bases in Khamis Mushait and Taif targeted Taiz, Marib, Saada, Amran, Ibb and Hajjah, according to Saree. &ldquo;Saudi air and missile attacks since the latest escalation began have reached 1,059,&rdquo;",
-   "link": "https://shafaq.com/en/Middle-East/Houthis-claim-27-Saudi-airstrikes-in-24-hours",
-   "date": "2026-09-26T19:12:03.000Z"
+   "title": "Israeli strikes kill two Hamas members in Gaza",
+   "desc": "Shafaq News- Gaza The Israeli military said on Saturday that it killed two members of Hamas's military wing in separate strikes across the Gaza Strip. The two men, identified as Ibrahim Fawzi Ismail Mohsen and Mohammed Kamel Suleiman Mohsen, were accused of recently taking part in planning attacks against Israeli forces and efforts to rebuild Hamas's military capabilities, which the military descr",
+   "link": "https://shafaq.com/en/World/Israeli-strikes-kill-two-Hamas-members-in-Gaza",
+   "date": "2026-09-26T21:38:21.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Israeli attacks spread across Southern Lebanon",
-   "desc": "Shafaq News- Beirut Israeli forces carried out a series of airstrikes, artillery shelling and explosions across several towns in southern Lebanon, local media reported on Saturday. An Israeli airstrike hit Mount Al-Rafee in Sujud, in the Jezzine district, while Majdal Zoun in the Tyre district was hit by two powerful explosions. Artillery fire also struck Hadatha in the Bint Jbeil district and the",
-   "link": "https://shafaq.com/en/Middle-East/Israeli-attacks-spread-across-Southern-Lebanon-3",
-   "date": "2026-09-26T18:49:07.000Z"
+   "title": "Spain beat England in Nations League night",
+   "desc": "Shafaq News- London Spain came from behind to beat England 3-2 at Wembley on Saturday, headlining the opening round of UEFA Nations League matches across Europe. Lamine Yamal gave Spain the lead in the second minute before England turned the match around through Anthony Gordon in the 36th minute and Harry Kane four minutes later. Alex Baena equalized for Spain in the 60th minute before Mikel Oyarz",
+   "link": "https://shafaq.com/en/sport/Spain-beat-England-in-Nations-League-night",
+   "date": "2026-09-26T21:22:39.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Saudi FM backs Iraq state control of weapons",
-   "desc": "Shafaq News- New York Saudi Arabia supports Iraq&rsquo;s efforts to bring weapons under state control and strengthen its sovereignty and security, while opposing the use of Iraqi territory to attack neighboring countries, Foreign Minister Faisal bin Farhan said on Saturday. Addressing the United Nations General Assembly in New York, bin Farhan said Saudi Arabia and other countries in the region ha",
-   "link": "https://shafaq.com/en/Middle-East/Saudi-FM-backs-Iraq-state-control-of-weapons",
-   "date": "2026-09-26T18:31:18.000Z"
+   "title": "Iraq declares four-day holiday for Sovereignty Days",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Cabinet on Saturday declared a four-day holiday in state institutions from September 30 through October 3 to mark the country&rsquo;s &ldquo;Sovereignty Days,&rdquo; Prime Minister Ali Al-Zaidi&rsquo;s media office said. Al-Zaidi had previously instructed ministries, government bodies and provincial authorities to coordinate with the Government Media Cell on event",
+   "link": "https://shafaq.com/en/society/Iraq-declares-four-day-holiday-for-Sovereignty-Days",
+   "date": "2026-09-26T21:20:30.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq edges Kuwait in Gulf Cup thriller",
-   "desc": "Shafaq News- Jeddah Iraq beat Kuwait 3-2 in a dramatic Gulf Cup 27 clash on Saturday, securing its first victory of the tournament with a stoppage-time winner in Jeddah. After a goalless first half, Zidane Iqbal put Iraq ahead in the 52nd minute from an Ali Jasim assist. Kuwait responded in the 74th when Yousef Nasser converted a penalty to make it 1-1. Saif Rashid restored Iraq&rsquo;s lead in th",
-   "link": "https://shafaq.com/en/sport/Iraq-edges-Kuwait-in-Gulf-Cup-thriller",
-   "date": "2026-09-26T18:11:09.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Trump praises PM Al-Zaidi as 'fantastic man'",
-   "desc": "Shafaq News- Washington US President Donald Trump on Saturday described his recent meeting with Iraqi Prime Minister Ali al-Zaidi in New York as &ldquo;great,&rdquo; expressing his support for the Iraqi leader. &ldquo;He&rsquo;s a fantastic man, he&rsquo;s a friend of mine, I endorsed him, right?&rdquo; Trump told reporters outside the White House. Trump and al-Zaidi met on Wednesday on the sideli",
-   "link": "https://shafaq.com/en/Iraq/Trump-praises-PM-Al-Zaidi-as-fantastic-man",
-   "date": "2026-09-26T18:02:59.000Z"
+   "title": "Baghdad braces for five days of protests",
+   "desc": "Shafaq News- Baghdad Baghdad is set for five days of protests beginning Sunday, with demonstrators demanding public-sector jobs, inclusion in Iraq&rsquo;s 2027 budget and action on education, employment and legal rights. According to information obtained by Shafaq News, three protests are scheduled for Sunday, September 27. University students are expected to gather at 9:00 a.m. outside the Minist",
+   "link": "https://shafaq.com/en/society/Baghdad-braces-for-five-days-of-protests",
+   "date": "2026-09-26T20:56:16.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+   "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
    "desc": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
    "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-26T17:47:09.000Z"
+   "date": "2026-09-26T22:04:26.000Z"
   },
   {
    "src": "BBC",
@@ -156,6 +156,30 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+   "desc": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+   "date": "2026-09-26T21:13:54.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Is Congo's Ebola outbreak coming under control?",
+   "desc": "Four months in, Congo's Ebola outbreak is one of the largest ever recorded. Officials and outside experts can't agree on whether it's finally slowing down.",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control",
+   "date": "2026-09-26T21:13:52.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+   "desc": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+   "date": "2026-09-26T20:08:28.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
    "desc": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
    "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
@@ -168,30 +192,6 @@
    "desc": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
    "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
    "date": "2026-09-26T06:59:45.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-   "desc": "The visit comes at an important time for both men.",
-   "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-   "date": "2026-09-25T19:11:47.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-   "desc": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
-   "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-   "date": "2026-09-25T15:57:35.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-   "desc": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-   "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-   "date": "2026-09-25T14:55:12.000Z"
   },
   {
    "src": "BBC ME",
@@ -276,18 +276,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Erbil's new master plan to 2050 unveiled, city to expand toward Greater Zab",
-   "desc": "Erbil's new master plan to 2050 unveiled, city to expand toward Greater Zab &nbsp;&nbsp; کوردستان 24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43U1pQblJrQkVUTTNyUHpIbnFDbHNzYUZpLXpQZ0lJOWpzZzdpaTZieURjalJWbGhLcGozT1JLNkY0OS05dGZITTFaNG1jc0d0dTBOVEdB?oc=5",
-   "date": "2026-09-23T15:29:00.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "The Iraqi Development Road: A Promising Corridor amid Unresolved Fault Lines",
    "desc": "The Iraqi Development Road: A Promising Corridor amid Unresolved Fault Lines &nbsp;&nbsp; Middle East Council on Global Affairs",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVdUS1ZRQ1NrNklJengxQUlvclQxUHFURVlIZG1QOUI3LXJkR1dIbU5TTEQtc3g2aEk2UTJzRm9veGk3V3FKT25sbU93bFZJc3hBRzFVTkE1RGlNSGNNWXpuTjZ0YWlsdjUxNVJKWHVRVFFrakxVUTgxQl9BY19HMnJjNTBxa0hENmFabGhvQVVjMXhLeUxha2xqVUlNZFZOT3RxNWV4SXpzcUFSRlNN?oc=5",
    "date": "2026-09-23T14:40:05.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Erbil's new master plan to 2050 unveiled, city to expand toward Greater Zab",
+   "desc": "Erbil's new master plan to 2050 unveiled, city to expand toward Greater Zab &nbsp;&nbsp; کوردستان 24",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43U1pQblJrQkVUTTNyUHpIbnFDbHNzYUZpLXpQZ0lJOWpzZzdpaTZieURjalJWbGhLcGozT1JLNkY0OS05dGZITTFaNG1jc0d0dTBOVEdB?oc=5",
+   "date": "2026-09-23T15:29:00.000Z"
   },
   {
    "src": "Erbil",
