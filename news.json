@@ -1,14 +1,6 @@
 {
- "updated": "2026-09-30T10:58:56.584Z",
+ "updated": "2026-09-30T16:47:04.445Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yNndDRTByRHpjQWkzTVNGbUF3YV9xaVNuNUlud3hvZHA5NTFKUjZMWnh4aE53N0lZSDBLN240b3dvdnpGZEEzTmQ4Qmg0bWNITVNPR09vY3lwQlQzZU5z?oc=5",
-   "date": "2026-09-29T10:05:10.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -16,6 +8,22 @@
    "desc": "Iraqi government submits PMF bill to parliament &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uLUVQSW9yTTAzWDRxQjZUbXJ3WG9NNUZjY2dNSU9sV3k1TG9TNzJOdjhsOGRYeWliZVItLWlLOTdFWWVLcjRGVWRldkp6cVNrV0tjLThTY3hQajkwc3UzVGN0RQ?oc=5",
    "date": "2026-09-29T21:41:27.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq touts ‘no security gap’ following US-led coalition departure, affirms delivery of advanced defense systems underway",
+   "desc": "Iraq touts ‘no security gap’ following US-led coalition departure, affirms delivery of advanced defense systems underway &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjVjVna1NLRVNLejBJSzE4Z0hSRUZKSjNHN3d6emMxZnl5M3Q0Qi1IUXBvN2VpX051aDJMby0tQkdYNDBrZlh4NVNNdk9hUHBCVVBmUE5WZTlvNEtQWWp6R01CNA?oc=5",
+   "date": "2026-09-30T14:21:47.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EUlBTZ25OVDR3S3RDTmc5cU56V0FxT00yVHowZ0h4ZnQ4Z3FpdThERUNXdkdrNVNRVVFoV1dRTmt5bTEtdENxLUd0cWNIcDQyYUFIYVl1Z2RTOTBvQ25vcHdGVGE?oc=5",
+   "date": "2026-09-29T14:32:09.000Z"
   },
   {
    "src": "Rudaw",
@@ -34,100 +42,92 @@
    "date": "2026-09-30T08:12:32.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq communications regulator maintains measures against Korek despite court ruling",
-   "desc": "Iraq communications regulator maintains measures against Korek despite court ruling &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TR1NNOG14eVBHOVM1Q2dia0VDRWlUSC1CMEJlXzJkeGN6aHR3Zm90Qnp6UGFTX0gtanBCNHkyTDVvZFp3UkliaDEtQmxlVGU0elBsUUNyNlZEZ1VSWlhfNVktTQ?oc=5",
-   "date": "2026-09-29T05:26:32.000Z"
+   "title": "UK PM Says Strong Indications Iran Involved In Airbase Incident",
+   "desc": "UK PM Andy Burnham cites strong indications of Iran's role in the RAF Fairford scare, as Britain ends its Iraq troop mission.",
+   "link": "https://www.kurdistan24.net/en/story/943053/uk-pm-says-strong-indications-iran-involved-in-airbase-incident",
+   "date": "2026-09-30T16:09:15.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Updated: Flydubai Flight Diverted After Pilot Fight, Possible Suicide Attempt Reported",
-   "desc": "Israeli media say passengers intervened in the cockpit altercation and one pilot may have tried to crash the plane, which plunged nearly 17,000 feet in a minute before landing safely in Saudi Arabia",
-   "link": "https://www.kurdistan24.net/en/story/942969/updated-flydubai-flight-diverted-after-pilot-fight-possible-suicide-attempt-reported",
-   "date": "2026-09-30T10:18:23.000Z"
+   "title": "Iraq Resistance Front Says It Will Not Accept Any Deadline To Surrender Weapons",
+   "desc": "The Islamic Resistance in Iraq says it will not commit to any government or political deadline for handing over or controlling its weapons, as the International Coalition completes its military mission in Iraq.",
+   "link": "https://www.kurdistan24.net/en/story/943047/iraq-resistance-front-says-it-will-not-accept-any-deadline-to-surrender-weapons",
+   "date": "2026-09-30T15:34:49.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "President Barzani: The Peshmerga Will Remain As Long As Kurdistan Exists",
-   "desc": "On the Coalition’s final day, President Barzani reassures Kurds of strong coordination with Baghdad, honors fallen Peshmerga and coalition forces, and warns against viewing the withdrawal as Kurdish vulnerability",
-   "link": "https://www.kurdistan24.net/en/story/942960/president-barzani-the-peshmerga-will-remain-as-long-as-kurdistan-exists",
-   "date": "2026-09-30T10:01:44.000Z"
+   "title": "Coalition Commander: No Justification Remains For Weapons Outside State Control",
+   "desc": "As the International Coalition completes its withdrawal from Iraq, its commander Liam M. Hulin said there is no longer any justification for armed groups operating outside the authority of the state, while reaffirming support for Iraq during the transition.",
+   "link": "https://www.kurdistan24.net/en/story/943040/coalition-commander-no-justification-remains-for-weapons-outside-state-control",
+   "date": "2026-09-30T15:00:01.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "CENTCOM Completes Departure From Erbil Air Base, Hands Iraq's Security To Iraqi Forces",
-   "desc": "CENTCOM commander specifically names the Peshmerga and Kurdistan Region security forces as having achieved the capacity, leadership, and operational independence to manage threats unilaterally, as CJTF-OIR relocates to Jordan to continue the counter-ISIS mission in Syria",
-   "link": "https://www.kurdistan24.net/en/story/942949/centcom-completes-departure-from-erbil-air-base-hands-iraqs-security-to-iraqi-forces",
-   "date": "2026-09-30T09:34:02.000Z"
+   "title": "Ali Al-Zaidi: End Of Coalition Mission Does Not Mean End Of Terrorism Fight",
+   "desc": "Iraqi Prime Minister said the conclusion of the International Coalition’s mission marks Iraq’s transition to full responsibility for its security and stability, while stressing that the fight against terrorism is not over.",
+   "link": "https://www.kurdistan24.net/en/story/943021/ali-al-zaidi-end-of-coalition-mission-does-not-mean-end-of-terrorism-fight",
+   "date": "2026-09-30T13:56:05.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Muqtada al-Sadr Declares Iraq ‘Independent’ as US-Led Coalition Mission Ends",
-   "desc": "Shiite cleric calls for weapons to be placed under state control, political leaders to step aside, and stronger Iraqi security forces",
-   "link": "https://www.kurdistan24.net/en/story/942955/muqtada-al-sadr-declares-iraq-independent-as-us-led-coalition-mission-ends",
-   "date": "2026-09-30T09:23:04.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Masrour Barzani Thanks Coalition On Behalf Of Kurdistan's People As Peshmerga Stands Ready For Any Threat",
-   "desc": "Prime Minister delivers a statement of historic gratitude on the day Operation Inherent Resolve formally concludes, reaffirming the Peshmerga's readiness and the Kurdistan Region's commitment to its alliances as the coalition departs Erbil Air Base after twelve years",
-   "link": "https://www.kurdistan24.net/en/story/942941/masrour-barzani-thanks-coalition-on-behalf-of-kurdistans-people-as-peshmerga-stands-ready-for-any-threat",
-   "date": "2026-09-30T08:48:14.000Z"
+   "title": "UK: Coalition Mission in Iraq Concludes After Peshmerga, Iraqi Forces Defeat Daesh",
+   "desc": "London says Iraqi Security Forces and Peshmerga secured Daesh’s (ISIS) territorial defeat as Coalition forces, including UK personnel, depart and UK-Iraq security ties enter a new phase",
+   "link": "https://www.kurdistan24.net/en/story/943007/uk-coalition-mission-in-iraq-concludes-after-peshmerga-iraqi-forces-defeat-daesh",
+   "date": "2026-09-30T12:55:00.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Erbil upgrades stadium for Gulf clash",
-   "desc": "Shafaq News- Erbil Erbil SC is renovating Franso Hariri Stadium ahead of its Gulf Club Champions League home match against Saudi Arabia&rsquo;s Al-Ettifaq on October 28, club president Sfin Yassin said on Tuesday. Yassin told Shafaq News that work includes the pitch, running track, stands, and service facilities, as well as comprehensive roofing for the first time. The project is also intended to ",
-   "link": "https://shafaq.com/en/sport/Erbil-upgrades-stadium-for-Gulf-clash",
-   "date": "2026-09-30T10:40:04.000Z"
+   "title": "Iraq emerges as India’s second-largest crude supplier",
+   "desc": "Shafaq News- Baghdad Iraq ranked second among India&rsquo;s largest crude oil suppliers in September, with shipments averaging 579,000 barrels per day through September 27, up significantly from the previous month. Iraqi crude shipments to India averaged about 163,000 barrels per day in August. The September figure therefore represented an increase of roughly 416,000 barrels per day compared with ",
+   "link": "https://shafaq.com/en/Economy/Iraq-emerges-as-India-s-second-largest-crude-supplier",
+   "date": "2026-09-30T16:30:41.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Hezbollah denies link to Daraa cell",
-   "desc": "Shafaq News- Beirut Hezbollah on Wednesday &ldquo;categorically&rdquo; denied any connection to a suspected cell detained by Syrian authorities in Daraa province, reiterating that it has no presence or security or military activity in Syria. The denial followed an announcement by Syria&rsquo;s Internal Security Forces on Tuesday that three people had been arrested in the Yarmouk Basin over an alle",
-   "link": "https://shafaq.com/en/Middle-East/Hezbollah-denies-link-to-Daraa-cell",
-   "date": "2026-09-30T10:14:23.000Z"
+   "title": "Roma blocks Dybala, Molina from Messi farewell",
+   "desc": "Shafaq News- Rome AS Roma announced that Paulo Dybala and Nahuel Molina will not participate in Lionel Messi&rsquo;s Argentina farewell against Benin on October 6. The club said the length of the intercontinental trip and the proximity of official commitments drove the decision. La nota del Club&#128196; https://t.co/JAGXnRVoYh #ASRoma pic.twitter.com/pv3ZQ0ijgb &mdash; AS Roma (@OfficialASRoma) S",
+   "link": "https://shafaq.com/en/sport/Roma-blocks-Dybala-Molina-from-Messi-farewell",
+   "date": "2026-09-30T15:43:19.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq holds ceremony ending US-led coalition mission",
-   "desc": "Shafaq News- Baghdad The Iraqi government will hold an official ceremony in Baghdad on Thursday to mark the end of the US-led Coalition's military mission against ISIS in Iraq. Senior state officials will attend, including Kurdistan Region President Nechirvan Barzani, along with military and security commanders, political and community figures, and coalition representatives. Prime Minister Ali Fal",
-   "link": "https://shafaq.com/en/society/Iraq-holds-ceremony-ending-US-led-coalition-mission",
-   "date": "2026-09-30T09:49:04.000Z"
+   "title": "CMC sets $382M payment for Korek return",
+   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Communications and Media Commission (CMC) will require Korek Telecom to pay 500 billion dinars (around $382 million) and obtain tax clearance from the federal Finance Ministry before it can resume operations, Executive Director Baligh Abu Kalal said on Wednesday. Speaking at the opening of ITEX Iraq 2026, Abu Kalal said the payment represented about a quarter of K",
+   "link": "https://shafaq.com/en/society/CMC-sets-382M-payment-for-Korek-return",
+   "date": "2026-09-30T15:30:05.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Al-Sadr dissolves Promised Day Brigade",
-   "desc": "Shafaq News- Baghdad Patriotic Shiite Movement (PSM) leader Muqtada Al-Sadr announced on Wednesday the immediate dissolution of Liwa&rsquo;a al-Yawm al-Maw'oud (the Promised Day Brigade) following the formal end of the US-led Coalition&rsquo;s military mission in Iraq. He ordered the armed group to be converted into a charitable organization named after Imam al-Mahdi, declaring that Iraq had regai",
-   "link": "https://shafaq.com/en/Security/Al-Sadr-dissolves-Promised-Day-Brigade",
-   "date": "2026-09-30T09:40:42.000Z"
+   "title": "UK reaffirms Iraq security support after Coalition exit",
+   "desc": "Shafaq News- London/ Baghdad The United Kingdom pledged continued support for Iraq&rsquo;s security and stability on Wednesday as the US-led Coalition formally ended its military mission against ISIS in the country and Coalition forces, including British personnel, departed. In a statement , the UK government said Iraqi Security Forces (ISF) and the Kurdish Peshmerga are now positioned to assume p",
+   "link": "https://shafaq.com/en/World/UK-reaffirms-Iraq-security-support-after-Coalition-exit",
+   "date": "2026-09-30T15:16:02.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi leaders mark ‘Sovereignty Days’ as Coalition mission ends",
-   "desc": "Shafaq News- Baghdad (Updated at 13:41) Iraqi officials and political leaders on Wednesday marked the country&rsquo;s &ldquo;Sovereignty Days,&rdquo; commemorating the Sept. 30 conclusion of the US-led Coalition&rsquo;s military mission and the transition toward bilateral security partnerships. Formed in 2014 to fight ISIS, the Coalition concluded its role under an agreement reached by Baghdad and",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-leaders-mark-Sovereignty-Days-as-Coalition-mission-ends",
-   "date": "2026-09-30T09:25:57.000Z"
+   "title": "Caggins: US not seeking to isolate Iraq from Iran",
+   "desc": "Shafaq News- Washington/ Baghdad Former spokesman for the US-led Coalition Myles Caggins said the Coalition&rsquo;s withdrawal from Iraq was jointly agreed by Baghdad and Washington as the threat posed by ISIS changed and political opposition to the US military presence grew. In an interview with Shafaq News, Caggins pointed to the changing realities of the campaign against ISIS, noting that the g",
+   "link": "https://shafaq.com/en/Iraq/Caggins-US-not-seeking-to-isolate-Iraq-from-Iran",
+   "date": "2026-09-30T15:08:58.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-   "desc": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
-   "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-29T23:39:58.000Z"
+   "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+   "desc": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+   "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-30T15:29:11.000Z"
   },
   {
    "src": "BBC",
@@ -135,31 +135,55 @@
    "title": "What we know about Cornell University frat house rape investigation",
    "desc": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
    "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-30T09:12:44.000Z"
+   "date": "2026-09-30T16:17:19.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-   "desc": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
-   "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-29T22:33:13.000Z"
+   "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+   "desc": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
+   "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-30T08:59:38.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-   "desc": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-   "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-30T04:01:52.000Z"
+   "title": "Hegseth expected to fire more top ranking US military",
+   "desc": "Roughly 20 admirals and generals have already either been fired or resigned since Hegseth took over the defence department.",
+   "link": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-30T15:19:16.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
-   "desc": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
-   "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-29T17:31:30.000Z"
+   "title": "Meet 'Backpack', the chunky bear who won Fat Bear Week",
+   "desc": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can last up to six months.",
+   "link": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-30T13:51:52.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+   "desc": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+   "date": "2026-09-30T15:33:19.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "A pilot stabs the other pilot and tries to crash their flight to Tel Aviv, Israel says",
+   "desc": "As the plane went into a spin and began to plunge, a passenger and crew got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+   "date": "2026-09-30T13:35:11.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+   "desc": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
+   "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+   "date": "2026-09-30T11:13:17.000Z"
   },
   {
    "src": "NPR",
@@ -172,42 +196,42 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
-   "desc": "María del Carmen Abascal's case has drawn tens of thousands of people to the streets in recent days and led the Spanish government to present measures to address the country's housing crisis.",
-   "link": "https://www.npr.org/2026/09/30/nx-s1-5985703/woman-eviction-protests-spain",
-   "date": "2026-09-30T07:07:42.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
-   "desc": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
-   "link": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
-   "date": "2026-09-29T17:17:04.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-   "desc": "The Trump administration has weakened fuel efficiency standards for new cars. And, prosecutors have reopened a Cornell University fraternity rape case.",
-   "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
-   "date": "2026-09-29T11:36:24.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-   "desc": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
-   "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-   "date": "2026-09-29T09:00:00.000Z"
+   "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+   "desc": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
+   "date": "2026-09-30T08:42:46.000Z"
   },
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Israel-bound flight diverted after fight between pilots",
-   "desc": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
+   "title": "Passengers describe stabbing on Israel-bound plane",
+   "desc": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
+   "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-30T15:07:00.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "What we know about stabbing on Flydubai flight to Israel",
+   "desc": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
    "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-30T09:54:19.000Z"
+   "date": "2026-09-30T16:24:18.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
+   "desc": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
+   "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-30T15:59:51.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+   "desc": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+   "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-09-30T11:36:23.000Z"
   },
   {
    "src": "BBC ME",
@@ -216,30 +240,6 @@
    "desc": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
    "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
    "date": "2026-09-30T05:02:50.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-   "desc": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
-   "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-29T12:39:18.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Egyptian officials convicted of kidnapping Italian student found dead in 2016",
-   "desc": "Giulio Regeni's tortured body was found days after he went missing on a research trip to Egypt in 2016, while studying at Cambridge University.",
-   "link": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-28T23:39:15.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-   "desc": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-   "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-28T17:15:00.000Z"
   },
   {
    "src": "LFU",
@@ -292,26 +292,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Erbil's new master plan to 2050 unveiled, city to expand toward Greater Zab",
-   "desc": "Erbil's new master plan to 2050 unveiled, city to expand toward Greater Zab &nbsp;&nbsp; کوردستان 24",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTFPYWEyT29BVmdCb1JGTDlGQWZQcGNiaktWLWdkRWpRY1V2cDBURWVBTlRmOXhxQkFkME13RWQwVGxjR1N0bDMyVHpxSlVCemdPc204VkxUTFc0clBtRzFER0VOemd5ekZ3R0h1dkkwdkhsMDZsOHBCR2hSVHhPQ0RBMTY3czByc1owanhfRzVHaWxwS0g4VjhXTVJPTU5Fam8zT2plaUJGZlo2eTY0SFFuSDdUY3FY?oc=5",
-   "date": "2026-09-23T12:26:27.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "The Iraqi Development Road: A Promising Corridor amid Unresolved Fault Lines",
-   "desc": "The Iraqi Development Road: A Promising Corridor amid Unresolved Fault Lines &nbsp;&nbsp; mecouncil.org",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVdUS1ZRQ1NrNklJengxQUlvclQxUHFURVlIZG1QOUI3LXJkR1dIbU5TTEQtc3g2aEk2UTJzRm9veGk3V3FKT25sbU93bFZJc3hBRzFVTkE1RGlNSGNNWXpuTjZ0YWlsdjUxNVJKWHVRVFFrakxVUTgxQl9BY19HMnJjNTBxa0hENmFabGhvQVVjMXhLeUxha2xqVUlNZFZOT3RxNWV4SXpzcUFSRlNN?oc=5",
-   "date": "2026-09-23T14:40:05.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "As US withdraws from Iraq, Kurdish region is left exposed to Iran's threats - analysis",
    "desc": "As US withdraws from Iraq, Kurdish region is left exposed to Iran's threats - analysis &nbsp;&nbsp; The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGbURWQW1PM0FpRUZ2czVCand1c2hldVpQcWVYSmlIQ0daajBEOFlyVWRxT1U0aW9nd09kSWQzTXVPVnhmOVFJb1gtNHdaUGdWSVFER21CTGg0ZGtP?oc=5",
    "date": "2026-09-28T16:08:52.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Erbil Fashion Show Celebrates Diversity of Kurdish Clothing",
+   "desc": "Erbil Fashion Show Celebrates Diversity of Kurdish Clothing &nbsp;&nbsp; کوردستان 24",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRExCWmI2ZElaSkVtRzNsdVJwcXlwWjlxTzZTTXdRcV9CXzg3bTNxNW5lTUtHMHV1WHdXTU1DLWU2c2NxcXdKMkxDOFpRaUF5anN1YWNNR1hZNi0wZHdoMXhQQTJGS25wQm9Zb043RXRHNTNvUXl4U25QWEFvQnpiTFRsZUF2OVh3YU5xbUVUcXJwOG5EVEg4dDA2QlM3QjJGa2t2bV93?oc=5",
+   "date": "2026-09-28T18:44:34.000Z"
   },
   {
    "src": "Erbil",
@@ -322,28 +314,12 @@
    "date": "2026-09-27T14:51:31.000Z"
   },
   {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Thailand, Kurdistan Region Discuss Expanding Trade and Hospitality Ties",
-   "desc": "Thailand, Kurdistan Region Discuss Expanding Trade and Hospitality Ties &nbsp;&nbsp; کوردستان 24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsZHFUdDFXODFPS1h5eHplUjBtLUZRMDBqQkxCWmZETGVlYlNWTkdlTE5aenhIYU5wYWhic09tX0VHSW9ZZ3RQRG04cDl0a0ZPekY5WFhn?oc=5",
-   "date": "2026-09-16T13:30:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmpiVWtlQkNVS2JPNkdHcnc2a3ZtRVB1Snd4b3hwRi1FZ3hvR21Pamwza2EtQmd3ellOd3hJdk1jMzJwTTh0czVadXRlLUx2LXZxa09kTVhmdGlsbV9lbTlOcFU4LUFKRE5nTURDNzRXaE1mWXVqeXZEUlZvenNPUHVBSDl4cTFZWm1kZ093elBHNWtQdjJKZF96SlExSUpicEVmU3hYeDhFcVpTYXc?oc=5",
-   "date": "2026-09-30T05:59:01.000Z"
-  },
-  {
-   "src": "Tourism",
+   "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Accor and KRD Holding sign Mövenpick Erbil Gomaspan Resort",
    "desc": "Accor and KRD Holding sign Mövenpick Erbil Gomaspan Resort &nbsp;&nbsp; Breaking Travel News",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGNoRW02Vlo4VjB2YWtIM1ZXSlBveHpVeEVjdC0zbGgxU044Vjl6MV83WUtIaXRkRUFGRDVPMTVHU045U1Z2cjEwZWoxeklibWFqLTAtWFEwRlF5djlfTEJmbWQ3YUhFenYyMFpUd2hPNEdfNFFOX2VwR0lGbmJaOUdMcnVSTDRvQllRTk0yRDdMWWxqTDBncjl6QkZ2em5NZVZNenNaZThwSmNr?oc=5",
-   "date": "2026-09-30T06:36:39.000Z"
+   "date": "2026-09-30T06:38:44.000Z"
   },
   {
    "src": "Tourism",
@@ -356,8 +332,32 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmpiVWtlQkNVS2JPNkdHcnc2a3ZtRVB1Snd4b3hwRi1FZ3hvR21Pamwza2EtQmd3ellOd3hJdk1jMzJwTTh0czVadXRlLUx2LXZxa09kTVhmdGlsbV9lbTlOcFU4LUFKRE5nTURDNzRXaE1mWXVqeXZEUlZvenNPUHVBSDl4cTFZWm1kZ093elBHNWtQdjJKZF96SlExSUpicEVmU3hYeDhFcVpTYXc?oc=5",
+   "date": "2026-09-30T05:58:26.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "ACCOR AND KRD HOLDING SIGN MÖVENPICK ERBIL GOMASPAN RESORT, A LANDMARK LAKEFRONT DESTINATION IN IRAQ",
+   "desc": "ACCOR AND KRD HOLDING SIGN MÖVENPICK ERBIL GOMASPAN RESORT, A LANDMARK LAKEFRONT DESTINATION IN IRAQ &nbsp;&nbsp; Hotel & Catering",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkg5eTRtTjRBVXFMQ0RLQ2dRQmQzR2ZFRmtjSEZNTWN1YjdLMTlob0V2MXBHWl8wT0NKTVZoM2sxRUVVSDBoMG51c196V0RLMnRhaUkyaUF4MEFIOERrcEkyclNzdDRQalJCYmNpZ1VLNktHTnA3bmNYYXpldW40cy12OEJOdzhTVlFGak9uQTU3cEdhcmtrUzZuMFh0eHJ4LUYzQnRsWHA0cC1NYzJHRmZKemlERG5xMVRMNUlSdERoc1VmVzVUdEUwUTI5UQ?oc=5",
+   "date": "2026-09-30T05:17:28.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "British Tourist Finds Warmth, Heritage Across Kurdistan Region",
+   "desc": "British Tourist Finds Warmth, Heritage Across Kurdistan Region &nbsp;&nbsp; کوردستان 24",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzd3aDA2N0pDNEhMZG9jZkpnakplcTVDYmlIaXpKVVROVEt4RjVoOWk5QzJobkl0V2hGd1h6V2xWb1piMHZMV0tJSkRvaHV2b0ItYmprVmdzQURJRk03dmh1aU9pWUE4cDFVUzlpNk0wQmVYcjJZMXBMNGo0QzlzSWI1WmxUMnJ3RlNXZnI4Ymhlc1U0SEVHRW5UZHNXVjZBQl80Rm5hcDE?oc=5",
+   "date": "2026-09-26T19:57:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Shafaq News..KRI presents updated 2050 master plan for Erbil",
-   "desc": "Shafaq News..KRI presents updated 2050 master plan for Erbil &nbsp;&nbsp; شفق نيوز",
+   "desc": "Shafaq News..KRI presents updated 2050 master plan for Erbil &nbsp;&nbsp; shafaq.com",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmIzVXc2Wl9iLXBteGhkX2hRaXI2QmFmdURpVFZjeno2SDJWZkprZnpBVmcxWUdjWkFvcTRzLVNOeDZIZEZ4azBPUGJYcjZxbW9XQ3VCUFE3M1kxQk9hOGhnNVJMVmQwUEZLNll4Z0tUTndwc3BkVDJSUW9wc2xsVzFnamZ2dw?oc=5",
    "date": "2026-09-23T14:09:02.000Z"
   }
