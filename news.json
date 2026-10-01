@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-01T14:23:51.527Z",
+ "updated": "2026-10-01T19:43:25.588Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yU1MzSzVseHhwY21iYXVJT3NjSFdoaGVNakZWMGpTTndrV1VkaHBNWWI4MnRORkN6UlZzZi1QdlZuZkV2T1dCVzdMRG43OEFfZTlydEQ4S2dQc1Y5anZTdGVmMXZyeE0?oc=5",
-   "date": "2026-09-29T14:58:15.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -16,6 +8,14 @@
    "desc": "Iraqi government submits PMF bill to parliament &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uLUVQSW9yTTAzWDRxQjZUbXJ3WG9NNUZjY2dNSU9sV3k1TG9TNzJOdjhsOGRYeWliZVItLWlLOTdFWWVLcjRGVWRldkp6cVNrV0tjLThTY3hQajkwc3UzVGN0RQ?oc=5",
    "date": "2026-09-29T21:41:27.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0piOEQxNWpIWWlQYjNWUk1oQmg5dm9WN2ktSEZBOXdJbzRwZkZlb3ZzRVo0ZDVWcDhERks0N3dqTGVMdG5FOVBPcEZNN1NGVmNORTl4NDNCQmRnWlU0djdNWXdfWFVkc2dQekxOcWd1emhmV2Q3bnpsQUFiZEpLSEx6WEs?oc=5",
+   "date": "2026-09-30T20:56:41.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,82 +44,82 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "US Sanctions Iran’s Largest Automakers, Rail and Industrial Companies",
+   "desc": "Washington expands “Operation Economic Outcast” to Iran’s automotive and rail sectors, targeting major manufacturers and foreign suppliers",
+   "link": "https://www.kurdistan24.net/en/story/943314/us-sanctions-irans-largest-automakers-rail-and-industrial-companies",
+   "date": "2026-10-01T18:50:02.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Trump to Kurdistan24: US Will Never Abandon Its Allies as Forces Leave Iraq",
+   "desc": "US president says Iran will not be allowed to obtain nuclear weapons, while predicting lower fuel prices after the war and warning that Iran’s proxies would fall with Tehran",
+   "link": "https://www.kurdistan24.net/en/story/943308/trump-to-kurdistan24-us-will-never-abandon-its-allies-as-forces-leave-iraq",
+   "date": "2026-10-01T17:44:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Counter-Terrorism Service: Two Civilians Killed, One Militant Killed, Another Captured in Kirkuk Operation",
+   "desc": "CTS says one suspected terrorist was arrested and four of its personnel were wounded in the clash",
+   "link": "https://www.kurdistan24.net/en/story/943278/counter-terrorism-service-two-civilians-killed-one-militant-killed-another-captured-in-kirkuk-operation",
+   "date": "2026-10-01T15:44:29.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "EU Exclusively Tells Kurdistan24: Baghdad-Erbil Cooperation Key to Iraq’s Stability",
+   "desc": "EU says \"Da’esh\" (ISIS) remains a threat and reaffirms support for Iraq’s security sector reform after Coalition withdrawal",
+   "link": "https://www.kurdistan24.net/en/story/943267/eu-exclusively-tells-kurdistan24-baghdad-erbil-cooperation-key-to-iraqs-stability",
+   "date": "2026-10-01T14:55:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "President Barzani Meets Khamis al-Khanjar, Discusses Iraq’s Next Phase",
    "desc": "Meeting focuses on Iraq’s challenges, post-Coalition phase, and political coordination",
    "link": "https://www.kurdistan24.net/en/story/943253/president-barzani-meets-khamis-al-khanjar-discusses-iraqs-next-phase",
    "date": "2026-10-01T13:31:43.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Prime Minister Barzani Stresses Peaceful Coexistence in Kurdistan Region",
-   "desc": "Kurdistan Region Prime Minister Masrour Barzani received Syriac Orthodox Metropolitan Mor Nicodemos Sharaf, stressing peaceful coexistence among components.",
-   "link": "https://www.kurdistan24.net/en/story/943244/prime-minister-barzani-stresses-peaceful-coexistence-in-kurdistan-region",
-   "date": "2026-10-01T13:07:34.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Türkiye to Hand Over Zilkan Base to Iraq in Phased Process",
-   "desc": "Türkiye's Defense Ministry said it will gradually hand the Zilkan military base in Bashiqa to the Iraqi government, citing Baghdad's security progress in Shingal.",
-   "link": "https://www.kurdistan24.net/en/story/943242/t%C3%BCrkiye-to-hand-over-zilkan-base-to-iraq-in-phased-process",
-   "date": "2026-10-01T12:50:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iranian MP Tells Kurdistan24: Khamenei Is in Good Health and Is Running the Country",
-   "desc": "Ibrahim Rezaei tells Kurdistan24 that Iran is prepared for another confrontation with the US and accuses Washington of shifting from military to economic pressure.",
-   "link": "https://www.kurdistan24.net/en/story/943229/iranian-mp-tells-kurdistan24-khamenei-is-in-good-health-and-is-running-the-country",
-   "date": "2026-10-01T11:53:35.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "US Says It Will Maintain Strong Security and Economic Partnership With Erbil",
-   "desc": "State Department spokesperson Tommy Pigott says that the US has completed its military withdrawal and commended the Peshmerga forces in the Kurdistan Region for their growing and developing capabilities.",
-   "link": "https://www.kurdistan24.net/en/story/943228/us-says-it-will-maintain-strong-security-and-economic-partnership-with-erbil",
-   "date": "2026-10-01T11:10:40.000Z"
+   "title": "Saudi coalition accuses Houthis of Medina strike",
+   "desc": "Shafaq News- Riyadh/ Sanaa The Saudi-led coalition in Yemen accused the Houthi movement (Ansarallah) of targeting an electricity distribution station in Medina on September 29, coalition spokesperson Turki Al-Malki said on Thursday. Al-Malki said an investigation and examination of drone wreckage indicated Houthi involvement in planning the attack, adding that the strike knocked one transformer ou",
+   "link": "https://shafaq.com/en/Middle-East/Saudi-coalition-accuses-Houthis-of-Medina-strike",
+   "date": "2026-10-01T18:50:38.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Sticky bomb wounds two at Deir ez-Zor checkpoint",
-   "desc": "Shafaq News- Deir ez-Zor A sticky bomb attached to a car wounded two people when it exploded at an Internal Security Forces checkpoint in Syria&rsquo;s Deir ez-Zor on Thursday, the province&rsquo;s Media Directorate said. The directorate, citing the forensic department of Deir ez-Zor&rsquo;s Internal Security Directorate, said the explosion occurred in the Jazrat Al-Buhamid area and sparked a fire",
-   "link": "https://shafaq.com/en/Middle-East/Sticky-bomb-wounds-two-at-Deir-ez-Zor-checkpoint",
-   "date": "2026-10-01T13:49:00.000Z"
+   "title": "PM Al-Zaidi launches sovereignty phase, sets weapons-control timetable",
+   "desc": "Shafaq News- Baghdad Prime Minister Ali Al-Zaidi on Thursday declared that Iraq had entered a new &ldquo;sovereignty phase,&rdquo; saying the end of the US-led Coalition mission would be followed by steps to consolidate state authority over the country&rsquo;s territory, weapons, and security decisions. Speaking at a &ldquo;Sovereignty Day&rdquo; conference in Baghdad, Al-Zaidi said sovereignty me",
+   "link": "https://shafaq.com/en/Iraq/PM-Al-Zaidi-launches-sovereignty-phase-sets-weapons-control-timetable",
+   "date": "2026-10-01T18:15:41.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US dollar prices rise in Baghdad, Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Thursday&rsquo;s trading higher in Iraq, hovering around 157,250 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchange markets at 157,300 dinars per 100 dollars, up from the morning session&rsquo;s 156,850 dinars. In the Iraqi capital, exchange shops sold the dollar at 157",
-   "link": "https://shafaq.com/en/Economy/US-dollar-prices-rise-in-Baghdad-Erbil",
-   "date": "2026-10-01T13:35:31.000Z"
+   "title": "Ammunition blast hits armed faction site in Baghdad",
+   "desc": "Shafaq News- Baghdad Ammunition stored at a site belonging to an armed faction exploded on Thursday evening in Baghdad's southern Dora district, a security source told Shafaq News. The explosion, which was heard across Dora, involved munitions stored inside a portable cabin used by the faction, the source said. No casualties were reported. The source did not name the faction or give a cause for th",
+   "link": "https://shafaq.com/en/Security/Ammunition-blast-hits-armed-faction-site-in-Baghdad",
+   "date": "2026-10-01T17:54:25.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi faction proposes ministry amid weapons-control talks",
-   "desc": "Shafaq News- Baghdad An Iraqi armed faction involved in government-led talks to bring weapons under state control has proposed creating a new ministry to support the country&rsquo;s security institutions, an informed source told Shafaq News on Thursday, as the weapons negotiations unfold alongside bargaining over the remaining posts in Prime Minister Ali Al-Zaidi&rsquo;s cabinet. The source said t",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-faction-proposes-ministry-amid-weapons-control-talks",
-   "date": "2026-10-01T13:31:35.000Z"
+   "title": "Ansarallah al-Awfiya backs Iraqi PM's sovereignty plan",
+   "desc": "Shafaq News- Baghdad Harakat Ansar Allah al-Awfiya, an Iran-aligned Iraqi armed faction, said on Thursday it would abide by agreed timelines between armed factions, the Coordination Framework and the government under what it called the &ldquo;full sovereignty project,&rdquo; including ending military operations inside Iraq. The group's secretary-general, Sheikh Haidar al-Gharawi, said the faction ",
+   "link": "https://shafaq.com/en/Security/Ansarallah-al-Awfiya-backs-Iraqi-PM-s-sovereignty-plan",
+   "date": "2026-10-01T17:49:09.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Syria, Hezbollah hold secret talks in Turkiye",
-   "desc": "Shafaq News- Ankara Representatives of the Syrian government and Lebanon&rsquo;s Hezbollah held secret talks in Turkiye in September in the first known face-to-face meeting between the two sides, Reuters reported on Thursday, citing six sources familiar with the discussions. The sources, including two Syrian officials, a US official and a senior Lebanese security source close to Hezbollah, said He",
-   "link": "https://shafaq.com/en/Middle-East/Syria-Hezbollah-hold-secret-talks-in-Turkiye",
-   "date": "2026-10-01T13:21:46.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Trump leaves door open to more Iran strikes",
-   "desc": "Shafaq News- Washington US President Donald Trump on Thursday left open the possibility of intensified bombing of Iran after the November midterm elections, while confirming that he had rejected Tehran&rsquo;s latest ceasefire proposal. In an interview with TIME, Trump declined to disclose whether further strikes were under active consideration, saying he could not discuss potential bombing plans.",
-   "link": "https://shafaq.com/en/World/Trump-leaves-door-open-to-more-Iran-strikes",
-   "date": "2026-10-01T13:19:01.000Z"
+   "title": "Kataib Sayyid al-Shuhada backs PM's weapons pledge",
+   "desc": "Shafaq News-Baghdad Kataib Sayyid al-Shuhada, an Iran-aligned Iraqi armed faction, said on Thursday it is committed to an agreement reached between the parties involved and to Prime Minister Ali Faleh al-Zaidi's Sovereignty Day speech, in which he declared there would be no weapons outside the law, as long as the other side keeps to its obligations. It welcomed the end of the foreign military pres",
+   "link": "https://shafaq.com/en/Security/Kataib-Sayyid-al-Shuhada-backs-PM-s-weapons-pledge",
+   "date": "2026-10-01T17:42:11.000Z"
   },
   {
    "src": "BBC",
@@ -132,34 +132,34 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "What happened in failed execution of Christa Pike - and what next?",
+   "title": "Witnesses recount Christa Pike's failed execution",
+   "desc": "Witnesses describe hearing Pike complain about pain in her arm, followed by sounds of breathing and snoring for almost an hour before she was taken to hospital.",
+   "link": "https://www.bbc.co.uk/news/videos/ckly5y1jzm2zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-01T13:49:30.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "What happened in the failed execution of Christa Pike - and what next?",
    "desc": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
    "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-01T12:51:14.000Z"
+   "date": "2026-10-01T19:25:58.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
-   "desc": "Victims often have to navigate both university and local law enforcement processes to find justice.",
-   "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-01T11:40:35.000Z"
+   "title": "Cornell accuser was 'failed' by university health care system, lawyer says",
+   "desc": "Jane Doe told the school's doctor that she had contracted an infection \"in a traumatic way\", but they \"didn't really follow up\", according to the New York Times.",
+   "link": "https://www.bbc.co.uk/news/articles/c699d93j22r5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-01T18:08:48.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "California bans child marriage, a practice still legal in 32 US states",
-   "desc": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
-   "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-01T00:57:04.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Two dead in Canada after vehicle hits pedestrians taking part in First Nations event",
-   "desc": "Police said the driver \"may have been experiencing a medical emergency\" before hitting four people in British Columbia.",
-   "link": "https://www.bbc.co.uk/news/articles/c3kg8gwzqnvko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-01T02:26:18.000Z"
+   "title": "Trump says 'some' munitions are low as Iran war grinds on",
+   "desc": "He also said in an interview with Time magazine that it was possible the US could ramp up strikes on Iran after November's elections.",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-01T16:02:07.000Z"
   },
   {
    "src": "NPR",
@@ -181,9 +181,17 @@
    "src": "NPR",
    "section": "US & World · جیهان",
    "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
-   "desc": "Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story.",
+   "desc": "President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story.",
    "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
    "date": "2026-10-01T10:00:00.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "What life under U.S. sanctions looks like for one ICC judge",
+   "desc": "Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S. sanctions disrupted her daily life. She is still hearing cases and challenging the sanctions in court.",
+   "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+   "date": "2026-10-01T08:42:13.000Z"
   },
   {
    "src": "NPR",
@@ -194,17 +202,17 @@
    "date": "2026-09-30T23:00:00.000Z"
   },
   {
-   "src": "NPR",
+   "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-   "desc": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
-   "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
-   "date": "2026-09-30T17:51:42.000Z"
+   "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+   "desc": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+   "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-01T18:48:46.000Z"
   },
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+   "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
    "desc": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-01T11:26:46.000Z"
@@ -212,10 +220,18 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+   "desc": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m).",
+   "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-01T13:57:28.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
    "desc": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
    "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-01T08:39:28.000Z"
+   "date": "2026-10-01T15:04:32.000Z"
   },
   {
    "src": "BBC ME",
@@ -224,22 +240,6 @@
    "desc": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
    "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-01T03:52:20.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
-   "desc": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-09-30T21:38:54.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "What we know about stabbing on Flydubai flight to Israel",
-   "desc": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-01T14:22:14.000Z"
   },
   {
    "src": "LFU",
@@ -301,7 +301,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends",
-   "desc": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends &nbsp;&nbsp; The Long War Journal",
+   "desc": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends &nbsp;&nbsp; longwarjournal.org",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnptWElJdC1DX3Y3aHhwOURxZ1NqMTNacmhBWlFfWDMtbVEzVGpseTF3SzlIc1k4THNld0V4QnpxN0dfMEU0ZGRELUNHMnFiWk5iSFIyQnZITllFZjhIdFF5dDNCNjFzRXdMbDdxYnFWMjFkRktLaFlKZGIyVzlJb2JOUXhBTzZFZkpSWEF6eHBPVnh6c3VjQTRBRDBob1BCUWNkVnV6X3l2TmVOUURGNm1ISHFtbVpVZ2JMSTV1WUM4cjQyNm5XWHdGdTM0UQ?oc=5",
    "date": "2026-09-30T16:33:28.000Z"
   },
@@ -333,17 +333,17 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; ttnworldwide.com",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmpiVWtlQkNVS2JPNkdHcnc2a3ZtRVB1Snd4b3hwRi1FZ3hvR21Pamwza2EtQmd3ellOd3hJdk1jMzJwTTh0czVadXRlLUx2LXZxa09kTVhmdGlsbV9lbTlOcFU4LUFKRE5nTURDNzRXaE1mWXVqeXZEUlZvenNPUHVBSDl4cTFZWm1kZ093elBHNWtQdjJKZF96SlExSUpicEVmU3hYeDhFcVpTYXc?oc=5",
    "date": "2026-09-30T05:58:26.000Z"
   },
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "ACCOR AND KRD HOLDING SIGN MÖVENPICK ERBIL GOMASPAN RESORT, A LANDMARK LAKEFRONT DESTINATION IN IRAQ",
-   "desc": "ACCOR AND KRD HOLDING SIGN MÖVENPICK ERBIL GOMASPAN RESORT, A LANDMARK LAKEFRONT DESTINATION IN IRAQ &nbsp;&nbsp; Hotel & Catering",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkg5eTRtTjRBVXFMQ0RLQ2dRQmQzR2ZFRmtjSEZNTWN1YjdLMTlob0V2MXBHWl8wT0NKTVZoM2sxRUVVSDBoMG51c196V0RLMnRhaUkyaUF4MEFIOERrcEkyclNzdDRQalJCYmNpZ1VLNktHTnA3bmNYYXpldW40cy12OEJOdzhTVlFGak9uQTU3cEdhcmtrUzZuMFh0eHJ4LUYzQnRsWHA0cC1NYzJHRmZKemlERG5xMVRMNUlSdERoc1VmVzVUdEUwUTI5UQ?oc=5",
-   "date": "2026-09-30T05:17:28.000Z"
+   "title": "Accor and KRD Holding sign Mövenpick Erbil Gomaspan Resort",
+   "desc": "Accor and KRD Holding sign Mövenpick Erbil Gomaspan Resort &nbsp;&nbsp; Breaking Travel News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGNoRW02Vlo4VjB2YWtIM1ZXSlBveHpVeEVjdC0zbGgxU044Vjl6MV83WUtIaXRkRUFGRDVPMTVHU045U1Z2cjEwZWoxeklibWFqLTAtWFEwRlF5djlfTEJmbWQ3YUhFenYyMFpUd2hPNEdfNFFOX2VwR0lGbmJaOUdMcnVSTDRvQllRTk0yRDdMWWxqTDBncjl6QkZ2em5NZVZNenNaZThwSmNr?oc=5",
+   "date": "2026-09-30T06:38:46.000Z"
   },
   {
    "src": "Tourism",
