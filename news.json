@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T15:54:29.742Z",
+ "updated": "2026-10-03T19:04:52.396Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,6 +8,14 @@
    "desc": "Israeli forces detain two during incursion into southern Syria: State media &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSE1DRlU5R0NnNEZqMzlkYWVGV1AtWlI2c1MxQ29EX3RpdF9ZTXR2RU5ST1ZvVC1XeUVQU2tRa0YyNzRvWGZpbXhrNGhfTkVaWkNDNGlfZjh6TmFROUJLLWlEbXE?oc=5",
    "date": "2026-10-02T19:42:35.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Initiator of PKK-Ankara peace process sends greetings to Ocalan",
+   "desc": "Initiator of PKK-Ankara peace process sends greetings to Ocalan &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uam5lOHcyczNLd25oRjgzb3VzSlFSSTBySlVwMFZrZWo1WExwMTJQYlZrNVAySGp1R01DQzFwXzRjUTZiV1NlODBqZ1BGQmtiVnAyLXN0Sm1tMDNjNzY5cnZIR013Zw?oc=5",
+   "date": "2026-10-02T20:10:05.000Z"
   },
   {
    "src": "Rudaw",
@@ -28,18 +36,34 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2VE9DaHY2QzRibS1LQThjOWd4LTd0U1lDaDAwLU5BU1BjdERmUjdZWVVtWU9EUFh0VG13VklaZkx6bGtDSmE2bjhRRTQzUnQza0ZDdEZlbG9kV0RiLXFyMQ?oc=5",
-   "date": "2026-10-02T17:36:01.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "UK charges two Iranian nationals over alleged plot targeting Jewish community",
    "desc": "UK charges two Iranian nationals over alleged plot targeting Jewish community &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WY0E5VVJodkdxTnYxcTVHV3RHcE5mTGJKTEdhZl9HWUJfMjVLcVBMUGNkTFNkVHYyM3c2NHJKLVMxYkhfRWVIMTZXNDBTemZTQWV2ODJqeVdDR28zTW9N?oc=5",
    "date": "2026-10-03T06:36:34.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iran-Iraq Flights to Resume as Baghdad Secures US Sanctions Exemption for Najaf",
+   "desc": "Iranian and Iraqi airlines to restart direct services after Baghdad secures US waiver for flights serving religious pilgrims and other essential travelers",
+   "link": "https://www.kurdistan24.net/en/story/943701/iran-iraq-flights-to-resume-as-baghdad-secures-us-sanctions-exemption-for-najaf",
+   "date": "2026-10-03T18:44:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "KRG Delegation to Visit Baghdad for 2027 Budget Share Talks",
+   "desc": "High-level delegation led by Council of Ministers officials to meet Iraq’s Finance Ministry over the Region’s financial entitlements",
+   "link": "https://www.kurdistan24.net/en/story/943691/krg-delegation-to-visit-baghdad-for-2027-budget-share-talks",
+   "date": "2026-10-03T17:36:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "US Congratulates Iraq on National Day, Hails Stronger Bilateral Partnership",
+   "desc": "Secretary of State Marco Rubio highlights July meeting between Trump and Iraqi Prime Minister Ali al-Zaidi and growing economic ties between Washington and Baghdad",
+   "link": "https://www.kurdistan24.net/en/story/943686/us-congratulates-iraq-on-national-day-hails-stronger-bilateral-partnership",
+   "date": "2026-10-03T16:30:00.000Z"
   },
   {
    "src": "K24",
@@ -58,68 +82,52 @@
    "date": "2026-10-03T13:45:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Zebari Warns Hormuz Closure Could Paralyze Iraq's Finances",
-   "desc": "The former Iraqi foreign and finance minister says the coalition's exit from Iraq does not end US influence, warns of financial paralysis if Hormuz closes, and highlights Iraq-Syria ties.",
-   "link": "https://www.kurdistan24.net/en/story/943637/zebari-warns-hormuz-closure-could-paralyze-iraqs-finances",
-   "date": "2026-10-03T13:05:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Young Kurdish Driver Eyes Formula 1 After UAE Wins",
-   "desc": "Fifteen-year-old Kurdish driver Mardin Suleimani has won two Newcomer categories in UAE motorsport and is building experience toward GT4 and an eventual Formula 1 dream.",
-   "link": "https://www.kurdistan24.net/en/story/943635/young-kurdish-driver-eyes-formula-1-after-uae-wins",
-   "date": "2026-10-03T12:55:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "IEA Releases 325 Million Barrels of Oil From Strategic Reserves",
-   "desc": "IEA says members have released 325 million barrels from strategic reserves, over 80 percent of a March pledge, as G7 agrees 100 million barrel release.",
-   "link": "https://www.kurdistan24.net/en/story/943629/iea-releases-325-million-barrels-of-oil-from-strategic-reserves",
-   "date": "2026-10-03T12:16:44.000Z"
+   "title": "Oil tanker explodes in Hormuz",
+   "desc": "Shafaq News- Tehran/ Washington An oil tanker exploded in the Strait of Hormuz after switching off its tracking system while entering the strategic waterway, Iranian state television said on Saturday. Iran's Mehr news agency earlier reported hearing explosions off Qeshm Island, suggesting the blasts may have been linked to gunfire targeting vessels crossing the maritime gateway in violation of its",
+   "link": "https://shafaq.com/en/World/Oil-tanker-explodes-in-Hormuz",
+   "date": "2026-10-03T19:00:01.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "KSDP condemns Washington over historical Kurdish harm",
-   "desc": "Shafaq News- Al-Sulaymaniyah Kurdistan Socialist Democratic Party (KSDP) Secretary-General Mohammed Haji Mahmoud on Saturday accused the United States of harming the Kurds at key moments, including in 1975, during the October 2017 events, and more recently in Syria. &ldquo;We launched the revolution and did not ask anything from America. Even when they were here, they did not provide assistance to",
-   "link": "https://shafaq.com/en/Kurdistan/KSDP-condemns-Washington-over-historical-Kurdish-harm",
-   "date": "2026-10-03T15:40:18.000Z"
+   "title": "Iran-Iraq flights via Najaf to resume on Sunday",
+   "desc": "Shafaq News- Tehran Flights between Iran and Iraq through Najaf International Airport will resume on Sunday with Iranian and Iraqi carriers, Iran&rsquo;s Civil Aviation Organization spokesman Majid Akhavan said on Saturday. In a statement, Akhavan said the resumption followed decisions reached by senior officials in both countries and urged passengers to check the latest flight schedules before he",
+   "link": "https://shafaq.com/en/society/Iran-Iraq-flights-via-Najaf-to-resume-on-Sunday",
+   "date": "2026-10-03T18:22:21.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kirkuk governor orders probe into illness cases",
-   "desc": "Shafaq News- Kirkuk Kirkuk Governor Mehmet Seman Aga on Saturday ordered the health and water resources departments to prepare an urgent report on dozens of vomiting and diarrhea cases recorded in Riyadh subdistrict. The report would examine water sources and related health and environmental conditions to determine the causes of the illnesses and take appropriate action, according to Aga. He also ",
-   "link": "https://shafaq.com/en/society/Kirkuk-governor-orders-probe-into-illness-cases",
-   "date": "2026-10-03T15:30:11.000Z"
+   "title": "Parliament Defense committee backs diversified arms purchases",
+   "desc": "Shafaq News- Najaf Iraq is moving to diversify its arms suppliers and has no restrictions on purchasing weapons from any major country, Deputy Chairman of Parliament&rsquo;s Security and Defense Committee told Shafaq News on Saturday. Speaking on the sidelines of a seminar organized by the Sadiqoun Movement&rsquo;s Political Forum in Najaf, Ahmed Kain Al-Khazali said Iraq &ldquo;is not at odds wit",
+   "link": "https://shafaq.com/en/Iraq/Parliament-Defense-committee-backs-diversified-arms-purchases",
+   "date": "2026-10-03T17:37:04.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Saudi strikes hit Yemen as government forces advance in Taiz",
-   "desc": "Shafaq News- Sanaa/ Aden Saudi strikes targeted Yemen&rsquo;s capital, Sanaa, and several other provinces on Saturday, damaging a maternity hospital and wounding two detainees, according to the Houthi-run Health Ministry and Houthi-affiliated Al-Masirah TV. Al-Masirah said Saudi aircraft carried out 26 strikes on Sanaa around midday, targeting the Nuqum, Attan, Al-Sabeen and Al-Nahdayn areas. The ",
-   "link": "https://shafaq.com/en/Middle-East/Saudi-strikes-hit-Yemen-as-government-forces-advance-in-Taiz",
-   "date": "2026-10-03T14:55:39.000Z"
+   "title": "Duhok authorities seize 6+ tons of expired alcohol",
+   "desc": "Shafaq News- Duhok Joint inspection teams in Duhok seized about 6.3 tons of expired alcoholic drinks from a warehouse in Shariya, Semel district, after a month-long investigation, a provincial government source told Shafaq News on Saturday. The seized stock consisted of a Russian-made alcoholic beverage, part of which had already been sold gradually through local alcohol shops, according to the so",
+   "link": "https://shafaq.com/en/Kurdistan/Duhok-authorities-seize-6-tons-of-expired-alcohol",
+   "date": "2026-10-03T17:19:35.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "USD/IQD exchange rates surge in Bagdad, Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar edged higher against the Iraqi dinar in Baghdad and Erbil on Saturday, hovering around 157,000 dinars per $100 as evening trading closed. According to a Shafaq News market survey, in Baghdad, the Al-Kifah and Al-Harithiya central exchanges closed at 157,300 dinars per $100, up slightly from 157,250 dinars in the morning . Exchange shops in Baghdad kept the",
-   "link": "https://shafaq.com/en/Economy/USD-IQD-exchange-rates-surge-in-Bagdad-Erbil",
-   "date": "2026-10-03T13:51:19.000Z"
+   "title": "President Barzani honors Mam Jalal’s legacy, urges Kurdish unity",
+   "desc": "Shafaq News- Erbil Kurdistan Region President Nechirvan Barzani on Saturday marked the ninth anniversary of former Iraqi President Jalal Talabani&rsquo;s death, praising his legacy as a voice for dialogue, understanding and cooperation. &ldquo;On the anniversary of President Mam Jalal Talabani&rsquo;s passing, we honor a great national leader who devoted his life to the struggle for the rights of ",
+   "link": "https://shafaq.com/en/Kurdistan/President-Barzani-honors-Mam-Jalal-s-legacy-urges-Kurdish-unity",
+   "date": "2026-10-03T17:14:50.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq's Interior Ministry arrests 300+ suspects in September",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Rapid Response Division arrested 308 suspects and seized weapons during 124 operations, drugs, and large sums of money in September, Interior Ministry spokesperson Miqdad Miri said on Saturday. The arrests included 31 suspects in integrity-related cases and 55 in drug cases, and 1,425 grams of crystal methamphetamine, 305 grams of hashish, 92 narcotic pills, and d",
-   "link": "https://shafaq.com/en/Security/Iraq-s-Interior-Ministry-arrests-300-suspects-in-September",
-   "date": "2026-10-03T13:06:28.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+   "desc": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+   "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-03T17:48:42.000Z"
   },
   {
    "src": "BBC",
@@ -132,10 +140,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-   "desc": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-   "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-02T20:32:07.000Z"
+   "title": "Medical plane with 6 on board missing off Massachusetts coast",
+   "desc": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+   "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-03T18:06:47.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Why has Brazil accused the US of election interference?",
+   "desc": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+   "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-03T13:52:13.000Z"
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "desc": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities.",
    "link": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-02T21:05:03.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-   "desc": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-   "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-02T14:01:09.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-   "desc": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-02T08:54:00.000Z"
   },
   {
    "src": "NPR",
@@ -309,7 +309,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "As US withdraws from Iraq, Kurdish region is left exposed to Iran's threats - analysis",
-   "desc": "As US withdraws from Iraq, Kurdish region is left exposed to Iran's threats - analysis &nbsp;&nbsp; The Jerusalem Post",
+   "desc": "As US withdraws from Iraq, Kurdish region is left exposed to Iran's threats - analysis &nbsp;&nbsp; jpost.com",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGbURWQW1PM0FpRUZ2czVCand1c2hldVpQcWVYSmlIQ0daajBEOFlyVWRxT1U0aW9nd09kSWQzTXVPVnhmOVFJb1gtNHdaUGdWSVFER21CTGg0ZGtP?oc=5",
    "date": "2026-09-28T16:08:52.000Z"
   },
@@ -317,7 +317,7 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "Mövenpick to open 150-key lakeside resort in Erbil by 2030",
-   "desc": "Mövenpick to open 150-key lakeside resort in Erbil by 2030 &nbsp;&nbsp; tradearabia.com",
+   "desc": "Mövenpick to open 150-key lakeside resort in Erbil by 2030 &nbsp;&nbsp; TradeArabia",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmpjMGlQR2dXU1lzVTRuS3FGNHR4M3hxeUNSZlZ4NlRteHRVVm1JS3h1RVFJT2VWNGFpZ094WUNBM2l3Q1djVTcxZGxPaFFKX1BVdmIza19TRkRlbXJtb2N3SGo3Z1dxaF9WVEVHSGRmbkMza2NSc1V3X05zcnkzNUlza3k2Yng4dDNHSW93N3JvMTl5ajFTX1lzbF9KNTNERDJzWWh3?oc=5",
    "date": "2026-09-30T06:37:00.000Z"
   },
@@ -340,10 +340,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Accor and KRD Holding sign Mövenpick Erbil Gomaspan Resort",
-   "desc": "Accor and KRD Holding sign Mövenpick Erbil Gomaspan Resort &nbsp;&nbsp; Breaking Travel News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGNoRW02Vlo4VjB2YWtIM1ZXSlBveHpVeEVjdC0zbGgxU044Vjl6MV83WUtIaXRkRUFGRDVPMTVHU045U1Z2cjEwZWoxeklibWFqLTAtWFEwRlF5djlfTEJmbWQ3YUhFenYyMFpUd2hPNEdfNFFOX2VwR0lGbmJaOUdMcnVSTDRvQllRTk0yRDdMWWxqTDBncjl6QkZ2em5NZVZNenNaZThwSmNr?oc=5",
-   "date": "2026-09-30T06:38:46.000Z"
+   "title": "ACCOR AND KRD HOLDING SIGN MÖVENPICK ERBIL GOMASPAN RESORT, A LANDMARK LAKEFRONT DESTINATION IN IRAQ",
+   "desc": "ACCOR AND KRD HOLDING SIGN MÖVENPICK ERBIL GOMASPAN RESORT, A LANDMARK LAKEFRONT DESTINATION IN IRAQ &nbsp;&nbsp; Hotel & Catering",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkg5eTRtTjRBVXFMQ0RLQ2dRQmQzR2ZFRmtjSEZNTWN1YjdLMTlob0V2MXBHWl8wT0NKTVZoM2sxRUVVSDBoMG51c196V0RLMnRhaUkyaUF4MEFIOERrcEkyclNzdDRQalJCYmNpZ1VLNktHTnA3bmNYYXpldW40cy12OEJOdzhTVlFGak9uQTU3cEdhcmtrUzZuMFh0eHJ4LUYzQnRsWHA0cC1NYzJHRmZKemlERG5xMVRMNUlSdERoc1VmVzVUdEUwUTI5UQ?oc=5",
+   "date": "2026-09-30T05:17:28.000Z"
   },
   {
    "src": "Tourism",
@@ -356,10 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Iraq seeks workaround for US sanctions on Iranian airlines",
-   "desc": "Iraq seeks workaround for US sanctions on Iranian airlines &nbsp;&nbsp; The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85RE1CcTc3UU9ISm9DNHh2LW9IUzg2WTNrclc1VTY1eWlObnNJYjlRRVBobmI0T1NuWEtPbkNrS2JYTElCa3doMXAtRC02UktsaUZja0l2Z0NHeW8z?oc=5",
-   "date": "2026-10-03T12:37:49.000Z"
+   "title": "KRG Tourism Drive Targets Year-Round Growth and Winter Adventures",
+   "desc": "KRG Tourism Drive Targets Year-Round Growth and Winter Adventures &nbsp;&nbsp; کوردستان 24",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhqU2lNWUpGUS0xSVRtMVA0WUw4YnZzaDZqVXU2cFBrSVNkT0RYdXNaSGFqTVhVVjZMOGpuaG5JOG5jdE1GWmNfM2JMQ0s0V2FESzRKWGFSS0VJY3BwMUhVLTlCeGRBd041bHI4SVVuMzA0UlVjc3FxNG9selRzLTJWN01feUlQLU1iOEEzYlBMTjF2elNPVl9uazlUbkgzOVROdG4tOVFyNW5DSWc?oc=5",
+   "date": "2026-09-28T18:44:34.000Z"
   }
  ]
 }
