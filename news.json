@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T00:38:41.935Z",
+ "updated": "2026-10-03T06:09:43.607Z",
  "items": [
   {
    "src": "Rudaw",
@@ -15,7 +15,7 @@
    "title": "Israeli forces detain two during incursion into southern Syria: State media",
    "desc": "Israeli forces detain two during incursion into southern Syria: State media &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSE1DRlU5R0NnNEZqMzlkYWVGV1AtWlI2c1MxQ29EX3RpdF9ZTXR2RU5ST1ZvVC1XeUVQU2tRa0YyNzRvWGZpbXhrNGhfTkVaWkNDNGlfZjh6TmFROUJLLWlEbXE?oc=5",
-   "date": "2026-10-02T16:42:33.000Z"
+   "date": "2026-10-02T15:41:52.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "Maritime monitor reports strikes on tanker in Hormuz amid shifts in crude oil exports to pre-war levels &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15ZG9IWHJSYkkwRHhhVjZnTGNhY0ZON3dxVlg2bzJLTXB4ZVJkUk1uNWZCejloNlBOVXVsRW9kTVg5NDdTT1BaSU04TDhFc1JTOVhObmhCdzhBN3FmdGdXczlIVVhjcFNYX2pUTw?oc=5",
    "date": "2026-10-02T06:27:06.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Camp David Meeting Focuses On Iran War And Saudi-Houthi Conflict In Yemen",
+   "desc": "Vice President JD Vance chaired an unannounced meeting of President Donald Trump’s senior national security officials at Camp David, as Washington considers its next steps on Iran and Houthis, Axios reported.",
+   "link": "https://www.kurdistan24.net/en/story/943515/camp-david-meeting-focuses-on-iran-war-and-saudi-houthi-conflict-in-yemen",
+   "date": "2026-10-03T05:16:22.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,12 @@
    "date": "2026-10-02T18:47:04.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq Moves To Strengthen Air Defenses After Coalition Withdrawal",
-   "desc": "Iraq’s federal security forces and Peshmerga are fully capable of protecting the country’s territory and airspace following the withdrawal of Coalition forces, Iraq’s Security Media Cell said.",
-   "link": "https://www.kurdistan24.net/en/story/943477/iraq-moves-to-strengthen-air-defenses-after-coalition-withdrawal",
-   "date": "2026-10-02T18:22:02.000Z"
+   "title": "Trump aides ‘huddle’ over Iran, Yemen conflicts",
+   "desc": "Shafaq News- Washington Top US national security aides discussed next steps in the Iran war and the Saudi-Houthi conflict in Yemen for hours at Camp David on Friday, Axios reported, citing three US officials. One official told Axios that &ldquo;things were decided or at least deeply discussed&rdquo; in the meeting chaired by Vice President JD Vance and attended by Secretary of State Marco Rubio, D",
+   "link": "https://shafaq.com/en/World/Trump-aides-huddle-over-Iran-Yemen-conflicts",
+   "date": "2026-10-03T05:35:34.000Z"
   },
   {
    "src": "Shafaq",
@@ -114,20 +122,12 @@
    "date": "2026-10-02T22:11:50.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Washington rules out diesel export ban",
-   "desc": "Shafaq News- Washington US President Donald Trump ruled out a ban on diesel exports on Friday after G7 leaders agreed to release up to 100 million barrels of diesel and crude oil from emergency reserves over the next four months. &ldquo;We&rsquo;re not going to be doing the export ban,&rdquo; Trump told reporters before leaving the White House for Alabama, adding that he had never intended to impo",
-   "link": "https://shafaq.com/en/Iraq/Washington-rules-out-diesel-export-ban",
-   "date": "2026-10-02T21:45:59.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
    "desc": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
    "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-02T23:53:35.000Z"
+   "date": "2026-10-03T02:23:07.000Z"
   },
   {
    "src": "BBC",
@@ -164,6 +164,14 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
+   "title": "Brazil's big political rematch: What to know",
+   "desc": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
+   "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+   "date": "2026-10-03T02:57:07.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
    "title": "How Brazil's two leading presidential candidates are talking about crime",
    "desc": "Crime is at the top of voters' concerns in Brazil ahead of Sunday's national elections. Many are calling for tougher measures — part of a broader rightward shift across Latin America.",
    "link": "https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime",
@@ -192,14 +200,6 @@
    "desc": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
    "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
    "date": "2026-10-02T18:16:07.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-   "desc": "NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
-   "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-   "date": "2026-10-02T14:37:27.000Z"
   },
   {
    "src": "BBC ME",
@@ -351,7 +351,7 @@
    "title": "Shafaq News..KRI presents updated 2050 master plan for Erbil",
    "desc": "Shafaq News..KRI presents updated 2050 master plan for Erbil &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmIzVXc2Wl9iLXBteGhkX2hRaXI2QmFmdURpVFZjeno2SDJWZkprZnpBVmcxWUdjWkFvcTRzLVNOeDZIZEZ4azBPUGJYcjZxbW9XQ3VCUFE3M1kxQk9hOGhnNVJMVmQwUEZLNll4Z0tUTndwc3BkVDJSUW9wc2xsVzFnamZ2dw?oc=5",
-   "date": "2026-09-23T14:09:02.000Z"
+   "date": "2026-09-23T07:00:00.000Z"
   },
   {
    "src": "Tourism",
