@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-05T15:39:16.875Z",
+ "updated": "2026-10-05T22:21:36.217Z",
  "items": [
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rWVo2V1lla3JURWJLUVZHOGttN2JKVGc1UEI3OEpxd3NIQ0Z2OG1xMG9JSTA4bjlITUh5Z3VZc3VwYWlESkJxdC0wN1M0M09PU21SeE1MNlNGcVJIWDhnLWNmeTU?oc=5",
+   "date": "2026-10-05T13:13:56.000Z"
+  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -12,10 +20,10 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NT2NWZF9iTGpyLWVtZVdCOF9Vbk5IZTdOQTFIN21sWGtSOTNoTDAwM01zWWhQYlRWQkRUdThZYnBiY0FYNktPcUFMMXFld2VrTEZmQVR4Tlp4a21nR3Zr?oc=5",
-   "date": "2026-10-04T20:37:45.000Z"
+   "title": "PM Barzani laments Kurdistan cabinet deadlock, warns KDP patience 'not without limit'",
+   "desc": "PM Barzani laments Kurdistan cabinet deadlock, warns KDP patience 'not without limit' &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jMEdKa1dkczczLW1sRE5SOWd6MmxlX19qTEZGYkN5ZUVmX1lIVi1TTUttZ0xHejBMazY2N3VlOUhJX29kUmN3eWt4VUh2cm5XQWUyRnlROUVsWTJfV1BHcWFucDM?oc=5",
+   "date": "2026-10-05T20:18:43.000Z"
   },
   {
    "src": "Rudaw",
@@ -28,14 +36,6 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran executes another January protester",
-   "desc": "Iran executes another January protester &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGTHl6UVJESzNSWUpOODlmR0J4NzByZFhoc1BUd25VMlVDd0pHQzNvejNSN2YxU05mYVY1R2tCa3pQazBsM2VBSTllZXNwVkZpdnZRYk43SF9LYjR5eVE?oc=5",
-   "date": "2026-10-03T19:32:55.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Three tanker incidents reported in Hormuz Strait in 24 hours: UKMTO",
    "desc": "Three tanker incidents reported in Hormuz Strait in 24 hours: UKMTO &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42SWxPbWRSMjNXRy1xdllVV0s1VFBBb1AzU0xWOWhaV1hjNUNydkRBOEhfdmNjdDNLOVBLclpSdmpFSUJ5S3BHc1FOeGlCalVETU5QZzZtUXJCVXlEQVU1UU11ZzRnTHZGMnI4?oc=5",
@@ -44,8 +44,24 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "PM Barzani Delivers Speech at Duhok University's Graduation Ceremony",
-   "desc": "",
+   "title": "Donald Trump Says He is Open to Direct Talks with Iran",
+   "desc": "Trump made the remarks while speaking to reporters on the South Lawn of the White House before departing for a midterm campaign rally in Nebraska.",
+   "link": "https://www.kurdistan24.net/en/story/944176/donald-trump-says-he-is-open-to-direct-talks-with-iran",
+   "date": "2026-10-05T20:18:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Türkiye, Pakistan to Rapidly Deploy Troops to Saudi Arabia Under New Defense Pact",
+   "desc": "The announcement followed an emergency meeting in Riyadh attended by representatives from Saudi Arabia, Türkiye and Pakistan.",
+   "link": "https://www.kurdistan24.net/en/story/944162/turkey-pakistan-to-rapidly-deploy-troops-to-saudi-arabia-under-new-defence-pact",
+   "date": "2026-10-05T19:02:52.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "PM Barzani: Coalition Mission Ends, but Partnership with Kurdistan Continues",
+   "desc": "Prime Minister Barzani made the remarks while attending the 31st graduation ceremony of the University of Duhok, where 3,098 students from 20 colleges received their graduation certificates.",
    "link": "https://www.kurdistan24.net/en/story/944131/pm-barzani-delivers-a-speech-at-duhok-universitys-graduation-ceremony",
    "date": "2026-10-05T15:20:09.000Z"
   },
@@ -66,100 +82,92 @@
    "date": "2026-10-05T14:03:45.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Tehran Establishes First Armed Female Basij Battalion",
-   "desc": "Tehran has established its first armed female Basij battalion as part of a broader mobilization campaign involving drones, missiles and rapid-response training.",
-   "link": "https://www.kurdistan24.net/en/story/944097/tehran-establishes-first-armed-female-basij-battalion",
-   "date": "2026-10-05T13:00:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan24 Follow-Up Finds Timber Trucks Entering Duhok From Türkiye",
-   "desc": "Duhok forest police say timber trucks leave the Kurdistan Region empty and return from Türkiye carrying wood, rejecting claims that local timber is being exported.",
-   "link": "https://www.kurdistan24.net/en/story/944094/kurdistan24-follow-up-finds-timber-trucks-entering-duhok-from-t%C3%BCrkiye",
-   "date": "2026-10-05T12:44:00.000Z"
+   "title": "Asayish arrests 22 in ISIS cell crackdown",
+   "desc": "Shafaq News- Al-Sulaymaniyah Kurdistan Region security forces dismantled cells affiliated with ISIS and arrested 22 suspects during a series of security operations across several areas of the Region, the Kurdistan Asayish Security Agency said Monday. In a statement, the agency said its General Directorate of Asayish Operations carried out several operations over 96 hours based on intelligence and ",
+   "link": "https://shafaq.com/en/Kurdistan/Asayish-arrests-22-in-ISIS-cell-crackdown",
+   "date": "2026-10-05T21:55:30.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Israeli forces kill man amid southern Syria incursions",
-   "desc": "Shafaq News- Damascus Israeli forces shot dead a man after he allegedly tried to enter a military post inside Israel&rsquo;s &ldquo;security zone&rdquo; in southern Quneitra, the Israeli military said on Monday. Israel&rsquo;s public broadcaster said troops opened fire after spotting the man approaching the position, killing him. No Israeli soldiers were injured and the military post sustained no ",
-   "link": "https://shafaq.com/en/Middle-East/Israeli-forces-kill-man-amid-southern-Syria-incursions",
-   "date": "2026-10-05T15:07:53.000Z"
+   "title": "Houthis target Saudi airports, warn airlines",
+   "desc": "Shafaq News- Sanaa/ Riyadh Yemen&rsquo;s Houthis (Ansarallah) said on Monday they carried out three military operations targeting sites and facilities in Saudi Arabia, as the Saudi-led coalition announced fresh strikes in western Yemen and government forces reported retaking the Red Sea port city of Mokha. Houthi military spokesperson Yahya Saree said the group targeted King Khalid International A",
+   "link": "https://shafaq.com/en/Middle-East/Houthis-target-Saudi-airports-warn-airlines",
+   "date": "2026-10-05T21:05:20.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq operates F-16s, but US supply ties remain",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s F-16 fighter fleet can now be operated and maintained by Iraqi personnel, the Defense Ministry told Shafaq News, days after the US-led Coalition ended its military mission in the country on Sept. 30. Defense Ministry spokesperson Maj. Gen. Yahya Rasool explained that Iraqi crews have handled flight operations, maintenance, fuel provision, and pilot training since ",
-   "link": "https://shafaq.com/en/Security/Iraq-operates-F-16s-but-US-supply-ties-remain",
-   "date": "2026-10-05T14:15:04.000Z"
+   "title": "Nations League: France routs Belgium",
+   "desc": "Shafaq News France came from behind to beat Belgium 4-1 on Monday while Italy defeated Turkiye 3-1, strengthening both teams&rsquo; positions in UEFA Nations League Group A1. Dodi Luk&eacute;bakio gave Belgium the lead in the 35th minute in Paris before France struck four times late in the second half. D&eacute;sir&eacute; Dou&eacute; equalized in the 77th minute, Rayan Cherki put France ahead fou",
+   "link": "https://shafaq.com/en/sport/Nations-League-France-routs-Belgium",
+   "date": "2026-10-05T20:57:50.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "US dollar rates rise in Baghdad, Erbil",
-   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Monday&rsquo;s trading higher in Iraq, hovering around 160,000 dinars per 100 dollars. According to a Shafaq News market survey, the dollar traded in Baghdad's Al-Kifah and Al-Harithiya exchange markets at 160,300 dinars per 100 dollars, up from the morning session&rsquo;s 159,050 dinars. In the Iraqi capital, exchange shops sold the dollar at 160,7",
-   "link": "https://shafaq.com/en/Economy/US-dollar-rates-rise-in-Baghdad-Erbil",
-   "date": "2026-10-05T13:54:11.000Z"
+   "title": "Projectile strikes tanker in Hormuz as attacks rise",
+   "desc": "Shafaq News- Hormuz A tanker was struck by an unidentified projectile in the Strait of Hormuz, damaging its engine room as maritime attacks in the strategic waterway continue to increase, the United Kingdom Maritime Trade Operations (UKMTO) said. The vessel was later identified by maritime security sources as the Liberia-flagged LIPSI, managed by Greece-based Dynacom Tankers Management. UKMTO said",
+   "link": "https://shafaq.com/en/Middle-East/Projectile-strikes-tanker-in-Hormuz-as-attacks-rise",
+   "date": "2026-10-05T20:53:25.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Source: Iraq postpones cabinet vote over ministerial disputes",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s parliament has postponed until next week a session planned for Thursday to vote on the remaining cabinet posts, as political disagreements persist over nominees for several ministries, an informed source told Shafaq News. The disputes center on the ministries of Labor and Social Affairs, Youth and Sport, Planning, and Construction, Housing, Municipalities and Publ",
-   "link": "https://shafaq.com/en/Iraq/Source-Iraq-postpones-cabinet-vote-over-ministerial-disputes",
-   "date": "2026-10-05T13:07:38.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran warns US, Israel against new war",
-   "desc": "Shafaq News- Tehran Iran will immediately target US interests &ldquo;without limitation&rdquo; if Washington attacks the country, Armed Forces Chief of Staff Maj. Gen. Ali Abdollahi said on Monday. Quoted by Iranian state media, Abdollahi said Iran would not wait for the outcome of the US congressional elections and will respond to any US action against the country whether it came before or after ",
-   "link": "https://shafaq.com/en/Middle-East/Iran-warns-US-Israel-against-new-war",
-   "date": "2026-10-05T13:06:41.000Z"
+   "title": "CoI arrests Saladin investment chief over corruption",
+   "desc": "Shafaq News- Saladin Iraq&rsquo;s Federal Commission of Integrity (CoI) arrested the head of the Saladin Investment Commission, Amin Aziz Jawad, on Monday over alleged financial corruption, a security source told Shafaq News. The source said a force from the Integrity Commission, the country&rsquo;s anti-corruption watchdog, carried out the arrest under a judicial warrant. No further details were ",
+   "link": "https://shafaq.com/en/society/CoI-arrests-Saladin-investment-chief-over-corruption",
+   "date": "2026-10-05T20:13:22.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-   "desc": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T13:16:00.000Z"
+   "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+   "desc": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+   "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T21:46:22.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-   "desc": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
-   "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T08:22:41.000Z"
+   "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
+   "desc": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America.",
+   "link": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T15:47:35.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-   "desc": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T18:25:50.000Z"
+   "title": "US 'watching closely' after plague researcher dies in Russia",
+   "desc": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+   "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T21:33:49.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump chooses top spy boss to run new AI taskforce",
-   "desc": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-   "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T10:03:38.000Z"
+   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+   "desc": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+   "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T16:13:21.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-   "desc": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
-   "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T12:08:21.000Z"
+   "title": "Former American Idol contestant sentenced to life in prison for murdering wife",
+   "desc": "Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up.",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn5djx1pko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T20:30:05.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "In Iraq, ISIS members once jailed in Syria face trial",
+   "desc": "In Iraq, NPR attends trials of French ISIS suspects after transfer from Syrian camps.",
+   "link": "https://www.npr.org/2026/10/05/nx-s1-5991613/in-iraq-isis-members-once-jailed-in-syria-face-trial",
+   "date": "2026-10-05T22:04:44.000Z"
   },
   {
    "src": "NPR",
@@ -194,20 +202,12 @@
    "date": "2026-10-05T11:07:09.000Z"
   },
   {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-   "desc": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
-   "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-   "date": "2026-10-05T10:53:46.000Z"
-  },
-  {
    "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
-   "desc": "Houthi-run media deny the government has made advances in the Dhubab area, which overlooks the strategic Red Sea waterway.",
+   "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+   "desc": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
    "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T14:37:17.000Z"
+   "date": "2026-10-05T17:49:59.000Z"
   },
   {
    "src": "BBC ME",
@@ -284,16 +284,8 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Accor and KRD Holding Sign Mövenpick Erbil Gomaspan Resort, a Landmark Lakefront Destination in Iraq",
-   "desc": "Accor and KRD Holding Sign Mövenpick Erbil Gomaspan Resort, a Landmark Lakefront Destination in Iraq &nbsp;&nbsp; hospitalitynet.org",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaE9qbk1pb0t3d2MzWksybmM3Z2dJUXp0VzdYd1l5ZC1fQnFibWFyU0lPNFBZdXBHTWpYZFpZSmZVb0xJSTlRYXpKdVI0U3doREF1TE1ZaC10XzhSRFlySjhaMlhwM0JRN0UwU3VIdEg1aUFQLWNBUjRQU3JQOXZqYUVKS2xQS09GdURvRF9Ib1gyT0YwU2FyX2xwN25Nb0VRNmlqUU1FanAtNUx4OUxoMUVZdWJHbmJPYk81MTZ3Qm9jSXJWeGpuNGFyWklOSm9vRDZyU0szNklLUm1rWEx3Q2FTdTc1WEk?oc=5",
-   "date": "2026-09-29T13:46:00.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "KRG Allocates $687,000 Annually to Develop Erbil’s Archaeological Sector",
-   "desc": "KRG Allocates $687,000 Annually to Develop Erbil’s Archaeological Sector &nbsp;&nbsp; کوردستان 24",
+   "desc": "KRG Allocates $687,000 Annually to Develop Erbil’s Archaeological Sector &nbsp;&nbsp; kurdistan24.net",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15X0ZadFJ0VHVNa0FjTmgwWjJLdVNsU2JtanItTl9qbUc2bVVRVjlpSjk1djF0VUIySnhSREEwS2lRM1YxNUQ4b3hMZVRCcDVFTUR1bE1n?oc=5",
    "date": "2026-10-04T15:04:00.000Z"
   },
@@ -301,17 +293,25 @@
    "src": "Erbil",
    "section": "Work & Erbil · کار",
    "title": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends",
-   "desc": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends &nbsp;&nbsp; The Long War Journal",
+   "desc": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends &nbsp;&nbsp; longwarjournal.org",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnptWElJdC1DX3Y3aHhwOURxZ1NqMTNacmhBWlFfWDMtbVEzVGpseTF3SzlIc1k4THNld0V4QnpxN0dfMEU0ZGRELUNHMnFiWk5iSFIyQnZITllFZjhIdFF5dDNCNjFzRXdMbDdxYnFWMjFkRktLaFlKZGIyVzlJb2JOUXhBTzZFZkpSWEF6eHBPVnh6c3VjQTRBRDBob1BCUWNkVnV6X3l2TmVOUURGNm1ISHFtbVpVZ2JMSTV1WUM4cjQyNm5XWHdGdTM0UQ?oc=5",
    "date": "2026-09-30T16:33:28.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "As US withdraws from Iraq, Kurdish region is left exposed to Iran's threats - analysis",
-   "desc": "As US withdraws from Iraq, Kurdish region is left exposed to Iran's threats - analysis &nbsp;&nbsp; The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGbURWQW1PM0FpRUZ2czVCand1c2hldVpQcWVYSmlIQ0daajBEOFlyVWRxT1U0aW9nd09kSWQzTXVPVnhmOVFJb1gtNHdaUGdWSVFER21CTGg0ZGtP?oc=5",
-   "date": "2026-09-28T16:08:52.000Z"
+   "title": "US military completes withdrawal of troops from Iraq after 12-year mission",
+   "desc": "US military completes withdrawal of troops from Iraq after 12-year mission &nbsp;&nbsp; Fox News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVRvTzlFZXkyNmtpdFpYQkhSTFJlQzVXMGdkLWVTS1FYY081NDFJalM3ckN3U0FRVHNtRlM3NmljRTZ5TGdfc2NUT1AzaURaTWNPa1lXWUtlQ2dkWmFoOXpOR0tYc1IyNVZaZmdfYm95Ty1hTC10Sy1IZWIyQzEzNHUxMG9XaWdfRm1zdkZxYzBmTnZqdklnNlA2WnRMdGFwMG04U9IBqgFBVV95cUxNaEppTUJfZkFVS3gzdEgyUzA3Q3JTbEE0bEtfMGFwZm9ZZVJVTDc2X2JBYjUyUDkyQmNlMUEzSFMxdTZ0S2N6dm5RUEJOcUhkak9Lb3FZekJXNF9zZ2ZaQndnRWpTUy0yelo1VUw4UXJqSkx6eUJ0OVhmREhzbTZXcmtSZ0RGd2t4cDJZTmZxRHhaeHg4bktEUFBDR3pjNHlNbG1LT1JVVGVPQQ?oc=5",
+   "date": "2026-09-30T10:16:23.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+   "desc": "Iraq begins high-stakes security balancing act as US troops withdraw &nbsp;&nbsp; Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXNwV2V3V0N4QXJRWG8tS1RCc01kSTZURTJxVzVkckU2Vm1kcWlIMXdXVWhuenQxVFYwSktNbnVBMHI5UHVxcWtSQUN1d1FUMU5LMGd1Rk8tbHFTc2RvbEl5YzhHM0g4ajBxOFNXQWNWVy1Od25LNC1FRjBxZFU5NWFJc016UGZCaWQwM094NVNoUVVtM3FwbjByV000c3lGazdwUHpJVVptOHhOT2fSAbMBQVVfeXFMTjRZN2l3MzJnUEx0cjJCY21mMnNrNlIxVzBhUzNKbGkyWWJkQmVaSU5kandRdlBnYTNIUS13UlkyaTJnLW5VLVVWaGloNEhtWGFCbmY2SndMbmtkLWN5Nnh5ZUx5Um9qNnBsZlFWQ1k4M2sxMnk3eUJIZFJBY2Q0c2YxSXI1cE9RVV8wbWtOUnF0R3FBTl9OZDR6bnd0dWJsdFZlSHJYaFJOLXptTGVkMVJEX2s?oc=5",
+   "date": "2026-09-29T23:18:26.000Z"
   },
   {
    "src": "Erbil",
@@ -325,7 +325,7 @@
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "KRG Tourism Drive Targets Year-Round Growth and Winter Adventures",
-   "desc": "KRG Tourism Drive Targets Year-Round Growth and Winter Adventures &nbsp;&nbsp; کوردستان 24",
+   "desc": "KRG Tourism Drive Targets Year-Round Growth and Winter Adventures &nbsp;&nbsp; kurdistan24.net",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWhqU2lNWUpGUS0xSVRtMVA0WUw4YnZzaDZqVXU2cFBrSVNkT0RYdXNaSGFqTVhVVjZMOGpuaG5JOG5jdE1GWmNfM2JMQ0s0V2FESzRKWGFSS0VJY3BwMUhVLTlCeGRBd041bHI4SVVuMzA0UlVjc3FxNG9selRzLTJWN01feUlQLU1iOEEzYlBMTjF2elNPVl9uazlUbkgzOVROdG4tOVFyNW5DSWc?oc=5",
    "date": "2026-09-27T09:30:03.000Z"
   },
@@ -335,13 +335,13 @@
    "title": "The United States Should Crack Down on Alleged Iranian Front Companies in Iraqi Kurdistan",
    "desc": "The United States Should Crack Down on Alleged Iranian Front Companies in Iraqi Kurdistan &nbsp;&nbsp; Middle East Forum",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjJCYzJ6T3dEOEhUOXhUSC1GMlM3QjE4Q1Jsd1RyZTFjazFwNGZPQXk5RWFlMjlvcS1HSy1VeTRISnBmd292ZU1yRUQya0thX1FoREhBTXhZdVMteXlYWHZwY3hIOERCRU9XMFNFak1YZTMxcWRNUkNyblJOZ2taRVprLWpPNS1aRENxOG5VaC1xaWJ3M1lURWQ1dzJ2OXphekFQdm9VWG9iQXBTQTdDNUpyajYydzRrb2EtMWxQYV9Sd0Q4?oc=5",
-   "date": "2026-10-05T12:34:09.000Z"
+   "date": "2026-10-05T18:05:30.000Z"
   },
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Travel & Tourism News Middle East",
-   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; ttnworldwide.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmpiVWtlQkNVS2JPNkdHcnc2a3ZtRVB1Snd4b3hwRi1FZ3hvR21Pamwza2EtQmd3ellOd3hJdk1jMzJwTTh0czVadXRlLUx2LXZxa09kTVhmdGlsbV9lbTlOcFU4LUFKRE5nTURDNzRXaE1mWXVqeXZEUlZvenNPUHVBSDl4cTFZWm1kZ093elBHNWtQdjJKZF96SlExSUpicEVmU3hYeDhFcVpTYXc?oc=5",
    "date": "2026-09-30T05:58:26.000Z"
   },
@@ -352,6 +352,14 @@
    "desc": "Iraq seeks workaround for US sanctions on Iranian airlines &nbsp;&nbsp; The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85RE1CcTc3UU9ISm9DNHh2LW9IUzg2WTNrclc1VTY1eWlObnNJYjlRRVBobmI0T1NuWEtPbkNrS2JYTElCa3doMXAtRC02UktsaUZja0l2Z0NHeW8z?oc=5",
    "date": "2026-10-04T15:50:18.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Head of Zakho Autonomous Administration Receives UAE Consul General in Kurdistan Region",
+   "desc": "Head of Zakho Autonomous Administration Receives UAE Consul General in Kurdistan Region &nbsp;&nbsp; وزارة الخارجية الإماراتية",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbURmVUtuTV9VLUZfWXhXelpnWk94MDRnQXR3TENtcE1Pb2pEVFphc1VUclRCNXliU25IVzI0TWJQcWVERGJHbVAyLXRBU280bzhTVFFUZ25QdzdELTBrX1dTQ2xzRW1HYi1NSkNubDFFd0s1LXNFdlNuRFNyeVJyZU1BSVJTMkxCTm9JTkwtVS14bW5yZE1USVVVOHo?oc=5",
+   "date": "2026-10-02T07:00:00.000Z"
   }
  ]
 }
