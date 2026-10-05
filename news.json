@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-05T00:32:00.843Z",
+ "updated": "2026-10-05T06:37:40.477Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; rudaw.net",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4OHZ5MXgzcHd4QkRTUWFGbFV6WWlZdXB4eGpseXhGaENKYXJEX1RySHFqc2Rwem1rMGdlT1ctNmRnTzRsenpMU2pKMmtLN1dJWDA2ZTlpSTd4ZDF2VElBSQ?oc=5",
    "date": "2026-10-04T17:18:38.000Z"
   },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "UK charges two Iranian nationals over alleged plot targeting Jewish community",
-   "desc": "UK charges two Iranian nationals over alleged plot targeting Jewish community &nbsp;&nbsp; rudaw.net",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WY0E5VVJodkdxTnYxcTVHV3RHcE5mTGJKTEdhZl9HWUJfMjVLcVBMUGNkTFNkVHYyM3c2NHJKLVMxYkhfRWVIMTZXNDBTemZTQWV2ODJqeVdDR28zTW9N?oc=5",
-   "date": "2026-10-03T06:36:34.000Z"
+   "title": "Pro-Iran armed group leader tramples US flag despite government warning",
+   "desc": "Pro-Iran armed group leader tramples US flag despite government warning &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxTXNUUGFJMVg2X0VWaHRkSXBEMEdnWnZiVHQzXy0tZTZLQ1VOTzZ2UEQ3QWVtSloycjFkV0xHRk5rdjVrWlRubFV1VnNrWEtXZEpnRFRyVVQ1aURTZlNzUlRJRQ?oc=5",
+   "date": "2026-10-05T06:00:16.000Z"
   },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "Iran executes another January protester",
-   "desc": "Iran executes another January protester &nbsp;&nbsp; rudaw.net",
+   "desc": "Iran executes another January protester &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGTHl6UVJESzNSWUpOODlmR0J4NzByZFhoc1BUd25VMlVDd0pHQzNvejNSN2YxU05mYVY1R2tCa3pQazBsM2VBSTllZXNwVkZpdnZRYk43SF9LYjR5eVE?oc=5",
    "date": "2026-10-03T19:32:55.000Z"
   },
@@ -29,7 +29,7 @@
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "Zhina Amini and the freedom that began with her name",
-   "desc": "Zhina Amini and the freedom that began with her name &nbsp;&nbsp; rudaw.net",
+   "desc": "Zhina Amini and the freedom that began with her name &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15aWlDVEg4WXRwM0xBYlVwYnNUYlh4cUs2UVNSTE0wVFYtSUYxQUwwNlV5blhWZzdkejlwRS1xc05lTjg2bVFETE5BSW9hZnkySE9aNlFyd29maW1YUVdNYi13?oc=5",
    "date": "2026-10-03T11:31:06.000Z"
   },
@@ -37,9 +37,25 @@
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "Iran-aligned militia leader says Kurdistan Region should not be concerned about US military withdrawal",
-   "desc": "Iran-aligned militia leader says Kurdistan Region should not be concerned about US military withdrawal &nbsp;&nbsp; rudaw.net",
+   "desc": "Iran-aligned militia leader says Kurdistan Region should not be concerned about US military withdrawal &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSaDMyWU5KQ1VaaHFMU1MxbGR4WmlDT1hIQW9sVzQzVFdzYjF0c09COVZjT3VDN2c4dFlydEM2cUtoeUdQaW1SaUtaTDVmRlBHbFNzdUQ0dE16ZG0yczVUVkJjZnVweml3TEE?oc=5",
    "date": "2026-10-03T09:20:56.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Wright: Rising Hormuz Supplies Should Ease Fuel Prices",
+   "desc": "U.S. Energy Secretary Chris Wright expects gasoline and diesel prices to fall despite Iran-related risks, citing rising Gulf supplies and a major G7 fuel release.",
+   "link": "https://www.kurdistan24.net/en/story/943977/wright-rising-hormuz-supplies-should-ease-fuel-prices",
+   "date": "2026-10-05T05:45:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "US Withdraws B-1 Bombers From UK Base After Security Incident",
+   "desc": "Washington confirms all bombers deployed to RAF Fairford have returned to US bases as British counter-terrorism investigators examine a mysterious incident near the facility",
+   "link": "https://www.kurdistan24.net/en/story/943971/us-withdraws-b-1-bombers-from-uk-base-after-security-incident",
+   "date": "2026-10-05T05:33:00.000Z"
   },
   {
    "src": "K24",
@@ -66,20 +82,28 @@
    "date": "2026-10-04T17:47:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "KRG: Over 80% of Road Project Workforce Is Local, Federal Budget Delays Slow Projects",
-   "desc": "Regarding roads in the Kurdistan Region, Abdullah said projects currently under implementation are being developed to modern standards, with the KRG cooperating with international companies to benefit from advanced technologies.",
-   "link": "https://www.kurdistan24.net/en/story/943905/krg-over-80-of-road-project-workforce-is-local-federal-budget-delays-slow-projects",
-   "date": "2026-10-04T16:50:00.000Z"
+   "title": "Kpler: Middle East crude shipments top pre-war benchmarks",
+   "desc": "Shafaq News- Hormuz Crude oil exports from the Middle East rose above pre-war levels on four of the seven days in the final week of September, ship-tracking firm Kpler said on Monday. Crude exports from the region reached a high of 19.5 million barrels per day (bpd) on September 24 and ranged between 19 million bpd and 22.5 million bpd from September 27 to 29. Exports averaged 18 million bpd betwe",
+   "link": "https://shafaq.com/en/Economy/Kpler-Middle-East-crude-shipments-top-pre-war-benchmarks",
+   "date": "2026-10-05T06:23:02.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iranian Airlines Resume Najaf Flights After US Exemption",
-   "desc": "Najaf International Airport official Hussein Muhanna confirmed that flights between Iraq and Iran had resumed through the airport.",
-   "link": "https://www.kurdistan24.net/en/story/943893/iranian-airlines-resume-najaf-flights-after-us-exemption",
-   "date": "2026-10-04T15:35:00.000Z"
+   "title": "Iran executed 30+ January 2026 protesters",
+   "desc": "Shafaq News- Tehran Iran has executed at least 33 people arrested during the January 2026 protests, while another 100 protesters facing possible death sentences, the Center for Human Rights in Iran (CHRI) said Monday. Founded in 2008 by Iranian human rights advocates, CHRI noted that the executions began on March 20, with the names and case details of many of those executed becoming public only af",
+   "link": "https://shafaq.com/en/Middle-East/Iran-executed-30-January-2026-protesters",
+   "date": "2026-10-05T05:53:32.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Oil prices slip on strategic reserve release",
+   "desc": "Shafaq News Oil prices edged lower on Monday as rising &#8203;Middle East crude exports and a release of oil stocks by the Group of Seven &zwnj;nations boosted supplies, offsetting concerns about further damage to Gulf oil infrastructure amid the US-Israeli war on Iran. Brent crude futures fell 66 cents, or 0.65%, to $101.59 a barrel at 0240 GMT, while US West Texas Intermediate crude was at $90.1",
+   "link": "https://shafaq.com/en/Economy/Oil-prices-slip-on-strategic-reserve-release",
+   "date": "2026-10-05T05:11:55.000Z"
   },
   {
    "src": "Shafaq",
@@ -98,36 +122,12 @@
    "date": "2026-10-04T22:30:04.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Baghdad: F-16 upkeep fully domestic",
-   "desc": "Shafaq News- Baghdad Iraqi engineers and technicians have handled 100% of maintenance on the country&rsquo;s F-16 fighter jets since 2025, Defense Ministry spokesperson Maj. Gen. Yahya Rasool told Shafaq News on Sunday, saying the work no longer relies on foreign personnel. Rasool said maintenance, aircraft operations, fuel provision, and pilot training are now handled entirely by Iraqi personnel.",
-   "link": "https://shafaq.com/en/Security/Baghdad-F-16-upkeep-now-fully-domestic",
-   "date": "2026-10-04T22:00:06.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Red palm weevil threatens Iraq’s date groves",
-   "desc": "Shafaq News- Najaf Hidden inside the trunks of Iraq&rsquo;s date palms, a destructive pest can hollow out a tree before clear signs of infestation appear. The red palm weevil, an invasive insect now reported in more than seven Iraqi provinces, is posing a growing threat to orchards and a date industry deeply tied to the country&rsquo;s agricultural heritage. In Najaf, where date palms cover about ",
-   "link": "https://shafaq.com/en/society/Red-palm-weevil-threatens-Iraq-s-date-groves",
-   "date": "2026-10-04T21:45:09.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Leader Barzani: No one will protect us without self-reliance",
-   "desc": "Shafaq News- Erbil Kurdistan Democratic Party (KDP) leader Masoud Barzani on Sunday urged Kurds to rely on themselves, saying no one would protect them if they failed to do so. At the closing ceremony of the KDP&rsquo;s 20th cadre-training course in Erbil, Barzani said, &ldquo;We want to have the best relations. We are not enemies of Iran, Turkiye or any other country,&rdquo; expressing hope that ",
-   "link": "https://shafaq.com/en/Kurdistan/Leader-Barzani-No-one-will-protect-us-without-self-reliance",
-   "date": "2026-10-04T21:24:46.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "US removes all bombers from UK air base",
-   "desc": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+   "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T21:57:32.000Z"
+   "date": "2026-10-05T04:58:56.000Z"
   },
   {
    "src": "BBC",
@@ -140,7 +140,7 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+   "title": "US Marine arrested over murder of woman in Japan's Okinawa",
    "desc": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
    "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-04T14:36:57.000Z"
@@ -284,6 +284,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Accor and KRD Holding Sign Mövenpick Erbil Gomaspan Resort, a Landmark Lakefront Destination in Iraq",
+   "desc": "Accor and KRD Holding Sign Mövenpick Erbil Gomaspan Resort, a Landmark Lakefront Destination in Iraq &nbsp;&nbsp; Hospitality Net",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaE9qbk1pb0t3d2MzWksybmM3Z2dJUXp0VzdYd1l5ZC1fQnFibWFyU0lPNFBZdXBHTWpYZFpZSmZVb0xJSTlRYXpKdVI0U3doREF1TE1ZaC10XzhSRFlySjhaMlhwM0JRN0UwU3VIdEg1aUFQLWNBUjRQU3JQOXZqYUVKS2xQS09GdURvRF9Ib1gyT0YwU2FyX2xwN25Nb0VRNmlqUU1FanAtNUx4OUxoMUVZdWJHbmJPYk81MTZ3Qm9jSXJWeGpuNGFyWklOSm9vRDZyU0szNklLUm1rWEx3Q2FTdTc1WEk?oc=5",
+   "date": "2026-09-29T13:46:00.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "KRG Allocates $687,000 Annually to Develop Erbil’s Archaeological Sector",
    "desc": "KRG Allocates $687,000 Annually to Develop Erbil’s Archaeological Sector &nbsp;&nbsp; کوردستان 24",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15X0ZadFJ0VHVNa0FjTmgwWjJLdVNsU2JtanItTl9qbUc2bVVRVjlpSjk1djF0VUIySnhSREEwS2lRM1YxNUQ4b3hMZVRCcDVFTUR1bE1n?oc=5",
@@ -314,14 +322,6 @@
    "date": "2026-09-30T12:23:45.000Z"
   },
   {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "US military completes withdrawal of troops from Iraq after 12-year mission",
-   "desc": "US military completes withdrawal of troops from Iraq after 12-year mission &nbsp;&nbsp; Fox News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVRvTzlFZXkyNmtpdFpYQkhSTFJlQzVXMGdkLWVTS1FYY081NDFJalM3ckN3U0FRVHNtRlM3NmljRTZ5TGdfc2NUT1AzaURaTWNPa1lXWUtlQ2dkWmFoOXpOR0tYc1IyNVZaZmdfYm95Ty1hTC10Sy1IZWIyQzEzNHUxMG9XaWdfRm1zdkZxYzBmTnZqdklnNlA2WnRMdGFwMG04Uw?oc=5",
-   "date": "2026-09-30T10:16:23.000Z"
-  },
-  {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "KRG Tourism Drive Targets Year-Round Growth and Winter Adventures",
@@ -340,26 +340,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "Iraq seeks workaround for US sanctions on Iranian airlines",
+   "desc": "Iraq seeks workaround for US sanctions on Iranian airlines &nbsp;&nbsp; The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85RE1CcTc3UU9ISm9DNHh2LW9IUzg2WTNrclc1VTY1eWlObnNJYjlRRVBobmI0T1NuWEtPbkNrS2JYTElCa3doMXAtRC02UktsaUZja0l2Z0NHeW8z?oc=5",
+   "date": "2026-10-04T15:50:18.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Head of Zakho Autonomous Administration Receives UAE Consul General in Kurdistan Region",
-   "desc": "Head of Zakho Autonomous Administration Receives UAE Consul General in Kurdistan Region &nbsp;&nbsp; mofa.gov.ae",
+   "desc": "Head of Zakho Autonomous Administration Receives UAE Consul General in Kurdistan Region &nbsp;&nbsp; وزارة الخارجية الإماراتية",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbURmVUtuTV9VLUZfWXhXelpnWk94MDRnQXR3TENtcE1Pb2pEVFphc1VUclRCNXliU25IVzI0TWJQcWVERGJHbVAyLXRBU280bzhTVFFUZ25QdzdELTBrX1dTQ2xzRW1HYi1NSkNubDFFd0s1LXNFdlNuRFNyeVJyZU1BSVJTMkxCTm9JTkwtVS14bW5yZE1USVVVOHo?oc=5",
    "date": "2026-10-02T07:00:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "American travel vlogger, team expelled from Baghdad ‘for their safety’",
-   "desc": "American travel vlogger, team expelled from Baghdad ‘for their safety’ &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83a3puaVVVV3YtYmdtTEV1YXdfdl9aQXVpN2xycFJSMVNwS0Zvdm9CeVpsUGtQb2IzX0VKY2Y2akFQOFMwRUk1RHBrTQ?oc=5",
-   "date": "2026-10-04T20:39:47.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Shafaq News..KRI presents updated 2050 master plan for Erbil",
-   "desc": "Shafaq News..KRI presents updated 2050 master plan for Erbil &nbsp;&nbsp; شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmIzVXc2Wl9iLXBteGhkX2hRaXI2QmFmdURpVFZjeno2SDJWZkprZnpBVmcxWUdjWkFvcTRzLVNOeDZIZEZ4azBPUGJYcjZxbW9XQ3VCUFE3M1kxQk9hOGhnNVJMVmQwUEZLNll4Z0tUTndwc3BkVDJSUW9wc2xsVzFnamZ2dw?oc=5",
-   "date": "2026-09-23T07:00:00.000Z"
   }
  ]
 }
