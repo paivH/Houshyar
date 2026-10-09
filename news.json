@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-09T00:34:07.157Z",
+ "updated": "2026-10-09T07:11:38.620Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTRExENDJQS3U3RVVDb2lmVEJIMF9UeFlraWpQQXFGODZpSlZnQTBWX1d6MmF0b0pKWndGX3ZrWHJPS1h3QzM4YWRVR3VyblQyM1JDay1tZXdMc0pfQkE?oc=5",
-   "date": "2026-10-07T17:48:50.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pcjJxUXZCc1J5R3k2aFdfbHJzYXFNNXMwOVBrSzFHbjFqaWg0UVJwX3NDSWdPb29XRXpLcl8ycFYxUl9LX3ZvQzVqbzRQTUVra1gyVk5iaDB4RU5ncngtRmJsMXVtZ2d1dEE?oc=5",
+   "date": "2026-10-08T12:21:03.000Z"
   },
   {
    "src": "Rudaw",
@@ -44,6 +44,30 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
+   "title": "Kurdish Youths Protest in Hasakah After Anti-Kurdish Slogans, Several Injured",
+   "desc": "The tensions followed an incident a day earlier, when the city's administration organized a ceremony to raise the Syrian flag at Peace Square in central Hasakah.",
+   "link": "https://www.kurdistan24.net/en/story/944913/kurdish-youths-protest-in-hasakah-after-anti-kurdish-slogans-several-injured",
+   "date": "2026-10-09T07:06:24.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "European Parliament Backs Call to Assess Muslim Brotherhood for Terrorist Listings",
+   "desc": "The resolution passed by 381 votes to 167, urging EU countries to provide information to enable an assessment of the Brotherhood’s leaders, structures, and affiliated networks to determine whether they meet the criteria for terrorist designation.",
+   "link": "https://www.kurdistan24.net/en/story/944895/european-parliament-backs-call-to-assess-muslim-brotherhood-for-terrorist-listings",
+   "date": "2026-10-09T05:53:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Putin Vows to Help End Middle East War in Talks With Pezeshkian",
+   "desc": "“We are ready to do everything that is in our power to contribute to the settlement of this situation,” Putin said, according to Russian news agencies.",
+   "link": "https://www.kurdistan24.net/en/story/944891/putin-vows-to-help-end-middle-east-war-in-talks-with-pezeshkian",
+   "date": "2026-10-09T05:20:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
    "title": "Two Explosive-Laden Drones Crash Near Refugee Camp in Erbil Province",
    "desc": "The Kurdistan Region Directorate General of Counter Terrorism (CTD) said that the camp was targeted by two explosive-laden drones at 10:19 p.m.",
    "link": "https://www.kurdistan24.net/en/story/944878/two-explosive-laden-drones-crash-near-refugee-camp-in-erbil-province",
@@ -58,28 +82,20 @@
    "date": "2026-10-08T18:30:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Trump Rules out Attack on Iran Before US Midterm Elections",
-   "desc": "In a post on his Truth Social platform, Trump said Iran was in a difficult economic and military situation but that the US blockade of the country would remain in place.",
-   "link": "https://www.kurdistan24.net/en/story/944841/trump-rules-out-attack-on-iran-before-us-midterm-elections",
-   "date": "2026-10-08T17:30:00.000Z"
+   "title": "Pakistan reaffirms Saudi defense pact after Houthi attacks",
+   "desc": "Shafaq News- Islamabad Pakistani Prime Minister Shehbaz Sharif on Friday condemned the deadly Houthi attacks on Saudi Arabia&rsquo;s King Khalid and Abha international airports, reaffirming Islamabad&rsquo;s commitment to the Kingdom&rsquo;s security and sovereignty under the Mecca Joint Defense Agreement. &ldquo;We also fully support Saudi Arabia&rsquo;s legitimate right to defend its people and ",
+   "link": "https://shafaq.com/en/Middle-East/Pakistan-reaffirms-Saudi-defense-pact-after-Houthi-attacks",
+   "date": "2026-10-09T06:32:28.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "U.S. Forces Support Shipment of 1.25 Billion Barrels of Gulf Oil Through Hormuz",
-   "desc": "“In recent months, U.S. forces have supported the shipment of over 1.25 billion barrels of crude oil from Gulf partners and through the Strait of Hormuz,” CENTCOM said in a statement.",
-   "link": "https://www.kurdistan24.net/en/story/944832/us-forces-support-shipment-of-125-billion-barrels-of-gulf-oil-through-hormuz",
-   "date": "2026-10-08T16:35:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Saudi Missile Interception Debris Damages Kindergarten, Medical Complex in Riyadh",
-   "desc": "The Houthis, who control large parts of Yemen, said they had targeted Riyadh’s airport as part of their escalating attacks against Saudi Arabia.",
-   "link": "https://www.kurdistan24.net/en/story/944820/saudi-missile-interception-debris-damages-kindergarten-medical-complex-in-riyadh",
-   "date": "2026-10-08T15:18:00.000Z"
+   "title": "Oil prices decline on easing Iran tensions",
+   "desc": "Shafaq News Oil prices fell on Friday as Middle East supply concerns eased after US President Donald Trump said it will not attack Iran before US elections next month &#8203;amid productive talks to end their war that has disrupted global energy markets. Brent crude &zwnj;futures fell $1.37, or 1.3%, to $102.91 a barrel by 0450 GMT. US West Texas Intermediate (WTI) crude futures fell $1.09, or 1.2",
+   "link": "https://shafaq.com/en/Economy/Oil-prices-decline-on-easing-Iran-tensions",
+   "date": "2026-10-09T05:35:30.000Z"
   },
   {
    "src": "Shafaq",
@@ -92,7 +108,7 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran, KRI seek faster trade through Parvi zkhan crossing",
+   "title": "Iran, KRI seek faster trade through Parvizkhan crossing",
    "desc": "Shafaq News- Tehran/ Erbil Iranian officials and representatives of the Kurdistan Region of Iraq (KRI) agreed on Thursday on a series of steps to expand commercial activity through the Parvi zkhan crossing, Iranian media outlets reported. The talks brought together Qasr-e Shirin Governor Mohammad Shafiei and Abbas Esmail Ali, the KRI&rsquo;s representative and manager at the crossing. Measures dis",
    "link": "https://shafaq.com/en/Kurdistan/Iran-KRI-seek-faster-trade-through-Parvi-zkhan-crossing",
    "date": "2026-10-08T22:31:07.000Z"
@@ -106,28 +122,28 @@
    "date": "2026-10-08T22:12:44.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US sanctions 17 Iran “shadow fleet” vessels",
-   "desc": "Shafaq News- Washington/ Tehran The US Treasury Department on Thursday sanctioned 17 vessels it said were part of Iran&rsquo;s remaining &ldquo;shadow fleet,&rdquo; targeting a maritime network Washington accuses of moving billions of dollars&rsquo; worth of Iranian petroleum and petrochemical products to foreign markets. The measures were imposed under Operation Economic Outcast, a campaign launc",
-   "link": "https://shafaq.com/en/World/US-sanctions-17-Iran-shadow-fleet-vessels",
-   "date": "2026-10-08T21:29:31.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Two-drone attack targets refugee camp in Erbil",
-   "desc": "Shafaq News- Erbil Two drones attacked a camp housing refugees from Iran&rsquo;s East Kurdistan in Erbil province, Kurdistan Region of Iraq (KRI), the Kurdistan Region Counter-Terrorism Service said on Thursday. The attack hit the camp in Korkosk subdistrict of Khabat district and caused no casualties. Earlier today, a drone exploded after targeting Khabat district, a security source told Shafaq N",
-   "link": "https://shafaq.com/en/Kurdistan/Two-drone-attack-targets-refugee-camp-in-Erbil",
-   "date": "2026-10-08T20:30:53.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Firing squad execution to be livestreamed, Pentagon says",
+   "desc": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-09T07:05:05.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-   "desc": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-08T23:35:57.000Z"
+   "title": "ICE agent shoots man in New York City",
+   "desc": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+   "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-09T04:26:19.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+   "desc": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal injection.",
+   "link": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-09T02:09:45.000Z"
   },
   {
    "src": "BBC",
@@ -144,22 +160,6 @@
    "desc": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
    "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-08T14:33:23.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "What Americans think about the death penalty",
-   "desc": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee.",
-   "link": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-08T21:49:14.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "White House blocks Microsoft from foreign worker hiring program",
-   "desc": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
-   "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-08T21:37:35.000Z"
   },
   {
    "src": "NPR",
