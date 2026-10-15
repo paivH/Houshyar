@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-15T07:06:56.065Z",
+ "updated": "2026-10-15T12:46:36.243Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wYkFlaWhmd0xCMm1KaENWcFRvR29wWGlqTThRbTNpOXU1MWRvZ1BLV01CeHRCVWI0QnpvZkJob0ZmcGtrX1RRUWtDXzdPVGUyRl83cW1hQ2JPQmtpai1XQWdIT2Q?oc=5",
-   "date": "2026-10-14T09:34:20.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pVW5ZRTR4andPTHZRNjg1RVZDTlVvLWtTbUMxeWFUWExNT1RYeVhRNFp6WWlQX1p0WHA5elVMZnhWVng4enExc0R4dWJIVGVDLU5TWEpkLV9sNUhucnE5d2tmRVVuRzg?oc=5",
+   "date": "2026-10-14T13:28:06.000Z"
   },
   {
    "src": "Rudaw",
@@ -16,6 +16,14 @@
    "desc": "Iraq, Iran to discuss presence of Iranian Kurdish opposition groups on October 19 &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oV1VCMU56a1hqTVB3djJ0Z3RGdVhFZDU1QlBXNjgyM0tsdlhRdmRxWnZrMFZCSEhZcWtYUVFmQ2hUbG5vRkNoQ3JoMDFvc2VwVElRRlJGcHJ5WmpISWdfV1dKVQ?oc=5",
    "date": "2026-10-14T11:10:24.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "UNHCR praises Kurdistan Region for hosting Syrian refugees",
+   "desc": "UNHCR praises Kurdistan Region for hosting Syrian refugees &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3bWFtM0w2S19DLThKXzBnellEQ2J3RnFsQmJ2d0YtVXJPRk1uSWJ5dDdvQVZkS2lKTEcwSU1VVjFfWnc5RHRlUXNGTWhMTmlZYzkwb29KMDNxSjFmVFQxWkZKdzl0ZEtQVGc?oc=5",
+   "date": "2026-10-15T09:24:29.000Z"
   },
   {
    "src": "Rudaw",
@@ -34,92 +42,84 @@
    "date": "2026-10-14T23:00:40.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Two Iranian security forces killed in separate attacks in southeast Sistan-Baluchestan: Watchdog",
-   "desc": "Two Iranian security forces killed in separate attacks in southeast Sistan-Baluchestan: Watchdog &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pVWJsT0t6RnIzbUhZUmRPNlR5YnEwM2JobGY4MjJkX1VVSEpNdlAtY0NBVVA1Q3d6cS0ybEU2MWZ4aTFTSjlySHBHQVhPYkRLM2MyS3VQMnVyc3R2NlJEd2haQQ?oc=5",
-   "date": "2026-10-14T20:45:55.000Z"
+   "title": "Pezeshkian Says Iran Faces Its Toughest Blockade Since 1979 Revolution, Accuses US of Seeking Unrest",
+   "desc": "The Iranian president says Washington is using economic pressure to fuel public anger, as the US blockade of Iranian ports deepens tensions over the Strait of Hormuz",
+   "link": "https://www.kurdistan24.net/en/story/946307/pezeshkian-says-iran-faces-its-toughest-blockade-since-1979-revolution-accuses-us-of-seeking-unrest",
+   "date": "2026-10-15T12:33:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Ukraine Accuses US of Helping Russia as Starlink Restrictions Hamper Defenses",
-   "desc": "Zelensky urges Elon Musk to restore Starlink services as Kyiv reports deadly Russian missile strikes, power outages, and threatened intelligence cuts amid growing tensions with Washington",
-   "link": "https://www.kurdistan24.net/en/story/946212/ukraine-accuses-us-of-helping-russia-as-starlink-restrictions-hamper-defenses",
-   "date": "2026-10-15T05:34:00.000Z"
+   "title": "KDP Names Candidates for Iraq’s Deputy Prime Minister and Construction Minister Posts",
+   "desc": "The Kurdistan Democratic Party nominates Faris Sheikh Sadiq Brifkani for deputy prime minister and Rebaz Hamlan for minister of construction and housing ahead of a parliamentary vote on completing Ali al-Zaidi’s cabinet",
+   "link": "https://www.kurdistan24.net/en/story/946283/kdp-names-candidates-for-iraqs-deputy-prime-minister-and-construction-minister-posts",
+   "date": "2026-10-15T10:40:48.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "US Forces Destroy Iranian-Affiliated Vessel in Gulf of Oman",
-   "desc": "In a statement, CENTCOM said the vessel was involved in surveillance activities against U.S. naval ships. The crew members were safely removed before the dhow was destroyed, and repatriation efforts are ongoing, according to the statement.",
-   "link": "https://www.kurdistan24.net/en/story/946178/us-forces-destroy-iranian-affiliated-vessel-in-gulf-of-oman",
-   "date": "2026-10-14T20:27:00.000Z"
+   "title": "Iraq Raises Passport Issuance and Renewal Fees by 10,000 Dinars",
+   "desc": "The new fee takes effect across Iraq and the Kurdistan Region on Thursday, increasing the cost of obtaining or renewing a passport from 91,000 to 101,000 Iraqi dinars amid a rise in the dollar's market value",
+   "link": "https://www.kurdistan24.net/en/story/946273/iraq-raises-passport-issuance-and-renewal-fees-by-10000-dinars",
+   "date": "2026-10-15T09:40:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Iranian Parliament Speaker: Iran Pursuing War and Negotiations Simultaneously",
-   "desc": "“To achieve our goals, we will both fight and negotiate,” Ghalibaf said, adding that Iran would confront its adversaries with full force when necessary and increase its military readiness whenever possible.",
-   "link": "https://www.kurdistan24.net/en/story/946161/iranian-parliament-speaker-iran-pursuing-war-and-negotiations-simultaneously",
-   "date": "2026-10-14T18:56:00.000Z"
+   "title": "Sulaimani Court Sentences Lahur Sheikh Jangi to Five Years and Three Months in Prison",
+   "desc": "Lahur’s brother, Polad, received three years and six months, while five other defendants were also sentenced and two detainees were acquitted in the Lalezar Hotel case",
+   "link": "https://www.kurdistan24.net/en/story/946270/sulaimani-court-sentences-lahur-sheikh-jangi-to-five-years-and-three-months-in-prison",
+   "date": "2026-10-15T08:45:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Two Ships Sink Near Strait of Hormuz After Projectile Strikes",
-   "desc": "The incidents come amid a surge in attacks around the strategic waterway over the past 10 days, as Iran says it is intensifying strikes in response to a US blockade of its ports and tougher sanctions introduced last month.",
-   "link": "https://www.kurdistan24.net/en/story/946149/two-ships-sink-near-strait-of-hormuz-after-projectile-strikes",
-   "date": "2026-10-14T17:55:53.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Türkiye Ready to Support Tourism Development in Kurdistan Region, Consul General Says",
-   "desc": "He emphasized that longstanding family connections and shared social bonds have helped strengthen relations between the Kurdistan Region and Türkiye, with frequent travel and exchanges between communities on both sides of the border.",
-   "link": "https://www.kurdistan24.net/en/story/946138/t%C3%BCrkiye-ready-to-support-tourism-development-in-kurdistan-region-consul-general-says",
-   "date": "2026-10-14T16:35:00.000Z"
+   "title": "UN Warns Hormuz Crisis Could Trigger Global Food Emergency as US-Iran Fertilizer Deal Stalls",
+   "desc": "UN-backed plan seeks to move at least five fertilizer vessels daily through the strategic waterway, as prolonged disruption threatens planting seasons, agricultural production, and food prices across Asia and Africa",
+   "link": "https://www.kurdistan24.net/en/story/946253/un-warns-hormuz-crisis-could-trigger-global-food-emergency-as-us-iran-fertilizer-deal-stalls",
+   "date": "2026-10-15T07:40:00.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Teenage girl dies by suicide in Baghdad",
-   "desc": "Shafaq News- Baghdad A teenage girl died by suicide at her home in Baghdad's al-Dora district, a security source told Shafaq News on Thursday. The girl, born in 2010, reportedly used a piece of cloth suspended from the ceiling of a room in her family's home. Authorities are investigating the circumstances of her death. Iraq recorded 617 suicides nationwide in the first half of 2026, according to I",
-   "link": "https://shafaq.com/en/society/Teenage-girl-dies-by-suicide-in-Baghdad",
-   "date": "2026-10-15T07:00:50.000Z"
+   "title": "Baghdad markets remain deserted after dollar rate hike",
+   "desc": "Shafaq News- Baghdad Trading activity in Baghdad&rsquo;s main markets remained at a near standstill on Thursday, more than a week after Iraq raised the official US dollar exchange rate against the dinar. A Shafaq News correspondent reported that Al-Shorja market and Al-Rasheed Street, two of the main trade hotspots in the capital, were nearly empty of shoppers, while a group of citizens staged a p",
+   "link": "https://shafaq.com/en/Economy/Baghdad-markets-remain-deserted-after-dollar-rate-hike",
+   "date": "2026-10-15T12:30:04.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "IMF warns of severe economic risks across Middle East",
-   "desc": "Shafaq News- Bangkok A prolonged war in the Middle East and further disruptions to energy production, shipping routes, and critical infrastructure pose the biggest risks to economies across the Middle East and Central Asia, the International Monetary Fund said on Thursday. \"The outlook depends critically on how quickly energy production and trade normalize, and on countries' ability to preserve ma",
-   "link": "https://shafaq.com/en/Economy/IMF-warns-of-severe-economic-risks-across-Middle-East",
-   "date": "2026-10-15T06:32:50.000Z"
+   "title": "Air routes between Iraq and Kuwait reopen",
+   "desc": "Shafaq News- Baghdad Air routes between Iraq and Kuwait reopened on Thursday after being suspended because of security developments and regional tensions, Iraq's Transport Ministry said. The routes reopened at 11:00 GMT (14:00 Baghdad Time) under operating arrangements agreed with Kuwait, Qatar, Saudi Arabia, Bahrain and the United Arab Emirates, and supervised by the International Civil Aviation ",
+   "link": "https://shafaq.com/en/Security/Air-routes-between-Iraq-and-Kuwait-reopen",
+   "date": "2026-10-15T11:59:24.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Zelenskyy rebukes Trump over stance on Ukraine war",
-   "desc": "Shafaq News- Kyiv Ukrainian President Volodymyr Zelenskyy criticized US President Donald Trump's diesel supply deal with Russia, accusing Washington of favoring Moscow as Russian attacks on Ukraine's energy infrastructure continue. Speaking on Piers Morgan Uncensored, Zelenskyy appealed for US support and questioned whether Trump was honoring the neutral stance he has claimed in his efforts to end",
-   "link": "https://shafaq.com/en/World/Zelenskyy-rebukes-Trump-over-stance-on-Ukraine-war",
-   "date": "2026-10-15T05:58:57.000Z"
+   "title": "Iraq to inaugurate first-of-its-kind satellite teleport",
+   "desc": "Shafaq News- Baghdad Iraq plans to inaugurate its first satellite ground station, or teleport, in Baghdad on October 18 to handle communications with satellites in geostationary orbit (GEO), Communications Minister Mustafa Sanad said on Thursday. Sanad urged security and public-service institutions, government ministries, and private companies to use the station as their main gateway for transmitt",
+   "link": "https://shafaq.com/en/society/Iraq-to-inaugurate-first-of-its-kind-satellite-teleport",
+   "date": "2026-10-15T11:56:46.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Oil prices dip on easing US shipping sanctions",
-   "desc": "Shafaq News Oil prices fell more than 1% on Thursday &#8203;as investors weighed risks to supply from attacks on shipping through the Strait of Hormuz against US &zwnj;efforts to cut petroleum shipping costs by easing sanctions on vessels. Brent crude futures fell $1.64, or 1.6%, to $104.42 a barrel by 0337 GMT, while US West Texas Intermediate crude futures were down 98 cents, or 1%, to $94.11, r",
-   "link": "https://shafaq.com/en/Economy/Oil-prices-dip-on-easing-US-shipping-sanctions",
-   "date": "2026-10-15T05:19:27.000Z"
+   "title": "Education ministry to end Iraq's mud schools",
+   "desc": "Shafaq News- Baghdad Iraqi Education Minister Abdul Karim Abtan al-Jubouri said on Thursday that Prime Minister Ali Al-Zaidi has tasked him with ending the use of caravan and mud-brick schools, and that his ministry would seek to do so through the next federal budget. \"Mud and caravan* schools are not worthy of Iraq's civilization,\" al-Jubouri said during a meeting with school administrators. Iraq",
+   "link": "https://shafaq.com/en/society/Education-ministry-to-end-Iraq-s-mud-schools",
+   "date": "2026-10-15T11:40:57.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Babil draws tourists to its ancient ruins",
-   "desc": "Shafaq News- Babil Iraqi and foreign tourists have flocked to the ancient city of Babil on Wednesday, as milder temperatures provide favorable conditions for exploring its historic landmarks. The influx coincides with the Babil Festival for World Cultures and Arts, organized by Iraq&rsquo;s Ministry of Culture at the tourist resort within the archaeological city. Read more: 150,000 archaeological ",
-   "link": "https://shafaq.com/en/society/Babil-draws-tourists-to-its-ancient-ruins",
-   "date": "2026-10-14T23:04:56.000Z"
+   "title": "Press freedom group denounces parliamentary media ban",
+   "desc": "Shafaq News- Baghdad The Iraqi Association for Journalists' Rights Defense on Thursday condemned parliament's decision to bar journalists from covering a session on completing the cabinet lineup, calling it a serious violation of the constitution and press freedom. The October 15 session was set to vote on candidates for vacant and newly created cabinet positions, including deputy prime minister p",
+   "link": "https://shafaq.com/en/society/Press-freedom-group-denounces-parliamentary-media-ban",
+   "date": "2026-10-15T11:19:47.000Z"
   },
   {
    "src": "BBC",
@@ -132,79 +132,79 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-   "desc": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
-   "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-15T02:26:07.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "White House defends new press secretary amid questions about her legal credentials",
    "desc": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
    "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-15T03:03:16.000Z"
+   "date": "2026-10-15T08:41:04.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Inside Brooklyn novelty shop at centre of 'surreal' row with Kelly Clarkson over mechanical bird",
+   "title": "US teenager appears in court over alleged Hindu temple shooting plot",
+   "desc": "Alexandros Paporakis, 19, has appeared in court near Chicago after his arrest at the weekend.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-15T12:20:24.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "'It's rough out here': Americans struggle with rising inflation",
+   "desc": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
+   "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-14T15:57:11.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
    "desc": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
    "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-14T22:19:13.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "US inflation rises more than expected - here's what is happening with prices",
-   "desc": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-14T15:26:14.000Z"
+   "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+   "desc": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+   "link": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+   "date": "2026-10-15T11:31:25.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
-   "desc": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
-   "date": "2026-10-14T19:42:03.000Z"
+   "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+   "desc": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+   "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+   "date": "2026-10-15T10:05:58.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
-   "desc": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
-   "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
-   "date": "2026-10-14T11:38:51.000Z"
+   "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+   "desc": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+   "date": "2026-10-15T10:00:00.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-   "desc": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
-   "date": "2026-10-14T10:44:30.000Z"
+   "title": "Ukraine says its Starshield access is back",
+   "desc": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+   "date": "2026-10-15T08:46:09.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "These workers help train robots who could one day steal their jobs",
-   "desc": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
-   "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-   "date": "2026-10-14T09:28:47.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-   "desc": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
-   "link": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
-   "date": "2026-10-14T09:09:39.000Z"
+   "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+   "desc": "NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
+   "date": "2026-10-15T08:46:05.000Z"
   },
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Hundreds of IDF investigations into killings without public outcome, BBC Verify finds",
+   "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
    "desc": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
    "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-15T05:00:23.000Z"
@@ -308,10 +308,26 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Iraq's SOMO begins settling outstanding oil payments to Gulf Keystone at international prices",
+   "desc": "Iraq's SOMO begins settling outstanding oil payments to Gulf Keystone at international prices &nbsp;&nbsp; Iraqi News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0ZKUjFiamdNTXlJRTVnLUZwRlNjSEQ1c0dLUWtyd21INTNQM0NhTUNNX1B6RkxlYmhhRzFBN0s1eEtMSlEtS0pXX0Vqb1Q3Y3N5c3Q5ajNYWW5TNXVtMXFKWDZQbTM1Y28wMl9QMEVLc0J2cmdRbmhONzZ6Y2ZzOTJZSERZXzRRTTlMZVhYN0V1MHRSVTJmVnF5UE9QMldrNThYa3h6TThjb0E3X2VpT2VueERaVldHMU94VGtCbTZfUQ?oc=5",
+   "date": "2026-10-15T08:53:44.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "US Consul General hails Erbil- Baghdad energy partnership",
    "desc": "US Consul General hails Erbil- Baghdad energy partnership &nbsp;&nbsp; کردپرس",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZHhxS1h3QS14cDM1YWlVOEFPZVhrM0xPMzQ2ZS05UGRGUUdwQ2ZXTnp0NWFnM0lsUWVXaVVubnhNSFhHQ0ZReHBVRTEzQ3M1XzlDemFSbUtYMmlqV2hiUGxUMGQtV3dSdEpsRVRiQy1MV2o5VVNaQ245eF9YUy1lR2xhNjlfNHJYX2lnbUlWNmJPaUxSWVVWZDF1dHU?oc=5",
    "date": "2026-10-11T10:03:01.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Türkiye Ready to Support Tourism Development in Kurdistan Region, Consul General Says",
+   "desc": "Türkiye Ready to Support Tourism Development in Kurdistan Region, Consul General Says &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVlYWGkyaTZoeW9SX0g0NDVrM0lzcGt6WWs3eWRtQnNxNHBjRl9mR3dVelRsS2p2WjhPUzhfTF9XMnJOa1FxMkNPWDM1RzhndjNrZDJpZjgtSkRySnlMVkIxRmsyV09wV3FFcXNVd3hZNlJpalBtRmg1RktlbjNMSnhKd29wbTRmVUxzcDFKbkxCNExjaFBfVmZpd3NUMndUYlo2WTRvOE5pUXRmd3ZudU5qLTNrQWVEaG5MUEo5X0RvYjdrdmpwNkF2Y1Z3UQ?oc=5",
+   "date": "2026-10-14T16:35:00.000Z"
   },
   {
    "src": "Tourism",
@@ -324,6 +340,14 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "Erbil to get first Mövenpick resort under Accor, KRD Holding deal",
+   "desc": "Erbil to get first Mövenpick resort under Accor, KRD Holding deal &nbsp;&nbsp; IraqiNews",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmpGSE5wRVBGT09xWnZleXotVklQRk1zRnBzaWIwYmp5V1VnVi1KVHlyWFlualh3VGZwQTU3ODk5V1VSaF9UWERlWVo0NmNCRGV0cmJTR1h5eGE5ckg2d3A1ZFF6NUZkbmFnZ18waGE1czZrZWt5bzh3Y3N0NU1SMk5tMXF6YzFCSG9PakZPVDZZc2dhVDFiT1p1eEw?oc=5",
+   "date": "2026-10-15T12:28:33.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Head of Zakho Autonomous Administration Receives UAE Consul General in Kurdistan Region",
    "desc": "Head of Zakho Autonomous Administration Receives UAE Consul General in Kurdistan Region &nbsp;&nbsp; وزارة الخارجية الإماراتية",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFZURDNmSl9zWW5CN1NyS2I5akF4TlhGaXlQb3A3SS1pWEhHWThrSFlVOEhWS0FjM3VZYUs5MjJZajFxTTdWZmxsMHFLc01HUHZDb2R6eTFYZ1FkQlNHYWtLWlVfa2VUTGpIRGFYT1lBR3JJclpRWGpKaUd3ekZ3eXdXbVVEc3ZNMTFKU3dfV2ZFTmg4ZFJPUmpZZVU?oc=5",
@@ -332,18 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official",
-   "desc": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official &nbsp;&nbsp; کردپرس",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN0ZhdVJpZ2VaWUZvOGNBOFhmdHAzX0RhbDFSRnJkVGN2bkJMek92Y3o3QndmVW80Nk44VTlmMlJudGE4Q19OR1Zpa2hnMHNlVG5LUVgtQVRIYlpFQVh4VFNpcmZ0WklaMlhBMzBEbnZQcHZBM2FTQzdESXZ2UXE5YjlTTVdvOGpHWnBKZUd5ZmowS3lldDBmN3RFMENwUTB4UXl2MUx4aE45emtJdEpxcUlWVjl4NmFETXAzMklXVHlpbWVhTTRqQ2lqNGNvQm9zVE9iZnFCN3M?oc=5",
-   "date": "2026-10-09T13:42:59.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Iraq welcomed record 10 million tourists in 2025",
-   "desc": "Iraq welcomed record 10 million tourists in 2025 &nbsp;&nbsp; IraqiNews",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjdiTmZCWG1lZ2taRTNaWFo1VUFEUkZ0OEstR0hua2hpdlVTVnFLWkY2WHc1dE9lbGM2aGw0RFljV3pIelBnZjRnb3NHOXoyWnljVkRvNjEzTGs2WFdCR01Ma3ZmRlczcDVGWmo3Y0FLZEdCbEtSeUhOcHd4T3J0ZVhGVzBSU3RLOHBXZWotOXpOb004cUNRd3B5MjlNbjVmcXN4al9fRDJzTmNhcWc?oc=5",
-   "date": "2026-10-06T07:27:57.000Z"
+   "title": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition",
+   "desc": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHM0dGZfQVhLRzBKclo1ZFZEY0Q4QmdpdFBnelNJTlNZVHdpZDdsMGc3TmMzb19TQ3VPak9XV0RjWTlLX3RHa0FBRG9JTWFObU9jQTJxR3psTkRMT2dTN01lUkk2Y3YwdnlyXzZYbkhUNllzeExRdkluV09SOWRCaTM2cjM1aUNNTTY4eFM3OUFEMUxVOTMyVkhreVU5Wm9hbzhFbnJCQzBNZGUtNmJWRjlDeEdHQXM?oc=5",
+   "date": "2026-10-14T06:40:00.000Z"
   }
  ]
 }
