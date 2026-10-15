@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14T23:02:22.258Z",
+ "updated": "2026-10-15T01:41:33.491Z",
  "items": [
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nNzNvenA5QzU0cVFIbE9QSzdpSTNrSWVyaG5FUWRndFI4YURzaFpFdlFBYVVxNDJKMk8yTmxSemZtRFctTUUtVTVzUTFBWDRhTnFud0RmVFBnODRLQmNyNlFhTko3a014?oc=5",
-   "date": "2026-10-13T10:28:59.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wYkFlaWhmd0xCMm1KaENWcFRvR29wWGlqTThRbTNpOXU1MWRvZ1BLV01CeHRCVWI0QnpvZkJob0ZmcGtrX1RRUWtDXzdPVGUyRl83cW1hQ2JPQmtpai1XQWdIT2Q?oc=5",
+   "date": "2026-10-14T09:34:20.000Z"
   },
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Babil draws tourists to its ancient ruins",
+   "desc": "Shafaq News- Babil Iraqi and foreign tourists have flocked to the ancient city of Babil on Wednesday, as milder temperatures provide favorable conditions for exploring its historic landmarks. The influx coincides with the Babil Festival for World Cultures and Arts, organized by Iraq&rsquo;s Ministry of Culture at the tourist resort within the archaeological city. Read more: 150,000 archaeological ",
+   "link": "https://shafaq.com/en/society/Babil-draws-tourists-to-its-ancient-ruins",
+   "date": "2026-10-14T23:04:56.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraq faces annual egg shortage of 3 billion",
    "desc": "Shafaq News- Baghdad Iraq produces around six billion eggs annually against domestic demand of nine billion, leaving a shortfall of three billion eggs, the Agriculture Ministry said on Wednesday, citing supply disruptions and exchange rate fluctuations as factors behind rising prices. Ministry spokesperson Qusay al-Hattab told Shafaq News that egg prices had risen during the summer for the first t",
    "link": "https://shafaq.com/en/society/Iraq-faces-annual-egg-shortage-of-3-billion",
@@ -114,17 +122,17 @@
    "date": "2026-10-14T21:25:30.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "US strikes Iran-linked vessel as Hormuz shipping attacks rise",
-   "desc": "Shafaq News- Washington/Tehran The US military struck an Iran-linked dhow last week after it allegedly conducted surveillance and targeting operations against US Navy ships in the Gulf of Oman, US Central Command (CENTCOM) said on Wednesday. The incident occurred on October 6. The crew was safely evacuated before the vessel was destroyed, and efforts are underway to repatriate its members. On Oct.",
-   "link": "https://shafaq.com/en/Middle-East/US-strikes-Iran-linked-vessel-as-attacks-on-Hormuz-shipping-rise",
-   "date": "2026-10-14T21:22:44.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "How backlash against data centres could shape the US midterm elections",
+   "desc": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+   "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-14T23:02:57.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+   "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
    "desc": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-14T20:55:24.000Z"
@@ -140,26 +148,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Anthropic revenue surges to $16.8bn ahead of stock market listing",
+   "desc": "It comes as the AI giant is expected to make a blockbuster stock market debut by the end of the year.",
+   "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-15T01:14:23.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "'It's rough out here': Americans struggle with rising inflation",
    "desc": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
    "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-14T15:57:11.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
-   "desc": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
-   "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-14T22:19:13.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-   "desc": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-   "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-14T15:54:04.000Z"
   },
   {
    "src": "NPR",
@@ -292,6 +292,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Drone attack on Erbil renews Kurdish fears over Iran War fallout",
+   "desc": "Drone attack on Erbil renews Kurdish fears over Iran War fallout &nbsp;&nbsp; The New Arab",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2lRNzgxUzhsbWVsTlpteFZmTmgzQ0pxZTBaQ2xBSlc3V2xCMDhPMDZGc3RHNzZrbnVvNzRKSVVObEZwVWVzWS1oN1pWWUozXzUtRHZad2ZhTXlxTUFKMkVobkNScjlMMkt6eWozZ3JNTTR2OEU1ajRoQU94SVU5MGkzNmZxbmF4Z2xMRkZzRmF1VFBR?oc=5",
+   "date": "2026-10-09T16:44:37.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Request for Proposals: Small-Scale Projects 2027 (Iraq) - fundsforNGOs",
    "desc": "Request for Proposals: Small-Scale Projects 2027 (Iraq) &nbsp;&nbsp; fundsforNGOs - Grants and Resources for Sustainability",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzZPOHNhTDhNLVdTLTNzMXhuZkVYbVM0V3pvT0VVQlV5YnNPOFFTQ1NPSEt1al9ReC1PczFsME5RWkF1OFk2MkluSEtGRHVPTmI2Rjc4bW94Q3A1TXBSQmdiejhLcXlPcmpFRVBuZ0NUR1dsWDdCUHdHMUtrekh5TmZBUFdhVnpKTEVhd25rcGFHNk1NMjBjNU9DbHR6c01CRG85Ty15YUM1Mkd0OU1JT9IBsAFBVV95cUxQYzZPOHNhTDhNLVdTLTNzMXhuZkVYbVM0V3pvT0VVQlV5YnNPOFFTQ1NPSEt1al9ReC1PczFsME5RWkF1OFk2MkluSEtGRHVPTmI2Rjc4bW94Q3A1TXBSQmdiejhLcXlPcmpFRVBuZ0NUR1dsWDdCUHdHMUtrekh5TmZBUFdhVnpKTEVhd25rcGFHNk1NMjBjNU9DbHR6c01CRG85Ty15YUM1Mkd0OU1JTw?oc=5",
@@ -314,14 +322,6 @@
    "date": "2026-10-11T10:03:01.000Z"
   },
   {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Iraq-Syria pipeline negotiations to be completed by year-end: Ministry",
-   "desc": "Iraq-Syria pipeline negotiations to be completed by year-end: Ministry &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FQ25fNVROZDFRZ3ZqdC1Rd0tGZm1GSkhMVVNXWm1fU2ZwLUpBWlJITjN0TXR0Sm82eVFQZGdGaFpKVmNlaXhYUEFXVQ?oc=5",
-   "date": "2026-10-11T08:31:33.000Z"
-  },
-  {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
    "title": "Shared geography, not opportunity: Hawraman’s tourism boom dissected by Iran border",
@@ -340,18 +340,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official",
-   "desc": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official &nbsp;&nbsp; کردپرس",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN0ZhdVJpZ2VaWUZvOGNBOFhmdHAzX0RhbDFSRnJkVGN2bkJMek92Y3o3QndmVW80Nk44VTlmMlJudGE4Q19OR1Zpa2hnMHNlVG5LUVgtQVRIYlpFQVh4VFNpcmZ0WklaMlhBMzBEbnZQcHZBM2FTQzdESXZ2UXE5YjlTTVdvOGpHWnBKZUd5ZmowS3lldDBmN3RFMENwUTB4UXl2MUx4aE45emtJdEpxcUlWVjl4NmFETXAzMklXVHlpbWVhTTRqQ2lqNGNvQm9zVE9iZnFCN3M?oc=5",
-   "date": "2026-10-09T13:42:59.000Z"
+   "title": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition",
+   "desc": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHM0dGZfQVhLRzBKclo1ZFZEY0Q4QmdpdFBnelNJTlNZVHdpZDdsMGc3TmMzb19TQ3VPak9XV0RjWTlLX3RHa0FBRG9JTWFObU9jQTJxR3psTkRMT2dTN01lUkk2Y3YwdnlyXzZYbkhUNllzeExRdkluV09SOWRCaTM2cjM1aUNNTTY4eFM3OUFEMUxVOTMyVkhreVU5Wm9hbzhFbnJCQzBNZGUtNmJWRjlDeEdHQXM?oc=5",
+   "date": "2026-10-14T06:40:00.000Z"
   },
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Iraq welcomed record 10 million tourists in 2025",
-   "desc": "Iraq welcomed record 10 million tourists in 2025 &nbsp;&nbsp; IraqiNews",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjdiTmZCWG1lZ2taRTNaWFo1VUFEUkZ0OEstR0hua2hpdlVTVnFLWkY2WHc1dE9lbGM2aGw0RFljV3pIelBnZjRnb3NHOXoyWnljVkRvNjEzTGs2WFdCR01Ma3ZmRlczcDVGWmo3Y0FLZEdCbEtSeUhOcHd4T3J0ZVhGVzBSU3RLOHBXZWotOXpOb004cUNRd3B5MjlNbjVmcXN4al9fRDJzTmNhcWc?oc=5",
-   "date": "2026-10-06T07:27:57.000Z"
+   "title": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official",
+   "desc": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official &nbsp;&nbsp; کردپرس",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN0ZhdVJpZ2VaWUZvOGNBOFhmdHAzX0RhbDFSRnJkVGN2bkJMek92Y3o3QndmVW80Nk44VTlmMlJudGE4Q19OR1Zpa2hnMHNlVG5LUVgtQVRIYlpFQVh4VFNpcmZ0WklaMlhBMzBEbnZQcHZBM2FTQzdESXZ2UXE5YjlTTVdvOGpHWnBKZUd5ZmowS3lldDBmN3RFMENwUTB4UXl2MUx4aE45emtJdEpxcUlWVjl4NmFETXAzMklXVHlpbWVhTTRqQ2lqNGNvQm9zVE9iZnFCN3M?oc=5",
+   "date": "2026-10-09T13:42:59.000Z"
   }
  ]
 }
