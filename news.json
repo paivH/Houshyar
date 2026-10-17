@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:26:41.080Z",
+ "updated": "2026-10-17T19:38:47.602Z",
  "items": [
   {
    "src": "Rudaw",
@@ -14,8 +14,8 @@
    "section": "Kurdistan · کوردستان",
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11aE9RX296V1FaX0N3RXhiYy1WeTZSYklsTXNWV1RiUjdtdnkybUFiNFczVU1STW5YcER4X25WTXBFbWpKc2lmenZ3T0xUamVwekRlNE9CZ3M0LUowLVdkdGdZNVE?oc=5",
-   "date": "2026-10-16T23:21:01.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mc3pfSWM2QWdXdWF3bm1SeDZDZ0lPWnc4TXRnNDQ4SW1EMjBPVm5ubzlwQVpWbzIzYjRkcno0alYtRDVoXzRlXzd3XzlLUE41SDNjQUxvcUZmWTNpMjlYMXJyMlM2MmZLX3c?oc=5",
+   "date": "2026-10-16T23:55:57.000Z"
   },
   {
    "src": "Rudaw",
@@ -40,6 +40,14 @@
    "desc": "Iraq proposes regional connectivity initiative as it assumes Islamic council presidency &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQThEWktjYlU1NjJVc2dUcEg0OTVyNTUycGEyeVZ6UXYtcXZCV2U2QTVaeEkxWjhyNVNxRnhtd2dlLXJnQnUtTXJ1bGFSdUkyemVZT09DRld0cmJQQU5VYVktNA?oc=5",
    "date": "2026-10-17T15:30:50.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq Orders Probe into Explosion at PMF Headquarters in Eastern Baghdad",
+   "desc": "Prime Minister Ali Faleh al-Zaidi orders a special investigative committee after an explosion at a Popular Mobilization Forces weapons depot kills one person and injures five, while witnesses tell Kurdistan24 the site was struck by an aircraft",
+   "link": "https://www.kurdistan24.net/en/story/946735/iraq-orders-probe-into-explosion-at-pmf-headquarters-in-eastern-baghdad",
+   "date": "2026-10-17T17:15:07.000Z"
   },
   {
    "src": "K24",
@@ -74,12 +82,36 @@
    "date": "2026-10-17T13:01:37.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan24 Exclusive: Iraqi PM Plans to Replace Three Ministers",
-   "desc": "Iraqi PM Ali al-Zaidi plans to replace ministers in three ministries, including oil and education, a source says, pending talks with political parties.",
-   "link": "https://www.kurdistan24.net/en/story/946675/kurdistan24-exclusive-iraqi-pm-plans-to-replace-three-ministers",
-   "date": "2026-10-17T12:31:35.000Z"
+   "title": "Basra registers 40K firearms in weapons control drive",
+   "desc": "Shafaq News- Basra Authorities in Iraq's Basra province have registered 40,000 privately owned firearms as part of a nationwide campaign to regulate gun ownership, a security official told Shafaq News on Saturday. Colonel Rasoul Jassim Naim, director of Weapons Control and Regulation in Basra, said the registration campaign had made progress, supported by cooperation with local tribes, registratio",
+   "link": "https://shafaq.com/en/society/Basra-registers-40K-firearms-in-weapons-control-drive",
+   "date": "2026-10-17T19:33:01.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Barcelona thrashes Real Betis in La Liga",
+   "desc": "Shafaq News- Seville Barcelona maintained its perfect start to the La Liga season with a 5-2 victory over Real Betis at La Cartuja on Saturday, securing its ninth consecutive league win and moving to 27 points. Lamine Yamal opened the scoring in the 10th minute with a curling shot from outside the penalty area, before Valent&iacute;n G&oacute;mez equalized with a header in the 27th. Rodri restored",
+   "link": "https://shafaq.com/en/sport/Barcelona-thrashes-Real-Betis-in-La-Liga",
+   "date": "2026-10-17T19:26:52.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi PM calls for Islamic economic integration",
+   "desc": "Shafaq News- Baghdad Around 400 million Muslims are unemployed, Iraqi Prime Minister Ali Al-Zaidi said on Saturday, calling for greater economic integration among members of the Organization of Islamic Cooperation (OIC). During a meeting with delegation heads attending the organization's 52nd session in Baghdad, Al-Zaidi emphasized that the Muslim world possessed substantial human and natural reso",
+   "link": "https://shafaq.com/en/Middle-East/Iraqi-PM-calls-for-Islamic-economic-integration",
+   "date": "2026-10-17T18:44:20.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqis buy 166 homes in Turkiye in September",
+   "desc": "Shafaq News- Ankara Iraqis ranked second among foreign homebuyers in Turkiye in September 2026, purchasing 166 homes and eight commercial properties, by the Turkish Statistical Institute ( TURKSTAT) said on Saturday. Figures showed that Russian nationals topped the list with 388 homes, while Germans ranked third with 162. Iranian nationals purchased 159 homes, followed by Ukrainians with 158 and C",
+   "link": "https://shafaq.com/en/Economy/Iraqis-buy-166-homes-in-Turkiye-in-September",
+   "date": "2026-10-17T17:52:02.000Z"
   },
   {
    "src": "Shafaq",
@@ -88,38 +120,6 @@
    "desc": "Shafaq News- Beirut/ Damascus An Israeli airstrike hit Marjayoun and Bint Jbeil districts in southern Lebanon on Saturday, Lebanese media outlets reported. There was no immediate information on casualties or damage. In Syria, SANA reported that Israeli troops detained two people heading toward farmland west of Tarnajah village in northern Quneitra. Further south, a force of more than 10 military v",
    "link": "https://shafaq.com/en/Middle-East/Israeli-forces-strike-Lebanon-detain-four-in-Syria",
    "date": "2026-10-17T17:09:12.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Five PMF members injured in Baghdad ammunition blast",
-   "desc": "Shafaq News- Baghdad Five members of Iraq's Popular Mobilization Forces (PMF) sustained minor injuries in an explosion involving a stockpile of unserviceable ammunition at a PMF facility in eastern Baghdad on Saturday. The PMF said the resulting fire at the facility east of the Army Canal had been brought under control. Specialized committees have begun investigating the circumstances and cause of",
-   "link": "https://shafaq.com/en/Security/Five-PMF-members-injured-in-Baghdad-ammunition-blast",
-   "date": "2026-10-17T16:51:02.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iran reports third tanker incident in one day",
-   "desc": "Shafaq News- Tehran Iran's Navy reported a burning, immobilized oil tanker in the Gulf of Oman on Saturday, following two earlier reports of supertankers striking naval mines in the Strait of Hormuz. In a statement, the Navy's public relations office said surveillance teams spotted the burning vessel in the afternoon but provided no details. Earlier today, Iran's Islamic Revolutionary Guard Corps ",
-   "link": "https://shafaq.com/en/Middle-East/Iran-reports-third-tanker-incident-in-one-day",
-   "date": "2026-10-17T16:30:25.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Baghdad funded one in three salary months in KRI since 2014",
-   "desc": "Shafaq News- Erbil Federal funds from Baghdad paid for roughly one in every three months of public-sector salaries in the Kurdistan Region (KRI) over the past 12 years, the finance ministry said on Saturday, laying out its case in a long-running dispute over the KRI&rsquo;s share of Iraq's oil wealth. The semi-autonomous Kurdistan Region relies heavily on transfers from Iraq's federal budget, whic",
-   "link": "https://shafaq.com/en/Kurdistan/Baghdad-funded-one-in-three-salary-months-in-KRI-since-2014",
-   "date": "2026-10-17T16:26:26.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraqi PM pledges continued support for Palestine",
-   "desc": "Shafaq News- Baghdad Iraqi Prime Minister Ali Al-Zaidi reaffirmed Baghdad's commitment to Palestinian rights during a meeting with Palestinian Foreign Minister Varsen Aghabekian Shahin on Saturday, his office said. Al-Zaidi said Palestine was a matter of identity and principle for Iraq, rather than a slogan, and pledged continued support for a just and comprehensive solution that secures Palestini",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-PM-pledges-continued-support-for-Palestine",
-   "date": "2026-10-17T16:20:52.000Z"
   },
   {
    "src": "BBC",
@@ -135,7 +135,7 @@
    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
    "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-17T11:56:06.000Z"
+   "date": "2026-10-17T19:19:19.000Z"
   },
   {
    "src": "BBC",
@@ -159,7 +159,7 @@
    "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
    "desc": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
    "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-17T01:36:39.000Z"
+   "date": "2026-10-17T19:13:21.000Z"
   },
   {
    "src": "NPR",
@@ -286,7 +286,7 @@
    "section": "Work & Erbil · کار",
    "title": "Prime Minister Barzani Meets U.S. Consul General Wendy Green in Erbil",
    "desc": "Prime Minister Barzani Meets U.S. Consul General Wendy Green in Erbil &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtX3ZybzJiZzNLd21hSFhocDFrS3V3bENuQUQ0OG5md3RzQTZReTJ3ZEtxZGZiM2ZYV2VHOEF6emd5NHJqeURKTS1Fckc5a3hWU0RBU3hB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGdTcGU0d2l4aEhmYUh2Nzh4SmVMdTdNWkFoTWxOaUY3bHNUTEw1cVpxbGNNNmZQcFhzQS0tSXU2dmxTWWdZQnF2NVZqSFlWZGpaLU9yYkJhUVVQNnJydGRybVcxNlhZR3k3clU2YkR1NTNueU1IR3NDeXN3RG5qemk0aDVlQ0x5dE5uUzN6cjdjQUFIQjJfbk5PMllXUHVUV3lDanFsZUFBLTZkc1Y4dQ?oc=5",
    "date": "2026-10-13T14:17:00.000Z"
   },
   {
