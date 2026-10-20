@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T19:53:29.210Z",
+ "updated": "2026-10-20T22:59:38.822Z",
  "items": [
   {
    "src": "Rudaw",
@@ -8,14 +8,6 @@
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HSGhzdm5peGctNVZIdWlDRG1QeTF1OF82Z1NaaVFoWlZkSVRZZ3hpR2MteG1CR1Z5cTdjZXRlSWtNc29PNHczY1g2aTN6U25SS2hlZDA5ZUhMRVpnV04xVVdRZEM?oc=5",
    "date": "2026-10-19T11:41:20.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Strait of Hormuz can reopen in seven days if US meets conditions: Iranian FM",
-   "desc": "Strait of Hormuz can reopen in seven days if US meets conditions: Iranian FM &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uVndPNmYwNi1FRUJLZks1V212SzJmbDJqQmxNUEV1dDBSZUxSV0ZoVHFOYnhnVDdQam1OVWg3V1RLZHg5OFV0dUtybmFCbndXZTVEc2pyS2U5dXBPa3pZVklROA?oc=5",
-   "date": "2026-10-18T21:15:50.000Z"
   },
   {
    "src": "Rudaw",
@@ -42,6 +34,38 @@
    "date": "2026-10-20T08:00:44.000Z"
   },
   {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "IRGC claims supertanker exploded after hitting mine in ‘unauthorized’ passage in Hormuz",
+   "desc": "IRGC claims supertanker exploded after hitting mine in ‘unauthorized’ passage in Hormuz &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONDlCTWdKRFlTR0ZFbGc3YUZ6OHdFSlRwQ3dyQkFvSlhKYnExWlltWFkzWkFYdHJXajJadXpldURiTnc1Z0tWTVJRc0lIbTdnbUxmNXMtaWlPT2hMMDBvc29PZ2s4eXV3TTd1Wg?oc=5",
+   "date": "2026-10-20T21:51:04.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Ukrainian Ambassador Rules Out Ceding Territory For Peace",
+   "desc": "Ukraine’s ambassador to Iraq, Ivan Dovganych, rules out ceding territory, says the war’s end lies in Moscow, and discusses a planned Erbil consulate.",
+   "link": "https://www.kurdistan24.net/en/story/947507/ukrainian-ambassador-rules-out-ceding-territory-for-peace",
+   "date": "2026-10-20T20:58:29.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "KRG’s e-Psule Digital Payment Platform Surpasses Three Million Transactions",
+   "desc": "Through e-Psule, citizens can pay electricity and municipal bills without additional fees using nine participating banks and digital wallet applications licensed by the Central Bank of Iraq (CBI).",
+   "link": "https://www.kurdistan24.net/en/story/947503/krgs-e-psule-digital-payment-platform-surpasses-three-million-transactions",
+   "date": "2026-10-20T20:50:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "US-Kurdistan Business Council Chief Sees Region as Emerging Regional Business Hub",
+   "desc": "In an interview with Kurdistan24 released Tuesday, Tafuri said the region continues to attract business interest despite delays in budget payments, challenges facing oil and gas companies, and instability in neighboring countries.",
+   "link": "https://www.kurdistan24.net/en/story/947499/us-kurdistan-business-council-chief-sees-region-as-emerging-regional-business-hub",
+   "date": "2026-10-20T20:35:00.000Z"
+  },
+  {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
    "title": "UK Re-arrests Two Men on Suspicion of Spying for Iran",
@@ -58,68 +82,44 @@
    "date": "2026-10-20T18:04:05.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran Will Not Allow Enriched Nuclear Material to Leave Country: Security Chief",
-   "desc": "“Not even a tiny bit of enriched nuclear material will leave Iran. Such materials constitute a major asset and national wealth for the Iranian people, intended for use within the country,” Rezaei, secretary of Iran’s Supreme National Security Council, was quoted as saying.",
-   "link": "https://www.kurdistan24.net/en/story/947458/iran-will-not-allow-enriched-nuclear-material-to-leave-country-security-chief",
-   "date": "2026-10-20T17:10:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "France Imposes New Paris Curfew as PM Blames Far-Left Groups",
-   "desc": "France’s prime minister accused far-left groups of plotting an uprising and vowed heavy security for Saturday protests as Paris imposed a new curfew overnight.",
-   "link": "https://www.kurdistan24.net/en/story/947455/france-imposes-new-paris-curfew-as-pm-blames-far-left-groups",
-   "date": "2026-10-20T16:59:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "US Sends Third Aircraft Carrier And 10,000 Marines To Middle East",
-   "desc": "USS Theodore Roosevelt carrier strike group departed Japan Monday after leaving San Diego on September 27, joining the USS George H.W. Bush and USS George Washington already in the Arabian Sea, as Trump considers new military options against Iran after the November 3 midterms",
-   "link": "https://www.kurdistan24.net/en/story/947451/us-sends-third-aircraft-carrier-and-10000-marines-to-middle-east-as-trump-weighs-new-military-action-against-iran",
-   "date": "2026-10-20T16:36:26.000Z"
+   "title": "Turkish Ceylan Group signs MoU with Iraq’s Al-Anbar",
+   "desc": "Shafaq News- Al-Anbar Iraq's Al-Anbar province signed a memorandum of understanding (MoU) with Turkey's Ceylan Group to expand economic and investment cooperation, provincial government spokesperson Muayyad Al-Dulaimi told Shafaq News on Tuesday. The talks covered cooperation with Turkish companies and investors in industry, services, infrastructure, and tourism. Discussions also addressed the sec",
+   "link": "https://shafaq.com/en/Economy/Turkish-Ceylan-Group-signs-MoU-with-Iraq-s-Al-Anbar",
+   "date": "2026-10-20T22:40:00.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi forces redeploy between Kirkuk and Baghdad",
-   "desc": "Shafaq News- Kirkuk Iraqi Army and Federal Police units are exchanging security assignments in Kirkuk and southern Baghdad under a redeployment plan, a security source told Shafaq News on Tuesday. The army's 17th Division has taken over the Hawija sector in Kirkuk, replacing Federal Police forces that are moving to Al-Latifiyah, south of the capital, to assume duties previously handled by the divi",
-   "link": "https://shafaq.com/en/Security/Iraqi-forces-redeploy-between-Kirkuk-and-Baghdad",
-   "date": "2026-10-20T19:43:33.000Z"
+   "title": "Israeli army announces killing of Hamas security official",
+   "desc": "Shafaq News- Gaza Israeli forces killed Akram Bassam Shaaban Yassin, identified as a senior official in Hamas's General Security Service in the Gaza Strip, the Israeli military said on Tuesday. According to the military, the service protects senior Hamas leaders, secures their movements, and compiles intelligence assessments to help plan attacks against Israel. &#128308;ELIMINATED: Akram Bassam Sh",
+   "link": "https://shafaq.com/en/Middle-East/Israeli-army-announces-killing-of-Hamas-security-official",
+   "date": "2026-10-20T22:31:06.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Yemeni army claims 200 Houthi fighters neutralized",
-   "desc": "Shafaq News- Riyadh/ Sanaa Yemeni government forces claimed to have neutralized around 200 Houthi fighters in 744 operations over the past 24 hours, military spokesperson Majed Abdullah Al-Nuzaili said on Tuesday. Under Operation &ldquo;Dawn of Yemen,&rdquo; troops used fighter jets, drones, artillery, rocket launchers, and snipers, destroying or damaging 90 military vehicles and pieces of equipme",
-   "link": "https://shafaq.com/en/Middle-East/Yemeni-army-claims-200-Houthi-fighters-neutralized",
-   "date": "2026-10-20T18:48:23.000Z"
+   "title": "Iraq scraps solar import tariffs, approves power deal",
+   "desc": "Shafaq News- Baghdad The Iraqi Cabinet approved eliminating customs duties on imported solar energy systems on Tuesday, according to Prime Minister Ali Al-Zaidi's media office. Separately, the Cabinet authorized the Electricity Ministry's General Company for Electricity Transmission in the Northern Region to sign a contract for the supply of 600&ndash;1,000 megawatts of electricity. Read more: Can",
+   "link": "https://shafaq.com/en/Iraq/Iraq-scraps-solar-import-tariffs-approves-power-deal",
+   "date": "2026-10-20T22:08:43.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "600 displaced Syrian families prepare to return home",
-   "desc": "Shafaq News- Damascus Around 600 families displaced from Ras al-Ain (Serekaniye) in northeastern Syria are preparing to return to their homes on Wednesday, October 21, as part of the sixth organized return convoy, the Syrian Observatory for Human Rights (SOHR) reported on Tuesday. Citing information it had received, the Observatory said the families, currently living in Newroz camp in Derik, were ",
-   "link": "https://shafaq.com/en/Middle-East/600-displaced-Syrian-families-prepare-to-return-home",
-   "date": "2026-10-20T17:56:24.000Z"
+   "title": "Egyptian shopping festival opens in Kirkuk, promoting trade ties",
+   "desc": "Shafaq News- Kirkuk The eighth edition of the Egyptian Shopping Festival opened in Kirkuk on Tuesday evening, bringing together vendors selling clothing, abayas and perfumes as organizers seek to stimulate commercial activity and promote cultural exchange. Hazem Fathi, the festival's general supervisor, told Shafaq News that the event aims to strengthen trade and cultural ties by bringing traders ",
+   "link": "https://shafaq.com/en/Economy/Egyptian-shopping-festival-opens-in-Kirkuk-promoting-trade-ties",
+   "date": "2026-10-20T21:25:59.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq’s CF sets out plan to distribute parliamentary committees",
-   "desc": "Shafaq News- Baghdad Iraq&rsquo;s Reconstruction and Development parliamentary bloc on Tuesday outlined a mechanism for distributing parliamentary committees among political blocs, with allocations based on established criteria. Firas al-Mislmawi, the bloc&rsquo;s spokesman, told Shafaq News that the Coordination Framework (CF), a coalition of Shiite political forces, decided at its regular meetin",
-   "link": "https://shafaq.com/en/Iraq/Iraq-s-CF-sets-out-plan-to-distribute-parliamentary-committees",
-   "date": "2026-10-20T17:21:01.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Border guards intercept 196K+ narcotic pills in Al-Anbar",
-   "desc": "Shafaq News- Baghdad Iraqi border guards thwarted an attempt to smuggle drugs from Syria into Al-Anbar province using a balloon, the Border Guard Command said on Tuesday. The airborne device carried 32 kilograms of narcotic pills &mdash;more than 196,000 tablets&mdash; and was detected during operations to prevent drugs and psychotropic substances from entering the country. On October 18, security",
-   "link": "https://shafaq.com/en/Security/Border-guards-intercept-196K-narcotic-pills-in-Al-Anbar",
-   "date": "2026-10-20T17:03:29.000Z"
+   "title": "Champions League: PSG ends Barcelona's unbeaten run",
+   "desc": "Shafaq News Paris Saint-Germain defeated Barcelona 4-2 at the Parc des Princes on Tuesday, handing the Spanish side its first defeat of the UEFA Champions League league phase and securing its third consecutive victory. D&eacute;sir&eacute; Dou&eacute; opened the scoring for PSG in the 38th minute before Xavi Espart equalized for Barcelona in the 55th. Lucas Hern&aacute;ndez restored the hosts' lea",
+   "link": "https://shafaq.com/en/sport/Champions-League-PSG-ends-Barcelona-s-unbeaten-run",
+   "date": "2026-10-20T21:23:53.000Z"
   },
   {
    "src": "BBC",
@@ -132,10 +132,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-   "desc": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T16:59:06.000Z"
+   "title": "Elon Musk says Tesla-SpaceX merger being considered",
+   "desc": "Musk says special committees within both companies have been formed to look a possible mega-merger.",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-20T22:43:56.000Z"
   },
   {
    "src": "BBC",
@@ -148,18 +148,34 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Ex-student says embattled Cornell University head doubted her gang-rape allegation",
+   "title": "'Let's move on': Albertans react to referendum vote",
+   "desc": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity.",
+   "link": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-20T19:31:35.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
    "desc": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
    "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-20T19:08:06.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "How is the US economy really doing under President Trump?",
-   "desc": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-   "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T05:00:45.000Z"
+   "title": "Current U.S. support for Ukraine looks very different than it did",
+   "desc": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+   "date": "2026-10-20T20:27:23.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+   "desc": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
+   "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+   "date": "2026-10-20T20:19:16.000Z"
   },
   {
    "src": "NPR",
@@ -184,22 +200,6 @@
    "desc": "NPR's Steve Inskeep speaks with former U.S. Ambassador to Russia Michael McFaul about President Trump's latest embrace of Russia and what it means for Ukraine and any hopes of peace.",
    "link": "https://www.npr.org/2026/10/20/nx-s1-6007865/former-u-s-ambassador-on-trumps-recent-moves-to-embrace-russia",
    "date": "2026-10-20T11:03:48.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-   "desc": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-   "date": "2026-10-20T06:02:40.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Alberta voters decide whether to take a step toward separating from Canada",
-   "desc": "In Canada, the oil-rich province of Alberta votes in a referendum that could set it on a path toward separation, as Prime Minister Mark Carney warns of threats to Canadian unity.",
-   "link": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
-   "date": "2026-10-19T22:29:57.000Z"
   },
   {
    "src": "BBC ME",
