@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:07:39.252Z",
+ "updated": "2026-10-22T05:13:26.048Z",
  "items": [
   {
    "src": "Rudaw",
@@ -28,18 +28,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Two killed in clashes in southeast Iran's Sistan and Baluchestan",
-   "desc": "Two killed in clashes in southeast Iran's Sistan and Baluchestan &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5TndfdHY2c3h0X3lYeWlHd21XbDBwZDRNRHBpOFdZdmlEUXJSRERkSWY3UzVfZ3BEWXZPM2lIeXVrUjAzQXo4X1pOdjlCOUs3UDNLeVRiT18wZnowYTRRNy12SQ?oc=5",
-   "date": "2026-10-20T08:00:42.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Hegseth meets Netanyahu on secret Israel visit amid reports of new strikes on Iran",
    "desc": "Hegseth meets Netanyahu on secret Israel visit amid reports of new strikes on Iran &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vU0ttaXJidjRVUU90eXJKMEFpd05OZV9nNnFqUGZWd0Y1X0FaUjE0czZSaXBzNUY2RTVkRzFDRFBTMEliallXRjFKcFdoME9OUXhoZ1BkZ1BoM053YVJ2WDkyeVY?oc=5",
    "date": "2026-10-20T08:44:17.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "IRGC claims supertanker exploded after hitting mine in ‘unauthorized’ passage in Hormuz",
+   "desc": "IRGC claims supertanker exploded after hitting mine in ‘unauthorized’ passage in Hormuz &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONDlCTWdKRFlTR0ZFbGc3YUZ6OHdFSlRwQ3dyQkFvSlhKYnExWlltWFkzWkFYdHJXajJadXpldURiTnc1Z0tWTVJRc0lIbTdnbUxmNXMtaWlPT2hMMDBvc29PZ2s4eXV3TTd1Wg?oc=5",
+   "date": "2026-10-20T23:29:07.000Z"
   },
   {
    "src": "K24",
@@ -124,14 +124,6 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-   "desc": "The 74-year-old former teacher, who was captured in 2022, has been released without any \"swap\" required, Trump says.",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T20:42:43.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
    "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
    "desc": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
    "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
@@ -148,6 +140,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+   "desc": "The 74-year-old former teacher, who was captured in 2022, has been released without any \"swap\" required, Trump says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-21T20:42:43.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Meta fined $25bn for 'lies' over user data privacy",
    "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
    "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
@@ -156,10 +156,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-   "desc": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-   "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T22:54:58.000Z"
+   "title": "US embassy accuses Canada of election meddling ahead of midterms",
+   "desc": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-22T03:05:28.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "AIPAC halts endorsements and direct contributions to candidates",
+   "desc": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+   "date": "2026-10-22T00:22:48.000Z"
   },
   {
    "src": "NPR",
@@ -192,14 +200,6 @@
    "desc": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
    "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
    "date": "2026-10-21T11:46:59.000Z"
-  },
-  {
-   "src": "NPR",
-   "section": "US & World · جیهان",
-   "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
-   "desc": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
-   "date": "2026-10-21T10:56:00.000Z"
   },
   {
    "src": "BBC ME",
@@ -300,14 +300,6 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Iraq's SOMO begins settling outstanding oil payments to Gulf Keystone at international prices",
-   "desc": "Iraq's SOMO begins settling outstanding oil payments to Gulf Keystone at international prices &nbsp;&nbsp; Iraqi News",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0ZKUjFiamdNTXlJRTVnLUZwRlNjSEQ1c0dLUWtyd21INTNQM0NhTUNNX1B6RkxlYmhhRzFBN0s1eEtMSlEtS0pXX0Vqb1Q3Y3N5c3Q5ajNYWW5TNXVtMXFKWDZQbTM1Y28wMl9QMEVLc0J2cmdRbmhONzZ6Y2ZzOTJZSERZXzRRTTlMZVhYN0V1MHRSVTJmVnF5UE9QMldrNThYa3h6TThjb0E3X2VpT2VueERaVldHMU94VGtCbTZfUQ?oc=5",
-   "date": "2026-10-15T08:59:16.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "1.6 million refugees have returned to the country; Syrian consulate to open soon in Erbil",
    "desc": "1.6 million refugees have returned to the country; Syrian consulate to open soon in Erbil &nbsp;&nbsp; کردپرس",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmtvMHJuamxZdmJvbTdSUlowQnAwUlgyUjZ6MVJkUDg1b3o0anExMksybVVuS0ZJelBrclpaZDZkZmV0S3lnT3czRmV3eWdxQlh1Tl9zU2hIN3ZKbzN2YnRrNzhlMDlaakViS2VhOWVrd3I4QnJ4cjJ5aHdqU0lrajQwZHZIYjhNZXVRN3lsREY4dFU5V3hYR25CbnMteDlyTHI5Uk5nTE9kdjMySFA4ajhON2w3bnFuTXpCMmZDblFTSUlSOWxDTThSQ3QxYy1HbFZFZA?oc=5",
@@ -316,10 +308,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Iraq's SOMO begins settling outstanding oil payments to Gulf Keystone at international prices",
+   "desc": "Iraq's SOMO begins settling outstanding oil payments to Gulf Keystone at international prices &nbsp;&nbsp; Iraqi News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0ZKUjFiamdNTXlJRTVnLUZwRlNjSEQ1c0dLUWtyd21INTNQM0NhTUNNX1B6RkxlYmhhRzFBN0s1eEtMSlEtS0pXX0Vqb1Q3Y3N5c3Q5ajNYWW5TNXVtMXFKWDZQbTM1Y28wMl9QMEVLc0J2cmdRbmhONzZ6Y2ZzOTJZSERZXzRRTTlMZVhYN0V1MHRSVTJmVnF5UE9QMldrNThYa3h6TThjb0E3X2VpT2VueERaVldHMU94VGtCbTZfUQ?oc=5",
+   "date": "2026-10-15T08:59:16.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "KRG cannot export 400,000 bpd without payments to oil companies: Official",
    "desc": "KRG cannot export 400,000 bpd without payments to oil companies: Official &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oNUtCeDNQLTIzZnh6SXhJY24xVVlYajVfcGhVZnJOWC1ORUY0bzhuemNGaUlHbUVHX0Z4dFNaTTVxNjUzd3Fqd3Fua2pZU0h4NldNR1ZFdzg0Ynhyb1N2UWY0Y3V4dnVo?oc=5",
-   "date": "2026-10-16T03:10:52.000Z"
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YVU5fc1haS0FZMGtaR05FRVNlTXJXb0drUDRFM2prWUU2SXpRa1FaNjRaNXpxdllJTmdDTGd6b29rLXJBZFFQOTdmVDcyNTA2cG50TGQ2UnFEVy1RTHNTQVJNNA?oc=5",
+   "date": "2026-10-15T16:29:20.000Z"
   },
   {
    "src": "Tourism",
@@ -340,10 +340,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition",
-   "desc": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHM0dGZfQVhLRzBKclo1ZFZEY0Q4QmdpdFBnelNJTlNZVHdpZDdsMGc3TmMzb19TQ3VPak9XV0RjWTlLX3RHa0FBRG9JTWFObU9jQTJxR3psTkRMT2dTN01lUkk2Y3YwdnlyXzZYbkhUNllzeExRdkluV09SOWRCaTM2cjM1aUNNTTY4eFM3OUFEMUxVOTMyVkhreVU5Wm9hbzhFbnJCQzBNZGUtNmJWRjlDeEdHQXM?oc=5",
-   "date": "2026-10-14T06:40:00.000Z"
+   "title": "Erbil to get first Mövenpick resort under Accor, KRD Holding deal",
+   "desc": "Erbil to get first Mövenpick resort under Accor, KRD Holding deal &nbsp;&nbsp; Iraqi News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmpGSE5wRVBGT09xWnZleXotVklQRk1zRnBzaWIwYmp5V1VnVi1KVHlyWFlualh3VGZwQTU3ODk5V1VSaF9UWERlWVo0NmNCRGV0cmJTR1h5eGE5ckg2d3A1ZFF6NUZkbmFnZ18waGE1czZrZWt5bzh3Y3N0NU1SMk5tMXF6YzFCSG9PakZPVDZZc2dhVDFiT1p1eEw?oc=5",
+   "date": "2026-10-15T12:28:50.000Z"
   },
   {
    "src": "Tourism",
@@ -351,15 +351,15 @@
    "title": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official",
    "desc": "Kurdish tourists cancelling travel in Turkey after attack on visitors from Kurdistan Region: official &nbsp;&nbsp; کردپرس",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN0ZhdVJpZ2VaWUZvOGNBOFhmdHAzX0RhbDFSRnJkVGN2bkJMek92Y3o3QndmVW80Nk44VTlmMlJudGE4Q19OR1Zpa2hnMHNlVG5LUVgtQVRIYlpFQVh4VFNpcmZ0WklaMlhBMzBEbnZQcHZBM2FTQzdESXZ2UXE5YjlTTVdvOGpHWnBKZUd5ZmowS3lldDBmN3RFMENwUTB4UXl2MUx4aE45emtJdEpxcUlWVjl4NmFETXAzMklXVHlpbWVhTTRqQ2lqNGNvQm9zVE9iZnFCN3M?oc=5",
-   "date": "2026-10-15T16:03:08.000Z"
+   "date": "2026-10-21T16:06:28.000Z"
   },
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Iran, Iraq Agree on Expulsion of Terrorist Group from Kurdistan Region",
-   "desc": "Iran, Iraq Agree on Expulsion of Terrorist Group from Kurdistan Region &nbsp;&nbsp; تسنیم",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0hYcjlJN3pDTW5PSGtfbE5LUUxOcmxLcEFUUV9zeVdIS1c5QU4tb1kwYk9WRGZhSENqVkNXZnNQTk8tVTJDQ0k3d1hUbUw4d0ZwLTE0Z1FmVURuX0hReE91VHF0SDAzNkx3ZlE3WHVWbkdiTjc3YnVKR1BJMjQtV0ZkM0lIQjl0TnJJQndUTWl2cDVFSVhFMEsxQVZiYzZscmdxNDZlakN0bDdhZUZtaTNfdkFwb2RuVGZUTW9TeVlHQVRq0gHEAUFVX3lxTE9zSFhyOUk3ekNNbk9Ia19sTktRTE5ybEtwQVRRX3N5V0hLVzlBTi1vWTBiT1ZEZmFIQ2pWQ1dmc1BOTy1VMkNDSTd3WFRtTDh3RnAtMTRnUWZVRG5fSFF4T3VUcXRIMDM2THdmUTdYdVZuR2JONzdidUpHUEkyNC1XRmQzSUhCOXROcklCd1RNaXZwNUVJWEUwSzFBVmJjNmxyZ3E0NmVqQ3RsN2FlRm1pM192QXBvZG5UZlRNb1N5WUdBVGo?oc=5",
-   "date": "2026-10-20T11:54:48.000Z"
+   "title": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition",
+   "desc": "Erbil Hosts Kurdistan Region’s First International Hospitality Exhibition &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHM0dGZfQVhLRzBKclo1ZFZEY0Q4QmdpdFBnelNJTlNZVHdpZDdsMGc3TmMzb19TQ3VPak9XV0RjWTlLX3RHa0FBRG9JTWFObU9jQTJxR3psTkRMT2dTN01lUkk2Y3YwdnlyXzZYbkhUNllzeExRdkluV09SOWRCaTM2cjM1aUNNTTY4eFM3OUFEMUxVOTMyVkhreVU5Wm9hbzhFbnJCQzBNZGUtNmJWRjlDeEdHQXM?oc=5",
+   "date": "2026-10-14T06:40:00.000Z"
   }
  ]
 }
