@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-23T07:08:19.724Z",
+ "updated": "2026-10-23T12:45:53.656Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBZzFseGJDdnZGZncxeldsdDZwOG5sNDh0alNjRWtyaDFsSlZXdjY1WG9iY0dmLUp2WWlzMm9ncERIYU1LbGhmSWsyTHdzX1NDbGdZai1pQkxSU2VsMTRnYkdYUFBLZw?oc=5",
-   "date": "2026-10-22T19:38:58.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -36,6 +28,14 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pblI5UjJzY1N6NWRLRC03SUxYdXc1SnFwQUhvTEp3ZVFiSXBlWno1WUgzSENNNWdvMWZrcDFKUkY4N3BoUjY3M3lxSEZ1Tk40SEhjUWVHZ2V3N1FualZDYUpKaGhWQQ?oc=5",
+   "date": "2026-10-23T00:20:38.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "German state leaders call for faster deportations, tougher action against extremism",
    "desc": "German state leaders call for faster deportations, tougher action against extremism &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KS191eGFJbXJoNXV1QnIxcUdxZmV3Q3NmNEZUSGR1UGd3Rkx0SlZXNHM2RUdGQUl2R0VpMnBReGdRQy1weXF1clNnMnM4NllsbDVzeXgwM0VKOVh0R1pxMU5kSUo?oc=5",
@@ -44,82 +44,90 @@
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Serbian Students Challenge Ruling Party in Snap Parliamentary Election",
-   "desc": "Serbia's student-led anti-corruption movement is challenging the long-ruling SNS in Sunday's snap parliamentary election after nearly two years of mass protests.",
-   "link": "https://www.kurdistan24.net/en/story/947971/serbian-students-challenge-ruling-party-in-snap-parliamentary-election",
-   "date": "2026-10-23T06:15:54.000Z"
+   "title": "Russian Diesel Tanker Heads for New York After US Eases Sanctions",
+   "desc": "The Malta-flagged tanker Agioi Fanendes departed Russia’s Baltic port of Primorsk overnight and was located off Helsinki on Friday, with New York listed as its destination, according to maritime tracking firm Kpler.",
+   "link": "https://www.kurdistan24.net/en/story/948031/russian-diesel-tanker-heads-for-new-york-after-us-eases-sanctions",
+   "date": "2026-10-23T12:25:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Malaysia Limits Waze Use as Government Raises Security Concerns",
-   "desc": "Waze has rejected Malaysia's data security claims after authorities banned civil servants from using the navigation app for official duties.",
-   "link": "https://www.kurdistan24.net/en/story/947967/malaysia-limits-waze-use-as-government-raises-security-concerns",
-   "date": "2026-10-23T05:36:00.000Z"
+   "title": "Towards More Inclusive Labor Market for Persons with Disabilities: KRG Implements a New Strategy",
+   "desc": "The session focused on a draft strategy that the ministry has prepared with technical support from UNICEF, the United Nations Children's Fund, and funded by the Federal Republic of Germany.",
+   "link": "https://www.kurdistan24.net/en/story/948024/towards-more-inclusive-labor-market-for-persons-with-disabilities-krg-implements-a-new-strategy",
+   "date": "2026-10-23T11:34:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Region Denies Reports of Ukrainian Drones, Military Presence",
-   "desc": "The ministry dismissed reports circulated by several media outlets concerning the alleged presence of Ukrainian drones, military forces, or units in the Kurdistan Region, describing the claims as false and baseless.",
-   "link": "https://www.kurdistan24.net/en/story/947941/kurdistan-region-denies-reports-of-ukrainian-drones-military-presence",
-   "date": "2026-10-22T19:55:00.000Z"
+   "title": "Mediterranean Migrant Deaths Rise Despite Drop in Sea Arrivals: IOM",
+   "desc": "From January 1 to October 12, 70,598 migrants reached Europe via the Mediterranean and Atlantic routes, down 36 percent from 110,817 during the same period in 2025.",
+   "link": "https://www.kurdistan24.net/en/story/948007/mediterranean-migrant-deaths-rise-despite-drop-in-sea-arrivals-iom",
+   "date": "2026-10-23T10:10:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "U.S. Urges Iraq’s Al-Zaidi to Honor Commitments Made to Trump",
-   "desc": "“Our goal remains unchanged: a sovereign, secure, and prosperous Iraq that delivers for its people and strengthens the region,” the spokesperson said.",
-   "link": "https://www.kurdistan24.net/en/story/947927/us-urges-iraqs-al-zaidi-to-honor-commitments-made-to-trump",
-   "date": "2026-10-22T18:30:00.000Z"
+   "title": "Netanyahu Warns Iran Against Attack Ahead of Israeli Election",
+   "desc": "Benjamin Netanyahu warned Iran against attacking Israel ahead of the Oct. 27 election and asked voters for another mandate to continue confronting Tehran.",
+   "link": "https://www.kurdistan24.net/en/story/948008/netanyahu-warns-iran-against-attack-ahead-of-israeli-election",
+   "date": "2026-10-23T09:49:29.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "KDP Urges Kurdish Parties to Resume Kurdistan Region Parliament Sessions",
-   "desc": "“We call on them to be ready to resume sessions. We are prepared to reactivate the Kurdistan Region Parliament and urge all blocs that have nominated candidates for the presidency of parliament to attend a session to elect the parliamentary leadership,” Khala said.",
-   "link": "https://www.kurdistan24.net/en/story/947915/kdp-urges-kurdish-parties-to-resume-kurdistan-region-parliament-sessions",
-   "date": "2026-10-22T17:15:00.000Z"
+   "title": "Oil Prices Hit Highest Level in More Than Five Months",
+   "desc": "Brent crude futures gained 79 cents, or 0.7%, to $113.96 per barrel by 0810 GMT, after earlier climbing to $114.72, the highest level since May 4. US West Texas Intermediate (WTI) crude rose $1.10, or 1.1%, to $100.57 per barrel.",
+   "link": "https://www.kurdistan24.net/en/story/948005/oil-prices-hit-highest-level-in-more-than-five-months",
+   "date": "2026-10-23T09:37:22.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq’s Kurds confront a post-Coalition test",
-   "desc": "Shafaq News- OPINION By Ali Hussein Feyli* Kurdish concerns over Iraq&rsquo;s political and security landscape are not merely emotional or temporary, but reflect a deeper sense of existential anxiety and a realistic assessment shaped by historical tragedy, the hard numbers, and harsh geographic realities. Any observer viewing this equation from outside the Kurdistan Region will struggle to underst",
-   "link": "https://shafaq.com/en/Report/Iraq-s-Kurds-confront-a-post-Coalition-test",
-   "date": "2026-10-23T06:59:18.000Z"
+   "title": "Netanyahu orders Al-Khalil lockdown after deadly shooting",
+   "desc": "Shafaq News- Al-Khalil Israeli Prime Minister Benjamin Netanyahu on Friday announced a military operation in Al-Khalil (Hebron) and nearby Halhul, including plans to evacuate residents and search homes, after a shooting attack killed two Israeli soldiers and wounded four others in the southern occupied West Bank. Visiting Al-Khalil, Netanyahu confirmed that Israeli forces had surrounded both areas",
+   "link": "https://shafaq.com/en/Middle-East/Netanyahu-orders-Al-Khalil-lockdown-after-deadly-shooting",
+   "date": "2026-10-23T12:30:02.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi parliament orders halt to Sinjar nominations",
-   "desc": "Shafaq News- Nineveh An Iraqi parliamentary committee ordered the Nineveh Provincial Council to immediately suspend nominations for two senior administrative posts in Sinjar, warning that the process violates the constitution and applicable law. In a letter to the council's chairman, the Regions, Governorates, Planning, Government Program, and Religious Endowments Committee said the nominations fo",
-   "link": "https://shafaq.com/en/Iraq/Iraqi-parliament-orders-halt-to-Sinjar-nominations",
-   "date": "2026-10-23T06:02:25.000Z"
+   "title": "Yemeni forces shell Houthi-held areas, casualties reported",
+   "desc": "Shafaq News- Sanaa More than 12 people were killed and wounded in a series of Saudi airstrikes on Nihm district in Yemen, the Houthi-affiliated Al-Masirah TV channel reported on Friday. The channel also reported nine Saudi airstrikes targeting areas in the provinces of Saada, Hodeidah, Taiz and Amran. Meanwhile, forces loyal to Yemen's internationally recognized government said airstrikes in weste",
+   "link": "https://shafaq.com/en/Middle-East/Yemeni-forces-shell-Houthi-held-areas-casualties-reported",
+   "date": "2026-10-23T11:55:44.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Two gunmen killed in attack on Israeli post near al-Khalil",
-   "desc": "Shafaq News- West Bank Two gunmen were killed on Friday morning after opening fire on an Israeli military observation post near al-Khalil (Hebron) in the southern occupied West Bank, the Israeli army said. Six people were wounded, according to Israel's emergency service, Magen David Adom. The attack occurred near Judea Junction, also known as Beit Anun Junction, close to the settlement of Telem. C",
-   "link": "https://shafaq.com/en/Middle-East/Two-gunmen-killed-in-attack-on-Israeli-post-near-al-Khalil",
-   "date": "2026-10-23T05:35:47.000Z"
+   "title": "Louvre, Art Basel close ahead of France protests",
+   "desc": "Shafaq News- Paris France&rsquo;s Louvre museum will close on October 24 and Art Basel Paris will shut for the weekend, authorities and organizers said on Friday, as the country braces for renewed protests following unrest that led to 2,700 people being taken into police custody. Marseille's Chamber of Commerce also urged businesses to close. Authorities in Lyon banned Saturday demonstrations, whi",
+   "link": "https://shafaq.com/en/World/Louvre-Art-Basel-close-ahead-of-France-protests",
+   "date": "2026-10-23T11:08:35.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran's Tchogha Zanbil preserves ancient Elamite heritage",
-   "desc": "Shafaq News- Khuzestan The Tchogha Zanbil Ziggurat in southwestern Iran's Khuzestan province stands as one of the most significant surviving monuments of the ancient Elamite civilization, offering a glimpse into the region's religious traditions and architecture more than 3,000 years ago. Heritage researcher Razzaq Mojaddam told Shafaq News that the monument, located near the ancient city of Susa,",
-   "link": "https://shafaq.com/en/Kurdistan/Iran-s-Tchogha-Zanbil-preserves-ancient-Elamite-heritage",
-   "date": "2026-10-22T23:23:43.000Z"
+   "title": "Iranian Kurdish opposition rejects relocation from Kurdistan Region",
+   "desc": "Shafaq News- Erbil Leaders of two Iranian Kurdish opposition parties have rejected talk of moving their groups out of the Kurdistan Region of Iraq, describing proposals to confine them to camps elsewhere in Iraq as partly a product of Iranian \"psychological warfare.\" Informed political sources told Shafaq News this week that Iraqi political forces are discussing a plan to relocate the groups to a ",
+   "link": "https://shafaq.com/en/Kurdistan/Iranian-Kurdish-opposition-rejects-relocation-from-Kurdistan-Region",
+   "date": "2026-10-23T11:05:05.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Chinese exports to Iraq plunge 32% in nine months",
-   "desc": "Shafaq News- Baghdad Chinese exports to Iraq fell by 31.7% in the first nine months of 2026, dropping to $8.9 billion from $13 billion during the same period last year, according to Chinese customs data. The sharpest declines were concentrated in machinery and construction materials. Imports of machinery and equipment fell 49%, iron and steel 56%, steel products 36%, and electrical equipment 35%. ",
-   "link": "https://shafaq.com/en/Economy/Chinese-exports-to-Iraq-plunge-32-in-nine-months",
-   "date": "2026-10-22T23:18:02.000Z"
+   "title": "Restoration begins on Al-Anbar’s historic Hajlan Bridge",
+   "desc": "Shafaq News- Al-Anbar Repairs have begun on the historic Hajlan Bridge in Iraq&rsquo;s western Al-Anbar province after flash floods caused extensive damage last year, Al-Anbar Civilization Museum Director Ammar Ali told Shafaq News on Friday. Read more: Floods hit al-Anbar, Diyala, and Kirkuk Ali said the damage was particularly severe around the bridge&rsquo;s supports, prompting specialist teams",
+   "link": "https://shafaq.com/en/society/Restoration-begins-on-Al-Anbar-s-historic-Hajlan-Bridge",
+   "date": "2026-10-23T10:00:16.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+   "desc": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T09:23:53.000Z"
   },
   {
    "src": "BBC",
@@ -148,15 +156,7 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-   "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T21:42:39.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Prominent Virginia senator charged over allegations she ran criminal marijuana scheme",
+   "title": "Prominent Virginia senator charged over allegations she ran criminal cannabis scheme",
    "desc": "Democratic Senator L Louise Lucas and six other people, including her family members, are accused of illegally distributing the drug.",
    "link": "https://www.bbc.co.uk/news/articles/cm20rer9dl8wo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-22T20:39:16.000Z"
@@ -164,42 +164,50 @@
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "What we know about war plans that Trump and Netanyahu are drawing up",
-   "desc": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
-   "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
-   "date": "2026-10-22T22:17:04.000Z"
+   "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+   "desc": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
+   "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+   "date": "2026-10-23T11:22:25.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-   "desc": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
-   "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-   "date": "2026-10-22T13:50:55.000Z"
+   "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
+   "desc": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
+   "date": "2026-10-23T10:36:15.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-   "desc": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
-   "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-   "date": "2026-10-22T11:28:24.000Z"
+   "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+   "desc": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+   "date": "2026-10-23T09:40:32.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
-   "desc": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
-   "link": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia",
-   "date": "2026-10-22T09:59:02.000Z"
+   "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+   "desc": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.",
+   "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+   "date": "2026-10-23T09:37:38.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "See how Big Tech is transforming Spain's landscape",
-   "desc": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
-   "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-   "date": "2026-10-22T09:00:00.000Z"
+   "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+   "desc": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+   "date": "2026-10-23T09:00:00.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+   "desc": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T10:26:06.000Z"
   },
   {
    "src": "BBC ME",
@@ -232,14 +240,6 @@
    "desc": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
    "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-22T01:07:34.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Israel's far right find fertile ground among first-time voters",
-   "desc": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T08:53:06.000Z"
   },
   {
    "src": "LFU",
@@ -284,10 +284,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "New Planting Phase Expands Erbil's Green Belt",
-   "desc": "New Planting Phase Expands Erbil's Green Belt &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1N0EyblpIV2R3NnJkbHJLRmpRY0xUXzRfU01pVHRIYlB3V0lRQUpFV2xrVl81RnRUSEZFRWZMMXlrS3JObzA4Tkt2MDA2bG9jVnRpR193?oc=5",
-   "date": "2026-10-18T12:43:00.000Z"
+   "title": "Erbil's 150-Bed Cancer Hospital Nears Completion",
+   "desc": "Erbil's 150-Bed Cancer Hospital Nears Completion &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaC1IREloX29hX1hRUnRXSGN5ZEJlN01UTl81am1nRVV6UVBYS01Vc2lOelhOZEdZNFN4QU9ZY3drdU5HMWE0Q3ZEVGNvV0lJc0YyU2ZjZkJvdzBVVnZ5anNMT1RFMTEyejZXUW1qQjhhV0tMSWNDZ2VYclpJU3lGckFNcmxEdDZSM1dTTGkteW5HRTl2QUE?oc=5",
+   "date": "2026-10-23T08:31:00.000Z"
   },
   {
    "src": "Erbil",
@@ -316,10 +316,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "1.6 million refugees have returned to the country; Syrian consulate to open soon in Erbil",
-   "desc": "1.6 million refugees have returned to the country; Syrian consulate to open soon in Erbil &nbsp;&nbsp; کردپرس",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmtvMHJuamxZdmJvbTdSUlowQnAwUlgyUjZ6MVJkUDg1b3o0anExMksybVVuS0ZJelBrclpaZDZkZmV0S3lnT3czRmV3eWdxQlh1Tl9zU2hIN3ZKbzN2YnRrNzhlMDlaakViS2VhOWVrd3I4QnJ4cjJ5aHdqU0lrajQwZHZIYjhNZXVRN3lsREY4dFU5V3hYR25CbnMteDlyTHI5Uk5nTE9kdjMySFA4ajhON2w3bnFuTXpCMmZDblFTSUlSOWxDTThSQ3QxYy1HbFZFZA?oc=5",
-   "date": "2026-10-19T15:30:40.000Z"
+   "title": "Istikan Studio's Danar Kayfi: \"Most investors and publishers still don't see Iraq as a place where games get made\"",
+   "desc": "Istikan Studio's Danar Kayfi: \"Most investors and publishers still don't see Iraq as a place where games get made\" &nbsp;&nbsp; Pocket Gamer.biz",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGFWbU1qN0NMM3h6NnhLRnh4d2tSMkgtZVEzZVhwZnlSMjFoWDViVzNhdEtpbjZtYjdPM0k4VkFZQVdXZGlBTXBoQ0plVVU5X1RId3UwNnVOSFlTU3BmWXhySWp0TVBSTDJ1aUZ4cllSQlRzWVZIbHk3anNXT3p2M1pRcG8tanhHd1U2V09MaXUzRG8tS2xLcENMRnVqc2Jtb05oV3VhQlhjRHNSQzNF?oc=5",
+   "date": "2026-10-22T13:25:00.000Z"
   },
   {
    "src": "Tourism",
