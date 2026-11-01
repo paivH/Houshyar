@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-31T23:09:41.695Z",
+ "updated": "2026-11-01T02:27:53.761Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PbmpZSGZHNzBtYWNjcFItSVNYY2dITVpGbHNhSHJuTFdZZ2xZR3ZqMHI0VGNZZXhxM2RYRFZ1SGQ0bTBqa2tuNFBndVRZVEtkc2lmNGlrUkQ3dEtlQ09wQ0tfeEQwUQ?oc=5",
-   "date": "2026-10-30T21:53:32.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -36,10 +28,18 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Maritime monitor reports four tankers ‘on fire’ in Hormuz; Iran says hit mines",
-   "desc": "Maritime monitor reports four tankers ‘on fire’ in Hormuz; Iran says hit mines &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IVmI0Yy02dUw2NWY2MG5ja25TbjEwUWtCbm1yS2JaZkpmUXhyTUoyd0ttWExBcVhUc2xfNFJ6ai04Vkp1eFhzUk9KQlc3MkpROWNSSmRwM0EzTFZhRHk4cWRBbGlxUQ?oc=5",
-   "date": "2026-10-30T06:12:15.000Z"
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OY0pLYUpTd0lUM3FSZF9JMjZ6cVFfR2FJT3piTmMzWmtHeUVkOWN3RTVybkhydlFSNHNueDZTbVptQnZsUXVMNU5DTERtZFdLalZlcTBEZ1IzeF9hSDN4Z3ItUGQ?oc=5",
+   "date": "2026-10-30T22:35:01.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq registers over 8,700 firearms in one week as registration deadline nears",
+   "desc": "Iraq registers over 8,700 firearms in one week as registration deadline nears &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wcW1RdTJYWE0yTUJiNFRsaGdSbF8ySHh1OGo3VGsyQXVodHRtcmpPWFVJV1ZaUGJPdTBEY0xFVUJINksweWJOU0tURkVfMFNKY3Z4S0VqSmlHRHZEQjZZbUUtQQ?oc=5",
+   "date": "2026-10-31T18:26:08.000Z"
   },
   {
    "src": "K24",
@@ -284,6 +284,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Shafaq News..Baghdad, Erbil agree on energy dispute timelines",
+   "desc": "Shafaq News..Baghdad, Erbil agree on energy dispute timelines &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XajFSdGxENjllQ2E2MGloSTh4YVp2cXl5Tmt6ZC1xMnBuQ01lUnNPY0hTREVISUtlQzBheWxMRFhKUU5nd2pncllpOWdlT1NuLVJwS0pnUnFJN0JvTFd3RElXbXo0cXN1b0JldFlJNDdyQVlhMVVkeExhSUxKRGc?oc=5",
+   "date": "2026-10-25T17:52:21.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "An industrial project was approved in Erbil with 38",
    "desc": "An industrial project was approved in Erbil with 38 &nbsp;&nbsp; kurdistanTV",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU5RdlpmNDFuUWpEUW8yUThjd0YyWkM3bE5UNnk4aFVfNVFqVURJYTB1WGlMOHBnbUcyZnpwbmZDRzRSRWNfbWdwOXVoSVhWTTJKLTExUEVaUWRBQmo0emdJR29qY0ZzdXNBbFlmaXFiMXN6WmxPb0thX0R5Tnk3TXJMVXZkblgxcmJrcA?oc=5",
@@ -294,24 +302,16 @@
    "section": "Work & Erbil · کار",
    "title": "Erbil Plans New Factories and Heavy-Industry Zone to Boost Investment",
    "desc": "Erbil Plans New Factories and Heavy-Industry Zone to Boost Investment &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU2F0MlI1OWczcjVwU1owRHpqZGprelhEb2lsZDVjQmRHTTVwRnlxVWs5MFdMOGg5NUdGMENhWmtZVDRoejBySktwbmpfeFB3TFI5VHppaFJYT3kzRnFiYjBfb3lfLXNPcEkwQU9OU1pzakFsMTB4NkNTcXlZazVtanhyRGRvVUxYbllsWUNoaTYySE56YWI4M1MtbGZ0RTY1anp1cUlmaW5FdEhlNDZsWWRYMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FdTR2WGRaaDN6cDVtNkhhVFVEeHBTVnVwVzI0RUlHQW1sZWI1UmQ2cVNIRXpXdFlxRU5TbURxSWtCb2U5ekluWnYyN2oyc1NIanFidW13?oc=5",
    "date": "2026-10-27T13:06:00.000Z"
   },
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Final Section of Erbil–Koya Dual Carriageway Approved",
-   "desc": "Final Section of Erbil–Koya Dual Carriageway Approved &nbsp;&nbsp; حکومەتی هەرێمی كوردستان",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU05ZWDNiV1Y2YXVGcGs3cDhpQTR2QTl2X0RiTWRDRXpCdmtwWXFQWU1GejBkN19xYXBJNXY4MWNmdGc0cFhJXzNLcmFOY0VGUWhJc0R5ZkJNTjN3bkROdzdVYWdnRThaV3JMY0htRU9qY2EzZXVzNV82RFdUX3ptRWM4RVRDTkNjN2ZfLWc3YXp6NDFlSVF1cDE4cUgtaDBIdmhTM2dtRVI1TXd1Ml80YVJrN190bzUxRTRvN1oxcXBYdVF4?oc=5",
-   "date": "2026-10-29T21:00:28.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Erbil-Baghdad disputes have hindered Iraq's economic reforms",
-   "desc": "Erbil-Baghdad disputes have hindered Iraq's economic reforms &nbsp;&nbsp; کردپرس",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlYtbThpVzFxbzM2YXQ2OXhnY2M2WmZKZ3U5cTBDVFEzUU5JQzA1NFJuaVVudjNrY21rYmp0am5mcUxFSURCYjFiTzQ3UndmelBKT04zV2R6bWY4VmdIUVZ6VU1KYmJIM1NuNC1oZ3F5YVM1S2wxWGlCUHowalRoR3BobHpZdzJMNUxNS1Z4RXFFU2VkWnVYR1lsbEsyMldWNFdaSVZrV2RJTmNReFBv?oc=5",
-   "date": "2026-10-27T11:41:53.000Z"
+   "title": "Erbil Wastewater Treatment Project Advances in Second Phase, Valued at $579 Million",
+   "desc": "Erbil Wastewater Treatment Project Advances in Second Phase, Valued at $579 Million &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3laRGxrR2lZRDZOcWc2TklmVUJCcHc4MjV5VkNjQVlLNTF6NllXbWl4Ym45X0JJMDJqRG1tX2hYV3hSYkluMk53bElORmk2c0Z0aWlZU0RZNXdBemR1REdlVmY2M1pYYkpUeldsUFVtQ3FfZWF0VkNFM0FCbDBYR29UQXRXdmJDZUR0UFp2QzRGM016MndjWjRLSGJkWEhqM0wyUk5RemJ0bHRNZXEwUHRmWHNNcHBHcUgyU2tfcVEtNDg?oc=5",
+   "date": "2026-10-29T10:08:00.000Z"
   },
   {
    "src": "Tourism",
@@ -324,14 +324,6 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "My First Wikicamp: Seeing Erbil Through the Eyes of Knowledge",
-   "desc": "My First Wikicamp: Seeing Erbil Through the Eyes of Knowledge &nbsp;&nbsp; Wikimedia.org",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWtabzVJQjRlaHBLMUdnUWs4UkFORzBKTjR1cEFjV181b2h3MEd6NXVnWWVRNVUyRkpYWllWZHVIdV9YU296VnRTbDFYSnc2MTZWS0VHUWZlSFQ5MFJsUG1hWFN3UnlUdDhrMi14T1JzeVVjbU5uMWhBNUtpLVQxdmpKOXpjSlVQbG9oN0FCMExuQ1EzLWp6ZFF3SE1xRmhE?oc=5",
-   "date": "2026-10-27T11:00:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Kurdistan Region to become a ‘center’ for industry: PM Barzani",
    "desc": "Kurdistan Region to become a ‘center’ for industry: PM Barzani &nbsp;&nbsp; The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiWEhPdzJqZkpTaDU5NkdlQ1phM09kSmF2WWpfTXpwVlU3WWZ3WUVnQXRha0luazBqYVgxbGdERTJieUFIUk95Y0szVQ?oc=5",
@@ -340,18 +332,26 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Iran, Iraq Agree on Expulsion of Terrorist Group from Kurdistan Region",
-   "desc": "Iran, Iraq Agree on Expulsion of Terrorist Group from Kurdistan Region &nbsp;&nbsp; تسنیم",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVBSYWx5WlRPam9NQmpCZ1YyLWJNSTNEUDRObzBlaGVlTDJjUGQ5TzJKRHFKNGZLN2VvT05Xa3ViWkVReGN1b0RFTGFWa2JxcDZCNG94Mk52NmdfcXJtcUIzNTQwQkl1bVBZLXVQYzgzN1RqZjh4RVhhSy1WSkttajBFdFFZeldDb1lBY3pMRHZvR3BoR24zTFNzSzhCQUNIZVE1b0dlRkx4R3l4TVMxZjJQYzZ2Q29uakpuOVAxVdIBxAFBVV95cUxPc0hYcjlJN3pDTW5PSGtfbE5LUUxOcmxLcEFUUV9zeVdIS1c5QU4tb1kwYk9WRGZhSENqVkNXZnNQTk8tVTJDQ0k3d1hUbUw4d0ZwLTE0Z1FmVURuX0hReE91VHF0SDAzNkx3ZlE3WHVWbkdiTjc3YnVKR1BJMjQtV0ZkM0lIQjl0TnJJQndUTWl2cDVFSVhFMEsxQVZiYzZscmdxNDZlakN0bDdhZUZtaTNfdkFwb2RuVGZUTW9TeVlHQVRq?oc=5",
-   "date": "2026-10-20T07:00:00.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Shafaq News..Exclusive: PJAK leader sets political terms for laying down arms",
    "desc": "Shafaq News..Exclusive: PJAK leader sets political terms for laying down arms &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlBUSDFyU2NTT0RNVlRkQmhZNjhJNE0zMURxeWhtUVB0cjYxZjZZc2dTQ09iRXFESGhPSzBkZEdYTFZmanVWdXEtRWxlS2VPak55VnZiRlRjNmd6V0Y2NzJEd2wxUFhxWWh6Q0JfTGZBek1OZHhfWVQ4dS14MWZaSGRRcll6dmZjdGdhaGhNRmVTc1lXcjBN?oc=5",
    "date": "2026-10-21T07:00:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Travel & Tourism News Middle East",
+   "desc": "Travel & Tourism News Middle East &nbsp;&nbsp; Travel & Tourism News Middle East",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVladG5uMFNiaHE3N3JsUWllT1pjOUJlQnJtaEUzV1JQcDFNcjd2NFh6VFFfX3Jna2M5U1BqWktCOXlTMUJQVWpJel9IbU1iY2Rxd1lZMEJnSFI4dW1NN0pGT0d5c2hLSTF4VDZ1RUVWS1hPbG9OZnRJZmRQNXVDOV9KTGxIQ3RYRGtNbFNPZ29OR3NOWGpUYmFQbEtNSWxhdmtpdg?oc=5",
+   "date": "2026-10-22T09:19:41.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Foundation stones laid for two service projects worth 717 million dinars in Kori Village and Girdjoutyar",
+   "desc": "Foundation stones laid for two service projects worth 717 million dinars in Kori Village and Girdjoutyar &nbsp;&nbsp; kurdistanTV",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkg2UGFKQ1VLdS15Zi1jTW1vc0hwekhVQUh6WVE5bHZqYTVPZThnY3pxSzc0bVItY0huM3BhSjhRVF9BdVA3ZWl5eGFBSkh1STBMWGh2RURWS21obXNnQWJ1N05mSWdsVDRaTmxRdkFGRGNqZjEwNkpPd1JyNlhBWmxaMTNlQ1JRT2tkYkZQMjRZTFFPUXFaZ3ZKa2lZN3pwRHMzOGVMTFg5dGc3STJGRGJEVlR3M0Y0N052TDJLMnVTVF9JVGdxbExFc1N0WEFi?oc=5",
+   "date": "2026-10-22T09:07:21.000Z"
   }
  ]
 }
