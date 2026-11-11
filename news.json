@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T08:06:51.422Z",
+ "updated": "2026-11-11T16:28:39.592Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,10 +12,26 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "Second tanker incident reported in Strait of Hormuz in less than 24 hours",
+   "desc": "Second tanker incident reported in Strait of Hormuz in less than 24 hours &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IX3hobEJYeUo3MW4zR181M3dHeG9Kc0RWSGxVVVRsVmNCUzN5R3c1d0hmZi1pODYwUDVITjVsTGRFNUU2VFJBaTNkdWY1cldicksxNFhBZm8zRklhZXUzUFVCS1FjdjhIMUZF?oc=5",
+   "date": "2026-11-11T09:58:56.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Iraqi armed group renews allegiance to Iran’s supreme leader Mojtaba Khamenei",
    "desc": "Iraqi armed group renews allegiance to Iran’s supreme leader Mojtaba Khamenei &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TN0VJeUVPeWROZGdrZlpBMzJBU2dyeEtFUV9XRnFwZk9MbVg3WVc5RERxdHNjZmhsY1lIYmJsLXNVOEJwS1Q3NER2dnpnTmwzUXVmUEZxclhNT19DNEpqVlJnTQ?oc=5",
-   "date": "2026-11-11T05:00:12.000Z"
+   "date": "2026-11-11T05:03:12.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Erdogan welcomes President Barzani at COP31 climate summit in Turkey",
+   "desc": "Erdogan welcomes President Barzani at COP31 climate summit in Turkey &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzV3NLZ09EY3hfUWtfOGRNVy1fcHpEelRBTzRyamlzYkljY3BuX1R4RGNWRDlsQ3ZRR0FTZnBnT3R0ZW5YVU5OV25obnpaNE93ZEFSVzNkVU43cno5UlhrSQ?oc=5",
+   "date": "2026-11-11T11:09:03.000Z"
   },
   {
    "src": "Rudaw",
@@ -26,116 +42,84 @@
    "date": "2026-11-09T23:11:57.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "IRGC unveils underground ‘missile city’ amid US mixed messages with Iran",
-   "desc": "IRGC unveils underground ‘missile city’ amid US mixed messages with Iran &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ock9QTEtiaHdDNmZmenREMlRXWTVxaDJ4MTlFaHdiM0c3aWdDcnAxRG9wWE10emIydy12Y01JUDJyUlAyRmdpZDRKck0zM2xPelpRV0J4djdqcGNuNlE?oc=5",
-   "date": "2026-11-10T15:02:19.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "PM Barzani sees ‘positive’ Baghdad budget signals",
-   "desc": "PM Barzani sees ‘positive’ Baghdad budget signals &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XaWRTbGVWbXdwTXd2NThpazdDN1hscjhVakpwalJ4bnhfNHZZdExLQ0NWajZFTjlmdVRKcjVHRVE3RTN2akJNWC13QVdVX1RWZi1qM3BxZTVXazlmVzg0czU4WXc?oc=5",
-   "date": "2026-11-10T11:21:51.000Z"
+   "title": "Erbil Holds Preparatory Meeting to Develop Long-Term Solutions to Flash Flooding",
+   "desc": "According to a statement from the Erbil Governorate, discussions focused on the causes of rainwater accumulation, particularly water flowing into Erbil from surrounding highland areas, as well as damage caused by previous flooding incidents and measures already implemented.",
+   "link": "https://www.kurdistan24.net/en/story/952393/erbil-holds-preparatory-meeting-to-develop-long-term-solutions-to-flash-flooding",
+   "date": "2026-11-11T15:14:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Poland’s Orlen Cancels A Qatari LNG Contract",
-   "desc": "The Polish company cites QatarEnergy’s continuing force majeure, as Iran’s attacks on Ras Laffan and tanker traffic through Hormuz keep deliveries disrupted",
-   "link": "https://www.kurdistan24.net/en/story/952284/polands-orlen-cancels-a-qatari-lng-contract",
-   "date": "2026-11-11T07:47:35.000Z"
+   "title": "Kurdistan Region President, Syria’s President Discuss Kurdish Rights at COP31",
+   "desc": "Addressing the situation of Kurds in Syria, President Nechirvan Barzani stressed the importance of protecting their rights and ensuring that they are constitutionally guaranteed in Syria's future constitution.",
+   "link": "https://www.kurdistan24.net/en/story/952387/kurdistan-region-president-syrias-president-discuss-kurdish-rights-at-cop31",
+   "date": "2026-11-11T14:30:26.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "UK Arrests US Soldier Suspected of Spying for Russia",
-   "desc": "American serviceman detained near Gloucester in joint UK-US investigation into alleged espionage and national security breaches",
-   "link": "https://www.kurdistan24.net/en/story/952269/uk-arrests-us-soldier-suspected-of-spying-for-russia",
-   "date": "2026-11-11T07:20:00.000Z"
+   "title": "Iraq PM Reviews Investigation into Khor Mor Gas Field Attack",
+   "desc": "Sabah Numan, spokesperson for the Commander-in-Chief of the Armed Forces, said in a statement that al-Zaidi had directed the relevant authorities to complete investigative procedures as soon as possible.",
+   "link": "https://www.kurdistan24.net/en/story/952371/iraq-pm-reviews-investigation-into-khor-mor-gas-field-attack",
+   "date": "2026-11-11T13:35:38.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Araghchi To Rubio: Such ‘Delusions’ Lead To The Failure Of US Policy",
-   "desc": "Iran’s foreign minister compares Rubio to Pompeo and says the economic pressure approach is inhumane and bound to fail, a day after Rubio said sanctions make major strikes unnecessary",
-   "link": "https://www.kurdistan24.net/en/story/952259/araghchi-to-rubio-such-delusions-lead-to-the-failure-of-us-policy",
-   "date": "2026-11-11T06:46:44.000Z"
+   "title": "Kurdistan Region Secures $80 Million for Two Major Road Projects in 2027 Budget Draft",
+   "desc": "The projects will upgrade key routes linking Duhok with Zakho and Sulaimani with Kirkuk, following two years of negotiations over international bank financing",
+   "link": "https://www.kurdistan24.net/en/story/952366/kurdistan-region-secures-80-million-for-two-major-road-projects-in-2027-budget-draft",
+   "date": "2026-11-11T12:53:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Kirkuk Council Member To Visit North Oil Company Over Kurdish Hiring Gap",
-   "desc": "After a Kurdistan 24 investigation, the head of the KDP bloc says the council will examine what he calls an imbalance that runs from senior posts to administrative units",
-   "link": "https://www.kurdistan24.net/en/story/952246/kirkuk-council-member-to-visit-north-oil-company-over-kurdish-hiring-gap",
-   "date": "2026-11-11T06:02:40.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Zelensky Welcomes Shift in US Approach as Ukraine-Russia Talks Resume in Abu Dhabi",
-   "desc": "Kyiv Seeks Security Guarantees and Prisoner Exchange as Washington Pushes for New European Security Framework",
-   "link": "https://www.kurdistan24.net/en/story/952245/zelensky-welcomes-shift-in-us-approach-as-ukraine-russia-talks-resume-in-abu-dhabi",
-   "date": "2026-11-11T05:45:00.000Z"
+   "title": "KDP Lawmaker Warns Against Efforts to Weaken Kurdistan Region’s Constitutional Status",
+   "desc": "Daner Abdulghaffar says Article 117 of Iraq’s Constitution recognizes the Kurdistan Region as a unified constitutional entity, warning that attempts to divide or undermine it would violate the constitution",
+   "link": "https://www.kurdistan24.net/en/story/952356/kdp-lawmaker-warns-against-efforts-to-weaken-kurdistan-regions-constitutional-status",
+   "date": "2026-11-11T11:55:00.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Gold bounces back under Fed rate pressure",
-   "desc": "Shafaq News Gold &zwnj;prices ticked up on Wednesday after a nearly 3% slide in the previous session, but gains were limited as stronger-than-expected US inflation data cemented expectations of a Federal Reserve interest rate hike &#8203;next month, weighing on bullion. Spot gold rose 0.6% to $4,057.33 per ounce at 0637 &#8203;GMT after falling nearly 3% to $4,017.21 on Tuesday. US gold &#8288; fu",
-   "link": "https://shafaq.com/en/Economy/Gold-bounces-back-under-Fed-rate-pressure",
-   "date": "2026-11-11T07:54:37.000Z"
+   "title": "Government, parliament launch separate probes into Jurf al-Sakhr smuggling",
+   "desc": "Shafaq News- Baghdad (Updated at 19:19) Iraq's government and parliament have each moved to investigate reports of oil smuggling in Jurf al-Sakhr (Jurf al-Nasr), forming separate committees days after Shafaq News revealed a confidential government intelligence report that used satellite imagery to document five years of suspected smuggling activity near pipelines in the area. Gen. Abdul Amir al-Sh",
+   "link": "https://shafaq.com/en/Iraq/PM-s-office-orders-probe-into-Jurf-al-Sakhr-smuggling-claims",
+   "date": "2026-11-11T15:56:51.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Former Iraqi MP Al-Alwani killing: Media office demands answers",
-   "desc": "Shafaq News- Baghdad/ Beirut Former Iraqi lawmaker Ahmed Al-Alwani&rsquo;s Media Office on Wednesday pressed Lebanese authorities to thoroughly investigate his killing and identify those responsible, while asking the Iraqi government to pursue the case through diplomatic channels. In a statement, the Office confirmed that Al-Alwani arrived in Beirut on Thursday, November 5, on a flight that landed",
-   "link": "https://shafaq.com/en/Iraq/Calls-for-accountability-over-former-MP-Al-Alwani-killing",
-   "date": "2026-11-11T07:05:09.000Z"
+   "title": "Saudi defenses intercept 3 Houthi cruise missiles",
+   "desc": "Shafaq News- Riyadh Saudi-led coalition air defenses intercepted and destroyed 3 cruise missiles launched by Yemen's Houthi movement toward Riyadh on Wednesday, coalition spokesperson Turki al-Maliki said. &#1575;&#1604;&#1578;&#1581;&#1575;&#1604;&#1601;: &#1575;&#1604;&#1583;&#1601;&#1575;&#1593; &#1575;&#1604;&#1580;&#1608;&#1610; &#1575;&#1593;&#1578;&#1585;&#1590; &#1608;&#1583;&#1605;&#1585;",
+   "link": "https://shafaq.com/en/Middle-East/Saudi-defenses-intercept-3-Houthi-cruise-missiles",
+   "date": "2026-11-11T15:21:56.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran labels Argentine Navy, Air Force terrorist groups",
-   "desc": "Shafaq News- Tehran Iran has classified Argentina's Navy and Air Force as terrorist organizations in retaliation for Buenos Aires' decision to blacklist Iran's Islamic Revolutionary Guard Corps (IRGC), the Iranian Foreign Ministry said on Wednesday. In a statement, the Ministry cited a 2019 law that allows Tehran to take similar measures against countries that adopt or support the &ldquo;US design",
-   "link": "https://shafaq.com/en/World/Iran-labels-Argentine-Navy-Air-Force-terrorist-groups",
-   "date": "2026-11-11T06:41:34.000Z"
+   "title": "President Barzani, Guterres urge regional peace at COP31",
+   "desc": "Shafaq News- Antalya Kurdistan Region President Nechirvan Barzani and UN Secretary-General Ant&oacute;nio Guterres stressed the importance of maintaining regional stability and resolving disputes through peaceful means during talks in Antalya, Turkiye, on Wednesday. According to a statement from the Kurdistan Region Presidency, the meeting took place on the sidelines of the 31st UN Climate Change ",
+   "link": "https://shafaq.com/en/Kurdistan/President-Barzani-Guterres-urge-regional-peace-at-COP31",
+   "date": "2026-11-11T15:15:46.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Basrah crudes drop 11% despite global oil gains",
-   "desc": "Shafaq News- Basrah Iraq&rsquo;s Basrah crude prices fell by around 11% on Wednesday, despite gains in benchmark crude futures. Basrah Heavy crude slid $5.97, or 11.57%, to $45.64 per barrel, while Basrah Medium crude dropped 10.74% to $49.64 per barrel. Brent crude futures rose $1.04, or 1.1%, to $92.53 per barrel. US West Texas Intermediate (WTI) crude gained 67 cents, or 0.8%, to $86.71 per bar",
-   "link": "https://shafaq.com/en/Economy/Basrah-crudes-drop-11-despite-global-oil-gains",
-   "date": "2026-11-11T06:19:55.000Z"
+   "title": "IHEC reinstates disqualified Diyala candidate",
+   "desc": "Shafaq News- Diyala Iraq's Independent High Electoral Commission (IHEC), the body responsible for overseeing elections, reinstated Taha Al-Majmai's candidacy on Wednesday and ordered his previously received votes to be recounted, a source within the commission told Shafaq News. The source clarified that the decision does not automatically restore Al-Majmai's parliamentary seat, as the Federal Supr",
+   "link": "https://shafaq.com/en/Iraq/IHEC-reinstates-disqualified-Diyala-candidate",
+   "date": "2026-11-11T15:06:18.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iran \"threats\" force US Treasury chief to military base",
-   "desc": "Shafaq News- Washington US Treasury Secretary Scott Bessent has moved from his Washington-area residence to a military base following threats against his life from Iran, The New York Times reported, citing three people familiar with the matter. A Treasury spokesperson confirmed the relocation, stressing that Bessent \"will not be deterred by the Iranian regime's threats\" and remains committed to Wa",
-   "link": "https://shafaq.com/en/World/Iran-threats-force-US-Treasury-chief-to-military-base",
-   "date": "2026-11-11T05:51:15.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-   "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-   "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T03:26:42.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Hegseth: Impeachment effort is 'farce' and 'stunt'",
-   "desc": "In his first news conference in six months, the defence secretary defended the US's \"lawful military operations\".",
-   "link": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T13:28:07.000Z"
+   "title": "PM Al-Zaidi orders completion of Khor Mor attack investigation",
+   "desc": "Shafaq News- Baghdad Iraqi Prime Minister Ali al-Zaidi on Wednesday ordered investigators to expedite their inquiry into the attack on the Khor Mor gas field in Al-Sulaymaniyah province and submit a final report as soon as possible. According to Sabah al-Numan, spokesperson for the Commander-in-Chief of the Armed Forces, Al-Zaidi reviewed the investigation's progress and called for legal action ag",
+   "link": "https://shafaq.com/en/Security/Ali-Al-Zaidi-orders-completion-of-Khor-Mor-attack-investigation",
+   "date": "2026-11-11T14:46:48.000Z"
   },
   {
    "src": "BBC",
@@ -148,58 +132,90 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+   "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+   "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T11:47:22.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Three Iran-backed suspects plotted attacks including incident near UK air base, US says",
+   "desc": "The US Department of Justice says the men were involved in a string of plots, including a major incident near RAF Fairford, which is used by US armed forces.",
+   "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T14:51:26.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "US Army soldier suspected of spying for Russia arrested in UK",
+   "desc": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:20:04.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
    "desc": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
    "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T03:44:06.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-   "desc": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-   "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T01:18:09.000Z"
+   "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
+   "desc": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
+   "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+   "date": "2026-11-11T13:30:00.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "U.S. boycotts U.N. human rights review for second year running",
-   "desc": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
-   "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-   "date": "2026-11-10T18:53:34.000Z"
+   "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+   "desc": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
+   "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+   "date": "2026-11-11T12:21:59.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-   "desc": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
-   "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-   "date": "2026-11-10T14:16:53.000Z"
+   "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+   "desc": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+   "date": "2026-11-11T10:02:54.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-   "desc": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
-   "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-   "date": "2026-11-10T14:01:14.000Z"
+   "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+   "desc": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
+   "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+   "date": "2026-11-11T09:54:54.000Z"
   },
   {
    "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-   "desc": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
-   "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
-   "date": "2026-11-10T12:01:04.000Z"
+   "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+   "desc": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
+   "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+   "date": "2026-11-11T09:16:01.000Z"
   },
   {
-   "src": "NPR",
+   "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
-   "desc": "Hopes of progress in ending Europe's biggest conflict since World War II are tempered by the absence of any significant breakthroughs in three previous rounds of talks early this year.",
-   "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-   "date": "2026-11-10T10:58:18.000Z"
+   "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+   "desc": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+   "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T13:25:47.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
+   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+   "desc": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+   "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T14:51:26.000Z"
   },
   {
    "src": "BBC ME",
@@ -224,22 +240,6 @@
    "desc": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
    "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-10T15:21:18.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Trump says more US attacks on Iran 'highly unlikely'",
-   "desc": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T09:40:31.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-   "desc": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T13:45:13.000Z"
   },
   {
    "src": "LFU",
@@ -292,14 +292,6 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "What the U.S. Withdrawal Leaves Behind in Kurdistan",
-   "desc": "What the U.S. Withdrawal Leaves Behind in Kurdistan &nbsp;&nbsp; Foreign Policy in Focus",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GQ1ZwalZtRE1ZYmFtMnIxMjVFOTBxekFDSHY0ckw0UzFZXzgtOE5PejQxT0xmRjc5UnhZMUk4WUlrT3pJc2U4ZmpBay1ydS1JMEI0ZlpiY3RPTEFxcDEtYTYtODhyOTBWWlBhXzQ2STBqUTAtOW93?oc=5",
-   "date": "2026-11-09T13:04:44.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Erbil flash floods kill two, cause widespread damage",
    "desc": "Erbil flash floods kill two, cause widespread damage &nbsp;&nbsp; IraqiNews",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWMwMjBjZTN1Y24yeTJMb24wenp2d29KUUlhUXBmT1E4WF91bmlmb3AyNWgyMjI0QVYzd0Y1WGs1ak9pckZkTXdFQmR4dm02ejZ1LWl3TmxnNjAwc3l2ZlpBM0NqcVZubjhoU2FBcEs5cnhUQ1dabkZ3eUJCaDZYbnVCVEQ3eTJhc2ZJ?oc=5",
@@ -308,8 +300,8 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Shafaq News..Erbil floods kill three, over 300 rescued",
-   "desc": "Shafaq News..Erbil floods kill three, over 300 rescued &nbsp;&nbsp; شفق نيوز",
+   "title": "Shafaq News..Erbil floods kill two, over 300 rescued",
+   "desc": "Shafaq News..Erbil floods kill two, over 300 rescued &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QZDVETjFYMzdPd0wxd1RVMHk0UzNQZWdkNFpJY2p1OXpOSnU2QzR2dTMwVHo1aHJSX1Q1bjE3QUtVanhNT3NoNFRaWi1kSFpNM25VWTBiWF8wQXV6UmJvcGtXZlVQOENQRzNiVXBVX0pqdFdKWWloYkd4NEg?oc=5",
    "date": "2026-11-08T16:31:23.000Z"
   },
@@ -320,6 +312,14 @@
    "desc": "Prime Minister Reviews Work on Erbil’s Strategic ‘Life Promenade’ Project &nbsp;&nbsp; Kurdistan TV",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VVTZlVlFLaHRjMGJhajhmdGZXMmhoZWRyMmt6d0tJY2t1OGpxR3M5ZFZIRjVNYTk1TG1GSjdLRHRKVEpsYk5SQThjLS1OMFVfX3ZSbFNPVWZydHNw?oc=5",
    "date": "2026-11-10T07:17:08.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Iraqi minister backs Development Road, warns of Kurdish region crisis",
+   "desc": "Iraqi minister backs Development Road, warns of Kurdish region crisis &nbsp;&nbsp; Türkiye Today",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRndLeTA3LVh1MEEwTzRzeHRLaWthOE9jR2xjYnYyVEhuZEFGUW9TTDQyWFIwV21pVGozR3hoc1p6QXVIRTZENzlJTUdjSGp0NE9wQjAwMmg2YzJxN3VzUzB5VGJ0WGZzTXdNM2pBTzVacEpxRVUtb3ZSRVhQQXlQOGwzTkIwNDJUVGRnMXJ5QVlrclpZV09ocGctUGoybnpod1VJVl92bFhOemlDamhnM3V3?oc=5",
+   "date": "2026-11-07T13:53:04.000Z"
   },
   {
    "src": "Tourism",
