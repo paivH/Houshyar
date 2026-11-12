@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:57:38.484Z",
+ "updated": "2026-11-12T03:43:58.171Z",
  "items": [
   {
    "src": "Rudaw",
@@ -84,6 +84,14 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "Iraqis top Jordan's foreign property market with $107 million",
+   "desc": "Shafaq News- Amman Iraqis topped the list of foreign nationals purchasing property in Jordan during the first 10 months of 2026, purchasing 463 properties worth an estimated 75.7 million Jordanian dinars (approximately $106.8 million), accounting for 41% of the total value of properties acquired by non-Jordanians. According to a report by Jordan's Department of Lands and Survey, property purchases",
+   "link": "https://shafaq.com/en/Economy/Iraqis-top-Jordan-s-foreign-property-market-with-107-million",
+   "date": "2026-11-11T22:55:14.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Iran's Somar crossing sends 650 trucks into Iraq",
    "desc": "Shafaq News- Kermanshah Iran's Somar border crossing (Mandali on the Iraqi side) with Iraq recorded its highest daily trade volume, with 650 trucks carrying export goods entering Iraqi territory in a single day, according to customs authorities in Iran's Kermanshah province. Kermanshah Customs Director Dariush Sadeghi told Iranian media that Somar ranks third among Kermanshah's commercial crossing",
    "link": "https://shafaq.com/en/Economy/Iran-s-Somar-crossing-sends-650-trucks-into-Iraq",
@@ -114,12 +122,20 @@
    "date": "2026-11-11T22:10:20.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq, IMF advance talks on three-year reform plan",
-   "desc": "Shafaq News- Amman Iraq and the International Monetary Fund (IMF) have made progress in negotiations over a three-year economic reform program covering 2027&ndash;2029, following the conclusion of talks in Jordan's capital, Amman, on Wednesday, the Iraqi Finance Ministry announced. Finance Minister Faleh Sari said the discussions focused on developing a medium-term reform framework to strengthen f",
-   "link": "https://shafaq.com/en/Economy/Iraq-IMF-advance-talks-on-three-year-reform-plan",
-   "date": "2026-11-11T21:05:12.000Z"
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "desc": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T02:09:08.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+   "desc": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
+   "link": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T02:02:37.000Z"
   },
   {
    "src": "BBC",
@@ -132,34 +148,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-   "desc": "Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at by a US Army sentinel to be quiet.",
-   "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T21:43:35.000Z"
+   "title": "Hegseth and team reprimanded by Army guard at solemn war memorial",
+   "desc": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T22:55:55.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+   "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
    "desc": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
    "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T18:10:57.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Trump says 'we won' Iran war during Veterans Day service",
-   "desc": "US President Donald Trump placed a wreath at the Tomb of the Unknown Soldier before making remarks at the Veterans Day ceremony at Arlington National Cemetery.",
-   "link": "https://www.bbc.co.uk/news/videos/cke89dqmlp2eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T19:30:48.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Famed ship SS United States to be sunk off coast of Florida",
-   "desc": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-   "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T18:42:27.000Z"
   },
   {
    "src": "NPR",
@@ -300,6 +300,14 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
+   "title": "Shafaq News..Erbil floods kill two, over 300 rescued",
+   "desc": "Shafaq News..Erbil floods kill two, over 300 rescued &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QZDVETjFYMzdPd0wxd1RVMHk0UzNQZWdkNFpJY2p1OXpOSnU2QzR2dTMwVHo1aHJSX1Q1bjE3QUtVanhNT3NoNFRaWi1kSFpNM25VWTBiWF8wQXV6UmJvcGtXZlVQOENQRzNiVXBVX0pqdFdKWWloYkd4NEg?oc=5",
+   "date": "2026-11-08T16:31:23.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
    "title": "Prime Minister Reviews Work on Erbil’s Strategic ‘Life Promenade’ Project",
    "desc": "Prime Minister Reviews Work on Erbil’s Strategic ‘Life Promenade’ Project &nbsp;&nbsp; Kurdistan TV",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VVTZlVlFLaHRjMGJhajhmdGZXMmhoZWRyMmt6d0tJY2t1OGpxR3M5ZFZIRjVNYTk1TG1GSjdLRHRKVEpsYk5SQThjLS1OMFVfX3ZSbFNPVWZydHNw?oc=5",
@@ -312,14 +320,6 @@
    "desc": "Iraqi minister backs Development Road, warns of Kurdish region crisis &nbsp;&nbsp; Türkiye Today",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRndLeTA3LVh1MEEwTzRzeHRLaWthOE9jR2xjYnYyVEhuZEFGUW9TTDQyWFIwV21pVGozR3hoc1p6QXVIRTZENzlJTUdjSGp0NE9wQjAwMmg2YzJxN3VzUzB5VGJ0WGZzTXdNM2pBTzVacEpxRVUtb3ZSRVhQQXlQOGwzTkIwNDJUVGRnMXJ5QVlrclpZV09ocGctUGoybnpod1VJVl92bFhOemlDamhnM3V3?oc=5",
    "date": "2026-11-07T13:53:04.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
-   "title": "Iraqi-Kurdish trade mission goes on a busy four-day tour of Czech agricultural and water-management industry",
-   "desc": "Iraqi-Kurdish trade mission goes on a busy four-day tour of Czech agricultural and water-management industry &nbsp;&nbsp; Ministerstvo zahraničních věcí",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81R010NlE3aUk4ODJETlFBV19nVFZPc3B1NnBJMS1mTHVURmV0SWVQRlJGX1Zkc0Y0TVVPUGFtWGpSZnlxQW00WFpvNHVNQkJqSVMtRVpJZmtGc0dobi03N0tzYUFGUWtKc2dvcEtnYjVTLWVnMGNjM2Nn?oc=5",
-   "date": "2026-11-09T11:47:00.000Z"
   },
   {
    "src": "Tourism",
@@ -340,18 +340,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Travel Tomorrow named Best Platform for Tourism Promotion",
-   "desc": "Travel Tomorrow named Best Platform for Tourism Promotion &nbsp;&nbsp; Travel Tomorrow",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXF4UDJKZHd3SUNnN0p2VUZtTFlIZks2NFFFQkNkSlBtR1BUZUhvQ1hxQTExTmpuS2FNSHVOWjZZQ00wcGh2VEM2b0VoRFBZQWl1czhXUjBnMTZzM3hlRHVJSUwwWlRFQnlpZlgxbHFoZGZqMmdOOUw1WTlwelNxSWlDVjFLaU1MeGpIMVhR?oc=5",
-   "date": "2026-11-10T11:35:04.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Erbil International Book Fair Boosts Tourism and Local Business",
    "desc": "Erbil International Book Fair Boosts Tourism and Local Business &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0N4dGd1a0tIVm02OGdYZUxrNklOLXA1OU52WWk5UHlLQmZieXlmSWw4Y2VuQU1KQW16VHNiZ0p4cFBpYlgyX3VObDhCZXNSZUxad253OFVldnV0LW9McmtpNGU3ekdzdXpIV2h1WWgtWWVZVU56d2dQa3BVUW1MdkNNRU1zMUtoSkYtcmJtSFhHUmQ4X1FjcUJkcE85b0c0eXAzRmowbWU2Ykk?oc=5",
    "date": "2026-10-30T07:00:00.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Shafaq News..PUK starts implementing withdrawal from KRG",
+   "desc": "Shafaq News..PUK starts implementing withdrawal from KRG &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU1USEt0ZmtjNGlMNlBnYURlam1DcVVxRmJhLTJYcEdoaS1tQ3V2X0liN2hHWW1IUGxyMFQ5UDdyRFY0Nno4aVprYXVSYmV3MklET1hrdHB1MHkwVUJaRG9rNVFDTTc2d0RWU1dqenEtLW0yYWNMNUphNEZ6aEctVA?oc=5",
+   "date": "2026-11-07T15:37:46.000Z"
   },
   {
    "src": "Tourism",
