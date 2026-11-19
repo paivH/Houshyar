@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:42:20.344Z",
+ "updated": "2026-11-19T01:00:05.538Z",
  "items": [
   {
    "src": "Rudaw",
@@ -12,10 +12,26 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE92TnM1djBraUdaR0JEd29QUmlmSGxILUdBWkI0NkpuZzh4S0otb3pvNnkwT0x1Q280alQ1S25n?oc=5",
+   "date": "2026-11-18T19:44:15.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "PKK returns to Turkey underway, DEM co-chair says",
+   "desc": "PKK returns to Turkey underway, DEM co-chair says &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWMV9mblh1dnhNUW5vV0Ewb0ZockkyLWlzYWNOc0ZJNzBaZHpSTXVuNVRGR0VEbE0wWm1xWl85NUVzU2FqTmJya21sOTNQaExVX1QtaU1BTVlid0UxeENOcQ?oc=5",
+   "date": "2026-11-18T19:06:12.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
    "title": "Iranian border guard killed, another dies in car crash in Rojhelat",
    "desc": "Iranian border guard killed, another dies in car crash in Rojhelat &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Sc2Zwc0xRVDk3TFZ6aVpNYklJRU1Ob1k3eElQT3dDbDZnWm5ocUN5X29BbWtzSzFTQW9BZndqeW92ekk2aXR3SGNWcF93NDdlTVJRakhkSW9KQUxPYVE?oc=5",
-   "date": "2026-11-18T09:19:46.000Z"
+   "date": "2026-11-18T08:19:29.000Z"
   },
   {
    "src": "Rudaw",
@@ -26,20 +42,36 @@
    "date": "2026-11-18T16:31:21.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Vance rules out prolonged Iran war as US military buildup, Hormuz tensions persist",
-   "desc": "Vance rules out prolonged Iran war as US military buildup, Hormuz tensions persist &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zbmF6ZzJKS0dieUFfZ0tubnoyX2Rob3hMUXdPekpKOXk3cEZOSDhtRzFINkRCWlA4NXhlNHdXUEVBai1TQzIyVEEyX1FWcXJFUV8tMFNNV1pwTHNDTFE?oc=5",
-   "date": "2026-11-17T08:01:30.000Z"
+   "title": "Duhok Excavations Reveal Life Across Bronze Age Transition",
+   "desc": "Foreign and Kurdish archaeologists have found about 300 sites in Duhok province, with Gre Gumbas revealing five settlement layers, an antiquities official said.",
+   "link": "https://www.kurdistan24.net/en/story/954055/duhok-excavations-reveal-life-across-bronze-age-transition",
+   "date": "2026-11-18T20:23:42.000Z"
   },
   {
-   "src": "Rudaw",
+   "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "IRGC holds drills in protected Rojhelat mountains, bars civilian access: Watchdog",
-   "desc": "IRGC holds drills in protected Rojhelat mountains, bars civilian access: Watchdog &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkWGRUdWN4WW1sbmhVOU5ZUW53NFVaQ2NtQjNGRVpmc21QSG9FeVlCMGQ4aFV5NkRibTN0UEd0c05zc0RpZXpGNHViLVFuS2RfZy1mLTFCbG1hUjNMT2c?oc=5",
-   "date": "2026-11-17T05:00:49.000Z"
+   "title": "Iraqi Deputy Speaker Says Oil Smuggling Has No Legal Cover",
+   "desc": "Iraqi Deputy Speaker Farhad Atrushi said in Baghdad that oil smuggling has no legal cover and that parliament will support efforts to protect public wealth.",
+   "link": "https://www.kurdistan24.net/en/story/954041/iraqi-deputy-speaker-says-oil-smuggling-has-no-legal-cover",
+   "date": "2026-11-18T19:34:39.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "US Targets Hizballah-Linked Charity and Gold Smuggling Network",
+   "desc": "In a statement, the US Department of State said the action targets the Wa Ta’awanu Association, which it described as a front organization that uses its humanitarian activities in southern Lebanon to support Hizballah's operations.",
+   "link": "https://www.kurdistan24.net/en/story/954033/us-targets-hizballah-linked-charity-and-gold-smuggling-network",
+   "date": "2026-11-18T19:07:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Erbil Approves 5,000 Tons of Feed Exports to Türkiye, Syria",
+   "desc": "Erbil’s agriculture directorate approved 5,000 tons of feed exports to Türkiye and Syria as the Kurdistan Region’s feed output exceeds domestic demand, officials said.",
+   "link": "https://www.kurdistan24.net/en/story/954031/erbil-approves-5000-tons-of-feed-exports-to-t%C3%BCrkiye-syria",
+   "date": "2026-11-18T18:59:59.000Z"
   },
   {
    "src": "K24",
@@ -50,76 +82,44 @@
    "date": "2026-11-18T18:19:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdish Academics Urge Political Leaders to Safeguard Kurdistan Region's Unity",
-   "desc": "In an appeal, the academics expressed concern that nearly two years after the parliamentary elections, the Kurdistan Region still has no new government.",
-   "link": "https://www.kurdistan24.net/en/story/954011/kurdish-academics-urge-political-leaders-to-safeguard-kurdistan-regions-unity",
-   "date": "2026-11-18T17:27:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Erbil Launches Major Sewerage Project to Reduce Flood Risks in Baghlu Minara",
-   "desc": "Abdulkhaliq said the project seeks to reorganize the neighborhood's sewerage network and main roads, improving urban infrastructure and giving the area a modern appearance.",
-   "link": "https://www.kurdistan24.net/en/story/954000/erbil-launches-major-sewerage-project-to-reduce-flood-risks-in-baghlu-minara",
-   "date": "2026-11-18T16:40:00.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Erbil Addiction Rehabilitation Center Reaches 63% Completion",
-   "desc": "Work on Erbil’s largest addiction treatment center is 63% complete, as Kurdistan Region authorities report 1,223 drug arrests in the first nine months, officials said.",
-   "link": "https://www.kurdistan24.net/en/story/953997/erbil-addiction-rehabilitation-center-reaches-63-completion",
-   "date": "2026-11-18T16:27:05.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iraq Orders Energy Police to Protect Jurf al-Sakhar Oil Pipeline",
-   "desc": "On Wednesday, al-Zaidi chaired a meeting of the Higher Committee for Security Sector Reform, during which several decisions were taken to strengthen security and protect national assets.",
-   "link": "https://www.kurdistan24.net/en/story/953984/iraq-orders-energy-police-to-protect-jurf-al-sakhar-oil-pipeline",
-   "date": "2026-11-18T15:18:22.000Z"
+   "title": "Security measure or digital censorship? The reasons behind Iraq's Telegram ban",
+   "desc": "Shafaq News- Baghdad The Iraqi and Jordanian authorities' decision to block Telegram has raised concerns over the balance between national security requirements and freedom of communication and information sharing, as well as the effectiveness of blanket restrictions in addressing digital violations and their potential impact on users, businesses, and freedom of expression. Authorities justify tha",
+   "link": "https://shafaq.com/en/society/Security-measure-or-digital-censorship-The-reasons-behind-Iraq-s-Telegram-ban",
+   "date": "2026-11-18T23:19:37.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Badr MP: PMF must join Jurf Al-Sakhr handover",
-   "desc": "Shafaq News- Baghdad The Badr Organization does not object to regular security forces entering Jurf Al-Sakhr, but any replacement of the units stationed there must be carefully planned and include Popular Mobilization Forces (PMF) formations, Badr MP Mukhtar Al-Moussawi told Shafaq News on Wednesday. Rotating units between areas is routine military practice in Al-Moussawi's view, and the dispute o",
-   "link": "https://shafaq.com/en/Iraq/Badr-MP-PMF-must-join-Jurf-Al-Sakhr-handover",
-   "date": "2026-11-18T18:33:34.000Z"
+   "title": "Iraq's Iran border closures put markets and industry at risk",
+   "desc": "Shafaq News- Baghdad Economic concerns are growing in Iraq over the potential consequences of closing some border crossings with Iran or reducing their operations, as the domestic market relies heavily on Iranian goods and products, with no available alternatives capable of meeting demand in comparable quantities, quality, and prices. The potential impact extends beyond trade and market activity t",
+   "link": "https://shafaq.com/en/Economy/Iraq-s-Iran-border-closures-put-markets-and-industry-at-risk",
+   "date": "2026-11-18T23:14:21.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Yazidi survivor: I saw Al-Sharaa while ISIS held me captive",
-   "desc": "Shafaq News- Berlin A Yazidi survivor told a truth commission in Berlin that she saw Syrian President Ahmed Al-Sharaa at the house where ISIS held her captive, clarifying that he had no sexual contact with her and did not assault her. In a video clip of her testimony, the survivor said she was instructed to serve Al-Sharaa tea, though he knew she was an enslaved Yazidi woman. She explained that th",
-   "link": "https://shafaq.com/en/World/Yazidi-survivor-I-saw-Al-Sharaa-while-ISIS-held-me-captive",
-   "date": "2026-11-18T18:08:53.000Z"
+   "title": "Israeli incursions threaten olive harvest in Syria's Quneitra",
+   "desc": "Shafaq News- Quneitra Despite an improved olive season in Syria's Quneitra province in 2026, farmers in areas near the buffer zone are facing losses to their land and crops, as well as difficulties accessing their fields and harvesting olives due to Israeli incursions threatening their livelihoods. Khitam Al-Samiya, head of specialized offices at the Quneitra Agriculture Directorate, told Shafaq N",
+   "link": "https://shafaq.com/en/Syria/Israeli-incursions-threaten-olive-harvest-in-Syria-s-Quneitra",
+   "date": "2026-11-18T23:01:04.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Yemeni army: 746 strikes neutralize 142 Houthi fighters",
-   "desc": "Shafaq News- Sanaa/ Riyadh Yemen's armed forces, affiliated with the internationally recognized government, claimed on Wednesday that 142 Houthi commanders and fighters had been &ldquo;neutralized&rdquo; and 72 vehicles, armored vehicles, and other military equipment destroyed or disabled in 746 strikes over the past several hours. Armed forces spokesperson Col. Majed Abdullah Al-Nuzaili said the ",
-   "link": "https://shafaq.com/en/Middle-East/Yemeni-army-746-strikes-neutralize-142-Houthi-fighters",
-   "date": "2026-11-18T17:24:15.000Z"
+   "title": "Houthis target Riyadh airport and financial center",
+   "desc": "Shafaq News- Sanaa&nbsp; Yemen's Houthi group (Ansarallah) said on Wednesday that it had targeted King Khalid International Airport and the financial center in the Saudi capital, Riyadh, with a \"large number of cruise missiles.\" In a statement, Houthi military spokesperson Yahya Saree also announced two additional military operations. The first targeted a sensitive site in Saudi Arabia's Jizan reg",
+   "link": "https://shafaq.com/en/Middle-East/Houthis-target-Riyadh-airport-and-financial-center",
+   "date": "2026-11-18T22:40:31.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraqi F-16s target suspected militants in Al-Anbar",
-   "desc": "Shafaq News- Al-Anbar Iraqi F-16 fighter jets struck a vehicle carrying three suspected militants in Al-Jazira desert of Al-Anbar province on Wednesday, a security source told Shafaq News. The strike followed intelligence gathering and surveillance by the Military Intelligence Directorate, the source added. Earlier this week, Iraqi military intelligence forces uncovered an ISIS cache containing lo",
-   "link": "https://shafaq.com/en/Security/Iraqi-F-16s-target-suspected-militants-in-Al-Anbar",
-   "date": "2026-11-18T16:50:27.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Syria: About 700M drug pills intercepted over 2 years",
-   "desc": "Shafaq News- Brussels Syria stopped attempts to smuggle about 700 million drug pills over the past two years, Foreign Minister Asaad Al-Shaibani said on Wednesday. Read more: 2M Captagon pills confiscated in Syria&rsquo;s Tartous Speaking at the Schuman Security and Defence Forum in Brussels, Al-Shaibani said Syria had also foiled more than 50 terrorist attacks over the same period and had become ",
-   "link": "https://shafaq.com/en/Syria/Syria-About-700M-drug-pills-intercepted-over-2-years",
-   "date": "2026-11-18T16:41:55.000Z"
+   "title": "Israeli flares, gunfire and drones over Daraa and Quneitra",
+   "desc": "Shafaq News- Damascus The Israeli military fired ten illumination flares over the villages of Briqa and Bir Ajam in central Quneitra countryside in southern Syria, a Shafaq News correspondent reported on Wednesday evening. Earlier in the day, Israeli forces fired gunshots from the western Tal al-Ahmar military position toward the eastern hill and surrounding areas near the town of Kodna in souther",
+   "link": "https://shafaq.com/en/Syria/Israeli-flares-gunfire-and-drones-over-Daraa-and-Quneitra",
+   "date": "2026-11-18T22:16:38.000Z"
   },
   {
    "src": "BBC",
@@ -140,10 +140,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "desc": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T17:34:23.000Z"
+   "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+   "desc": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+   "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T21:28:08.000Z"
   },
   {
    "src": "BBC",
@@ -156,10 +156,10 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-   "desc": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-   "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T04:57:06.000Z"
+   "title": "Torrential rain causes widespread flooding in South Florida",
+   "desc": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+   "link": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T20:29:18.000Z"
   },
   {
    "src": "NPR",
@@ -212,6 +212,14 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "desc": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T22:34:56.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
    "desc": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
@@ -232,14 +240,6 @@
    "desc": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T17:37:04.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-   "desc": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T21:40:07.000Z"
   },
   {
    "src": "LFU",
@@ -316,10 +316,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Germany pledges continued support for Kurdistan, Iraq despite troop withdrawal",
-   "desc": "Germany pledges continued support for Kurdistan, Iraq despite troop withdrawal &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54MS0yV0U0Q1FvLVNFai1sTE1WamdLbXVMUVk5RUZOMVVTNFp4S2tRQ1VPRUJDYW1QNk9TQ2tEM2ladTc4cGh6UTZoaDNGVXZJNHZYTTlkRXladm1OYUdLQWhmZHc?oc=5",
-   "date": "2026-11-18T09:54:45.000Z"
+   "title": "Erbil Launches Major Sewerage Project to Reduce Flood Risks in Baghlu Minara",
+   "desc": "Erbil Launches Major Sewerage Project to Reduce Flood Risks in Baghlu Minara &nbsp;&nbsp; Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalZ3dExua2phZDlGWTUxcHZmdEF1NmcwbVVvdEJQQUF0T1lYZ1dwbmVDcXo0a21KYzVuZW42ZFU2NlEzajM3YkhNYXZSMXFvNXh3RGlUbl9TbjZfUnJqZ0NHek5JZUs4YXg4TzVuYThIalZxZzFOUk9vYmpoa29iSG1VM2RpS2lhMk1lUGVvV1JPOG1FNGQ0VnFoMFJQcWRjQUJKRkVHMjFlWDBsdlJFVUNSUnZ3QzVSalJpMw?oc=5",
+   "date": "2026-11-18T16:40:00.000Z"
   },
   {
    "src": "Tourism",
@@ -340,18 +340,18 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Italian Archaeological team unveils end of season findings Erbil’s Museum of Civilizations",
-   "desc": "Italian Archaeological team unveils end of season findings Erbil’s Museum of Civilizations &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnaU5aM0lvRkd2SnJVUU8wN0VUNVBNMWNmdDlGSDVsUEhWYUNveDMzanlUNS1PNnBhWDMxbFNUZ2FiRzlUTG5QRlQtMnJrS3dUNmVXUmQ3UjV1SkVmQldscDZFakw?oc=5",
-   "date": "2026-11-04T19:29:08.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
    "title": "Kurdistan Region’s participation in COP31 pavilions",
    "desc": "Kurdistan Region’s participation in COP31 pavilions &nbsp;&nbsp; حکومەتی هەرێمی كوردستان",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGRZcXo4UkYwbHllV0ZHOWlZaHFmZmpsQVppaDR1dERwd3dIZ2RpZjVxWElFeXFpanR3RGJaWmFjS09qMFhPczU3aUpFQmNiTnNpOWdHVUtZR2poZWVIenZjTk54X3RPSGxKMDFOWHNoU3B5RkpybS1hQ1Ytdmt5YWtHcm1MTjVSdXctaFQ3X2hGU043YUsybUtnckVGWGtxdzcwa0xkakxGM09oN240QTlVNVpBQ3ZVa2N3?oc=5",
    "date": "2026-11-08T13:25:27.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan Will Not Be Divided: PM Barzani",
+   "desc": "Kurdistan Will Not Be Divided: PM Barzani &nbsp;&nbsp; باسنیوز",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KdmljQW1zTXRTc1EyVHZuQzFHRHdVYTgtWk9aX0FRdWpzN1dtUlhSSEFRalYtSGJSNXBEUVQxaWFOcF9ISml6Z2ZScEgxNDZQ?oc=5",
+   "date": "2026-11-17T12:21:00.000Z"
   }
  ]
 }
