@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:48:41.894Z",
+ "updated": "2026-11-20T08:11:39.110Z",
  "items": [
   {
    "src": "Rudaw",
@@ -7,7 +7,7 @@
    "title": "News, Politics, Culture",
    "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wS29fZi1rSjloQjBfazg3N2RGUG9tTTRVRG1QMUNTWGNBdXFLU3EzWG90YmhoQ0JMZ3FNOWZlZGhhSTQ?oc=5",
-   "date": "2026-11-19T17:51:55.000Z"
+   "date": "2026-11-20T01:04:10.000Z"
   },
   {
    "src": "Rudaw",
@@ -15,7 +15,7 @@
    "title": "PKK returns to Turkey underway, DEM co-chair says",
    "desc": "PKK returns to Turkey underway, DEM co-chair says &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWMV9mblh1dnhNUW5vV0Ewb0ZockkyLWlzYWNOc0ZJNzBaZHpSTXVuNVRGR0VEbE0wWm1xWl85NUVzU2FqTmJya21sOTNQaExVX1QtaU1BTVlid0UxeENOcQ?oc=5",
-   "date": "2026-11-18T19:06:12.000Z"
+   "date": "2026-11-19T01:06:12.000Z"
   },
   {
    "src": "Rudaw",
@@ -28,10 +28,34 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Jurf al-Sakhr: Tribes Warn Against Security Changes",
-   "desc": "Jurf al-Sakhr: Tribes Warn Against Security Changes &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xcV9GbnJrcmd5MjFOVXNTS09pZTYwMFJROEh2Z2o2eFdtc1J0MFdaQjAzMUx2R0RzSDJVbVFHdkNIaDZlOVlwX3VialFnWlBsWXdFX1VrU0dvWXZiRFhzVDZETQ?oc=5",
-   "date": "2026-11-19T11:26:22.000Z"
+   "title": "Three children killed in Diyala checkpoint shooting, 11 security personnel detained",
+   "desc": "Three children killed in Diyala checkpoint shooting, 11 security personnel detained &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40ajZyek5pTUZZTEVJQ2FOSE5UalVIQVJMMHVCeVRCOG0wZ1lHYWZOVThGSkVwcUxfNjFLTGs4dWtfXzB0ZUUtYl9IMTJsekdyUnk2bm5tUERfODZYZlE?oc=5",
+   "date": "2026-11-19T21:44:44.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Security Forces Assume Jurf al-Sakhar Security Responsibilities",
+   "desc": "Iraqi security forces announce a new security phase in Jurf al-Sakhar, with Energy Police protecting oil infrastructure and a road reopening planned for Saturday.",
+   "link": "https://www.kurdistan24.net/en/story/954328/iraqi-security-forces-assume-jurf-al-sakhar-security-responsibilities",
+   "date": "2026-11-20T07:46:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Three Children Killed by Police Gunfire in Diyala, Father Demands Justice",
+   "desc": "Three children were killed in a Diyala police shooting during an arrest operation. Their father demands justice as officials investigate officers' conduct.",
+   "link": "https://www.kurdistan24.net/en/story/954326/three-children-killed-by-police-gunfire-in-diyala-father-demands-justice",
+   "date": "2026-11-20T07:29:00.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi Forces Begin First Phase of Jurf al-Sakhar Security Operation",
+   "desc": "Iraqi Federal Police begin moving toward Jurf al-Sakhar as Baghdad launches its security operation following delays, with Kataib Hezbollah remaining on alert.",
+   "link": "https://www.kurdistan24.net/en/story/954306/iraqi-forces-begin-first-phase-of-jurf-al-sakhar-security-operation",
+   "date": "2026-11-20T05:27:58.000Z"
   },
   {
    "src": "K24",
@@ -50,68 +74,44 @@
    "date": "2026-11-19T19:24:00.000Z"
   },
   {
-   "src": "K24",
+   "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "EU Backs Unified Kurdistan Region, Warns Against Steps Fueling Divisions",
-   "desc": "In a response to Kurdistan24's email enquiry on Thursday, an EU Spokesperson said the bloc maintained its longstanding support for a “unified, stable, and democratic Kurdistan Region within a federal Iraq.”",
-   "link": "https://www.kurdistan24.net/en/story/954260/eu-backs-unified-kurdistan-region-warns-against-steps-fueling-divisions",
-   "date": "2026-11-19T18:28:06.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Erbil Green Belt to Plant 1.8 Million Greek Olive Trees in Second Phase",
-   "desc": "Karwan Meski, Executive Director of the Erbil Green Belt Project, said on Thursday that the olive saplings would be planted in stages, in accordance with the appropriate planting season, rather than all at once.",
-   "link": "https://www.kurdistan24.net/en/story/954255/erbil-green-belt-to-plant-18-million-greek-olive-trees-in-second-phase",
-   "date": "2026-11-19T17:30:51.000Z"
-  },
-  {
-   "src": "K24",
-   "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Region Police Reform to Be Fully Implemented by 2030",
-   "desc": "Major General Tariq Ahmed, Director General of the Kurdistan Region Police, told Kurdistan24 on Thursday that the reform project, launched in 2025, is being implemented under a strategic plan covering 2026–2030.",
-   "link": "https://www.kurdistan24.net/en/story/954239/kurdistan-region-police-reform-to-be-fully-implemented-by-2030",
-   "date": "2026-11-19T16:44:00.000Z"
+   "title": "Iraq to reopen Jurf Al-Nasr bridge to civilian traffic Saturday",
+   "desc": "Shafaq News- Babil Iraqi security officials announced on Friday that Al-Fadhiliya Bridge in Jurf Al-Nasr (Jurf Al-Sakhr), northern Babil province, will reopen to civilian vehicles on November 21, as authorities prepare to replace security units under a broader government plan to secure oil infrastructure and facilitate the return of displaced families. At a joint press conference in Babil, Lt. Gen",
+   "link": "https://shafaq.com/en/Security/Iraq-to-reopen-Jurf-Al-Nasr-bridge-to-civilian-traffic-Saturday",
+   "date": "2026-11-20T08:05:04.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq, Lebanon, Syria, Jordan move to deepen agricultural ties",
-   "desc": "Shafaq News- Baghdad/ Beirut Iraq, Lebanon, Syria and Jordan are seeking to deepen agricultural cooperation through joint efforts to boost production, facilitate trade and address shared challenges, Iraq&rsquo;s ambassador to Lebanon, Mohammed Reda al-Husseini, told Shafaq News. Al-Husseini said on Thursday that Iraqi Agriculture Minister Abdul Rahim al-Shammari&rsquo;s visit to Beirut included ta",
-   "link": "https://shafaq.com/en/Economy/Iraq-Lebanon-Syria-Jordan-move-to-deepen-agricultural-ties",
-   "date": "2026-11-19T23:20:13.000Z"
+   "title": "Gold prices slide on US rate hike expectations",
+   "desc": "Shafaq News Gold prices slipped on Friday and were &zwnj;headed for their worst week in eight months, as a resilient US dollar and expectations of a Federal Reserve interest-rate hike in December weighed on bullion. Spot gold fell 2.7% to $3,525.25 per ounce by 0504 GMT, &#8203;after hitting its lowest level since September 2025 earlier in the session. Bullion &#8203;was down about 9.2% so far thi",
+   "link": "https://shafaq.com/en/Economy/Gold-prices-slide-on-US-rate-hike-expectations",
+   "date": "2026-11-20T07:24:31.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iranian official urges joint Hawizeh Marsh restoration",
-   "desc": "Shafaq News- Tehran An Iranian environmental official on Thursday called for closer cooperation with Iraq to restore the Hawizeh Marsh and secure the water flows needed to sustain it, Iran&rsquo;s Mehr News Agency reported. Ahmad Reza Lahijanzadeh, deputy head of Iran&rsquo;s Department of Environment for marine affairs and wetlands, described the Mesopotamian marshes as part of the two countries&",
-   "link": "https://shafaq.com/en/Middle-East/Iranian-official-urges-joint-Hawizeh-Marsh-restoration",
-   "date": "2026-11-19T22:38:58.000Z"
+   "title": "Oil climbs after Houthi attacks on Saudi Arabia",
+   "desc": "Shafaq News Oil &#8203;prices rose on Friday but were set for a weekly decline as concerns over supply disruptions grew &zwnj;following Houthi attacks on Saudi Arabia's capital Riyadh and reports of tanker disruptions in the Strait of Hormuz. Brent crude futures rose 79 cents, or 0.9%, to $92.77 a barrel by 0404 GMT. US West Texas Intermediate futures for December climbed 25 cents, or 0.3%, to $83",
+   "link": "https://shafaq.com/en/Economy/Oil-climbs-after-Houthi-attacks-on-Saudi-Arabia",
+   "date": "2026-11-20T06:30:26.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan Islamic Scholars call for blocking GTA 6",
-   "desc": "Shafaq News- Erbil The Union of Islamic Scholars in the Kurdistan Region has declared Grand Theft Auto 6 (GTA 6) forbidden under Islamic law, accusing the video game of promoting violence, drug use, and immoral behavior. In a statement on Thursday, the Union's spokesperson, Abdullah Sherkawy, warned that the game's content could negatively affect young people, families, and their financial well-be",
-   "link": "https://shafaq.com/en/Kurdistan/Kurdistan-Islamic-Scholars-call-for-blocking-GTA-6",
-   "date": "2026-11-19T22:22:52.000Z"
+   "title": "Archaeologists uncover 200 cuneiform tablets in Girsu",
+   "desc": "Shafaq News- Dhi Qar Archaeologists uncovered 200 cuneiform tablets at the ancient Sumerian city of Girsu in northern Dhi Qar province, Iraqi tourism and antiquities adviser Amer Abdul-Razzaq said on Thursday. In a statement, Abdul-Razzaq noted that tablets were found in a building known as the House of the Priests, or the Babylonian House, describing it as a center for religious instruction, reco",
+   "link": "https://shafaq.com/en/society/Archaeologists-uncover-200-cuneiform-tablets-in-Girsu",
+   "date": "2026-11-20T06:10:11.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Arab football union reaffirms backing for Infantino",
-   "desc": "Shafaq News- Rabat The Union of Arab Football Associations (UAFA) on Thursday reaffirmed its support for Gianni Infantino&rsquo;s bid for another term as FIFA president from 2027 to 2031, following its endorsement in October. In a statement, UAFA praised his &ldquo;significant and successful efforts and contributions to the development and growth of football during his tenure.&rdquo; &ldquo;These ",
-   "link": "https://shafaq.com/en/sport/Arab-football-union-reaffirms-backing-for-Infantino",
-   "date": "2026-11-19T22:05:45.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Al-Anbar hospitals on highest alert before military operation",
-   "desc": "Shafaq News- Al-Anbar Western Iraq&rsquo;s Al-Anbar province&rsquo;s health department put all hospitals and health facilities on their highest level of alert Thursday after Al-Anbar Operations Command notified it of a military operation scheduled for dawn Friday. The order took effect immediately and will remain in force until further notice. It requires staff to stay on site unless administrator",
-   "link": "https://shafaq.com/en/society/Al-Anbar-hospitals-on-highest-alert-before-military-operation",
-   "date": "2026-11-19T21:42:01.000Z"
+   "title": "Iraqi forces begin operations under new Jurf Al-Nasr command",
+   "desc": "Shafaq News- Babil Iraqi security forces began operating under a newly established command headquarters in Jurf Al-Nasr, also known as Jurf Al-Sakhr, in Babil province on Friday, meeting the 6:00 a.m. deadline set by Prime Minister and Commander-in-Chief of the Armed Forces Ali Al-Zaidi. Under an order issued Thursday, the headquarters operates under the Federal Police and is led by Lt. Gen. Ahmed",
+   "link": "https://shafaq.com/en/Security/Iraqi-forces-assume-control-of-Jurf-Al-Nasr-under-new-command",
+   "date": "2026-11-20T05:18:21.000Z"
   },
   {
    "src": "BBC",
@@ -120,14 +120,6 @@
    "desc": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
    "link": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T17:55:15.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
-   "desc": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
-   "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T17:23:29.000Z"
   },
   {
    "src": "BBC",
@@ -148,10 +140,18 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-   "desc": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-   "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T22:48:22.000Z"
+   "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+   "desc": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T02:54:40.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "Why Canada is embracing AI data centres while the US pushes back",
+   "desc": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:13:24.000Z"
   },
   {
    "src": "NPR",
@@ -196,6 +196,14 @@
   {
    "src": "BBC ME",
    "section": "US & World · جیهان",
+   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+   "desc": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+   "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:13:21.000Z"
+  },
+  {
+   "src": "BBC ME",
+   "section": "US & World · جیهان",
    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
    "desc": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
    "desc": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T18:27:27.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-   "desc": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-   "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T17:37:04.000Z"
   },
   {
    "src": "LFU",
@@ -324,18 +324,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "Invest Kurdistan seeking to promote tourism at Greek resort forum",
-   "desc": "Invest Kurdistan seeking to promote tourism at Greek resort forum &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aZlUyb2ZNSFltWE9XYnNVd0JJWTFScUw2Y29vQ0JjVlVZTEQ3dHMwWnRES2VlTFA1MXpqcEk2c2JuRHM2YmlYeE1PQQ?oc=5",
-   "date": "2026-11-18T10:08:29.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Travel Tomorrow named Best Platform for Tourism Promotion",
-   "desc": "Travel Tomorrow named Best Platform for Tourism Promotion &nbsp;&nbsp; Travel Tomorrow",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXF4UDJKZHd3SUNnN0p2VUZtTFlIZks2NFFFQkNkSlBtR1BUZUhvQ1hxQTExTmpuS2FNSHVOWjZZQ00wcGh2VEM2b0VoRFBZQWl1czhXUjBnMTZzM3hlRHVJSUwwWlRFQnlpZlgxbHFoZGZqMmdOOUw1WTlwelNxSWlDVjFLaU1MeGpIMVhR?oc=5",
-   "date": "2026-11-10T08:00:00.000Z"
+   "title": "‘Kurdistan will not be divided’: PM Barzani calls for protecting Kurdistan from division",
+   "desc": "‘Kurdistan will not be divided’: PM Barzani calls for protecting Kurdistan from division &nbsp;&nbsp; The New Region",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JRzZFS21IS3A2MXhPdzVqY2pvbmtLSzlzZm5XM29DOXRnYV9pVTFXT1VkQXY2ZzdmZXNLRTg3UG1faVBpMjl3dHY1cw?oc=5",
+   "date": "2026-11-17T13:00:48.000Z"
   },
   {
    "src": "Tourism",
@@ -344,6 +336,14 @@
    "desc": "Prime Minister Masrour Barzani: We Will Not Allow Kurdistan to Be Divided Again &nbsp;&nbsp; Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDFYdGxCcTQ2SmI1QmZEMGN1dHhGZjdHZUs0WEV3dGtzM1haMEo0QjFjNTdRZHRqMlR4dERGeHFPWFllTXllS3RKbEVDX0xzWlo4LVF5RjNmY0ppMGxTOUk3dk9pTDV6T2hIazc0Y1JLYWhHQnktY2RaRVlmOUEyUGZwZGRVQVM4UU9kN3lUbHBPcGZuaHNmellBd3NoOEhoMXhmZGZOaHdQdnF1bGhjUGdvcE50aFdHak5LQWVQTTlIcEM5UVAwWXVoOA?oc=5",
    "date": "2026-11-17T11:29:19.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Kurdistan Region’s participation in COP31 pavilions",
+   "desc": "Kurdistan Region’s participation in COP31 pavilions &nbsp;&nbsp; حکومەتی هەرێمی كوردستان",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGRZcXo4UkYwbHllV0ZHOWlZaHFmZmpsQVppaDR1dERwd3dIZ2RpZjVxWElFeXFpanR3RGJaWmFjS09qMFhPczU3aUpFQmNiTnNpOWdHVUtZR2poZWVIenZjTk54X3RPSGxKMDFOWHNoU3B5RkpybS1hQ1Ytdmt5YWtHcm1MTjVSdXctaFQ3X2hGU043YUsybUtnckVGWGtxdzcwa0xkakxGM09oN240QTlVNVpBQ3ZVa2N3?oc=5",
+   "date": "2026-11-08T13:25:27.000Z"
   }
  ]
 }
