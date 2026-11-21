@@ -1,22 +1,6 @@
 {
- "updated": "2026-11-20T23:16:22.711Z",
+ "updated": "2026-11-21T04:10:40.268Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "News, Politics, Culture",
-   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9saUhVbkd1SVBtTHl2MVpMR08wVFhCS2tKUF9mWWhaS3p2T2t2U3ZXZ05kdm5VZlpua09KNFdRVXAtVkRyR1BiNG8wNldNa2hGbndyU1pvVFRKLWdyX3FVb0pRVFpKQQ?oc=5",
-   "date": "2026-11-19T03:13:44.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "PKK returns to Turkey underway, DEM co-chair says",
-   "desc": "PKK returns to Turkey underway, DEM co-chair says &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWMV9mblh1dnhNUW5vV0Ewb0ZockkyLWlzYWNOc0ZJNzBaZHpSTXVuNVRGR0VEbE0wWm1xWl85NUVzU2FqTmJya21sOTNQaExVX1QtaU1BTVlid0UxeENOcQ?oc=5",
-   "date": "2026-11-19T01:06:12.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -39,7 +23,23 @@
    "title": "Jurf al-Sakhr presents a serious test for Zaidi’s brinkmanship",
    "desc": "Jurf al-Sakhr presents a serious test for Zaidi’s brinkmanship &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYOGZJeEZJMWZyaE9acGlxUjBHTGtUaVN2OGh6U1JzNGxxeUpjZFZJQXN0MnZVcUN2cUFpajVwaExwR2t0UmZrNldCMGVSNlZ4aVk3dUpJNVZBLUx5dnpVUTAyaw?oc=5",
-   "date": "2026-11-20T01:37:38.000Z"
+   "date": "2026-11-19T19:13:41.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90OFMzUlQzY1RVUkdCdWw3anF2aXQxTnQ2eGRWRUJ4ZE5yQVpVdFF1WlBSRkc3SzJzb2hadTNVb1JKcEdCbHJoNFlNdG1lWUxUOWt1OHJsMmpTaHFHa01DUzBsMFpsX0JG?oc=5",
+   "date": "2026-11-20T10:41:42.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Baghdad’s standoff with Kata’ib Hezbollah an ‘extraordinary moment’ for Iraqi sovereignty: Former US diplomat",
+   "desc": "Baghdad’s standoff with Kata’ib Hezbollah an ‘extraordinary moment’ for Iraqi sovereignty: Former US diplomat &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PQWZKWXQ3WGpyRXJ0TlBZZzZiN0lDVW5naWdud0M0REJINF9keE8wWXFpWmdPbkljLTh3aWQzSi1QT3BPQm44QmFObkhLR2RSMXlxVFdDdkdjX2ctWm5ZclZRQjNpWThTVmc?oc=5",
+   "date": "2026-11-20T06:09:08.000Z"
   },
   {
    "src": "K24",
@@ -84,6 +84,22 @@
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
+   "title": "From shepherd to Asia's best: Beiranvand's journey",
+   "desc": "Shafaq News- Tehran Alireza Beiranvand once herded sheep in the mountains of western Iran and slept on Tehran's streets while pursuing a football career, before becoming the first goalkeeper to win the Asian Football Confederation's (AFC) Player of the Year award on Thursday. The 34-year-old Iranian goalkeeper, who comes from the Kurdish Lak community, received the award at the AFC's annual ceremo",
+   "link": "https://shafaq.com/en/sport/From-shepherd-to-Asia-s-best-Beiranvand-s-journey",
+   "date": "2026-11-20T23:25:43.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kirkuk becomes hotspot for undocumented migrant arrests",
+   "desc": "Shafaq News- Kirkuk Iraq's Kirkuk province has become one of the country's main hotspots for arrests of foreigners who entered illegally or overstayed their residency, with hundreds detained this year, most of them from Pakistan, Afghanistan and Bangladesh, security sources told Shafaq News. By June, Kirkuk police had already arrested more than 650 foreigners. Security forces have since kept up th",
+   "link": "https://shafaq.com/en/Security/Kirkuk-becomes-hotspot-for-undocumented-migrant-arrests",
+   "date": "2026-11-20T23:19:04.000Z"
+  },
+  {
+   "src": "Shafaq",
+   "section": "Kurdistan · کوردستان",
    "title": "Araghchi: We still place hopes in diplomacy",
    "desc": "Shafaq News- Tehran Iranian Foreign Minister Abbas Araghchi said on Friday that exchanges of messages between Tehran and Washington through intermediaries were continuing, stressing that his country remained committed to diplomacy to end the war and reach an agreement that would prevent another conflict in the future. In remarks to the state-run Iranian newspaper, Araghchi confirmed that communica",
    "link": "https://shafaq.com/en/Middle-East/Araghchi-We-still-place-hopes-in-diplomacy",
@@ -106,22 +122,6 @@
    "date": "2026-11-20T21:05:24.000Z"
   },
   {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Suwayda displaced residents demand return home",
-   "desc": "Shafaq News- Suwayda Displaced residents from western and northern rural Suwayda gathered on Friday to demand guarantees allowing them to return to their homes and land in villages under government control, as well as the release of detainees and information about the fate of missing people, more than a year after fleeing their communities. Organizers called on residents of 36 villages to join the",
-   "link": "https://shafaq.com/en/Syria/Suwayda-displaced-residents-demand-return-home",
-   "date": "2026-11-20T20:55:08.000Z"
-  },
-  {
-   "src": "Shafaq",
-   "section": "Kurdistan · کوردستان",
-   "title": "Displaced Jurf Al-Sakhr families seek return",
-   "desc": "Shafaq News- Babil About 90% of families displaced from Jurf Al-Sakhr (Jurf Al-Nasr) want to return, their representative told Shafaq News on Friday, saying Iraq must resolve legal and administrative obstacles before families can reclaim their homes and land. Iyad Al-Janabi said the figure was an estimate because there was no comprehensive database of displaced families seeking to return. Families",
-   "link": "https://shafaq.com/en/society/Displaced-Jurf-Al-Sakhr-families-seek-return",
-   "date": "2026-11-20T19:38:59.000Z"
-  },
-  {
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -140,26 +140,26 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
-   "desc": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
-   "link": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T21:40:45.000Z"
+   "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+   "desc": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T01:02:39.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
-   "desc": "The location of the hat and the 2,400-pound animal's anatomy made removal unfeasible, the zoo said.",
-   "link": "https://www.bbc.co.uk/news/articles/cwly43km54n6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T22:14:33.000Z"
+   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+   "desc": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T23:08:57.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-   "desc": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
-   "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T18:48:48.000Z"
+   "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+   "desc": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T03:49:09.000Z"
   },
   {
    "src": "NPR",
@@ -316,10 +316,10 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Kurdistan Will Not Be Divided: PM Barzani",
-   "desc": "Kurdistan Will Not Be Divided: PM Barzani &nbsp;&nbsp; باسنیوز",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KdmljQW1zTXRTc1EyVHZuQzFHRHdVYTgtWk9aX0FRdWpzN1dtUlhSSEFRalYtSGJSNXBEUVQxaWFOcF9ISml6Z2ZScEgxNDZQ?oc=5",
-   "date": "2026-11-17T12:21:00.000Z"
+   "title": "Erbil to Open 200-Bed Mental Health Hospital on 30,500-Square-Metre Site",
+   "desc": "Erbil to Open 200-Bed Mental Health Hospital on 30,500-Square-Metre Site &nbsp;&nbsp; باسنیوز",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EeHM4YUlZMy1GeXJNTEtXSi0tS0VFalNhNzVEcmRnbmVoQzFkWWJKRU9Nbi1NSl8wV1VMSkRWTkdPY1A5TExNejE3WGN3SDln?oc=5",
+   "date": "2026-11-16T18:39:00.000Z"
   },
   {
    "src": "Tourism",
