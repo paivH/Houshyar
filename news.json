@@ -1,22 +1,6 @@
 {
- "updated": "2026-11-26T04:17:06.202Z",
+ "updated": "2026-11-26T14:14:03.268Z",
  "items": [
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Iranian female singer lashed 74 times for performing without hijab",
-   "desc": "Iranian female singer lashed 74 times for performing without hijab &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vTFV5NlNjWnhyX205YlJQVHd1OWlrN3dfWVREV3hQYnhKdlVwWkljd3pTdWVfZGN0Z2VoeFdkRzZLUzhGOG9wNmozVjZsdEZqZW5qbzRKX2ZPSFRSVWlxeFJ5cw?oc=5",
-   "date": "2026-11-24T08:24:17.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
-   "title": "Zaidi orders federal takeover of Kurdistan Region border crossings, oilfields under Kurdish security control",
-   "desc": "Zaidi orders federal takeover of Kurdistan Region border crossings, oilfields under Kurdish security control &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kYW5neG1jOE01MUVRdlJIU3BlTUdielNRY3NNM1ExODhVYXRJNmxHS0xhYkEwd0RmSWFCUDRpc2k3aDB2YU1abmFKQ1ZVaTdLOTdnT0ZKTXN5MjZ5NGZ4cXNzUQ?oc=5",
-   "date": "2026-11-24T08:14:47.000Z"
-  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -28,10 +12,10 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Kurdistan 24-11-2026",
-   "desc": "Kurdistan 24-11-2026 &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwSVBXWFlnX044dkZwLWR6enlBZE1wbVM1ZE5tTjBXdmhQam82U1pfdXhaZk84TDlJNkhfbjdSemM2NmVfSmlUOVJLbEsyanE0MnRWbUZZbnhDTmdBM29B?oc=5",
-   "date": "2026-05-25T15:29:56.000Z"
+   "title": "News, Politics, Culture",
+   "desc": "News, Politics, Culture &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVjZpUk15eWNMSkJfeGhfOGNEUXlqd3QyNmxJUlF3dlhjM3A2Nl9ZQWxQTEk0dmsxVThYa21BV09yNkNPTHFxV1p4WGxfZU91bkxzZEJtQ2dxOWd6cV8tQ1Z3OA?oc=5",
+   "date": "2026-11-25T15:10:54.000Z"
   },
   {
    "src": "Rudaw",
@@ -42,84 +26,108 @@
    "date": "2026-11-25T17:49:13.000Z"
   },
   {
-   "src": "K24",
+   "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "Sanandaj Residents to Demonstrate in Support of Kurdistan Region",
-   "desc": "On Wednesday evening, residents of Sanandaj issued a call for a public demonstration in protest against recent Iraqi government decisions targeting the Kurdistan Region.",
-   "link": "https://www.kurdistan24.net/en/story/955686/sanandaj-residents-to-demonstrate-in-support-of-kurdistan-region",
-   "date": "2026-11-25T19:31:00.000Z"
+   "title": "Barrack offers mediation role between Erbil, Baghdad as KRG deploys forces across disputed areas",
+   "desc": "Barrack offers mediation role between Erbil, Baghdad as KRG deploys forces across disputed areas &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwVUxSSVRZcjRFODlsXzIzaFAwZG5IUWhMVXVocEhETjR6Tl8teGViRTR2Yi1LVGxwaml3T2cwWXQ3ek9xYnNWcEVCTklWazJXeTRQQ2dSNEEwTUZhdW1JQ0pXMjZVOUVUU3c?oc=5",
+   "date": "2026-11-25T19:23:31.000Z"
+  },
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraq’s top leaders back national dialogue to resolve constitutional crisis with Erbil",
+   "desc": "Iraq’s top leaders back national dialogue to resolve constitutional crisis with Erbil &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZkJ5SWZhRi1aVnRGZ1R1VkEzaVhNRTUtemc0VklLZzFhNnJubnY5TlF6X2FaZndpNEVMUndBcndoSG1ZUU1zclpfSHZ3STIzOUgzTm8wcU5Yb19ic3FDbk8tRQ?oc=5",
+   "date": "2026-11-25T20:15:49.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "KDP, PUK to Meet Soon Over Baghdad's Recent Decisions on Kurdistan Region",
-   "desc": "The source said that although no specific date has been set, the two parties are certain to meet following their joint statement opposing recent decisions concerning the Kurdistan Region.",
-   "link": "https://www.kurdistan24.net/en/story/955682/kdp-puk-to-meet-soon-over-baghdads-recent-decisions-on-kurdistan-region",
-   "date": "2026-11-25T19:00:00.000Z"
+   "title": "Kurdistan Region Components Reject 'Military Language' in Joint Statement",
+   "desc": "The Kurdistan Region's ethnic and religious components reject military language, threats, and any decision outside the constitution in a joint statement.",
+   "link": "https://www.kurdistan24.net/en/story/955843/kurdistan-region-components-reject-military-language-in-joint-statement",
+   "date": "2026-11-26T12:26:17.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Qamishli Residents Demonstrate in Support of Kurdistan Region, Call for Kurdish Unity",
-   "desc": "Demonstrators chanted slogans including “The Kurdish people are one” and “Long live Kurdistan,” expressing solidarity with the Kurdistan Region and calling for unity among Kurds across all four parts of Kurdistan.",
-   "link": "https://www.kurdistan24.net/en/story/955674/qamishli-residents-demonstrate-in-support-of-kurdistan-region-call-for-kurdish-unity",
-   "date": "2026-11-25T18:20:24.000Z"
+   "title": "Prime Minister Barzani: Kurdistan Region Will Defend Its Rights Under the Constitution",
+   "desc": "Masrour Barzani says both the KDP and PUK are ready to join dialogue, urges political forces to maintain unity, and praises young people for peacefully demanding constitutional rights",
+   "link": "https://www.kurdistan24.net/en/story/955840/prime-minister-barzani-kurdistan-region-will-defend-its-rights-as-youth-demonstrate-peacefully",
+   "date": "2026-11-26T12:17:34.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Areen Barzani Holds Meetings with Distinguished International Guests During the Second Day of the World Youth Summit Kurdistan 2026",
-   "desc": "Areen Barzani, founder of the Kurdistan Foundation, met Kuwaiti, Qatari, and UNHCR guests on day two of the World Youth Summit Kurdistan 2026 in Erbil.",
-   "link": "https://www.kurdistan24.net/en/story/955650/areen-barzani-holds-meetings-with-distinguished-international-guests-during-the-second-day-of-the-world-youth-summit-kurdistan-2026",
-   "date": "2026-11-25T16:12:49.000Z"
+   "title": "Prime Minister Barzani Oversees Signing of Four International Youth Cooperation Agreements in Erbil",
+   "desc": "Bahrain’s Minister of Youth Affairs and KRG Diwan Chief among signatories on the final day of World Youth Summit Kurdistan 2026",
+   "link": "https://www.kurdistan24.net/en/story/955822/prime-minister-barzani-attends-third-day-of-world-youth-summit-in-erbil",
+   "date": "2026-11-26T11:18:00.000Z"
   },
   {
    "src": "K24",
    "section": "Kurdistan · کوردستان",
-   "title": "Hezbollah Fighters Stay Put in Jurf al-Sakhar as They Are Moved onto Popular Mobilization Forces Payroll, Sources Say",
-   "desc": "Five days after Baghdad claimed control of the area, government forces have yet to enter Kataib Hezbollah's strongholds, and the group's fighters are being re-designated as state security forces rather than withdrawn.",
-   "link": "https://www.kurdistan24.net/en/story/955638/hezbollah-fighters-stay-put-in-jurf-al-sakhar-as-they-are-moved-onto-popular-mobilization-forces-payroll-sources-say",
-   "date": "2026-11-25T15:40:00.000Z"
+   "title": "UK Petition Calls on MPs to Support Kurdistan Region Amid Baghdad-Erbil Tensions",
+   "desc": "Online campaign urges people across Britain to contact their parliamentary representatives as tens of thousands rally in Erbil over the Region’s constitutional rights",
+   "link": "https://www.kurdistan24.net/en/story/955814/uk-petition-calls-on-mps-to-support-kurdistan-region-amid-baghdad-erbil-tensions",
+   "date": "2026-11-26T10:35:51.000Z"
+  },
+  {
+   "src": "K24",
+   "section": "Kurdistan · کوردستان",
+   "title": "Kurdistan Region Human Rights Commission Urges Baghdad and Erbil to Resolve Disputes Through Dialogue",
+   "desc": "Commission warns against threats to constitutional rights and civilian security, calls for full implementation of Iraq’s Constitution and protection of citizens’ livelihoods",
+   "link": "https://www.kurdistan24.net/en/story/955796/kurdistan-region-human-rights-commission-urges-baghdad-and-erbil-to-resolve-disputes-through-dialogue",
+   "date": "2026-11-26T09:35:20.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Strict inspections slash Najaf's 2026 fires by 95%",
-   "desc": "Shafaq News- Najaf Fire incidents in Iraq's Najaf province have fallen by 95.4%, with 97 recorded so far in 2026, down from 2,117 in 2023, Ali Tuwij, media director at the Najaf Civil Defense Directorate, said. Speaking to Shafaq News on Tuesday, Tuwij attributed the decline to stepped-up inspections of businesses and projects that fail to meet safety standards, stressing that inspection teams now",
-   "link": "https://shafaq.com/en/society/Strict-inspections-slash-Najaf-s-2026-fires-by-95",
-   "date": "2026-11-25T23:37:18.000Z"
+   "title": "US dollar drops in Baghdad and Erbil",
+   "desc": "Shafaq News- Baghdad/ Erbil The US dollar closed Thursday's trading at a lower rate in Iraq, reaching 169,000 dinars per 100 dollars. According to a Shafaq News market survey, the rate at Baghdad's Al-Kifah and Al-Harithiya exchanges recorded 169,000 dinars, down from the morning session's 169,450. Exchange shops in Baghdad sold the dollar at 169,500 dinars and bought it at 168,500. In Erbil, sell",
+   "link": "https://shafaq.com/en/Economy/US-dollar-drops-in-Baghdad-and-Erbil-9",
+   "date": "2026-11-26T14:02:28.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Iraq launches women's platform, $3.3M initiative",
-   "desc": "Shafaq News- Baghdad Iraq launched its National Women, Peace and Security Agenda platform on Wednesday, alongside a package of government initiatives to support Iraqi women, including the rehabilitation of 75000 hectares of agricultural land owned by women. Rashad Khalaf Hashem, director of the Prime Minister's Office, announced the measures while representing Prime Minister Ali al-Zaidi at a nati",
-   "link": "https://shafaq.com/en/society/Iraq-launches-women-s-platform-3-3M-initiative",
-   "date": "2026-11-25T23:27:40.000Z"
+   "title": "President Barzani, Italian envoy urge Baghdad–Erbil dialogue",
+   "desc": "Shafaq News- Erbil Kurdistan Region of Iraq (KRI) President Nechirvan Barzani and Italy&rsquo;s ambassador to Iraq, Niccol&ograve; Fontana, called on Thursday for Baghdad and Erbil to resolve their disputes through dialogue based on Iraq&rsquo;s constitution. According to a statement frm KRI&rsquo;s presidency, the two discussed federal directives concerning KRI and ways to expand Italy&rsquo;s co",
+   "link": "https://shafaq.com/en/Kurdistan/President-Barzani-Italian-envoy-urge-Baghdad-Erbil-dialogue",
+   "date": "2026-11-26T13:45:51.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Syria's Abdi warns ISIS threat persists",
-   "desc": "Shafaq News- Al-Hasakah ISIS sleeper cells remain a security threat in Syria, Mazloum Abdi, an adviser to the Syrian President, said on Wednesday, following an attack on an Internal Security Forces facility in Al-Hasakah that killed two and wounded several others. Abdi noted that the attack , carried out by a cell suspected of links to ISIS, highlighted the group's continued efforts to undermine s",
-   "link": "https://shafaq.com/en/Syria/Syria-s-Abdi-warns-of-continued-ISIS-threat",
-   "date": "2026-11-25T22:57:19.000Z"
+   "title": "Syria’s Kobani holds solidarity march in support of KRI",
+   "desc": "Shafaq News- Kobani Residents of Kobani (Ain Al-Arab) in northern Syria held a solidarity march on Thursday in support of the Kurdistan Region of Iraq (KRI) amid escalating tensions with Baghdad over federal measures to take control of KRI border crossings, regulate oil exports, and assume management of all oil fields. Participants waved Kurdistan flags and carried banners calling for Kurdish unit",
+   "link": "https://shafaq.com/en/Syria/Syria-s-Kobani-holds-solidarity-march-in-support-of-KRI",
+   "date": "2026-11-26T13:37:43.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Rwanga renovates Makhmour park, provides 10,000 liters of fuel",
-   "desc": "Shafaq News- Makhmour Rwanga Foundation rehabilitated Runya Park in Makhmour district and handed it over to the district municipality, in addition to providing 10,000 liters of fuel to support a citywide cleaning campaign and restart municipal vehicles halted due to a financial crisis. The park was reopened in the presence of representatives from the office of the Kurdistan Region of Iraq (KRI) Pr",
-   "link": "https://shafaq.com/en/Kurdistan/Rwanga-renovates-Makhmour-park-provides-10-000-liters-of-fuel",
-   "date": "2026-11-25T22:34:44.000Z"
+   "title": "Iraqi navy seizes two tugboats over suspected fuel smuggling",
+   "desc": "Shafaq News- Basra The Iraqi Navy seized two foreign tugboats that had violated Iraq's territorial waters and were suspected of fuel smuggling, the Navy Command said on Thursday. Two Defender fast boats from the Umm Qasr naval base, backed by a patrol boat, intercepted the vessels during an inspection of ships and suspicious areas in Iraqi waters, according to a statement. Their eight crew members",
+   "link": "https://shafaq.com/en/Security/Iraqi-navy-seizes-two-tugboats-over-suspected-fuel-smuggling",
+   "date": "2026-11-26T13:32:10.000Z"
   },
   {
    "src": "Shafaq",
    "section": "Kurdistan · کوردستان",
-   "title": "Egypt: At least 30 killed in fuel tanker crash",
-   "desc": "Shafaq News- Cairo At least 30 people were killed and 15 injured when a vehicle carrying petroleum products overturned and caught fire above a tunnel in Giza's Al-Warraq district, in the capital, Cairo, the Health Ministry stated on Wednesday. Local media said firefighters had brought the blaze under control. The ring road connects major highways across Greater Cairo, linking Cairo, Giza and Qalyu",
-   "link": "https://shafaq.com/en/Middle-East/Egypt-At-least-30-killed-in-fuel-tanker-crash",
-   "date": "2026-11-25T21:47:32.000Z"
+   "title": "Iraq appoints new North Oil Company chief",
+   "desc": "Shafaq News- Kirkuk Iraq&rsquo;s Oil Ministry appointed Qadouri Abdul-Salim as director general of the state-run North Oil Company (NOC) in Kirkuk, a ministry source told Shafaq News on Thursday. The ministry will convene its advisory council in Kirkuk on Friday, with ministry officials and senior company staff expected to attend, the source said, adding that the agenda includes oil production and",
+   "link": "https://shafaq.com/en/society/Iraq-appoints-new-North-Oil-Company-chief",
+   "date": "2026-11-26T13:14:15.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
+   "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "desc": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T10:38:35.000Z"
   },
   {
    "src": "BBC",
@@ -133,33 +141,49 @@
    "src": "BBC",
    "section": "US & World · جیهان",
    "title": "Macy's postpones Thanksgiving parade due to severe weather",
-   "desc": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+   "desc": "The move represents the first postponement of the iconic event, and comes after a forecast of strong winds and heavy rain.",
    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T04:04:14.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "California warns of flooding as King Tides peak over Thanksgiving",
-   "desc": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
-   "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T01:22:55.000Z"
+   "title": "Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
+   "desc": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
+   "link": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T09:22:34.000Z"
   },
   {
    "src": "BBC",
    "section": "US & World · جیهان",
-   "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-   "desc": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
-   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T03:27:33.000Z"
+   "title": "FedEx plane sends dirt flying while overshooting Miami runway",
+   "desc": "An aircraft overran a runway at Miami International Airport in Florida on Wednesday leading to a halt in flights.",
+   "link": "https://www.bbc.co.uk/news/videos/cwr5gv5387r8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T05:20:42.000Z"
   },
   {
-   "src": "BBC",
+   "src": "NPR",
    "section": "US & World · جیهان",
-   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-   "desc": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-   "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T16:42:11.000Z"
+   "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+   "desc": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+   "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+   "date": "2026-11-26T13:47:09.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+   "desc": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+   "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+   "date": "2026-11-26T13:31:28.000Z"
+  },
+  {
+   "src": "NPR",
+   "section": "US & World · جیهان",
+   "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+   "desc": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
+   "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+   "date": "2026-11-26T12:24:29.000Z"
   },
   {
    "src": "NPR",
@@ -178,28 +202,28 @@
    "date": "2026-11-25T12:18:09.000Z"
   },
   {
-   "src": "NPR",
+   "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-   "desc": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-   "date": "2026-11-25T11:50:05.000Z"
+   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "desc": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T10:14:08.000Z"
   },
   {
-   "src": "NPR",
+   "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-   "desc": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-   "date": "2026-11-25T11:00:00.000Z"
+   "title": "Desperate appeals from women on death row in Iran after protests",
+   "desc": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+   "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T06:01:58.000Z"
   },
   {
-   "src": "NPR",
+   "src": "BBC ME",
    "section": "US & World · جیهان",
-   "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-   "desc": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-   "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-   "date": "2026-11-25T09:44:13.000Z"
+   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+   "desc": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T22:18:06.000Z"
   },
   {
    "src": "BBC ME",
@@ -216,30 +240,6 @@
    "desc": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T14:06:13.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Protesters call on Israel to free Palestinian student held without charge",
-   "desc": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-   "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T10:03:42.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-   "desc": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T15:35:53.000Z"
-  },
-  {
-   "src": "BBC ME",
-   "section": "US & World · جیهان",
-   "title": "Land mine casualties soar in Syria, two years after war",
-   "desc": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-   "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T15:17:28.000Z"
   },
   {
    "src": "LFU",
@@ -316,10 +316,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Erbil Green Belt to Plant 1.8 Million Greek Olive Trees in Second Phase",
-   "desc": "Erbil Green Belt to Plant 1.8 Million Greek Olive Trees in Second Phase &nbsp;&nbsp; Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzBrZERVZjVOd04zQktIeUJPcHFDcFYzTTA3RlBxT3A2T2VvUWNqS2tra2kxN19Lc3RSREZEeGxQcHF3MF91SDVCOGh5UWQ0ZWoxTzNkYUhsV3BBZVpCN05kcURWSEduSEhvNDJncGZUZlFsdW5pQzVqNm11SG9mYmd4MG01ZEdGekxhYnczQ0pERFYyRjhXN3NoTy02RVNjRjF4UElLa2RhVmRjNW5DZ3lHVzc?oc=5",
-   "date": "2026-11-19T17:30:51.000Z"
+   "title": "Erbil hosts World Youth Summit Kurdistan with representatives from 47 countries",
+   "desc": "Erbil hosts World Youth Summit Kurdistan with representatives from 47 countries &nbsp;&nbsp; The New Region",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkOXpSN1E3djZtTVM1ZGFjdlVvbEZnWTRpczRCTEYxRVp2RDhjVUFBM1cwSTgxZ3psY0ZTby11QXMxaG50bjFCSFAxOA?oc=5",
+   "date": "2026-11-24T10:27:03.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
+   "title": "Invest Kurdistan seeking to promote tourism at Greek resort forum",
+   "desc": "Invest Kurdistan seeking to promote tourism at Greek resort forum &nbsp;&nbsp; The New Region",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aZlUyb2ZNSFltWE9XYnNVd0JJWTFScUw2Y29vQ0JjVlVZTEQ3dHMwWnRES2VlTFA1MXpqcEk2c2JuRHM2YmlYeE1PQQ?oc=5",
+   "date": "2026-11-18T10:08:29.000Z"
   },
   {
    "src": "Tourism",
@@ -332,6 +340,14 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
+   "title": "Shafaq News..Tourism rises in Syria’s Latakia, challenges slow recovery",
+   "desc": "Shafaq News..Tourism rises in Syria’s Latakia, challenges slow recovery &nbsp;&nbsp; شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVFVNUhjZFBmYlMwRlJuV0VXXzFjdWRvMGJaYjRpaFNEM1FxMXBhXzRobW5MSktYLXRwN1Q1WGU1VTczSU5kUGFINTB1djR3cUpOaUctd0JKM21Dc1J1dTAwQThzTk5lTUFDU2l6UzF1ZE9XbWhhVHVxNFlVSXJWQzFhZFZIdXFFc0xadWpn?oc=5",
+   "date": "2026-11-26T06:02:25.000Z"
+  },
+  {
+   "src": "Tourism",
+   "section": "Work & Erbil · کار",
    "title": "Mövenpick to open lakeside resort near Erbil in 2030",
    "desc": "Mövenpick to open lakeside resort near Erbil in 2030 &nbsp;&nbsp; IraqiNews",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3k1RU5NWHpFQXVGbThLc1NGX2F5SVgySHJ0QmhDNlN4d1d4VHZ5RHhyNGtrVFNxV0NsM0R4Nmxmd05YWkRib28tMXRXbjl1TUIyYUtueDdmWFp0M2x1dWc4NmdCX2dwM0VjZmhUclZaUlVTUkRnUkJMbnQ0ZmxOQVZZd3R1ZDlrRS1nUUFpNEwyZw?oc=5",
@@ -340,26 +356,10 @@
   {
    "src": "Tourism",
    "section": "Work & Erbil · کار",
-   "title": "‘Kurdistan will not be divided’: PM Barzani calls for protecting Kurdistan from division",
-   "desc": "‘Kurdistan will not be divided’: PM Barzani calls for protecting Kurdistan from division &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JRzZFS21IS3A2MXhPdzVqY2pvbmtLSzlzZm5XM29DOXRnYV9pVTFXT1VkQXY2ZzdmZXNLRTg3UG1faVBpMjl3dHY1cw?oc=5",
-   "date": "2026-11-17T13:00:48.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Iraq’s National Museum to Reopen, as the Country Sees a Boom in Tourism Investment and Restorations",
-   "desc": "Iraq’s National Museum to Reopen, as the Country Sees a Boom in Tourism Investment and Restorations &nbsp;&nbsp; Breaking Travel News",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3RKZmxZRmF2VW16bTk0M0FRYV9YS2cyYXJhUTdWbHcwWkc3UHhxaGNzQVA1RFdvYjc1SEZ4V05KWXpnVDFHV0ZzVERRSkxsQ1d4NDFWU3FKcUoxdEswX0VRM0ViNnROTzU2Y2JmMVNrNTVWUFkwYnpnaFJMMFNzcjUyaFNXUHBVeW94R2pFRnFNY1BGREc2MXpOYWVUOHNkWWQwQUNjbmZoZktvR1hZZmlla2sxVWNIb3RsQTRUYnViZw?oc=5",
-   "date": "2026-11-25T06:42:01.000Z"
-  },
-  {
-   "src": "Tourism",
-   "section": "Work & Erbil · کار",
-   "title": "Shafaq News..Erbil plans biggest New Year festival in years",
-   "desc": "Shafaq News..Erbil plans biggest New Year festival in years &nbsp;&nbsp; شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFdRS3FNeThRb01tM3RnU0ZXYzluN0lzZUs3Q0ZxQzRlQnJNY2hZb19aakdJUGc3bTRtQVNiMGhJOTJYaFQwWkZxYlRBUTFwU0RiTVR3bWVycFYxLVRMY09qZU1nOE1aQ2FuR2l1VUY5ZDNRX3d3TVUtREpFYngtNUJKQ3NEcDZxVVE?oc=5",
-   "date": "2026-11-24T14:57:47.000Z"
+   "title": "Iran Welcomes 12.5 Million Foreign Tourists in Two Years, Tourism Minister Says",
+   "desc": "Iran Welcomes 12.5 Million Foreign Tourists in Two Years, Tourism Minister Says &nbsp;&nbsp; WANA News Agency",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3RZZkZJV294Zm12Y01ORXI0US0xSlBJNVo2NHJlWk9hMXZwVjVNT1A5eVhGWHdKVC00OTI0b0FYbFVRYjlYNU9UbWVnNVo3Qm9vRmhoN2lIMFpqb1ZpeXVTMEJSclZoV3ZXTTg2QlJ2ZU9aZ1lMaG5naEZ4eGM2Rmk0NlYwa0E2UEwtXzJrcGROZDFPTm05VHZuNXk4dlk?oc=5",
+   "date": "2026-11-16T08:00:00.000Z"
   }
  ]
 }
