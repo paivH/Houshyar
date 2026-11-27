@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-26T23:11:46.039Z",
+ "updated": "2026-11-27T05:15:15.734Z",
  "items": [
+  {
+   "src": "Rudaw",
+   "section": "Kurdistan · کوردستان",
+   "title": "Iraqi security official rules out confrontation with Peshmerga",
+   "desc": "Iraqi security official rules out confrontation with Peshmerga &nbsp;&nbsp; Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11SDRKQU10aDhzSHJQQk1LRE1hLWdhWVN1UlBJSkVlaHY1NjVJVjNxT054a2VMajkxN1Jrc2VKX1JLTE4wMWJseFFPT3JGb2M2SG5iR1lIWFlVY0ZzelFlT1d4cw?oc=5",
+   "date": "2026-11-26T14:49:14.000Z"
+  },
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
@@ -12,18 +20,10 @@
   {
    "src": "Rudaw",
    "section": "Kurdistan · کوردستان",
-   "title": "German cyclist on Berlin-to-Nepal expedition died in southern Iraq crash",
-   "desc": "German cyclist on Berlin-to-Nepal expedition died in southern Iraq crash &nbsp;&nbsp; Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVG5IN18teG9SaWtxUUZzdkxIUWdfTkRUaEdjQ3NVdWNiMzRYLTFmWjZvUmcwc1RzT1ZPTDZGajMwbzdIOTh4NXRITkFsZzhxM05reGhDOVRBb0VtbmJJbHhWaw?oc=5",
-   "date": "2026-11-25T01:19:33.000Z"
-  },
-  {
-   "src": "Rudaw",
-   "section": "Kurdistan · کوردستان",
    "title": "Kurdish, Iraqi PMs meet foreign diplomats amid standoff",
    "desc": "Kurdish, Iraqi PMs meet foreign diplomats amid standoff &nbsp;&nbsp; Rudaw",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qaG53UWlldklQei0xd2xOTXJPbmFYaDhiWUZja18wV0hqN0NuVGlKOTV5OENRc0VTUnNnMFBYY202dmt3Z3JrLWZKVXhzZmw5YkhfOEFQQkJHeHVrTmF2ekluZw?oc=5",
-   "date": "2026-11-26T20:43:05.000Z"
+   "date": "2026-11-26T15:00:05.000Z"
   },
   {
    "src": "Rudaw",
@@ -124,6 +124,14 @@
   {
    "src": "BBC",
    "section": "US & World · جیهان",
+   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+   "desc": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:52:11.000Z"
+  },
+  {
+   "src": "BBC",
+   "section": "US & World · جیهان",
    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
    "desc": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
    "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "desc": "After three separate incidents, one fatal, at Lake Louise, Parks Canada is warning visitors to be cautious after a warmer than average November.",
    "link": "https://www.bbc.co.uk/news/articles/c3wy01q8pjr8o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T20:09:00.000Z"
-  },
-  {
-   "src": "BBC",
-   "section": "US & World · جیهان",
-   "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-   "desc": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-   "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T14:35:22.000Z"
   },
   {
    "src": "NPR",
@@ -308,18 +308,18 @@
   {
    "src": "Erbil",
    "section": "Work & Erbil · کار",
-   "title": "Kurdish art exhibition breathes new life into historic Erbil neighborhood",
-   "desc": "Kurdish art exhibition breathes new life into historic Erbil neighborhood &nbsp;&nbsp; The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKbWR3VDRiakl4WWktYXdFaXRiR0N4T2JVb1dmQnZTX0tud1pJNjFqVnhrRUVRamdOQ3R5N1ppTUR5MldtTzdydmg0cw?oc=5",
-   "date": "2026-11-25T16:03:12.000Z"
-  },
-  {
-   "src": "Erbil",
-   "section": "Work & Erbil · کار",
    "title": "Shafaq News..Erbil police arrest two over $20K theft",
    "desc": "Shafaq News..Erbil police arrest two over $20K theft &nbsp;&nbsp; شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42RjAzYmFhSkoxVlJUbDhjMk1fSUhRZ3NiTVJwNmhpNFM1Rlh2cFhHdHFEX194Z29hZW5WZ2F3MGU2T1lUemJ5MzdpZE5wcWhpb1FzQjE1Rzl3b3VTS3J6R2FybFJyQlZzaldtMDVscDhHeFVpbm5JN1Z3?oc=5",
    "date": "2026-11-23T18:44:44.000Z"
+  },
+  {
+   "src": "Erbil",
+   "section": "Work & Erbil · کار",
+   "title": "Protesters rally in Erbil against Iraqi PM’s decision to deploy troops along Kurdistan region borders",
+   "desc": "Protesters rally in Erbil against Iraqi PM’s decision to deploy troops along Kurdistan region borders &nbsp;&nbsp; 1Lurer",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqMndoRVZhMVhOUmdicFpSUDBiNnFTOEdCMzhUR0xEQ3BpSEZURlQwNm1vN0FXdmx0YXhIX0x1VWphbV9LY3Zwcg?oc=5",
+   "date": "2026-11-26T10:41:47.000Z"
   },
   {
    "src": "Tourism",
